@@ -2,4 +2,11 @@
   %head
   %body
     %h1 Primavera Explorer
-    %h2 Gareth Andrew
+    %div#bands
+      %ul
+        - @bands.each do |b| 
+          %li= b['name']
+     
+      
+
+
