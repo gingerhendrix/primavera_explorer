@@ -2,8 +2,11 @@
 
 require 'rubygems'
 require 'sinatra'
+require 'yaml'
+
+require 'lib/band.rb'
 
 get '/' do
-  @bands = File.open( File.dirname(__FILE__) + '/bands.yml' ) { |yf| YAML::load( yf ) }
+  @bands = Band.load_all
   haml :explorer
 end

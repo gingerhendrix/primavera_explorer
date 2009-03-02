@@ -1,6 +1,4 @@
--
-  name : Aphex Twin
--
-  name : My Bloody Valentine
--
-  name : Neil Young
+--- 
+- :name: Aphex Twin
+- :name: My Bloody Valentine
+- :name: Neil Young
