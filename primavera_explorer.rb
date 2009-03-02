@@ -5,5 +5,5 @@ require 'sinatra'
 
 get '/' do
 
-  "<h1>Primavera Explorer</h1>"
+  haml :explorer
 end
