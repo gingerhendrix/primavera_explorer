@@ -1,4 +1,243 @@
 --- 
-- :name: Aphex Twin
-- :name: My Bloody Valentine
-- :name: Neil Young
+- :lastfm: 
+    :info: 
+      name: Aphex Twin
+      similar: 
+        artist: 
+        - name: AFX
+          url: http://www.last.fm/music/AFX
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/4818617.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/4818617.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/4818617.jpg
+        - name: Squarepusher
+          url: http://www.last.fm/music/Squarepusher
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/195576.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/195576.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/195576.jpg
+        - name: Autechre
+          url: http://www.last.fm/music/Autechre
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/7725479.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/7725479.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/7725479.jpg
+        - name: Boards of Canada
+          url: http://www.last.fm/music/Boards+of+Canada
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/5686.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/5686.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/5686.jpg
+        - name: !binary |
+            wrUtWmlx
+
+          url: http://www.last.fm/music/%C2%B5-Ziq
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/5489053.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/5489053.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/5489053.jpg
+      stats: 
+        playcount: "19867311"
+        listeners: "623962"
+      url: http://www.last.fm/music/Aphex+Twin
+      mbid: f22942a1-6f70-4f48-866e-238cb2308fbd
+      streamable: "1"
+      bio: 
+        published: Thu, 26 Feb 2009 00:00:22 +0000
+        content: "<strong>Aphex Twin</strong>, born <a href=\"http://www.last.fm/music/Richard+David+James\" class=\"bbcode_artist\">Richard David James</a>, August 18, 1971, in <span title=\"Unknown place\" class=\"bbcode_unknown\">Limerick, Ireland</span> to Welsh parents Lorna and Derek James, is an electronic music artist. He grew up in Cornwall, United Kingdom and started producing music around the age of 12.\n \n Richard has been hailed as &quot;the most inventive and influential figure in contemporary <a href=\"http://www.last.fm/tag/electronic\" class=\"bbcode_tag\" rel=\"tag\">electronic</a> music&quot; with his works ranging from <a href=\"http://www.last.fm/tag/ambient\" class=\"bbcode_tag\" rel=\"tag\">ambient</a> pieces to <a href=\"http://www.last.fm/tag/acid%20techno\" class=\"bbcode_tag\" rel=\"tag\">acid techno</a>. \n \n Quoted in Mixmag Richard said &quot; I just love electronics and music and putting the two together just came naturally. I did electronics in college. Electronic music is just so lush basically I love messing with acid, jungle, and playing it out to my mates in a night club. Get out there and dance. Let's have it! If anyone's coming to my shows I just want everybody to just dance and have a laugh basically.&quot; At a Rephlex party in 2001 Aphex Twin was asked by a journalist if he used the term IDM and he replied &quot;only for rubbish mp3.com music that I don't really like, basically if I say that it's for something shit that I don't care about. It's just funny how online people just copy each other and it's so lazy. Quite funny I reckon.&quot;\n \n In 1991 Aphex formed the <a href=\"http://www.last.fm/label/Rephlex\">Rephlex</a> record label with his friend Grant Wilson-Claridge. Signed artists include Mike Paradinas (aka <a href=\"http://www.last.fm/music/%C2%B5-Ziq\" class=\"bbcode_artist\">&micro;-Ziq</a>) and <a href=\"http://www.last.fm/music/Squarepusher\" class=\"bbcode_artist\">Squarepusher</a>.\n \n Also known as: <a href=\"http://www.last.fm/music/AFX\" class=\"bbcode_artist\">AFX</a>, <a href=\"http://www.last.fm/music/Blue+Calx\" class=\"bbcode_artist\">Blue Calx</a>, <a href=\"http://www.last.fm/music/Bradley+Strider\" class=\"bbcode_artist\">Bradley Strider</a>, <a href=\"http://www.last.fm/music/Caustic+Window\" class=\"bbcode_artist\">Caustic Window</a>, <a href=\"http://www.last.fm/music/The+Dice+Man\" class=\"bbcode_artist\">The Dice Man</a>, <a href=\"http://www.last.fm/music/GAK\" class=\"bbcode_artist\">GAK</a>, <a href=\"http://www.last.fm/music/Polygon+Window\" class=\"bbcode_artist\">Polygon Window</a>, <a href=\"http://www.last.fm/music/Power-Pill\" class=\"bbcode_artist\">Power-Pill</a>, <a href=\"http://www.last.fm/music/Q-Chastic\" class=\"bbcode_artist\">Q-Chastic</a>, <a href=\"http://www.last.fm/music/Soit-P.P.\" class=\"bbcode_artist\">Soit-P.P.</a>, Rich in <a href=\"http://www.last.fm/music/Mike%2B%2526%2BRich\" class=\"bbcode_artist\">Mike &amp; Rich</a>, <a href=\"http://www.last.fm/music/Martin+Tressider\" class=\"bbcode_artist\">Martin Tressider</a> in <a href=\"http://www.last.fm/music/Universal+Indicator\" class=\"bbcode_artist\">Universal Indicator</a> (with Michael C. Cullen aka <a href=\"http://www.last.fm/music/Mike+Dred\" class=\"bbcode_artist\">Mike Dred</a>, <a href=\"http://www.last.fm/music/The+Kosmik+Kommando\" class=\"bbcode_artist\">The Kosmik Kommando</a>  )\n "
+        summary: "Aphex Twin, born <a href=\"http://www.last.fm/music/Richard+David+James\" class=\"bbcode_artist\">Richard David James</a>, August 18, 1971, in <span title=\"Unknown place\" class=\"bbcode_unknown\">Limerick, Ireland</span> to Welsh parents Lorna and Derek James, is an electronic music artist. He grew up in Cornwall, United Kingdom and started producing music around the age of 12.  Richard has been hailed as &quot;the most inventive and influential figure in contemporary <a href=\"http://www.last.fm/tag/electronic\" class=\"bbcode_tag\" rel=\"tag\">electronic</a> music&quot; with his works ranging from <a href=\"http://www.last.fm/tag/ambient\" class=\"bbcode_tag\" rel=\"tag\">ambient</a> pieces to <a href=\"http://www.last.fm/tag/acid%20techno\" class=\"bbcode_tag\" rel=\"tag\">acid techno</a>.   "
+      image: 
+      - size: small
+        "#text": http://userserve-ak.last.fm/serve/34/17597637.jpg
+      - size: medium
+        "#text": http://userserve-ak.last.fm/serve/64/17597637.jpg
+      - size: large
+        "#text": http://userserve-ak.last.fm/serve/126/17597637.jpg
+  :name: Aphex Twin
+- :lastfm: 
+    :info: 
+      name: My Bloody Valentine
+      stats: 
+        playcount: "9243837"
+        listeners: "373805"
+      similar: 
+        artist: 
+        - name: Slowdive
+          url: http://www.last.fm/music/Slowdive
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/2575045.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/2575045.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/2575045.jpg
+        - name: Ride
+          url: http://www.last.fm/music/Ride
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/2226362.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/2226362.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/2226362.jpg
+        - name: The Jesus and Mary Chain
+          url: http://www.last.fm/music/The+Jesus+and+Mary+Chain
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/377709.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/377709.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/377709.jpg
+        - name: Sonic Youth
+          url: http://www.last.fm/music/Sonic+Youth
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/219069.png
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/219069.png>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/219069.png
+        - name: Lush
+          url: http://www.last.fm/music/Lush
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/19621.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/19621.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/19621.jpg
+      url: http://www.last.fm/music/My+Bloody+Valentine
+      mbid: 8ca01f46-53ac-4af2-8516-55a909c0905e
+      streamable: "1"
+      bio: 
+        published: Fri, 20 Feb 2009 21:49:58 +0000
+        content: |-
+          <strong>My Bloody Valentine</strong> is a dreamy noise/psychedelic band formed in 1984 in Dublin, Ireland. The band's best known lineup is Kevin Shields (vocals, guitar), Bilinda Butcher (vocals, guitar), Debbie Googe (bass) and Colm O'Ciosoig (drums). Shields and O'Ciosoig are the only original members of the band still in the group. In 1991, the band released their second full length album &quot;Loveless&quot;, later declared one of the finest albums of the 1990s. The band struggled to record a follow up album and split in 1997. The band reunited in 2007 and performed several concerts the following year.
+          
+           The band's key member is guitarist/singer/composer <a href="http://www.last.fm/music/Kevin+Shields" class="bbcode_artist">Kevin Shields</a>, a reclusive perfectionist and radically inventive guitarist/engineer. The band's other original member is drummer/studio maven Colm O'Ciosoig; during their heyday MBV also included singer-guitarist Bilinda Butcher and bassist Debbie Googe. Their band shares its name with a low-budget Canadian slasher film.  
+          
+           Though they released a handful of EPs during the mid-1980s, only their two official albums <a title="My Bloody Valentine - Isn't Anything" href="http://www.last.fm/music/My+Bloody+Valentine/Isn%27t+Anything" class="bbcode_album">Isn't Anything</a> (1988) and <a title="My Bloody Valentine - Loveless" href="http://www.last.fm/music/My+Bloody+Valentine/Loveless" class="bbcode_album">Loveless</a> (1991), are considered representative of their sound: a distinct blend of <a href="http://www.last.fm/tag/noise%20rock" class="bbcode_tag" rel="tag">noise rock</a>, <a href="http://www.last.fm/tag/ambient" class="bbcode_tag" rel="tag">ambient</a>, and off-kilter <a href="http://www.last.fm/tag/melodic%20pop" class="bbcode_tag" rel="tag">melodic pop</a>. The songs were written by Shields, except for <a title="My Bloody Valentine &ndash; Touched" href="http://www.last.fm/music/My+Bloody+Valentine/_/Touched" class="bbcode_track">Touched</a>, a short instrumental by Colm O'Ciosoig. In 1999 <a href="http://www.pitchforkmedia.com" rel="nofollow">Pitchfork Media</a> declared Loveless to be the greatest album of the 1990s; however in their 2003 revision of the list, it moved down to number two, swapping places with <a title="Radiohead - OK Computer" href="http://www.last.fm/music/Radiohead/OK+Computer" class="bbcode_album">OK Computer</a>. <a href="http://www.last.fm/music/Kevin+Shields" class="bbcode_artist">Kevin Shields</a> has also been noted by Alan McGee as <em>&quot;a genius artist. A visionary.&quot;</em>, whilst an <a href="http://www.nme.com" rel="nofollow">NME</a> review of Loveless declared, <em>&quot;...however decadent one might find the idea of elevating other human beings to deities, <strong>My Bloody Valentine</strong>, failings and all, deserve more than your respect.&quot;</em>
+          
+           After leaving Creation Records in 1992 and signing with <a href="http://www.last.fm/label/Island+Records/" class="bbcode_label">Island Records</a>, the band fell into a creative black hole. Rumors spread among their fans of albums being recorded and then shelved. Debbie Googe left the band to form <a href="http://www.last.fm/music/Snowpony" class="bbcode_artist">Snowpony</a>; she had not played bass on their recordings since You Made Me Realise. Colm O'Ciosoig eventually left and formed a band with Hope Sandoval, formerly of <a href="http://www.last.fm/music/Mazzy+Star" class="bbcode_artist">Mazzy Star</a>, called <a href="http://www.last.fm/music/Hope%2BSandoval%2B%2526%2BThe%2BWarm%2BInventions" class="bbcode_artist">Hope Sandoval &amp; The Warm Inventions</a>. <a href="http://www.last.fm/music/Kevin+Shields" class="bbcode_artist">Kevin Shields</a> sporadically collaborated with other artists, most notably <a href="http://www.last.fm/music/Experimental+Audio+Research" class="bbcode_artist">Experimental Audio Research</a>, <a href="http://www.last.fm/music/Curve" class="bbcode_artist">Curve</a>, and <a href="http://www.last.fm/music/Primal+Scream" class="bbcode_artist">Primal Scream</a>. He revealed in a fall 2003 National Public Radio interview that Island Records quit financing his <strong>My Bloody Valentine</strong> endeavors after he spent half a million pounds of their money.
+          
+           As of 2006, many rumors mentioned the possible reformation of <strong>My Bloody Valentine</strong> for a new studio album, but none of these were true. In January 2007, <a href="http://www.last.fm/music/Kevin+Shields" class="bbcode_artist">Kevin Shields</a> quoted to media outlets that MBV would release another album, though dates have not yet been mentioned.  He has contributed music to the soundtracks of two Sofia Coppola films to date, <em>Lost In Translation</em> and <em>Marie Antoinette</em>.
+          
+           Influences include <a href="http://www.last.fm/music/The+Velvet+Underground" class="bbcode_artist">The Velvet Underground</a>, <a href="http://www.last.fm/music/Sonic+Youth" class="bbcode_artist">Sonic Youth</a>, <a href="http://www.last.fm/music/Cocteau+Twins" class="bbcode_artist">Cocteau Twins</a>, late-1970s <a href="http://www.last.fm/music/Wire" class="bbcode_artist">Wire</a>, <a href="http://www.last.fm/music/+noredirect/The%2BJesus%2B%2526%2BMary%2BChain" class="bbcode_artist">The Jesus &amp; Mary Chain</a>, and independent artists such as the <a href="http://www.last.fm/music/+noredirect/Pastels" class="bbcode_artist">Pastels</a>. <a href="http://www.last.fm/music/Kevin+Shields" class="bbcode_artist">Kevin Shields</a> has also named <a href="http://www.last.fm/music/The+Beach+Boys" class="bbcode_artist">The Beach Boys</a> as a personal influence.
+          
+           As of Autumn 2007 rumours of a possible reunion concert at the 2008 Coachella Festival in late April 2008 surfaced with prospects of a new album and world tour to follow. Later through various media sites Kevin confirmed at least 2 new albums are to be released as soon as the end of 2007.  As of December 2008, no new material has been released.
+          
+           It was announced on November 15th 2007 that the band would return to the live stage in summer 2008 with three gigs in London, Manchester and Glasgow respectively. When the tickets went on sale the next day they sold out in just over an hour for all three dates. Four additional shows were immediately added, at the same UK venues. 
+          
+           The band have also confirmed that they are returning to their Irish roots to headline the 2008 Electric Picnic festival in Stradbally, Ireland.
+          
+           MBV will headline Bestival on the Isle of Wight on Friday 5th September 2008.
+          
+           They have also scheduled a handful of US tourdates in New York, LA, Chicago and San Francisco for the end of September 2008.
+        summary: "My Bloody Valentine is a dreamy noise/psychedelic band formed in 1984 in Dublin, Ireland. The band's best known lineup is Kevin Shields (vocals, guitar), Bilinda Butcher (vocals, guitar), Debbie Googe (bass) and Colm O'Ciosoig (drums). Shields and O'Ciosoig are the only original members of the band still in the group. In 1991, the band released their second full length album &quot;Loveless&quot;, later declared one of the finest albums of the 1990s. The band struggled to record a follow up album and split in 1997. The band reunited in 2007 and performed several concerts the following year. "
+      image: 
+      - size: small
+        "#text": http://userserve-ak.last.fm/serve/34/2531232.jpg
+      - size: medium
+        "#text": http://userserve-ak.last.fm/serve/64/2531232.jpg
+      - size: large
+        "#text": http://userserve-ak.last.fm/serve/126/2531232.jpg
+  :name: My Bloody Valentine
+- :lastfm: 
+    :info: 
+      name: Neil Young
+      stats: 
+        playcount: "16509575"
+        listeners: "625068"
+      similar: 
+        artist: 
+        - name: Neil Young & Crazy Horse
+          url: http://www.last.fm/music/Neil%2BYoung%2B%2526%2BCrazy%2BHorse
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/196242.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/196242.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/196242.jpg
+        - name: Buffalo Springfield
+          url: http://www.last.fm/music/Buffalo+Springfield
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/121727.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/121727.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/121727.jpg
+        - name: Bob Dylan
+          url: http://www.last.fm/music/Bob+Dylan
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/2767959.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/2767959.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/2767959.jpg
+        - name: Crosby, Stills, Nash & Young
+          url: http://www.last.fm/music/Crosby%252C%2BStills%252C%2BNash%2B%2526%2BYoung
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/198848.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/198848.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/198848.jpg
+        - name: Crosby, Stills & Nash
+          url: http://www.last.fm/music/Crosby%252C%2BStills%2B%2526%2BNash
+          image: 
+          - size: small
+            "#text": http://userserve-ak.last.fm/serve/34/273734.jpg
+          - size: medium
+            "#text": http://userserve-ak.last.fm/serve/64/273734.jpg>
+          - size: large
+            "#text": http://userserve-ak.last.fm/serve/126/273734.jpg
+      url: http://www.last.fm/music/Neil+Young
+      mbid: 75167b8b-44e4-407b-9d35-effe87b223cf
+      streamable: "1"
+      bio: 
+        published: Fri, 27 Feb 2009 10:34:26 +0000
+        content: |-
+          <strong>Neil Young</strong> was born in Toronto, Ontario, <a href="http://www.last.fm/place/Canada" class="bbcode_place">Canada</a> on November 12, 1945. He is a <a href="http://www.last.fm/tag/singer-songwriter" class="bbcode_tag" rel="tag">singer-songwriter</a> with a long and extensive musical career. He has become one of the most respected and influential musicians of his generation.
+          
+           Neil started his professional music career in the mid-1960's with a number of bands in Canada, notably the <a href="http://www.last.fm/music/+noredirect/Mynah+Birds" class="bbcode_artist">Mynah Birds</a>, which also included fellow future <a href="http://www.last.fm/music/Buffalo+Springfield" class="bbcode_artist">Buffalo Springfield</a> bassist <a href="http://www.last.fm/music/Bruce+Palmer" class="bbcode_artist">Bruce Palmer</a> and future funk star <a href="http://www.last.fm/music/Rick+James" class="bbcode_artist">Rick James</a>. When the Mynah Birds broke up, Young and Palmer headed to California to meet <a href="http://www.last.fm/music/Stephen+Stills" class="bbcode_artist">Stephen Stills</a>, whom he had met in Thunder Bay, and the result was <a href="http://www.last.fm/music/Buffalo+Springfield" class="bbcode_artist">Buffalo Springfield</a>. That band split up after three albums, and Neil soon started his solo career with the release of <em><a title="Neil Young - Neil Young" href="http://www.last.fm/music/Neil+Young/Neil+Young" class="bbcode_album">Neil Young</a></em>  November 12, 1968. The album did not do very well commercially, but included several strong tracks, including &quot;<em><a title="Neil Young &ndash; The Loner" href="http://www.last.fm/music/Neil+Young/_/The+Loner" class="bbcode_track">The Loner</a></em>&quot;, said to be a portrait of <a href="http://www.last.fm/music/Stephen+Stills" class="bbcode_artist">Stephen Stills</a>. On May 14, 1969 he recruited  <a href="http://www.last.fm/music/Crazy%2BHorse">Crazy Horse</a> and made the critically acclaimed <em><a title="Neil Young &amp; Crazy Horse - Everybody Knows This Is Nowhere" href="http://www.last.fm/music/Neil%2BYoung%2B%2526%2BCrazy%2BHorse/Everybody+Knows+This+Is+Nowhere" class="bbcode_album">Everybody Knows This Is Nowhere</a></em>. This was a much more consistent album,  the first to introduce longstanding collaborators Crazy Horse, and built around the balanced interplay between the guitars of Young, and the talented Danny Whitten.  The album also featured two lengthy classics, &quot;<em><a title="Neil Young &amp; Crazy Horse &ndash; Down By The River" href="http://www.last.fm/music/Neil%2BYoung%2B%2526%2BCrazy%2BHorse/_/Down+By+The+River" class="bbcode_track">Down By The River</a></em>&quot; and &quot;<em><a title="Neil Young &amp; Crazy Horse &ndash; Cowgirl In The Sand" href="http://www.last.fm/music/Neil%2BYoung%2B%2526%2BCrazy%2BHorse/_/Cowgirl+In+The+Sand" class="bbcode_track">Cowgirl In The Sand</a></em>&quot;, but it was <em><a title="Neil Young - Harvest" href="http://www.last.fm/music/Neil+Young/Harvest" class="bbcode_album">Harvest</a></em> in 1972 that would make Neil Young into a well-known star with his first solo hit &quot;<em><a title="Neil Young &ndash; Heart of Gold" href="http://www.last.fm/music/Neil+Young/_/Heart+of+Gold" class="bbcode_track">Heart of Gold</a></em>&quot;.
+          
+           During this time he also enjoyed considerable success as a quarter of <a href="http://www.last.fm/music/Crosby%252C%2BStills%252C%2BNash%2B%2526%2BYoung" class="bbcode_artist">Crosby, Stills, Nash &amp; Young</a>. 
+          
+           Neil's subsequent work has zig-zagged across genres - dabbling in <a href="http://www.last.fm/tag/country%20rock" class="bbcode_tag" rel="tag">country rock</a> on &quot;<em><a title="Neil Young &ndash; Old Ways" href="http://www.last.fm/music/Neil+Young/_/Old+Ways" class="bbcode_track">Old Ways</a></em>&quot;; electronics on &quot;<em><a title="Neil Young &ndash; Trans" href="http://www.last.fm/music/Neil+Young/_/Trans" class="bbcode_track">Trans</a></em>&quot;; hooking up with the <a href="http://www.last.fm/music/Shocking+Pinks" class="bbcode_artist">Shocking Pinks</a> in a homage to old-time Rock 'n' Roll on &quot;<em><a title="Neil Young &ndash; Everybody's Rockin'" href="http://www.last.fm/music/Neil+Young/_/Everybody%27s+Rockin%27" class="bbcode_track">Everybody's Rockin'</a></em>&quot;; creating a wall of feedback on the live <em>Arc-Weld</em>; and cementing his status as Godfather of <a href="http://www.last.fm/tag/grunge" class="bbcode_tag" rel="tag">grunge</a> when collaborating with <a href="http://www.last.fm/music/Pearl+Jam" class="bbcode_artist">Pearl Jam</a> on <em><a title="Pearl Jam - Mirrorball" href="http://www.last.fm/music/Pearl+Jam/Mirrorball" class="bbcode_album">Mirrorball</a></em>.
+          
+           His idiosyncratic approach to genre even led to him being sued by his record company (<a href="http://www.last.fm/label/Geffen/" class="bbcode_label">Geffen</a>) in the 80's for making &quot;uncharacteristic&quot; music.
+          
+           Young has also dabbled in film, most recently on the album/concert series/dvd <em><a title="Neil Young - Greendale" href="http://www.last.fm/music/Neil+Young/Greendale" class="bbcode_album">Greendale</a></em>. 
+          
+           60 years and still going strong the very special and often strange Neil Young keeps on making music. His latest release is <em><a href="http://www.last.fm/music/Neil+Young/Chrome+Dreams+II">Chrome Dreams II.</a></em> 
+          
+           The film Canadian Bacon includes the line &quot;Canadians are always trying to figure out a lot of ways to ruin our lives. The metric system, for the love of God! Celsius! Neil Young!&quot;
+        summary: Neil Young was born in Toronto, Ontario, <a href="http://www.last.fm/place/Canada" class="bbcode_place">Canada</a> on November 12, 1945. He is a <a href="http://www.last.fm/tag/singer-songwriter" class="bbcode_tag" rel="tag">singer-songwriter</a> with a long and extensive musical career. He has become one of the most respected and influential musicians of his generation.  Neil started his professional music career in the mid-1960's with a number of bands in Canada, notably the <a href="http://www.last.fm/music/+noredirect/Mynah+Birds" class="bbcode_artist">Mynah Birds</a>, which also included fellow future <a href="http://www.last.fm/music/Buffalo+Springfield" class="bbcode_artist">Buffalo Springfield</a> bassist <a href="http://www.last.fm/music/Bruce+Palmer" class="bbcode_artist">Bruce Palmer</a> and future funk star <a href="http://www.last.fm/music/Rick+James" class="bbcode_artist">Rick James</a>.
+      image: 
+      - size: small
+        "#text": http://userserve-ak.last.fm/serve/34/172963.jpg
+      - size: medium
+        "#text": http://userserve-ak.last.fm/serve/64/172963.jpg
+      - size: large
+        "#text": http://userserve-ak.last.fm/serve/126/172963.jpg
+  :name: Neil Young

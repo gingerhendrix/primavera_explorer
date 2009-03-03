@@ -5,10 +5,13 @@ class Band
 
   def initialize(yaml)
     @name = yaml[:name]
+    @lastfm = yaml[:lastfm] || Hash.new
   end
   
-  def scrobbler_info
-  
+  def lastfm_info
+    return @lastfm[:info] if @lastfm[:info]
+    artist = Scrobbler2::Artist.new @name
+    @lastfm[:info] = artist.info
   end
   
   def self.load_all
@@ -17,7 +20,8 @@ class Band
   end
   
   def to_h
-    {:name => @name}
+    {:name => @name,
+     :lastfm => @lastfm}
   end
   
   def self.save_all

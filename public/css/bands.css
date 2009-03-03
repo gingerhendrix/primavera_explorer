@@ -1,0 +1,34 @@
+
+body{
+  font-size: 10pt;
+  font-family: arial;
+} 
+
+li.band{
+  list-style: none;
+  clear: left;
+  padding-top: 30px;
+}
+
+li.band .name{
+  display: block;
+  width: 600px;
+  background-color: #999;
+  font-size: 11pt;
+  line-height: 13pt;
+  margin-bottom: 5px;
+  padding-left: 5px;
+}
+
+li.band img{
+  display: block;
+  float: left;
+}
+
+li.band .bio{
+  display: block;
+  width: 450px;
+  float: left;
+  padding-left: 20px;
+  
+}

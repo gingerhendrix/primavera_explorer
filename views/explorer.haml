@@ -1,11 +1,15 @@
 %html
   %head
+    %link{ :rel => "stylesheet", :href => "/css/bands.css" }
   %body
     %h1 Primavera Explorer
     %div#bands
       %ul
         - @bands.each do |b| 
-          %li= b.name
+          %li.band
+            %span.name= b.name
+            %img{ :src => b.lastfm_info['image'][2]['#text'], :width=>126, :height=>101}
+            %span.bio= b.lastfm_info['bio']['summary']
      
       
 
