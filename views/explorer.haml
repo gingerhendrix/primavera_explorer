@@ -1,6 +1,9 @@
 %html
   %head
     %link{ :rel => "stylesheet", :href => "/css/bands.css" }
+    %script{ :src => "/js/jquery.js"}
+    %script{ :src => "/js/bands.js"}
+    %script= "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
   %body
     %h1 Primavera Explorer
     %div#bands

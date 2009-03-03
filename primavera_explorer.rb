@@ -6,6 +6,7 @@ require 'yaml'
 require 'vendor/gems/scrobbler2/lib/scrobbler2.rb'
 
 require 'lib/band.rb'
+require 'lib/json.rb'
 
 Scrobbler2::Base.api_key = "1b89604104e638437e5c992e898b43ab"
 Scrobbler2::Base.api_secret = "943696955e27b45d7c91c978bed909d5"
