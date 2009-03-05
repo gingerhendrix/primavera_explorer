@@ -6,14 +6,25 @@
     %script= "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
   %body
     %h1 Primavera Explorer
-    %div#bands
-      %ul
-        - @bands.each do |b| 
-          %li.band
-            %span.name= b.name
-            %img{ :src => b.lastfm_info['image'][2]['#text'], :width=>126, :height=>101}
-            %span.bio= b.lastfm_info['bio']['summary']
-     
-      
-
-
+    %div.controls
+      %div.sort 
+        %span.label Sort By:
+        %span{ :class => "sort", :onclick => "sort(sortByAlpha)"} Alpha
+        %span{ :class => "sort", :onclick => "sort(sortByPlaycount)"} Playcount
+        %span{ :class => "sort", :onclick => "sort(sortByListeners)"} Listeners
+      %div.view
+        %span.label View:
+        %span{ :onclick => "viewCompact()" } Compact
+        %span{ :onclick => "viewList()" } List
+        %span{ :onclick => "viewFull()" } Full        
+    %ul#bands
+      - @bands.each do |b| 
+        %li.band{ :id => b.element_id, :onclick => "expand(this)" }
+          %span.name= b.name  
+          - if b.lastfm_info
+            %img{ :src => b.image, :width=>126, :height=>101}
+            %div.info
+              %div.stats
+                %span.listeners= "Listeners: " + b.lastfm_info['stats']['listeners'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+                %span.playcount= "Playcount: " + b.lastfm_info['stats']['playcount'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+              %span.bio= b.lastfm_info['bio']['summary']

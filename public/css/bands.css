@@ -2,34 +2,126 @@
 body{
   font-size: 10pt;
   font-family: arial;
+  color: #333;
 } 
+
+ul#bands{
+  margin: 0;
+  margin-top: 20px;
+  padding: 0;
+  overflow: hidden;
+}
 
 li.band{
   list-style: none;
-  clear: left;
   padding-top: 30px;
+  float: left;
+  height: 200px;
+  margin-left: 20px;
+  width: 595px;
 }
 
 li.band .name{
   display: block;
-  width: 600px;
-  background-color: #999;
+  width: 100%;
+  background-color: #aaa;
   font-size: 11pt;
   line-height: 13pt;
   margin-bottom: 5px;
   padding-left: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+  color: #000;
 }
 
 li.band img{
   display: block;
   float: left;
   padding-left: 5px;
+  padding-top: 20px;
+}
+
+li.band .info{
+  display: block;
+  width: 430px;
+  float: left;
+  padding-left: 20px;
+}
+
+.stats {
+  margin-bottom: 10px;
+  font-size: 9pt;
 }
 
 li.band .bio{
+   
+}
+
+#bands.list li.band{
+  padding-top: 5px;
+  height: auto;
+}
+
+#bands.list li.band .info{
+  display: none;
+}
+#bands.list li.band img{
+  display: none;
+}
+
+#bands.compact li.band{
+  padding-top: 5px;
+  height: auto;
+  width: 285px;
+}
+
+#bands.compact li .name{
+  height: 18px;
+  overflow: hidden;
+}
+
+#bands.compact li.band .info{
+  display: none;
+}
+#bands.compact li.band img{
+  display: none;
+}
+
+#bands.list li.band.expand{
+  height: 200px;
+}
+
+#bands.list li.band.expand .info{
   display: block;
-  width: 450px;
-  float: left;
-  padding-left: 20px;
+}
+
+#bands.list li.band.expand img{
+  display: block;
+}
+
+#bands.compact li.band.expand{
+  padding-top: 5px;
+  height: auto;
+}
+
+#bands.compact li.band.expand .name{
+  height: 18px;
+  overflow: hidden;
+}
+
+#bands.compact li.band.expand .info{
+  display: block;
+  float: none;
+  width: 260px;
+}
+#bands.compact li.band.expand img{
+  display: block;
+  float: none;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 0px;
   
 }
+
+
+
