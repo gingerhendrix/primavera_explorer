@@ -107,6 +107,7 @@ li.band .bio{
 #bands.compact li.band.expand{
   padding-top: 5px;
   height: auto;
+  padding-bottom: 10px;
 }
 
 #bands.compact li.band.expand .name{
@@ -125,7 +126,7 @@ li.band .bio{
   margin-left: auto;
   margin-right: auto;
   padding-top: 0px;
-  
+  padding-bottom: 5px;
 }
 
 
