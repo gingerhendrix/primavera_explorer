@@ -1,3 +1,7 @@
+$(document.body).ready(function(){
+  sort(sortByAlpha);
+  viewCompact();
+});
 
 function jsonProp(json, propRef){
   var props = propRef.split(".");
@@ -18,18 +22,32 @@ function viewList(){
   $("#bands").removeClass("full");
   $("#bands").removeClass("compact");
   $("#bands").addClass("list");
+  columnWidth = 600;
+  redraw();
 }
 
 function viewCompact(){
   $("#bands").removeClass("full");
   $("#bands").removeClass("list");
   $("#bands").addClass("compact");
+  columnWidth = 300;
+  redraw();  
 }
 
 function viewFull(){
   $("#bands").removeClass("list");
   $("#bands").removeClass("compact");
   $("#bands").addClass("full");
+  columnWidth = 600;
+  redraw();  
+}
+
+function redraw(){
+  columnFit = Math.floor( $('body').width() / columnWidth );
+  if(numColumns!=columnFit){
+    numColumns = columnFit;
+    columnify();
+  }  
 }
 
 var expanded;
@@ -63,14 +81,27 @@ function sortByAlpha(b1, b2){
 }
 
 function sort(fn){
-  var sortedBands = bandsData.sort(fn);
+  bandsData = bandsData.sort(fn);
+  columnify();
+}
 
-  var list = $('#bands').clone();
-  list.empty();
-  sortedBands.forEach(function(b){
-    list.append($('#'+b.id))
+var numColumns = 2;
+
+function columnify(){
+  var columns = [];
+  for(var i=0; i< numColumns; i++){
+    var ul = document.createElement("ul");
+    $(ul).addClass('column');
+    columns.push($(ul));
+  }
+  var colIdx = 0;
+  bandsData.forEach(function(b){
+    columns[colIdx].append($('#'+b.id));
+    colIdx = (colIdx +1) % numColumns;
   });
-  $('#bands').replaceWith(list);
-
+  $('#bands').empty();
+  columns.forEach(function(c){
+    $('#bands').append(c);
+  });
 }
 
