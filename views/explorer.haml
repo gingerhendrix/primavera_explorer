@@ -28,3 +28,6 @@
                 %span.listeners= "Listeners: " + b.lastfm_info['stats']['listeners'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
                 %span.playcount= "Playcount: " + b.lastfm_info['stats']['playcount'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
               %span.bio= b.lastfm_info['bio']['summary']
+          - else
+            %div.info
+              %span.no_info= "Sorry, I don't know anything about " + b.name
