@@ -61,6 +61,18 @@ li.band .info{
 li.band .bio{
    
 }
+#bands li.band .tags{
+  font-size: 9pt;
+  margin-bottom: 10px;
+}
+
+#bands li.band .tags .label{
+  font-size: 9px;
+}
+#bands li.band .tags .tag{
+  padding-right: 5px;
+  text-decoration: underline;
+}
 
 #bands.list li.band{
   padding-top: 5px;

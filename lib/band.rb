@@ -15,8 +15,25 @@ class Band
     @lastfm[:info] = artist.info
   end
   
+  def lastfm_tags(load=false)
+    return @lastfm[:tags] if @lastfm[:tags] || !load
+    puts "Retrieving tags for " + @name + "\n"
+    artist = Scrobbler2::Artist.new @name
+    @lastfm[:tags] = artist.top_tags
+  end
+  
   def element_id
     "artist_" + name.gsub(/[^\w]/, "_")
+  end
+  
+  def tags
+    if @lastfm[:tags] && @lastfm[:tags]['tag'] && @lastfm[:tags]['tag'].is_a?(Array)
+      tags = @lastfm[:tags]['tag']
+      sorted_tags = tags.sort_by { |tag| tag['count'].to_i }
+      tags.slice(0, 5)
+    else
+      []
+    end
   end
   
   def image
