@@ -1,6 +1,10 @@
+var tagMap;
+
 $(document.body).ready(function(){
   sort(sortByAlpha);
   viewCompact();
+  tagMap = makeTagMap();
+  writeTagMap();
 });
 
 function jsonProp(json, propRef){
@@ -105,3 +109,58 @@ function columnify(){
   });
 }
 
+
+function makeTagMap(){
+  var tagMap = new TagMap();
+  bandsData.forEach(function(band){
+    var tags = jsonProp(band, "lastfm.tags.tag") || [];
+    if($.isArray(tags)){
+      var tagCloud = new TagCloud();
+      tags.forEach(function(t){
+        tagCloud.addTag(t.name, t.count);
+      });
+      tagMap.add(band, tagCloud.topTags(3) );
+    }
+  });
+  tagMap.removeTag('indie');
+  tagMap.removeTag('primavera-sound-2009');
+  tagMap.removeTag('primavera09');
+  tagMap.removeTag('bestival-2008');
+  tagMap.removeTag('glastonbury-2007');
+  return tagMap;
+}
+
+function writeTagMap(){
+ var selected;
+ tagMap.minimumSpanningSet().forEach(function(tag){
+   var tagEl = document.createElement("a");
+   $(tagEl).attr("href", "#");
+   $(tagEl).addClass("tag");
+   $(tagEl).text(tag);
+   $(tagEl).mouseover(function(){
+      var selected = tagMap.itemsForTag(tag).map(function(b){ return b.id; });
+      selected.forEach(function(id){
+        $('#' + id).addClass("selectedOver");
+      });
+   });
+   $(tagEl).mouseout(function(){
+      var selected = tagMap.itemsForTag(tag).map(function(b){ return b.id; });
+      selected.forEach(function(id){
+        $('#' + id).removeClass("selectedOver");
+      });
+   });
+   $(tagEl).click(function(){
+    var selected = tagMap.itemsForTag(tag).map(function(b){ return b.id; });
+    var select = !($(tagEl).hasClass("selected"));
+    $(tagEl).toggleClass("selected", select);
+    selected.forEach(function(id){
+        $('#' + id).toggleClass("selected", select);
+    });
+   });
+   $('#tagcloud').append(tagEl);
+ });
+}
+
+function selectTag(tag){
+
+}

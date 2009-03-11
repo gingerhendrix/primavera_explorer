@@ -61,6 +61,15 @@ li.band .info{
 li.band .bio{
    
 }
+
+#tagcloud .tag{
+  margin-right: 10px;
+  text-decoration: underline;
+  color: #000;
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
 #bands li.band .tags{
   font-size: 9pt;
   margin-bottom: 10px;
@@ -141,5 +150,13 @@ li.band .bio{
   padding-bottom: 5px;
 }
 
+#bands li.band.selected .name, #bands li.band.selectedOver .name{
+  background-color: #000;
+  color: #fff;
+}
 
+#tagcloud .tag:hover, #tagcloud .tag.selected{
+  background-color: #000;
+  color: #fff;
+}
 
