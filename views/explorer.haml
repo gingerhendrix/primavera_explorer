@@ -6,6 +6,7 @@
     %script{ :src => "/js/bands.js"}
     %script{ :src => "/js/tagmap.js"}
     %script{ :src => "/js/tagcloud.js"}
+    %script{ :src => "/js/folksonomy.js"}
     %script= "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
   %body
     %h1 Primavera Explorer
@@ -26,7 +27,7 @@
     %div#bands
       %ul
         - @bands.each do |b| 
-          %li.band{ :id => b.element_id, :onclick => "expand(this)" }
+          %li.band{ :id => b.element_id, :onclick => "expand(this)", :class => "band" }
             %span.name= b.name  
             - if b.lastfm_info
               %img{ :src => b.image, :width=>126, :height=>101}

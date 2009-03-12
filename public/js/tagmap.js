@@ -56,7 +56,7 @@ function TagMap(){
   }
    
   this.removeTag = function(tag){
-    tags.filter(function(t){return t != tag;});
+    tags = tags.filter(function(t){return t != tag;});
     if(tagMap[tag]){
       tagMap[tag].forEach(function(idx){
          itemMap[idx] = itemMap[idx].filter(function(t){ return t != tag; });
@@ -131,8 +131,5 @@ function TagMap(){
       tm = tm.difference(tag);
     }
     return mss;
-    //Get most popular tag
-    //Compute the difference set ie. items !matching tag
-    //Add all the difference items to a new tag map - repeat until none left.
 	}
 }
