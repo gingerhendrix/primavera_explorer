@@ -2,6 +2,7 @@
 
 class Band
   attr_accessor :name
+  cattr_accessor :database
 
   def initialize(yaml)
     @name = yaml[:name]
@@ -56,7 +57,7 @@ class Band
 
   
   def self.load_all
-    yaml = File.open( File.dirname(__FILE__) + '/../bands.yml' ) { |yf| YAML::load( yf ) }
+    yaml = File.open( database ) { |yf| YAML::load( yf ) }
     if(yaml)
       @bands = yaml.map {|b| Band.new b }
     else
@@ -65,7 +66,7 @@ class Band
   end
     
   def self.save_all
-    File.open( File.dirname(__FILE__) + '/../bands.yml', 'w' ) do |out|
+    File.open( database, 'w' ) do |out|
       YAML.dump @bands.map(&:to_h), out 
     end
   end
