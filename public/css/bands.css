@@ -5,6 +5,80 @@ body{
   color: #333;
 } 
 
+#primavera_logo{
+  position: fixed;
+  left: 0;
+  top: 0;
+}
+
+#header {
+  position: fixed;
+  left: 190px;
+  top: 0;
+  height: 170px;
+  background-color: transparent;
+  background-image: url('/img/header_background.png');
+  background-repeat: repeat-x;
+  background-position: bottom;
+  z-index: 2;  
+  overflow: hidden;
+  width: 100%;
+}
+
+#bands{
+  position: absolute;
+  left: 170px;
+  top: 160px;
+}
+
+#controls{
+  width: 300px;
+  float: left;
+}
+
+#controls .label, .tagcloud .label{
+  display: block;
+  width: 55px;
+  float: left;
+}
+
+#controls .option{
+  padding-right: 10px;
+  cursor: pointer;
+}
+
+#controls .option.selected{
+  font-weight: bold;
+}
+
+#controls .view, #controls .sort, .tagcloud{
+  margin-top: 2px;
+}
+
+
+.tagcloud{
+  width: 600px;
+  float: left;
+}
+
+#tagcloud{
+  width: 545px;
+  float: left;
+}
+
+#tagcloud .tag{
+  white-space: nowrap;
+}
+
+
+h1{
+  font-family: arial;
+  font-size: 14pt;
+  font-weight: normal;
+  margin-bottom: 10px;
+  
+}
+
 #bands{
   margin: 0;
   margin-top: 20px;
@@ -37,6 +111,7 @@ li.band .name{
   padding-top: 2px;
   padding-bottom: 2px;
   color: #000;
+  cursor: pointer;
 }
 
 li.band img{
@@ -64,11 +139,48 @@ li.band .bio{
 
 #tagcloud .tag{
   margin-right: 10px;
-  text-decoration: underline;
   color: #000;
   padding-left: 2px;
   padding-right: 2px;
+  text-decoration: none;
 }
+
+#tagcloud .tag.size0{
+  font-size: 11pt;
+  color: #000;
+}
+
+#tagcloud .tag.size1{
+  font-size: 10.5pt;
+  color: #181818;
+}
+
+#tagcloud .tag.size2{
+  font-size: 10pt;
+  color: #303030;
+}
+
+#tagcloud .tag.size3{
+  font-size: 9.5pt;
+  color: #484848;
+}
+
+#tagcloud .tag.size4{
+  font-size: 9pt;
+  color: #606060;
+}
+
+#tagcloud .tag.size5{
+  font-size: 8.5pt;
+  color: #888888;
+}
+
+
+#tagcloud .tag.size6{
+  font-size: 8pt;
+  color: #909090;
+}
+
 
 #bands li.band .tags{
   font-size: 9pt;
@@ -159,4 +271,6 @@ li.band .bio{
   background-color: #000;
   color: #fff;
 }
+
+
 

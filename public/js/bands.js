@@ -1,8 +1,8 @@
 var tagMap;
 
 $(document.body).ready(function(){
-  sort(sortByAlpha);
   viewCompact();
+  sort('listeners');
   window.setTimeout(function(){
     tagMap = makeTagMap();
     writeTagMap();
@@ -24,32 +24,34 @@ function jsonProp(json, propRef){
   }
 }
 
-function viewList(){
+function changeView(name, width){
   $("#bands").removeClass("full");
   $("#bands").removeClass("compact");
-  $("#bands").addClass("list");
-  columnWidth = 600;
+  $("#bands").removeClass("list");
+  
+  $("#bands").addClass(name);
+  
+  $(".view.option").removeClass("selected");
+  $(".view.option."+name).addClass("selected");
+
+  columnWidth = width;  
   redraw();
 }
 
+function viewList(){
+  changeView("list", 600);
+}
+
 function viewCompact(){
-  $("#bands").removeClass("full");
-  $("#bands").removeClass("list");
-  $("#bands").addClass("compact");
-  columnWidth = 300;
-  redraw();  
+  changeView("compact", 300);
 }
 
 function viewFull(){
-  $("#bands").removeClass("list");
-  $("#bands").removeClass("compact");
-  $("#bands").addClass("full");
-  columnWidth = 600;
-  redraw();  
+  changeView("full", 600);
 }
 
 function redraw(){
-  columnFit = Math.floor( $('body').width() / columnWidth );
+  columnFit = Math.floor( ($('body').width()-190) / columnWidth );
   if(numColumns!=columnFit){
     numColumns = columnFit;
     columnify();
@@ -86,8 +88,20 @@ function sortByAlpha(b1, b2){
  return a1 > a2 ? 1 : -1;
 }
 
-function sort(fn){
+function sort(name){
+  $(".sort.option").removeClass("selected");
+  $(".sort.option."+name).addClass("selected");
+  
+  var fn;
+  if(name=="alpha"){
+    fn = sortByAlpha;
+  }else if(name=="listeners"){
+    fn = sortByListeners;
+  }else if(name=="playcount"){
+    fn = sortByPlaycount;
+  }
   bandsData = bandsData.sort(fn);
+  
   columnify();
 }
 
@@ -131,10 +145,12 @@ function makeTagMap(){
 
 function writeTagMap(){
  var selected;
- tagMap.topTags(20).forEach(function(tag){
+ tagMap.topTags(42).forEach(function(tag, index, arr){
    var tagEl = document.createElement("a");
+   var sizeClass = Math.floor((index/arr.length)*7);
    $(tagEl).attr("href", "#");
    $(tagEl).addClass("tag");
+   $(tagEl).addClass("size"+sizeClass);   
    $(tagEl).text(tag);
    $(tagEl).mouseover(function(){
       var selected = tagMap.itemsForTag(tag).map(function(b){ return b.id; });
@@ -162,6 +178,7 @@ function writeTagMap(){
     
    });
    $('#tagcloud').append(tagEl);
+   $('#tagcloud').append(' ');
  });
 }
 

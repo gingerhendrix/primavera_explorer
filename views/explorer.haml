@@ -9,21 +9,23 @@
     %script{ :src => "/js/folksonomy.js"}
     %script= "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
   %body
-    %h1 Primavera Explorer
-    %div.controls
-      %div.sort 
-        %span.label Sort By:
-        %span{ :class => "sort", :onclick => "sort(sortByAlpha)"} Alpha
-        %span{ :class => "sort", :onclick => "sort(sortByPlaycount)"} Playcount
-        %span{ :class => "sort", :onclick => "sort(sortByListeners)"} Listeners
-      %div.view
-        %span.label View:
-        %span{ :onclick => "viewCompact()" } Compact
-        %span{ :onclick => "viewList()" } Expanded
-        %span{ :onclick => "viewFull()" } Full        
-      %div.tags
-        %span.label Tags:
-        %span#tagcloud
+    %img{ :src => "/img/primavera_logo.png", :width => "170", :height => "240", :id => "primavera_logo" }
+    %div#header
+      %h1 Mushub Primavera Explorer
+      %div#controls
+        %div.sort 
+          %span.label sort
+          %span{ :class => "sort option alpha", :onclick => "sort('alpha')"} Alpha
+          %span{ :class => "sort option playcount", :onclick => "sort('playcount')"} Playcount
+          %span{ :class => "sort option listeners", :onclick => "sort('listeners')"} Listeners
+        %div.view
+          %span.label view
+          %span{ :class => "view option compact", :onclick => "viewCompact()" } Compact
+          %span{ :class => "view option list", :onclick => "viewList()" } Expanded
+          %span{ :class => "view option full", :onclick => "viewFull()" } Full        
+      %div.tagcloud
+        %span.label tags
+        %div#tagcloud
     %div#bands
       %ul
         - @bands.each do |b| 
