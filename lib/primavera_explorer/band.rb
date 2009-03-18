@@ -66,7 +66,7 @@ class Band
   end
     
   def self.save_all
-    File.open( database, 'w' ) do |out|
+    File.open( 'primavera_timetable.yml', 'w' ) do |out|
       YAML.dump @bands.map(&:to_h), out 
     end
   end
@@ -83,6 +83,10 @@ class Band
         @bands << band
      end
      band
+  end
+  
+  def self.update_timetable
+    
   end
   
 
