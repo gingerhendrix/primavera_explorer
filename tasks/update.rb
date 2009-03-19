@@ -47,6 +47,14 @@ namespace :update do
     Band.save_all
   end
   
+  desc "Update from primavera timetable" 
+  task :timetable do
+    db = Database.new(File.dirname(__FILE__) + "/../db");
+    timetable = PrimaveraTimetable.new
+    timetable.load_from_web
+    timetable.save(db)
+  end
+  
   desc "Move from single file database to multi-file database"
   task :migrate_to_v2 do
     db = Database.new(File.dirname(__FILE__) + "/../db");

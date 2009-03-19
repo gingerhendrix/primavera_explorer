@@ -15,22 +15,26 @@ class PrimaveraTimetable
     @doc
   end
 
-  def load_from_file
-      
+  def load_from_db(db)
+    @entries = db.get_resource("primavera_timetable")[:entries].map {|e| TimetableEntry.new_from_hash(e) }
   end
   
-  def save
-    File.open( 'primavera_timetable.yml', 'w' ) do |out|
-      YAML.dump self.to_h, out 
+  def save(db)
+    db.save_resource("primavera_timetable", self.to_db);
+  end
+  
+  def to_db
+    {:entries => @entries.map(&:to_h)}
+  end
+  
+  def bands
+    @bands = @entries.map do |entry|
+      band = Band.find_by_name(entry.name) || Band.new(entry.name)
+      band.timetable_entry = entry
+      band
     end
+    @bands
   end
-  
-  def to_h
-    [:entries => @entries.map(&:to_h)]
-  end
-  
-
-  
   
   class TimetableEntry
     attr_accessor :name

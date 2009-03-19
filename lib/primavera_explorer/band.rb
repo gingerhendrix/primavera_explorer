@@ -4,10 +4,16 @@ class Band
   attr_accessor :name
   attr_accessor :lastfm_info
   attr_accessor :lastfm_tags
+  attr_accessor :timetable_entry
   
   @bands = []
 
-  def initialize
+  def initialize(name = false)
+    if name 
+      @name = name
+      @lastfm_info = LastfmInfo.new name
+      @lastfm_tags = LastfmTags.new name
+    end
   end
   
   def self.new_from_hash(info)
@@ -39,6 +45,10 @@ class Band
      :name => @name }
   end
 
+  def self.load_timetable(db)
+    timetable = PrimaveraTimetable.new
+    timetable.load_from_db db
+  end
   
   def self.load_all(db)
     yaml = db.get_resource('bands')

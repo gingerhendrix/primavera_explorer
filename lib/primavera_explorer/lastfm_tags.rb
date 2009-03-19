@@ -37,7 +37,7 @@ class LastfmTags
   end
   
   def to_h
-    info
+    tags
   end
 
 

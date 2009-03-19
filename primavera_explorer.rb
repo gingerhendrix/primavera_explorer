@@ -9,13 +9,19 @@ set :port, 4568
 
 get '/' do
   db = Database.new File.dirname(__FILE__) + '/db'
-  @bands = Band.load_all(db)
+  Band.load_all(db)
+  @timetable = PrimaveraTimetable.new
+  @timetable.load_from_db(db)
+  @bands = @timetable.bands
   haml :explorer
 end
 
 get '/bandsData.js' do
   db = Database.new File.dirname(__FILE__) + '/db'
-  @bands = Band.load_all(db)
+  Band.load_all(db)
+  @timetable = PrimaveraTimetable.new
+  @timetable.load_from_db(db)
+  @bands = @timetable.bands
   "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
 end
 
