@@ -1,0 +1,303 @@
+--- 
+artist: Phoenix
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "72"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "55"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "51"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "44"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "32"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "31"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "21"
+- name: Romanian
+  url: http://www.last.fm/tag/romanian
+  count: "10"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "7"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "6"
+- name: Phoenix
+  url: http://www.last.fm/tag/phoenix
+  count: "5"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "4"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "4"
+- name: france
+  url: http://www.last.fm/tag/france
+  count: "4"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "4"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "3"
+- name: european
+  url: http://www.last.fm/tag/european
+  count: "2"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "2"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "2"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: indiepop
+  url: http://www.last.fm/tag/indiepop
+  count: "1"
+- name: french touch
+  url: http://www.last.fm/tag/french%20touch
+  count: "1"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "1"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "1"
+- name: romania
+  url: http://www.last.fm/tag/romania
+  count: "1"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: francais
+  url: http://www.last.fm/tag/francais
+  count: "1"
+- name: French rock
+  url: http://www.last.fm/tag/french%20rock
+  count: "1"
+- name: goa
+  url: http://www.last.fm/tag/goa
+  count: "1"
+- name: romanian rock
+  url: http://www.last.fm/tag/romanian%20rock
+  count: "1"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "1"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "0"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "0"
+- name: roskilde 06
+  url: http://www.last.fm/tag/roskilde%2006
+  count: "0"
+- name: progressive folk
+  url: http://www.last.fm/tag/progressive%20folk
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: arts and crafts
+  url: http://www.last.fm/tag/arts%20and%20crafts
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: RAC
+  url: http://www.last.fm/tag/rac
+  count: "0"
+- name: astralwerks
+  url: http://www.last.fm/tag/astralwerks
+  count: "0"
+- name: prog rock
+  url: http://www.last.fm/tag/prog%20rock
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: roskilde 2006
+  url: http://www.last.fm/tag/roskilde%202006
+  count: "0"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "0"
+- name: french pop
+  url: http://www.last.fm/tag/french%20pop
+  count: "0"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: timisoara
+  url: http://www.last.fm/tag/timisoara
+  count: "0"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "0"
+- name: rapcore
+  url: http://www.last.fm/tag/rapcore
+  count: "0"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: band
+  url: http://www.last.fm/tag/band
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: Electronic Pop
+  url: http://www.last.fm/tag/electronic%20pop
+  count: "0"
+- name: lost in translation
+  url: http://www.last.fm/tag/lost%20in%20translation
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: catchy
+  url: http://www.last.fm/tag/catchy
+  count: "0"
+- name: cheerful
+  url: http://www.last.fm/tag/cheerful
+  count: "0"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "0"
+- name: bright
+  url: http://www.last.fm/tag/bright
+  count: "0"
+- name: Rock Am Ring 2006
+  url: http://www.last.fm/tag/rock%20am%20ring%202006
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: medieval
+  url: http://www.last.fm/tag/medieval
+  count: "0"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: makes me happy
+  url: http://www.last.fm/tag/makes%20me%20happy
+  count: "0"
+- name: best
+  url: http://www.last.fm/tag/best
+  count: "0"
+- name: french indie pop
+  url: http://www.last.fm/tag/french%20indie%20pop
+  count: "0"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "0"
+- name: electric
+  url: http://www.last.fm/tag/electric
+  count: "0"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "0"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "0"
+- name: synthie pop
+  url: http://www.last.fm/tag/synthie%20pop
+  count: "0"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "0"
+- name: I like
+  url: http://www.last.fm/tag/i%20like
+  count: "0"
+- name: folk prog
+  url: http://www.last.fm/tag/folk%20prog
+  count: "0"
+- name: danceable
+  url: http://www.last.fm/tag/danceable
+  count: "0"
+- name: ruisrock 2006
+  url: http://www.last.fm/tag/ruisrock%202006
+  count: "0"
+- name: radio soulwax
+  url: http://www.last.fm/tag/radio%20soulwax
+  count: "0"
+- name: sex
+  url: http://www.last.fm/tag/sex
+  count: "0"
+- name: melodic
+  url: http://www.last.fm/tag/melodic
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: El-P
+tag: 
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "100"
+- name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+  count: "44"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "41"
+- name: Def Jux
+  url: http://www.last.fm/tag/def%20jux
+  count: "33"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "31"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "18"
+- name: underground hip hop
+  url: http://www.last.fm/tag/underground%20hip%20hop
+  count: "15"
+- name: Definitive Jux
+  url: http://www.last.fm/tag/definitive%20jux
+  count: "14"
+- name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+  count: "8"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "7"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "6"
+- name: abstract hip-hop
+  url: http://www.last.fm/tag/abstract%20hip-hop
+  count: "5"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: underground
+  url: http://www.last.fm/tag/underground
+  count: "4"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "3"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "3"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "3"
+- name: abstract hip hop
+  url: http://www.last.fm/tag/abstract%20hip%20hop
+  count: "3"
+- name: alternative rap
+  url: http://www.last.fm/tag/alternative%20rap
+  count: "3"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "2"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "2"
+- name: alternative hip-hop
+  url: http://www.last.fm/tag/alternative%20hip-hop
+  count: "2"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "2"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "2"
+- name: experimental hip-hop
+  url: http://www.last.fm/tag/experimental%20hip-hop
+  count: "2"
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "1"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "1"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "1"
+- name: el-p
+  url: http://www.last.fm/tag/el-p
+  count: "1"
+- name: abstract
+  url: http://www.last.fm/tag/abstract
+  count: "1"
+- name: Indie Hip Hop
+  url: http://www.last.fm/tag/indie%20hip%20hop
+  count: "1"
+- name: instrumental hip-hop
+  url: http://www.last.fm/tag/instrumental%20hip-hop
+  count: "1"
+- name: independent
+  url: http://www.last.fm/tag/independent
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "1"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "1"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: free jazz
+  url: http://www.last.fm/tag/free%20jazz
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: Jazz Hop
+  url: http://www.last.fm/tag/jazz%20hop
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: coachella 2007
+  url: http://www.last.fm/tag/coachella%202007
+  count: "0"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: bonnaroo
+  url: http://www.last.fm/tag/bonnaroo
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: alternative hip hop
+  url: http://www.last.fm/tag/alternative%20hip%20hop
+  count: "0"
+- name: good music
+  url: http://www.last.fm/tag/good%20music
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+  count: "0"
+- name: real hip hop
+  url: http://www.last.fm/tag/real%20hip%20hop
+  count: "0"
+- name: industrial hip-hop
+  url: http://www.last.fm/tag/industrial%20hip-hop
+  count: "0"
+- name: acid rap
+  url: http://www.last.fm/tag/acid%20rap
+  count: "0"
+- name: abstract rap
+  url: http://www.last.fm/tag/abstract%20rap
+  count: "0"
+- name: 2007 Coachella
+  url: http://www.last.fm/tag/2007%20coachella
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "0"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "0"
+- name: Fierce
+  url: http://www.last.fm/tag/fierce
+  count: "0"
+- name: indie rap
+  url: http://www.last.fm/tag/indie%20rap
+  count: "0"
+- name: Defjux
+  url: http://www.last.fm/tag/defjux
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: thirsty ear
+  url: http://www.last.fm/tag/thirsty%20ear
+  count: "0"
+- name: east coast rap
+  url: http://www.last.fm/tag/east%20coast%20rap
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "0"
+- name: East Coast
+  url: http://www.last.fm/tag/east%20coast
+  count: "0"
+- name: rawkus
+  url: http://www.last.fm/tag/rawkus
+  count: "0"
+- name: ninja tune
+  url: http://www.last.fm/tag/ninja%20tune
+  count: "0"
+- name: Left-Field Hip-Hop
+  url: http://www.last.fm/tag/left-field%20hip-hop
+  count: "0"
+- name: fucking fantastic
+  url: http://www.last.fm/tag/fucking%20fantastic
+  count: "0"
+- name: chinchillah
+  url: http://www.last.fm/tag/chinchillah
+  count: "0"
+- name: xian
+  url: http://www.last.fm/tag/xian
+  count: "0"
+- name: devL aware
+  url: http://www.last.fm/tag/devl%20aware
+  count: "0"
+- name: mizzmetrozmusic
+  url: http://www.last.fm/tag/mizzmetrozmusic
+  count: "0"
+- name: usa hip hop
+  url: http://www.last.fm/tag/usa%20hip%20hop
+  count: "0"
+- name: Decouverte
+  url: http://www.last.fm/tag/decouverte
+  count: "0"
+- name: lovage
+  url: http://www.last.fm/tag/lovage
+  count: "0"
+- name: microphone fiend
+  url: http://www.last.fm/tag/microphone%20fiend
+  count: "0"
+- name: hippety hoppety
+  url: http://www.last.fm/tag/hippety%20hoppety
+  count: "0"
+- name: hip-hop artists
+  url: http://www.last.fm/tag/hip-hop%20artists
+  count: "0"
+- name: Real hip-hop
+  url: http://www.last.fm/tag/real%20hip-hop
+  count: "0"
+- name: ROBOFUNK
+  url: http://www.last.fm/tag/robofunk
+  count: "0"
+- name: schmitz bounce
+  url: http://www.last.fm/tag/schmitz%20bounce
+  count: "0"
+- name: articulate
+  url: http://www.last.fm/tag/articulate
+  count: "0"
+- name: kung-fu
+  url: http://www.last.fm/tag/kung-fu
+  count: "0"
+- name: devl minions
+  url: http://www.last.fm/tag/devl%20minions
+  count: "0"
+- name: downbeat trip-hop
+  url: http://www.last.fm/tag/downbeat%20trip-hop
+  count: "0"
+- name: electro hip-hop
+  url: http://www.last.fm/tag/electro%20hip-hop
+  count: "0"
+- name: Easca Loves Moogle
+  url: http://www.last.fm/tag/easca%20loves%20moogle
+  count: "0"
+- name: fine selection ei tezi imat nai qkiq flow
+  url: http://www.last.fm/tag/fine%20selection%20ei%20tezi%20imat%20nai%20qkiq%20flow
+  count: "0"

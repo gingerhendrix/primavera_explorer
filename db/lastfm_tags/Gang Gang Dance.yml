@@ -1,0 +1,303 @@
+--- 
+artist: Gang Gang Dance
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "40"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "34"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "28"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "27"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "17"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "15"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "10"
+- name: neo-tribal
+  url: http://www.last.fm/tag/neo-tribal
+  count: "10"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "8"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "7"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "5"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "5"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "4"
+- name: tribal
+  url: http://www.last.fm/tag/tribal
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "4"
+- name: Gang gang dance
+  url: http://www.last.fm/tag/gang%20gang%20dance
+  count: "3"
+- name: the social registry
+  url: http://www.last.fm/tag/the%20social%20registry
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "3"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: neo-primitivist
+  url: http://www.last.fm/tag/neo-primitivist
+  count: "2"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: Culmination of all that I enjoy musically as all get out
+  url: http://www.last.fm/tag/culmination%20of%20all%20that%20i%20enjoy%20musically%20as%20all%20get%20out
+  count: "1"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "1"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: post-whatever
+  url: http://www.last.fm/tag/post-whatever
+  count: "1"
+- name: Warp
+  url: http://www.last.fm/tag/warp
+  count: "1"
+- name: avant-rock
+  url: http://www.last.fm/tag/avant-rock
+  count: "1"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "1"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "1"
+- name: surrealist
+  url: http://www.last.fm/tag/surrealist
+  count: "1"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "1"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "1"
+- name: reverb
+  url: http://www.last.fm/tag/reverb
+  count: "1"
+- name: avant
+  url: http://www.last.fm/tag/avant
+  count: "0"
+- name: improv
+  url: http://www.last.fm/tag/improv
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: erotic bum music
+  url: http://www.last.fm/tag/erotic%20bum%20music
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "0"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "0"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "0"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "0"
+- name: delay
+  url: http://www.last.fm/tag/delay
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: tagset adamsaunders
+  url: http://www.last.fm/tag/tagset%20adamsaunders
+  count: "0"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: krautrock
+  url: http://www.last.fm/tag/krautrock
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: avant folk
+  url: http://www.last.fm/tag/avant%20folk
+  count: "0"
+- name: big beat
+  url: http://www.last.fm/tag/big%20beat
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: zik de fonfon
+  url: http://www.last.fm/tag/zik%20de%20fonfon
+  count: "0"
+- name: hand clap shimmer
+  url: http://www.last.fm/tag/hand%20clap%20shimmer
+  count: "0"
+- name: Knitting Factory
+  url: http://www.last.fm/tag/knitting%20factory
+  count: "0"
+- name: my discovery radio
+  url: http://www.last.fm/tag/my%20discovery%20radio
+  count: "0"
+- name: avexpoid
+  url: http://www.last.fm/tag/avexpoid
+  count: "0"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "0"
+- name: I Love NY
+  url: http://www.last.fm/tag/i%20love%20ny
+  count: "0"
+- name: psych-noise
+  url: http://www.last.fm/tag/psych-noise
+  count: "0"
+- name: LiVe SHowS
+  url: http://www.last.fm/tag/live%20shows
+  count: "0"
+- name: spilled beer
+  url: http://www.last.fm/tag/spilled%20beer
+  count: "0"
+- name: NOVEDAD
+  url: http://www.last.fm/tag/novedad
+  count: "0"
+- name: sfwlj
+  url: http://www.last.fm/tag/sfwlj
+  count: "0"
+- name: clappz
+  url: http://www.last.fm/tag/clappz
+  count: "0"
+- name: warmplastick
+  url: http://www.last.fm/tag/warmplastick
+  count: "0"
+- name: lysergica
+  url: http://www.last.fm/tag/lysergica
+  count: "0"
+- name: trance jams
+  url: http://www.last.fm/tag/trance%20jams
+  count: "0"
+- name: twinkles and fuzz
+  url: http://www.last.fm/tag/twinkles%20and%20fuzz
+  count: "0"
+- name: fucking good music
+  url: http://www.last.fm/tag/fucking%20good%20music
+  count: "0"
+- name: things i would like to hear more of
+  url: http://www.last.fm/tag/things%20i%20would%20like%20to%20hear%20more%20of
+  count: "0"
+- name: coffee flaps
+  url: http://www.last.fm/tag/coffee%20flaps
+  count: "0"
+- name: july playlist
+  url: http://www.last.fm/tag/july%20playlist
+  count: "0"
+- name: shimmer zimmer
+  url: http://www.last.fm/tag/shimmer%20zimmer
+  count: "0"
+- name: stoned japanese voice
+  url: http://www.last.fm/tag/stoned%20japanese%20voice
+  count: "0"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "0"
+- name: workok
+  url: http://www.last.fm/tag/workok
+  count: "0"
+- name: more please
+  url: http://www.last.fm/tag/more%20please
+  count: "0"
+- name: yessss
+  url: http://www.last.fm/tag/yessss
+  count: "0"
+- name: wantlist
+  url: http://www.last.fm/tag/wantlist
+  count: "0"

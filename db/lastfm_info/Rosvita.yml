@@ -1,0 +1,66 @@
+--- 
+name: Rosvita
+stats: 
+  playcount: "2374"
+  listeners: "241"
+similar: 
+  artist: 
+  - name: Decapante
+    url: http://www.last.fm/music/Decapante
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/3831215.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/3831215.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/3831215.jpg
+  - name: doss
+    url: http://www.last.fm/music/doss
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/352053.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/352053.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/352053.jpg
+  - name: Fantasy Bar
+    url: http://www.last.fm/music/Fantasy+Bar
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/8602573.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/8602573.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/8602573.jpg
+  - name: Schwarz
+    url: http://www.last.fm/music/Schwarz
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/55616.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/55616.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/55616.jpg
+  - name: "(lo:mu\xC3\xAAso)"
+    url: http://www.last.fm/music/%28lo%3Amu%C3%AAso%29
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/12840365.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/12840365.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/12840365.jpg
+url: http://www.last.fm/music/Rosvita
+mbid: ""
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/141774.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/141774.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/141774.jpg

@@ -1,0 +1,282 @@
+--- 
+artist: Crystal Stilts
+tag: 
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "75"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "50"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "47"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "20"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "15"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "15"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "10"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "10"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "10"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "7"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "7"
+- name: Follow me the wise man said
+  url: http://www.last.fm/tag/follow%20me%20the%20wise%20man%20said
+  count: "7"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "7"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "7"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "7"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "5"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "5"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "5"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "5"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "5"
+- name: best of 2008
+  url: http://www.last.fm/tag/best%20of%202008
+  count: "5"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "5"
+- name: brooklyn 00s
+  url: http://www.last.fm/tag/brooklyn%2000s
+  count: "5"
+- name: but he walked behind
+  url: http://www.last.fm/tag/but%20he%20walked%20behind
+  count: "5"
+- name: JAMC
+  url: http://www.last.fm/tag/jamc
+  count: "2"
+- name: Jesus And Mary Chain
+  url: http://www.last.fm/tag/jesus%20and%20mary%20chain
+  count: "2"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "2"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "2"
+- name: get this
+  url: http://www.last.fm/tag/get%20this
+  count: "2"
+- name: psychedelic surf
+  url: http://www.last.fm/tag/psychedelic%20surf
+  count: "2"
+- name: out pop
+  url: http://www.last.fm/tag/out%20pop
+  count: "2"
+- name: "2008"
+  url: http://www.last.fm/tag/2008
+  count: "2"
+- name: slumberland
+  url: http://www.last.fm/tag/slumberland
+  count: "2"
+- name: buy cd
+  url: http://www.last.fm/tag/buy%20cd
+  count: "2"
+- name: post-psychocandy
+  url: http://www.last.fm/tag/post-psychocandy
+  count: "2"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "2"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "2"
+- name: crystal stilts
+  url: http://www.last.fm/tag/crystal%20stilts
+  count: "2"
+- name: iggy meets velvets
+  url: http://www.last.fm/tag/iggy%20meets%20velvets
+  count: "2"
+- name: post-punk drone
+  url: http://www.last.fm/tag/post-punk%20drone
+  count: "2"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "2"
+- name: wrong wave
+  url: http://www.last.fm/tag/wrong%20wave
+  count: "2"
+- name: treemelody 08
+  url: http://www.last.fm/tag/treemelody%2008
+  count: "2"
+- name: aprobado ps 09
+  url: http://www.last.fm/tag/aprobado%20ps%2009
+  count: "2"
+- name: criterio
+  url: http://www.last.fm/tag/criterio
+  count: "2"
+- name: brus
+  url: http://www.last.fm/tag/brus
+  count: "2"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "2"
+- name: brooklyn shall rule
+  url: http://www.last.fm/tag/brooklyn%20shall%20rule
+  count: "2"
+- name: nu-crone
+  url: http://www.last.fm/tag/nu-crone
+  count: "2"
+- name: primavera sound 2008
+  url: http://www.last.fm/tag/primavera%20sound%202008
+  count: "2"
+- name: JAMC-like
+  url: http://www.last.fm/tag/jamc-like
+  count: "2"
+- name: dishwashercore
+  url: http://www.last.fm/tag/dishwashercore
+  count: "2"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "2"
+- name: goth
+  url: http://www.last.fm/tag/goth
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "2"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "2"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "2"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "2"
+- name: darkwave
+  url: http://www.last.fm/tag/darkwave
+  count: "2"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: retro rock
+  url: http://www.last.fm/tag/retro%20rock
+  count: "2"
+- name: neo psychedelia
+  url: http://www.last.fm/tag/neo%20psychedelia
+  count: "2"
+- name: wall of sound
+  url: http://www.last.fm/tag/wall%20of%20sound
+  count: "2"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "2"
+- name: tolisten
+  url: http://www.last.fm/tag/tolisten
+  count: "2"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "2"
+- name: jangly
+  url: http://www.last.fm/tag/jangly
+  count: "2"
+- name: neo-psychedelic
+  url: http://www.last.fm/tag/neo-psychedelic
+  count: "2"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "2"
+- name: loose
+  url: http://www.last.fm/tag/loose
+  count: "2"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "2"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "2"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "2"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "2"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Laverys
+  url: http://www.last.fm/tag/laverys
+  count: "0"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: dwars
+  url: http://www.last.fm/tag/dwars
+  count: "0"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "0"
+- name: new stuff
+  url: http://www.last.fm/tag/new%20stuff
+  count: "0"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "0"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "0"
+- name: Uudet
+  url: http://www.last.fm/tag/uudet
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: The Bad Plus
+tag: 
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "100"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "27"
+- name: contemporary jazz
+  url: http://www.last.fm/tag/contemporary%20jazz
+  count: "23"
+- name: free jazz
+  url: http://www.last.fm/tag/free%20jazz
+  count: "21"
+- name: piano
+  url: http://www.last.fm/tag/piano
+  count: "16"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "8"
+- name: Modern creative jazz
+  url: http://www.last.fm/tag/modern%20creative%20jazz
+  count: "7"
+- name: modern jazz
+  url: http://www.last.fm/tag/modern%20jazz
+  count: "6"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "5"
+- name: Fusion
+  url: http://www.last.fm/tag/fusion
+  count: "4"
+- name: jazz trio
+  url: http://www.last.fm/tag/jazz%20trio
+  count: "4"
+- name: the bad plus
+  url: http://www.last.fm/tag/the%20bad%20plus
+  count: "3"
+- name: lounge
+  url: http://www.last.fm/tag/lounge
+  count: "2"
+- name: jazz piano
+  url: http://www.last.fm/tag/jazz%20piano
+  count: "2"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "2"
+- name: experimental jazz
+  url: http://www.last.fm/tag/experimental%20jazz
+  count: "1"
+- name: jazz fusion
+  url: http://www.last.fm/tag/jazz%20fusion
+  count: "1"
+- name: Minnesota
+  url: http://www.last.fm/tag/minnesota
+  count: "1"
+- name: progressive jazz
+  url: http://www.last.fm/tag/progressive%20jazz
+  count: "1"
+- name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: Post-Bop
+  url: http://www.last.fm/tag/post-bop
+  count: "1"
+- name: covers
+  url: http://www.last.fm/tag/covers
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+  count: "1"
+- name: nu-jazz
+  url: http://www.last.fm/tag/nu-jazz
+  count: "1"
+- name: jazzy
+  url: http://www.last.fm/tag/jazzy
+  count: "1"
+- name: jazz-rock
+  url: http://www.last.fm/tag/jazz-rock
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: dave king
+  url: http://www.last.fm/tag/dave%20king
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: trio
+  url: http://www.last.fm/tag/trio
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: piano jazz
+  url: http://www.last.fm/tag/piano%20jazz
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: new jazz
+  url: http://www.last.fm/tag/new%20jazz
+  count: "0"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "0"
+- name: jazz moderne
+  url: http://www.last.fm/tag/jazz%20moderne
+  count: "0"
+- name: free-jazz
+  url: http://www.last.fm/tag/free-jazz
+  count: "0"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "0"
+- name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+  count: "0"
+- name: Jam
+  url: http://www.last.fm/tag/jam
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: modern
+  url: http://www.last.fm/tag/modern
+  count: "0"
+- name: improvisation
+  url: http://www.last.fm/tag/improvisation
+  count: "0"
+- name: New to me
+  url: http://www.last.fm/tag/new%20to%20me
+  count: "0"
+- name: j4zz13
+  url: http://www.last.fm/tag/j4zz13
+  count: "0"
+- name: cult band
+  url: http://www.last.fm/tag/cult%20band
+  count: "0"
+- name: jazz covers
+  url: http://www.last.fm/tag/jazz%20covers
+  count: "0"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "0"
+- name: mixing it
+  url: http://www.last.fm/tag/mixing%20it
+  count: "0"
+- name: jazz piano trio
+  url: http://www.last.fm/tag/jazz%20piano%20trio
+  count: "0"
+- name: Stromberg
+  url: http://www.last.fm/tag/stromberg
+  count: "0"
+- name: pop jazz
+  url: http://www.last.fm/tag/pop%20jazz
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: cream of the crop
+  url: http://www.last.fm/tag/cream%20of%20the%20crop
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: cover
+  url: http://www.last.fm/tag/cover
+  count: "0"
+- name: jars of clay
+  url: http://www.last.fm/tag/jars%20of%20clay
+  count: "0"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: great musicians
+  url: http://www.last.fm/tag/great%20musicians
+  count: "0"
+- name: oprachina
+  url: http://www.last.fm/tag/oprachina
+  count: "0"
+- name: essential jazz
+  url: http://www.last.fm/tag/essential%20jazz
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: ECM
+  url: http://www.last.fm/tag/ecm
+  count: "0"
+- name: Stuff Aaron made me listen to
+  url: http://www.last.fm/tag/stuff%20aaron%20made%20me%20listen%20to
+  count: "0"
+- name: "66"
+  url: http://www.last.fm/tag/66
+  count: "0"
+- name: Coupling beauty
+  url: http://www.last.fm/tag/coupling%20beauty
+  count: "0"
+- name: consider
+  url: http://www.last.fm/tag/consider
+  count: "0"
+- name: LiVe SHowS
+  url: http://www.last.fm/tag/live%20shows
+  count: "0"
+- name: young and free
+  url: http://www.last.fm/tag/young%20and%20free
+  count: "0"
+- name: power jazz
+  url: http://www.last.fm/tag/power%20jazz
+  count: "0"
+- name: munoma
+  url: http://www.last.fm/tag/munoma
+  count: "0"
+- name: unforgettable live shows
+  url: http://www.last.fm/tag/unforgettable%20live%20shows
+  count: "0"
+- name: Chez Jez
+  url: http://www.last.fm/tag/chez%20jez
+  count: "0"
+- name: eine kleine jassmusik
+  url: http://www.last.fm/tag/eine%20kleine%20jassmusik
+  count: "0"
+- name: fucked
+  url: http://www.last.fm/tag/fucked
+  count: "0"
+- name: wanttobuy
+  url: http://www.last.fm/tag/wanttobuy
+  count: "0"
+- name: achingly intelligent
+  url: http://www.last.fm/tag/achingly%20intelligent
+  count: "0"
+- name: Investigate more
+  url: http://www.last.fm/tag/investigate%20more
+  count: "0"
+- name: explore more
+  url: http://www.last.fm/tag/explore%20more
+  count: "0"
+- name: Hear
+  url: http://www.last.fm/tag/hear
+  count: "0"
+- name: highly underrated
+  url: http://www.last.fm/tag/highly%20underrated
+  count: "0"
+- name: jazz1
+  url: http://www.last.fm/tag/jazz1
+  count: "0"
+- name: Calme
+  url: http://www.last.fm/tag/calme
+  count: "0"
+- name: remember this
+  url: http://www.last.fm/tag/remember%20this
+  count: "0"
+- name: brew-set
+  url: http://www.last.fm/tag/brew-set
+  count: "0"
+- name: from Minnesota
+  url: http://www.last.fm/tag/from%20minnesota
+  count: "0"
+- name: halftoned singles club
+  url: http://www.last.fm/tag/halftoned%20singles%20club
+  count: "0"
+- name: FIR
+  url: http://www.last.fm/tag/fir
+  count: "0"
+- name: to explore
+  url: http://www.last.fm/tag/to%20explore
+  count: "0"
+- name: Jazzz
+  url: http://www.last.fm/tag/jazzz
+  count: "0"
+- name: suzanne vega
+  url: http://www.last.fm/tag/suzanne%20vega
+  count: "0"
+- name: robert palmer
+  url: http://www.last.fm/tag/robert%20palmer
+  count: "0"

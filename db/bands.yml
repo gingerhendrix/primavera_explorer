@@ -1,0 +1,175 @@
+--- 
+- :name: A-Trak
+  :id: artist_A_Trak
+- :name: A Certain Ratio
+  :id: artist_A_Certain_Ratio
+- :name: Alela Diane
+  :id: artist_Alela_Diane
+- :name: Andrew Bird
+  :id: artist_Andrew_Bird
+- :name: Angelo Spencer
+  :id: artist_Angelo_Spencer
+- :name: Aphex Twin
+  :id: artist_Aphex_Twin
+- :name: Ariel Pink
+  :id: artist_Ariel_Pink
+- :name: Art Brut
+  :id: artist_Art_Brut
+- :name: The Bad Plus
+  :id: artist_The_Bad_Plus
+- :name: Bat For Lashes
+  :id: artist_Bat_For_Lashes
+- :name: Black Lips
+  :id: artist_Black_Lips
+- :name: Bloc Party
+  :id: artist_Bloc_Party
+- :name: Bowerbirds
+  :id: artist_Bowerbirds
+- :name: The Bug
+  :id: artist_The_Bug
+- :name: Carsick Cars
+  :id: artist_Carsick_Cars
+- :name: Crystal Antlers
+  :id: artist_Crystal_Antlers
+- :name: Crystal Stilts
+  :id: artist_Crystal_Stilts
+- :name: Cuzo
+  :id: artist_Cuzo
+- :name: Chad VanGaalen
+  :id: artist_Chad_VanGaalen
+- :name: Damien Jurado
+  :id: artist_Damien_Jurado
+- :name: Dan Deacon Ensemble
+  :id: artist_Dan_Deacon_Ensemble
+- :name: Deerhunter
+  :id: artist_Deerhunter
+- :name: Dj Mehdi
+  :id: artist_Dj_Mehdi
+- :name: The Drones
+  :id: artist_The_Drones
+- :name: Ebony Bones
+  :id: artist_Ebony_Bones
+- :name: El-P
+  :id: artist_El_P
+- :name: Extra Life
+  :id: artist_Extra_Life
+- :name: The Extraordinaires
+  :id: artist_The_Extraordinaires
+- :name: Extraperlo
+  :id: artist_Extraperlo
+- :name: Fucked Up
+  :id: artist_Fucked_Up
+- :name: Gang Gang Dance
+  :id: artist_Gang_Gang_Dance
+- :name: Ghostface Killah
+  :id: artist_Ghostface_Killah
+- :name: Girl Talk
+  :id: artist_Girl_Talk
+- :name: Girls
+  :id: artist_Girls
+- :name: Jarvis Cocker
+  :id: artist_Jarvis_Cocker
+- :name: Jason Lytle from Grandaddy
+  :id: artist_Jason_Lytle_from_Grandaddy
+- :name: Jay Reatard
+  :id: artist_Jay_Reatard
+- :name: The Jayhawks
+  :id: artist_The_Jayhawks
+- :name: The Jesus Lizard
+  :id: artist_The_Jesus_Lizard
+- :name: "Joe Crep\xC3\xBAsculo y Los Destructores"
+  :id: artist_Joe_Crep__sculo_y_Los_Destructores
+- :name: Joe Henry
+  :id: artist_Joe_Henry
+- :name: John Maus
+  :id: artist_John_Maus
+- :name: Karl Blau
+  :id: artist_Karl_Blau
+- :name: Kimya Dawson
+  :id: artist_Kimya_Dawson
+- :name: Kitty Daisy and Lewis
+  :id: artist_Kitty_Daisy_and_Lewis
+- :name: Lemonade
+  :id: artist_Lemonade
+- :name: Lightning Bolt
+  :id: artist_Lightning_Bolt
+- :name: The Lions Constellation
+  :id: artist_The_Lions_Constellation
+- :name: The Mae Shi
+  :id: artist_The_Mae_Shi
+- :name: Magik Markers
+  :id: artist_Magik_Markers
+- :name: Magnolia Electric Co.
+  :id: artist_Magnolia_Electric_Co_
+- :name: Mahjongg
+  :id: artist_Mahjongg
+- :name: Marnie Stern
+  :id: artist_Marnie_Stern
+- :name: Michael Mayer
+  :id: artist_Michael_Mayer
+- :name: Michael Nyman
+  :id: artist_Michael_Nyman
+- :name: My Bloody Valentine
+  :id: artist_My_Bloody_Valentine
+- :name: Neil Young
+  :id: artist_Neil_Young
+- :name: The New Year
+  :id: artist_The_New_Year
+- :name: Oneida
+  :id: artist_Oneida
+- :name: The Pains Of Being Pure At Heart
+  :id: artist_The_Pains_Of_Being_Pure_At_Heart
+- :name: Phoenix
+  :id: artist_Phoenix
+- :name: Plants and Animals
+  :id: artist_Plants_and_Animals
+- :name: Ponytail
+  :id: artist_Ponytail
+- :name: Rosvita
+  :id: artist_Rosvita
+- :name: The Secret Society
+  :id: artist_The_Secret_Society
+- :name: Shearwater
+  :id: artist_Shearwater
+- :name: Shellac
+  :id: artist_Shellac
+- :name: Simian Mobile Disco
+  :id: artist_Simian_Mobile_Disco
+- :name: "Skateb\xC3\xA5rd"
+  :id: artist_Skateb__rd
+- :name: Sleepy Sun
+  :id: artist_Sleepy_Sun
+- :name: The Soft Pack
+  :id: artist_The_Soft_Pack
+- :name: Sonic Youth
+  :id: artist_Sonic_Youth
+- :name: Spectrum
+  :id: artist_Spectrum
+- :name: Spiritualized
+  :id: artist_Spiritualized
+- :name: Squarepusher
+  :id: artist_Squarepusher
+- :name: Sunn O))) performing "The Grimmerobe Demos"
+  :id: artist_Sunn_O____performing__The_Grimmerobe_Demos_
+- :name: The Tallest Man On Earth
+  :id: artist_The_Tallest_Man_On_Earth
+- :name: Throwing Muses
+  :id: artist_Throwing_Muses
+- :name: Uffie
+  :id: artist_Uffie
+- :name: The Vaselines
+  :id: artist_The_Vaselines
+- :name: Veracruz
+  :id: artist_Veracruz
+- :name: Vivian Girls
+  :id: artist_Vivian_Girls
+- :name: Wavves
+  :id: artist_Wavves
+- :name: Women
+  :id: artist_Women
+- :name: Wooden Shjips
+  :id: artist_Wooden_Shjips
+- :name: Yo La Tengo
+  :id: artist_Yo_La_Tengo
+- :name: Zombie Zombie
+  :id: artist_Zombie_Zombie

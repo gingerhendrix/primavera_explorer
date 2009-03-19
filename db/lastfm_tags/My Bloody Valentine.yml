@@ -1,0 +1,303 @@
+--- 
+artist: My Bloody Valentine
+tag: 
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "38"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "29"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "25"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "18"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "13"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "10"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "9"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "6"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "6"
+- name: irish
+  url: http://www.last.fm/tag/irish
+  count: "5"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "5"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "3"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "2"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "2"
+- name: shoegazing
+  url: http://www.last.fm/tag/shoegazing
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "1"
+- name: my bloody valentine
+  url: http://www.last.fm/tag/my%20bloody%20valentine
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: ireland
+  url: http://www.last.fm/tag/ireland
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "0"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: wall of sound
+  url: http://www.last.fm/tag/wall%20of%20sound
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: dublin
+  url: http://www.last.fm/tag/dublin
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: creation
+  url: http://www.last.fm/tag/creation
+  count: "0"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "0"
+- name: kevin shields
+  url: http://www.last.fm/tag/kevin%20shields
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: Dream
+  url: http://www.last.fm/tag/dream
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: creation records
+  url: http://www.last.fm/tag/creation%20records
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: alternative pop rock
+  url: http://www.last.fm/tag/alternative%20pop%20rock
+  count: "0"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: brit rock
+  url: http://www.last.fm/tag/brit%20rock
+  count: "0"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "0"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "0"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "0"
+- name: distortion
+  url: http://www.last.fm/tag/distortion
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "0"
+- name: lush
+  url: http://www.last.fm/tag/lush
+  count: "0"
+- name: drone rock
+  url: http://www.last.fm/tag/drone%20rock
+  count: "0"
+- name: goth
+  url: http://www.last.fm/tag/goth
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: darkwave
+  url: http://www.last.fm/tag/darkwave
+  count: "0"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: sensual
+  url: http://www.last.fm/tag/sensual
+  count: "0"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: dream rock
+  url: http://www.last.fm/tag/dream%20rock
+  count: "0"
+- name: moody
+  url: http://www.last.fm/tag/moody
+  count: "0"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "0"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"

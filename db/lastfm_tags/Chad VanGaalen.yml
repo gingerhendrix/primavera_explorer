@@ -1,0 +1,303 @@
+--- 
+artist: Chad VanGaalen
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "92"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "73"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "52"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "23"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "19"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "14"
+- name: Calgary
+  url: http://www.last.fm/tag/calgary
+  count: "14"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "12"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "10"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "10"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "8"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "8"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "5"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "5"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "3"
+- name: underrated
+  url: http://www.last.fm/tag/underrated
+  count: "3"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "3"
+- name: yeah
+  url: http://www.last.fm/tag/yeah
+  count: "2"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "2"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "2"
+- name: up and coming
+  url: http://www.last.fm/tag/up%20and%20coming
+  count: "2"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "2"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "2"
+- name: Alberta
+  url: http://www.last.fm/tag/alberta
+  count: "2"
+- name: sorta emo
+  url: http://www.last.fm/tag/sorta%20emo
+  count: "1"
+- name: twinkles and fuzz
+  url: http://www.last.fm/tag/twinkles%20and%20fuzz
+  count: "1"
+- name: you need to hear this
+  url: http://www.last.fm/tag/you%20need%20to%20hear%20this
+  count: "1"
+- name: art fag backlash
+  url: http://www.last.fm/tag/art%20fag%20backlash
+  count: "1"
+- name: i want to live in canada
+  url: http://www.last.fm/tag/i%20want%20to%20live%20in%20canada
+  count: "1"
+- name: candy hearts and cakes
+  url: http://www.last.fm/tag/candy%20hearts%20and%20cakes
+  count: "1"
+- name: depressingly wonderful
+  url: http://www.last.fm/tag/depressingly%20wonderful
+  count: "1"
+- name: top albuns 2006
+  url: http://www.last.fm/tag/top%20albuns%202006
+  count: "1"
+- name: yet to be explored
+  url: http://www.last.fm/tag/yet%20to%20be%20explored
+  count: "1"
+- name: Baustar
+  url: http://www.last.fm/tag/baustar
+  count: "1"
+- name: dammit they are not on Delit
+  url: http://www.last.fm/tag/dammit%20they%20are%20not%20on%20delit
+  count: "1"
+- name: electro indie rock
+  url: http://www.last.fm/tag/electro%20indie%20rock
+  count: "1"
+- name: jesus loves this man
+  url: http://www.last.fm/tag/jesus%20loves%20this%20man
+  count: "1"
+- name: need to get this
+  url: http://www.last.fm/tag/need%20to%20get%20this
+  count: "1"
+- name: get em
+  url: http://www.last.fm/tag/get%20em
+  count: "1"
+- name: Slow-coustic
+  url: http://www.last.fm/tag/slow-coustic
+  count: "1"
+- name: beard rock
+  url: http://www.last.fm/tag/beard%20rock
+  count: "1"
+- name: indie shoegaze
+  url: http://www.last.fm/tag/indie%20shoegaze
+  count: "1"
+- name: sub pop bands
+  url: http://www.last.fm/tag/sub%20pop%20bands
+  count: "1"
+- name: recommendation
+  url: http://www.last.fm/tag/recommendation
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: music to listen to
+  url: http://www.last.fm/tag/music%20to%20listen%20to
+  count: "1"
+- name: the discovery channel
+  url: http://www.last.fm/tag/the%20discovery%20channel
+  count: "1"
+- name: best of 2006
+  url: http://www.last.fm/tag/best%20of%202006
+  count: "1"
+- name: NorthernScene
+  url: http://www.last.fm/tag/northernscene
+  count: "1"
+- name: Calgarians
+  url: http://www.last.fm/tag/calgarians
+  count: "1"
+- name: pulentos
+  url: http://www.last.fm/tag/pulentos
+  count: "1"
+- name: Give it a listen
+  url: http://www.last.fm/tag/give%20it%20a%20listen
+  count: "1"
+- name: shoegaze dream-pop-phyche
+  url: http://www.last.fm/tag/shoegaze%20dream-pop-phyche
+  count: "1"
+- name: sasquatch 2006
+  url: http://www.last.fm/tag/sasquatch%202006
+  count: "1"
+- name: o-hara
+  url: http://www.last.fm/tag/o-hara
+  count: "1"
+- name: lofidelica
+  url: http://www.last.fm/tag/lofidelica
+  count: "1"
+- name: I really like you
+  url: http://www.last.fm/tag/i%20really%20like%20you
+  count: "1"
+- name: music to check out future
+  url: http://www.last.fm/tag/music%20to%20check%20out%20future
+  count: "1"
+- name: zone acoustic
+  url: http://www.last.fm/tag/zone%20acoustic
+  count: "1"
+- name: lasommadidue
+  url: http://www.last.fm/tag/lasommadidue
+  count: "1"
+- name: autumn breeze
+  url: http://www.last.fm/tag/autumn%20breeze
+  count: "1"
+- name: amay-thing
+  url: http://www.last.fm/tag/amay-thing
+  count: "1"
+- name: horstaxe
+  url: http://www.last.fm/tag/horstaxe
+  count: "1"
+- name: i am witness
+  url: http://www.last.fm/tag/i%20am%20witness
+  count: "1"
+- name: sorchi
+  url: http://www.last.fm/tag/sorchi
+  count: "1"
+- name: zone indie
+  url: http://www.last.fm/tag/zone%20indie
+  count: "1"
+- name: oh so simple
+  url: http://www.last.fm/tag/oh%20so%20simple
+  count: "1"
+- name: mas de una vez
+  url: http://www.last.fm/tag/mas%20de%20una%20vez
+  count: "1"
+- name: lying on my back chasing clouds
+  url: http://www.last.fm/tag/lying%20on%20my%20back%20chasing%20clouds
+  count: "1"
+- name: canadian spirit
+  url: http://www.last.fm/tag/canadian%20spirit
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: neil young-ish
+  url: http://www.last.fm/tag/neil%20young-ish
+  count: "1"
+- name: canada didnt only give us nickelback they give us nice stuff too
+  url: http://www.last.fm/tag/canada%20didnt%20only%20give%20us%20nickelback%20they%20give%20us%20nice%20stuff%20too
+  count: "1"
+- name: dinner 2009
+  url: http://www.last.fm/tag/dinner%202009
+  count: "1"
+- name: tummenupp
+  url: http://www.last.fm/tag/tummenupp
+  count: "1"
+- name: devendras happy radio
+  url: http://www.last.fm/tag/devendras%20happy%20radio
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: canada love
+  url: http://www.last.fm/tag/canada%20love
+  count: "1"
+- name: OMG sensitive boy feelings
+  url: http://www.last.fm/tag/omg%20sensitive%20boy%20feelings
+  count: "1"
+- name: Closet 4 Track Indie
+  url: http://www.last.fm/tag/closet%204%20track%20indie
+  count: "1"
+- name: stuff that makes my auditory nerves smile
+  url: http://www.last.fm/tag/stuff%20that%20makes%20my%20auditory%20nerves%20smile
+  count: "1"
+- name: seen live and was sober enough to remember it
+  url: http://www.last.fm/tag/seen%20live%20and%20was%20sober%20enough%20to%20remember%20it
+  count: "1"
+- name: people who enjoy making love to their guitar mistresses in public aka the singer-songwriter syndrome victims
+  url: http://www.last.fm/tag/people%20who%20enjoy%20making%20love%20to%20their%20guitar%20mistresses%20in%20public%20aka%20the%20singer-songwriter%20syndrome%20victims
+  count: "1"
+- name: calgary love
+  url: http://www.last.fm/tag/calgary%20love
+  count: "1"
+- name: on-the-road
+  url: http://www.last.fm/tag/on-the-road
+  count: "1"
+- name: lonely sounds
+  url: http://www.last.fm/tag/lonely%20sounds
+  count: "1"
+- name: Our home and native land
+  url: http://www.last.fm/tag/our%20home%20and%20native%20land
+  count: "1"
+- name: pop montreal 2007
+  url: http://www.last.fm/tag/pop%20montreal%202007
+  count: "1"
+- name: Ooooo I Quite Like This
+  url: http://www.last.fm/tag/ooooo%20i%20quite%20like%20this
+  count: "1"
+- name: ablage
+  url: http://www.last.fm/tag/ablage
+  count: "1"
+- name: killah kanook
+  url: http://www.last.fm/tag/killah%20kanook
+  count: "1"
+- name: bands that played in vera
+  url: http://www.last.fm/tag/bands%20that%20played%20in%20vera
+  count: "1"
+- name: guzel-datlu-hos
+  url: http://www.last.fm/tag/guzel-datlu-hos
+  count: "1"
+- name: leichtsinn
+  url: http://www.last.fm/tag/leichtsinn
+  count: "1"
+- name: indiegold
+  url: http://www.last.fm/tag/indiegold
+  count: "1"
+- name: exploresoundof
+  url: http://www.last.fm/tag/exploresoundof
+  count: "1"
+- name: chill out
+  url: http://www.last.fm/tag/chill%20out
+  count: "1"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"

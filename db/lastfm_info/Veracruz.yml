@@ -1,0 +1,66 @@
+--- 
+name: Veracruz
+stats: 
+  playcount: "6561"
+  listeners: "578"
+similar: 
+  artist: 
+  - name: "Campamento \xC3\x91ec \xC3\x91ec"
+    url: http://www.last.fm/music/Campamento+%C3%91ec+%C3%91ec
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/12004733.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/12004733.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/12004733.jpg
+  - name: Albaialeix
+    url: http://www.last.fm/music/Albaialeix
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/21548405.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/21548405.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/21548405.jpg
+  - name: Bedroom
+    url: http://www.last.fm/music/Bedroom
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/18039061.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/18039061.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/18039061.jpg
+  - name: Joe Crepusculo
+    url: http://www.last.fm/music/Joe+Crepusculo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/5380043.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/5380043.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/5380043.jpg
+  - name: Los Punsetes
+    url: http://www.last.fm/music/Los+Punsetes
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/420803.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/420803.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/420803.jpg
+url: http://www.last.fm/music/Veracruz
+mbid: 1b2c9091-521e-4661-af2c-f9d8582bdf2c
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/7773031.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/7773031.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/7773031.jpg

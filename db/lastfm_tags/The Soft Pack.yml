@@ -1,0 +1,45 @@
+--- 
+artist: The Soft Pack
+tag: 
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "100"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "100"
+- name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+  count: "100"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: roskilde 09
+  url: http://www.last.fm/tag/roskilde%2009
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: Roskilde 2009
+  url: http://www.last.fm/tag/roskilde%202009
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: Roskilde
+  url: http://www.last.fm/tag/roskilde
+  count: "0"
+- name: 3hive
+  url: http://www.last.fm/tag/3hive
+  count: "0"
+- name: parasites
+  url: http://www.last.fm/tag/parasites
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"

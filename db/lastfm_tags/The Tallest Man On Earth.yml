@@ -1,0 +1,285 @@
+--- 
+artist: The Tallest Man on Earth
+tag: 
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "100"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "48"
+- name: swedish
+  url: http://www.last.fm/tag/swedish
+  count: "45"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "36"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "19"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "8"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "7"
+- name: poetry
+  url: http://www.last.fm/tag/poetry
+  count: "4"
+- name: minimalistic folk
+  url: http://www.last.fm/tag/minimalistic%20folk
+  count: "4"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "4"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "4"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "2"
+- name: Sweden
+  url: http://www.last.fm/tag/sweden
+  count: "2"
+- name: Bob Dylan
+  url: http://www.last.fm/tag/bob%20dylan
+  count: "2"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "2"
+- name: awsome
+  url: http://www.last.fm/tag/awsome
+  count: "2"
+- name: pure awesomness
+  url: http://www.last.fm/tag/pure%20awesomness
+  count: "1"
+- name: superguay
+  url: http://www.last.fm/tag/superguay
+  count: "1"
+- name: a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campfire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "1"
+- name: and they rode on in the friscalating dusklight
+  url: http://www.last.fm/tag/and%20they%20rode%20on%20in%20the%20friscalating%20dusklight
+  count: "1"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "1"
+- name: king kong kitchie kitchie ki-me-o
+  url: http://www.last.fm/tag/king%20kong%20kitchie%20kitchie%20ki-me-o
+  count: "1"
+- name: like a viking
+  url: http://www.last.fm/tag/like%20a%20viking
+  count: "1"
+- name: get em
+  url: http://www.last.fm/tag/get%20em
+  count: "1"
+- name: canela en rama
+  url: http://www.last.fm/tag/canela%20en%20rama
+  count: "1"
+- name: dylan-esque
+  url: http://www.last.fm/tag/dylan-esque
+  count: "1"
+- name: acoustique
+  url: http://www.last.fm/tag/acoustique
+  count: "1"
+- name: fein
+  url: http://www.last.fm/tag/fein
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: fucking awsome
+  url: http://www.last.fm/tag/fucking%20awsome
+  count: "1"
+- name: Cantautore
+  url: http://www.last.fm/tag/cantautore
+  count: "1"
+- name: artists to check out
+  url: http://www.last.fm/tag/artists%20to%20check%20out
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: devendras happy radio
+  url: http://www.last.fm/tag/devendras%20happy%20radio
+  count: "1"
+- name: aprobado ps09
+  url: http://www.last.fm/tag/aprobado%20ps09
+  count: "1"
+- name: will you go out with me
+  url: http://www.last.fm/tag/will%20you%20go%20out%20with%20me
+  count: "1"
+- name: radiobutt
+  url: http://www.last.fm/tag/radiobutt
+  count: "1"
+- name: Wannabe Bob Dylan
+  url: http://www.last.fm/tag/wannabe%20bob%20dylan
+  count: "1"
+- name: nbt connected
+  url: http://www.last.fm/tag/nbt%20connected
+  count: "1"
+- name: a smattering sans screaming
+  url: http://www.last.fm/tag/a%20smattering%20sans%20screaming
+  count: "1"
+- name: need to keep an eye on
+  url: http://www.last.fm/tag/need%20to%20keep%20an%20eye%20on
+  count: "1"
+- name: july 2008
+  url: http://www.last.fm/tag/july%202008
+  count: "1"
+- name: i am witness
+  url: http://www.last.fm/tag/i%20am%20witness
+  count: "1"
+- name: teviotfriendly
+  url: http://www.last.fm/tag/teviotfriendly
+  count: "1"
+- name: still waters run deep
+  url: http://www.last.fm/tag/still%20waters%20run%20deep
+  count: "1"
+- name: njv
+  url: http://www.last.fm/tag/njv
+  count: "1"
+- name: singer-songwriter deluxe
+  url: http://www.last.fm/tag/singer-songwriter%20deluxe
+  count: "1"
+- name: SWEDENOWNAGE
+  url: http://www.last.fm/tag/swedenownage
+  count: "1"
+- name: heartbreaking voice
+  url: http://www.last.fm/tag/heartbreaking%20voice
+  count: "1"
+- name: singer-songweiter
+  url: http://www.last.fm/tag/singer-songweiter
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: swedish rock
+  url: http://www.last.fm/tag/swedish%20rock
+  count: "1"
+- name: Calming
+  url: http://www.last.fm/tag/calming
+  count: "1"
+- name: Alternative Folk
+  url: http://www.last.fm/tag/alternative%20folk
+  count: "1"
+- name: folkies
+  url: http://www.last.fm/tag/folkies
+  count: "1"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "1"
+- name: Love it
+  url: http://www.last.fm/tag/love%20it
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: scandinavian
+  url: http://www.last.fm/tag/scandinavian
+  count: "1"
+- name: alt-folk
+  url: http://www.last.fm/tag/alt-folk
+  count: "1"
+- name: singer and songwriter
+  url: http://www.last.fm/tag/singer%20and%20songwriter
+  count: "1"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "1"
+- name: country blues
+  url: http://www.last.fm/tag/country%20blues
+  count: "1"
+- name: folk-blues
+  url: http://www.last.fm/tag/folk-blues
+  count: "1"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: seen him live
+  url: http://www.last.fm/tag/seen%20him%20live
+  count: "1"
+- name: gemuetlich
+  url: http://www.last.fm/tag/gemuetlich
+  count: "1"
+- name: country
+  url: http://www.last.fm/tag/country
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "1"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "1"
+- name: Dylan
+  url: http://www.last.fm/tag/dylan
+  count: "1"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "1"
+- name: banjo
+  url: http://www.last.fm/tag/banjo
+  count: "1"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "1"
+- name: alt folk
+  url: http://www.last.fm/tag/alt%20folk
+  count: "1"
+- name: like it
+  url: http://www.last.fm/tag/like%20it
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: Tallest Man On The Earth
+  url: http://www.last.fm/tag/tallest%20man%20on%20the%20earth
+  count: "0"
+- name: To and Fro
+  url: http://www.last.fm/tag/to%20and%20fro
+  count: "0"
+- name: kdvs cool as folk
+  url: http://www.last.fm/tag/kdvs%20cool%20as%20folk
+  count: "0"
+- name: nsbm
+  url: http://www.last.fm/tag/nsbm
+  count: "0"
+- name: folkish
+  url: http://www.last.fm/tag/folkish
+  count: "0"
+- name: gothic kircore
+  url: http://www.last.fm/tag/gothic%20kircore
+  count: "0"
+- name: National Socialistic Black Metal
+  url: http://www.last.fm/tag/national%20socialistic%20black%20metal
+  count: "0"
+- name: blowjob
+  url: http://www.last.fm/tag/blowjob
+  count: "0"
+- name: lolcore
+  url: http://www.last.fm/tag/lolcore
+  count: "0"
+- name: checkitout
+  url: http://www.last.fm/tag/checkitout
+  count: "0"
+- name: national socialist black metal
+  url: http://www.last.fm/tag/national%20socialist%20black%20metal
+  count: "0"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "0"

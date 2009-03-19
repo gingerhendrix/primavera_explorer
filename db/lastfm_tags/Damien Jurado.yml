@@ -1,0 +1,303 @@
+--- 
+artist: Damien Jurado
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "92"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "69"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "46"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "33"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "30"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "28"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "24"
+- name: seattle
+  url: http://www.last.fm/tag/seattle
+  count: "18"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "17"
+- name: Slow-coustic
+  url: http://www.last.fm/tag/slow-coustic
+  count: "17"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "16"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "16"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "16"
+- name: alt country
+  url: http://www.last.fm/tag/alt%20country
+  count: "16"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "16"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "16"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "16"
+- name: folk noir
+  url: http://www.last.fm/tag/folk%20noir
+  count: "15"
+- name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+  count: "14"
+- name: indie-folk
+  url: http://www.last.fm/tag/indie-folk
+  count: "14"
+- name: songwriter
+  url: http://www.last.fm/tag/songwriter
+  count: "14"
+- name: singer-songwriters
+  url: http://www.last.fm/tag/singer-songwriters
+  count: "14"
+- name: slow
+  url: http://www.last.fm/tag/slow
+  count: "14"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "14"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "14"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "14"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "14"
+- name: quiet
+  url: http://www.last.fm/tag/quiet
+  count: "14"
+- name: emotional
+  url: http://www.last.fm/tag/emotional
+  count: "14"
+- name: SingerSongwriters
+  url: http://www.last.fm/tag/singersongwriters
+  count: "14"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "14"
+- name: folk me
+  url: http://www.last.fm/tag/folk%20me
+  count: "14"
+- name: country
+  url: http://www.last.fm/tag/country
+  count: "14"
+- name: winter
+  url: http://www.last.fm/tag/winter
+  count: "14"
+- name: neofreak-folk
+  url: http://www.last.fm/tag/neofreak-folk
+  count: "13"
+- name: Post Folk
+  url: http://www.last.fm/tag/post%20folk
+  count: "13"
+- name: lyrics
+  url: http://www.last.fm/tag/lyrics
+  count: "13"
+- name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+  count: "13"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "13"
+- name: moody
+  url: http://www.last.fm/tag/moody
+  count: "13"
+- name: calm
+  url: http://www.last.fm/tag/calm
+  count: "13"
+- name: quiet voices
+  url: http://www.last.fm/tag/quiet%20voices
+  count: "13"
+- name: Great Lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+  count: "13"
+- name: independent
+  url: http://www.last.fm/tag/independent
+  count: "13"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "13"
+- name: great lyrics
+  url: http://www.last.fm/tag/great%20lyrics
+  count: "13"
+- name: hippie
+  url: http://www.last.fm/tag/hippie
+  count: "13"
+- name: lo fi
+  url: http://www.last.fm/tag/lo%20fi
+  count: "13"
+- name: quiet  music
+  url: http://www.last.fm/tag/quiet%20%20music
+  count: "13"
+- name: short song
+  url: http://www.last.fm/tag/short%20song
+  count: "13"
+- name: Sleep
+  url: http://www.last.fm/tag/sleep
+  count: "13"
+- name: chamber folk
+  url: http://www.last.fm/tag/chamber%20folk
+  count: "13"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "13"
+- name: Concentration
+  url: http://www.last.fm/tag/concentration
+  count: "13"
+- name: Alternative Folk
+  url: http://www.last.fm/tag/alternative%20folk
+  count: "13"
+- name: euphoric misery
+  url: http://www.last.fm/tag/euphoric%20misery
+  count: "13"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "12"
+- name: gentle
+  url: http://www.last.fm/tag/gentle
+  count: "12"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "12"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "12"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "12"
+- name: alternative country
+  url: http://www.last.fm/tag/alternative%20country
+  count: "12"
+- name: intimate
+  url: http://www.last.fm/tag/intimate
+  count: "12"
+- name: sadcore
+  url: http://www.last.fm/tag/sadcore
+  count: "12"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "12"
+- name: romantic
+  url: http://www.last.fm/tag/romantic
+  count: "12"
+- name: dramatic
+  url: http://www.last.fm/tag/dramatic
+  count: "12"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "12"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "12"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "12"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "12"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "12"
+- name: neo-acoustic
+  url: http://www.last.fm/tag/neo-acoustic
+  count: "12"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "11"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "11"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "11"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "11"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "10"
+- name: favorite songs
+  url: http://www.last.fm/tag/favorite%20songs
+  count: "10"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "10"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "9"
+- name: albums I own
+  url: http://www.last.fm/tag/albums%20i%20own
+  count: "9"
+- name: washington
+  url: http://www.last.fm/tag/washington
+  count: "9"
+- name: community
+  url: http://www.last.fm/tag/community
+  count: "9"
+- name: ironic
+  url: http://www.last.fm/tag/ironic
+  count: "9"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "7"
+- name: northwest
+  url: http://www.last.fm/tag/northwest
+  count: "6"
+- name: strings
+  url: http://www.last.fm/tag/strings
+  count: "6"
+- name: tracks
+  url: http://www.last.fm/tag/tracks
+  count: "6"
+- name: banjo
+  url: http://www.last.fm/tag/banjo
+  count: "6"
+- name: cello
+  url: http://www.last.fm/tag/cello
+  count: "5"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "5"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "5"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "5"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "5"
+- name: harp
+  url: http://www.last.fm/tag/harp
+  count: "5"
+- name: flute
+  url: http://www.last.fm/tag/flute
+  count: "4"
+- name: clarinet
+  url: http://www.last.fm/tag/clarinet
+  count: "4"

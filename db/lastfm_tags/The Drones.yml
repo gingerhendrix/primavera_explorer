@@ -1,0 +1,303 @@
+--- 
+artist: The Drones
+tag: 
+- name: australian
+  url: http://www.last.fm/tag/australian
+  count: "100"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "80"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "58"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "52"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "44"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "30"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "16"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "13"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "13"
+- name: haldern 2007
+  url: http://www.last.fm/tag/haldern%202007
+  count: "11"
+- name: 77 style punk
+  url: http://www.last.fm/tag/77%20style%20punk
+  count: "11"
+- name: melbourne
+  url: http://www.last.fm/tag/melbourne
+  count: "11"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "8"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "8"
+- name: Aussie
+  url: http://www.last.fm/tag/aussie
+  count: "8"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "8"
+- name: ATP 2007
+  url: http://www.last.fm/tag/atp%202007
+  count: "5"
+- name: British Punk
+  url: http://www.last.fm/tag/british%20punk
+  count: "5"
+- name: 77 punk
+  url: http://www.last.fm/tag/77%20punk
+  count: "5"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "5"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "5"
+- name: Punk77
+  url: http://www.last.fm/tag/punk77
+  count: "5"
+- name: Classic Punk
+  url: http://www.last.fm/tag/classic%20punk
+  count: "5"
+- name: australicana
+  url: http://www.last.fm/tag/australicana
+  count: "5"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "5"
+- name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+  count: "5"
+- name: Sharing is Caring
+  url: http://www.last.fm/tag/sharing%20is%20caring
+  count: "2"
+- name: EEUU
+  url: http://www.last.fm/tag/eeuu
+  count: "2"
+- name: punk blues
+  url: http://www.last.fm/tag/punk%20blues
+  count: "2"
+- name: four piece
+  url: http://www.last.fm/tag/four%20piece
+  count: "2"
+- name: australian garage
+  url: http://www.last.fm/tag/australian%20garage
+  count: "2"
+- name: Punk 77
+  url: http://www.last.fm/tag/punk%2077
+  count: "2"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "2"
+- name: australian indie something
+  url: http://www.last.fm/tag/australian%20indie%20something
+  count: "2"
+- name: post-garagecore
+  url: http://www.last.fm/tag/post-garagecore
+  count: "2"
+- name: find out more
+  url: http://www.last.fm/tag/find%20out%20more
+  count: "2"
+- name: manchester UK
+  url: http://www.last.fm/tag/manchester%20uk
+  count: "2"
+- name: liebe
+  url: http://www.last.fm/tag/liebe
+  count: "2"
+- name: noise blues
+  url: http://www.last.fm/tag/noise%20blues
+  count: "2"
+- name: All Tomorrows Parties
+  url: http://www.last.fm/tag/all%20tomorrows%20parties
+  count: "2"
+- name: dirty grunge
+  url: http://www.last.fm/tag/dirty%20grunge
+  count: "2"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "2"
+- name: seen live 2009
+  url: http://www.last.fm/tag/seen%20live%202009
+  count: "2"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "2"
+- name: tu-daunloud-list
+  url: http://www.last.fm/tag/tu-daunloud-list
+  count: "2"
+- name: njv
+  url: http://www.last.fm/tag/njv
+  count: "2"
+- name: brainstorm spunk 3
+  url: http://www.last.fm/tag/brainstorm%20spunk%203
+  count: "2"
+- name: golden plains
+  url: http://www.last.fm/tag/golden%20plains
+  count: "2"
+- name: convicts
+  url: http://www.last.fm/tag/convicts
+  count: "2"
+- name: needs listening indie
+  url: http://www.last.fm/tag/needs%20listening%20indie
+  count: "2"
+- name: gararge
+  url: http://www.last.fm/tag/gararge
+  count: "2"
+- name: schaubassistin
+  url: http://www.last.fm/tag/schaubassistin
+  count: "2"
+- name: australian-punk
+  url: http://www.last.fm/tag/australian-punk
+  count: "2"
+- name: genius pies
+  url: http://www.last.fm/tag/genius%20pies
+  count: "2"
+- name: amie street
+  url: http://www.last.fm/tag/amie%20street
+  count: "2"
+- name: permanent rotation
+  url: http://www.last.fm/tag/permanent%20rotation
+  count: "2"
+- name: 2006 Australian Music Prize Top 25
+  url: http://www.last.fm/tag/2006%20australian%20music%20prize%20top%2025
+  count: "2"
+- name: muddy grunge
+  url: http://www.last.fm/tag/muddy%20grunge
+  count: "2"
+- name: bestias pardas
+  url: http://www.last.fm/tag/bestias%20pardas
+  count: "2"
+- name: atp recordings
+  url: http://www.last.fm/tag/atp%20recordings
+  count: "2"
+- name: 70s punk
+  url: http://www.last.fm/tag/70s%20punk
+  count: "2"
+- name: Neil Young
+  url: http://www.last.fm/tag/neil%20young
+  count: "2"
+- name: bands ive seen
+  url: http://www.last.fm/tag/bands%20ive%20seen
+  count: "2"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "2"
+- name: innovative
+  url: http://www.last.fm/tag/innovative
+  count: "2"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "2"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "2"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "2"
+- name: crazy
+  url: http://www.last.fm/tag/crazy
+  count: "2"
+- name: old school
+  url: http://www.last.fm/tag/old%20school
+  count: "2"
+- name: Local
+  url: http://www.last.fm/tag/local
+  count: "2"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "2"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "2"
+- name: restekueche
+  url: http://www.last.fm/tag/restekueche
+  count: "2"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "2"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "2"
+- name: chelsea
+  url: http://www.last.fm/tag/chelsea
+  count: "2"
+- name: No Bullshit
+  url: http://www.last.fm/tag/no%20bullshit
+  count: "2"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "2"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "2"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "2"
+- name: oz
+  url: http://www.last.fm/tag/oz
+  count: "2"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "2"
+- name: Rock and Fucking Roll
+  url: http://www.last.fm/tag/rock%20and%20fucking%20roll
+  count: "2"
+- name: rock & roll
+  url: http://www.last.fm/tag/rock%2B%2526%2Broll
+  count: "2"
+- name: "77"
+  url: http://www.last.fm/tag/77
+  count: "2"
+- name: triple j
+  url: http://www.last.fm/tag/triple%20j
+  count: "2"
+- name: current
+  url: http://www.last.fm/tag/current
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "2"
+- name: aussies
+  url: http://www.last.fm/tag/aussies
+  count: "0"
+- name: affaire
+  url: http://www.last.fm/tag/affaire
+  count: "0"
+- name: shit-kicking
+  url: http://www.last.fm/tag/shit-kicking
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: mezz 2007
+  url: http://www.last.fm/tag/mezz%202007
+  count: "0"
+- name: cant stop drinkin seems like every time i try i cant stop thinkin up in the wind below us
+  url: http://www.last.fm/tag/cant%20stop%20drinkin%20seems%20like%20every%20time%20i%20try%20i%20cant%20stop%20thinkin%20up%20in%20the%20wind%20below%20us
+  count: "0"
+- name: big day out 07
+  url: http://www.last.fm/tag/big%20day%20out%2007
+  count: "0"
+- name: The Artists
+  url: http://www.last.fm/tag/the%20artists
+  count: "0"

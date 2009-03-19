@@ -1,0 +1,303 @@
+--- 
+artist: The Bug
+tag: 
+- name: dubstep
+  url: http://www.last.fm/tag/dubstep
+  count: "100"
+- name: dancehall
+  url: http://www.last.fm/tag/dancehall
+  count: "44"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "39"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "36"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "20"
+- name: Grime
+  url: http://www.last.fm/tag/grime
+  count: "18"
+- name: ragga
+  url: http://www.last.fm/tag/ragga
+  count: "17"
+- name: Raggacore
+  url: http://www.last.fm/tag/raggacore
+  count: "11"
+- name: ninja tune
+  url: http://www.last.fm/tag/ninja%20tune
+  count: "11"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "8"
+- name: breakcore
+  url: http://www.last.fm/tag/breakcore
+  count: "8"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "5"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "3"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "3"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "3"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "3"
+- name: Ragga Jungle
+  url: http://www.last.fm/tag/ragga%20jungle
+  count: "3"
+- name: Rephlex
+  url: http://www.last.fm/tag/rephlex
+  count: "2"
+- name: dubstep-grime
+  url: http://www.last.fm/tag/dubstep-grime
+  count: "2"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "2"
+- name: reggae
+  url: http://www.last.fm/tag/reggae
+  count: "2"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "2"
+- name: toxic dancehall
+  url: http://www.last.fm/tag/toxic%20dancehall
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Warp
+  url: http://www.last.fm/tag/warp
+  count: "1"
+- name: Experimental Dub
+  url: http://www.last.fm/tag/experimental%20dub
+  count: "1"
+- name: dubtronic
+  url: http://www.last.fm/tag/dubtronic
+  count: "1"
+- name: electronic dub
+  url: http://www.last.fm/tag/electronic%20dub
+  count: "1"
+- name: electro dub
+  url: http://www.last.fm/tag/electro%20dub
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: speedhall
+  url: http://www.last.fm/tag/speedhall
+  count: "1"
+- name: hardcore ragga
+  url: http://www.last.fm/tag/hardcore%20ragga
+  count: "1"
+- name: United Kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: more fire
+  url: http://www.last.fm/tag/more%20fire
+  count: "1"
+- name: syn jungle
+  url: http://www.last.fm/tag/syn%20jungle
+  count: "1"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "1"
+- name: check-out
+  url: http://www.last.fm/tag/check-out
+  count: "0"
+- name: Evil Stew
+  url: http://www.last.fm/tag/evil%20stew
+  count: "0"
+- name: scumriddim
+  url: http://www.last.fm/tag/scumriddim
+  count: "0"
+- name: the bug
+  url: http://www.last.fm/tag/the%20bug
+  count: "0"
+- name: ar fheabhas ar fad
+  url: http://www.last.fm/tag/ar%20fheabhas%20ar%20fad
+  count: "0"
+- name: dupstep
+  url: http://www.last.fm/tag/dupstep
+  count: "0"
+- name: bleeps and pieces
+  url: http://www.last.fm/tag/bleeps%20and%20pieces
+  count: "0"
+- name: bass attack
+  url: http://www.last.fm/tag/bass%20attack
+  count: "0"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "0"
+- name: schmitz bounce
+  url: http://www.last.fm/tag/schmitz%20bounce
+  count: "0"
+- name: buggish
+  url: http://www.last.fm/tag/buggish
+  count: "0"
+- name: hyperdub
+  url: http://www.last.fm/tag/hyperdub
+  count: "0"
+- name: noise-hop
+  url: http://www.last.fm/tag/noise-hop
+  count: "0"
+- name: teckno
+  url: http://www.last.fm/tag/teckno
+  count: "0"
+- name: Tigerbeat6 Inc
+  url: http://www.last.fm/tag/tigerbeat6%20inc
+  count: "0"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "0"
+- name: dubstep breakcore ragga
+  url: http://www.last.fm/tag/dubstep%20breakcore%20ragga
+  count: "0"
+- name: apocalyptic reggaeton
+  url: http://www.last.fm/tag/apocalyptic%20reggaeton
+  count: "0"
+- name: wonderful through headphones
+  url: http://www.last.fm/tag/wonderful%20through%20headphones
+  count: "0"
+- name: ":::DUBSTEP:::"
+  url: http://www.last.fm/tag/%3A%3A%3Adubstep%3A%3A%3A
+  count: "0"
+- name: Dour 2008
+  url: http://www.last.fm/tag/dour%202008
+  count: "0"
+- name: street bass
+  url: http://www.last.fm/tag/street%20bass
+  count: "0"
+- name: Dubstep Music
+  url: http://www.last.fm/tag/dubstep%20music
+  count: "0"
+- name: tag auditions
+  url: http://www.last.fm/tag/tag%20auditions
+  count: "0"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "0"
+- name: dubset
+  url: http://www.last.fm/tag/dubset
+  count: "0"
+- name: Industrial Reggaeton
+  url: http://www.last.fm/tag/industrial%20reggaeton
+  count: "0"
+- name: Avant-Dancehall
+  url: http://www.last.fm/tag/avant-dancehall
+  count: "0"
+- name: kocham lubie szanuje
+  url: http://www.last.fm/tag/kocham%20lubie%20szanuje
+  count: "0"
+- name: mugre
+  url: http://www.last.fm/tag/mugre
+  count: "0"
+- name: Scary cuz its so good
+  url: http://www.last.fm/tag/scary%20cuz%20its%20so%20good
+  count: "0"
+- name: bangface
+  url: http://www.last.fm/tag/bangface
+  count: "0"
+- name: all things dull and ugly
+  url: http://www.last.fm/tag/all%20things%20dull%20and%20ugly
+  count: "0"
+- name: Dancehall Jamaica
+  url: http://www.last.fm/tag/dancehall%20jamaica
+  count: "0"
+- name: industrial dubstep
+  url: http://www.last.fm/tag/industrial%20dubstep
+  count: "0"
+- name: electro-dancehall
+  url: http://www.last.fm/tag/electro-dancehall
+  count: "0"
+- name: mixt
+  url: http://www.last.fm/tag/mixt
+  count: "0"
+- name: deep shit ton the bottom
+  url: http://www.last.fm/tag/deep%20shit%20ton%20the%20bottom
+  count: "0"
+- name: 2 s34rch
+  url: http://www.last.fm/tag/2%20s34rch
+  count: "0"
+- name: basssss
+  url: http://www.last.fm/tag/basssss
+  count: "0"
+- name: dubsteppa
+  url: http://www.last.fm/tag/dubsteppa
+  count: "0"
+- name: Bands beginning with THE
+  url: http://www.last.fm/tag/bands%20beginning%20with%20the
+  count: "0"
+- name: UK Garage
+  url: http://www.last.fm/tag/uk%20garage
+  count: "0"
+- name: raggamuffin
+  url: http://www.last.fm/tag/raggamuffin
+  count: "0"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: strange
+  url: http://www.last.fm/tag/strange
+  count: "0"
+- name: beat
+  url: http://www.last.fm/tag/beat
+  count: "0"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "0"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "0"
+- name: breaks
+  url: http://www.last.fm/tag/breaks
+  count: "0"
+- name: fav
+  url: http://www.last.fm/tag/fav
+  count: "0"
+- name: dnb
+  url: http://www.last.fm/tag/dnb
+  count: "0"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "0"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "0"
+- name: artists
+  url: http://www.last.fm/tag/artists
+  count: "0"
+- name: glitch
+  url: http://www.last.fm/tag/glitch
+  count: "0"
+- name: Rave
+  url: http://www.last.fm/tag/rave
+  count: "0"
+- name: Sludge
+  url: http://www.last.fm/tag/sludge
+  count: "0"
+- name: vocal
+  url: http://www.last.fm/tag/vocal
+  count: "0"
+- name: jungle
+  url: http://www.last.fm/tag/jungle
+  count: "0"

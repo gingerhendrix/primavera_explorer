@@ -1,0 +1,303 @@
+--- 
+artist: The Mae Shi
+tag: 
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "93"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "55"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "49"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "37"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "24"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "16"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "14"
+- name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+  count: "11"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "10"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "9"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "7"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "6"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "6"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "6"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "5"
+- name: noise punk
+  url: http://www.last.fm/tag/noise%20punk
+  count: "5"
+- name: LA Music Scene
+  url: http://www.last.fm/tag/la%20music%20scene
+  count: "3"
+- name: the mae shi
+  url: http://www.last.fm/tag/the%20mae%20shi
+  count: "3"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "3"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "3"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "3"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "3"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "2"
+- name: electronic rock
+  url: http://www.last.fm/tag/electronic%20rock
+  count: "2"
+- name: summer sundae 2008
+  url: http://www.last.fm/tag/summer%20sundae%202008
+  count: "2"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "2"
+- name: paredes de coura 2008
+  url: http://www.last.fm/tag/paredes%20de%20coura%202008
+  count: "2"
+- name: kill rock stars
+  url: http://www.last.fm/tag/kill%20rock%20stars
+  count: "2"
+- name: Angular
+  url: http://www.last.fm/tag/angular
+  count: "2"
+- name: spazz
+  url: http://www.last.fm/tag/spazz
+  count: "2"
+- name: seen this band live
+  url: http://www.last.fm/tag/seen%20this%20band%20live
+  count: "2"
+- name: whouououuhoou
+  url: http://www.last.fm/tag/whouououuhoou
+  count: "2"
+- name: 5rc
+  url: http://www.last.fm/tag/5rc
+  count: "2"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "2"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "2"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "2"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "2"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "2"
+- name: seen live and was sober enough to remember it
+  url: http://www.last.fm/tag/seen%20live%20and%20was%20sober%20enough%20to%20remember%20it
+  count: "1"
+- name: descargar
+  url: http://www.last.fm/tag/descargar
+  count: "1"
+- name: I wanna fuck the keyboardist
+  url: http://www.last.fm/tag/i%20wanna%20fuck%20the%20keyboardist
+  count: "1"
+- name: Spring 2008
+  url: http://www.last.fm/tag/spring%202008
+  count: "1"
+- name: extraordinary indie
+  url: http://www.last.fm/tag/extraordinary%20indie
+  count: "1"
+- name: going to bed with Colin Murray
+  url: http://www.last.fm/tag/going%20to%20bed%20with%20colin%20murray
+  count: "1"
+- name: MASTURBATION MEGA MIX
+  url: http://www.last.fm/tag/masturbation%20mega%20mix
+  count: "1"
+- name: Proper Rock n Roll
+  url: http://www.last.fm/tag/proper%20rock%20n%20roll
+  count: "1"
+- name: no core
+  url: http://www.last.fm/tag/no%20core
+  count: "1"
+- name: ponytail
+  url: http://www.last.fm/tag/ponytail
+  count: "1"
+- name: oya08
+  url: http://www.last.fm/tag/oya08
+  count: "1"
+- name: sweet california
+  url: http://www.last.fm/tag/sweet%20california
+  count: "1"
+- name: idiot savant music
+  url: http://www.last.fm/tag/idiot%20savant%20music
+  count: "1"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "1"
+- name: obscure indie
+  url: http://www.last.fm/tag/obscure%20indie
+  count: "1"
+- name: I saw him alive
+  url: http://www.last.fm/tag/i%20saw%20him%20alive
+  count: "1"
+- name: Loud and Abnocious
+  url: http://www.last.fm/tag/loud%20and%20abnocious
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: math pop
+  url: http://www.last.fm/tag/math%20pop
+  count: "1"
+- name: NewPunk
+  url: http://www.last.fm/tag/newpunk
+  count: "1"
+- name: getHandsOnThisASAP
+  url: http://www.last.fm/tag/gethandsonthisasap
+  count: "1"
+- name: noise and jig
+  url: http://www.last.fm/tag/noise%20and%20jig
+  count: "1"
+- name: make me dance
+  url: http://www.last.fm/tag/make%20me%20dance
+  count: "1"
+- name: Dot to Dot Festival - Bristol 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%20festival%20-%20bristol%202008
+  count: "1"
+- name: oeya 2008
+  url: http://www.last.fm/tag/oeya%202008
+  count: "1"
+- name: from recommendations
+  url: http://www.last.fm/tag/from%20recommendations
+  count: "1"
+- name: a smattering sans screaming
+  url: http://www.last.fm/tag/a%20smattering%20sans%20screaming
+  count: "1"
+- name: oh boy what fun
+  url: http://www.last.fm/tag/oh%20boy%20what%20fun
+  count: "1"
+- name: stupid voices
+  url: http://www.last.fm/tag/stupid%20voices
+  count: "1"
+- name: i dun need it
+  url: http://www.last.fm/tag/i%20dun%20need%20it
+  count: "1"
+- name: 8bit-rock
+  url: http://www.last.fm/tag/8bit-rock
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: GOD IS VERY NEAR
+  url: http://www.last.fm/tag/god%20is%20very%20near
+  count: "1"
+- name: cumbo cet
+  url: http://www.last.fm/tag/cumbo%20cet
+  count: "1"
+- name: i should keep an eye on this one
+  url: http://www.last.fm/tag/i%20should%20keep%20an%20eye%20on%20this%20one
+  count: "1"
+- name: dot to dot 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%202008
+  count: "1"
+- name: damerican
+  url: http://www.last.fm/tag/damerican
+  count: "1"
+- name: hab ich schon live gesehen
+  url: http://www.last.fm/tag/hab%20ich%20schon%20live%20gesehen
+  count: "1"
+- name: seen live lizm
+  url: http://www.last.fm/tag/seen%20live%20lizm
+  count: "1"
+- name: pitchfork lo-fi
+  url: http://www.last.fm/tag/pitchfork%20lo-fi
+  count: "1"
+- name: moreelctrothananything
+  url: http://www.last.fm/tag/moreelctrothananything
+  count: "1"
+- name: nocore
+  url: http://www.last.fm/tag/nocore
+  count: "1"
+- name: weur
+  url: http://www.last.fm/tag/weur
+  count: "1"
+- name: dungeonkore
+  url: http://www.last.fm/tag/dungeonkore
+  count: "1"
+- name: sacrifice the liver
+  url: http://www.last.fm/tag/sacrifice%20the%20liver
+  count: "1"
+- name: Crazy Sheeot
+  url: http://www.last.fm/tag/crazy%20sheeot
+  count: "1"
+- name: would like to see
+  url: http://www.last.fm/tag/would%20like%20to%20see
+  count: "1"
+- name: christian noise
+  url: http://www.last.fm/tag/christian%20noise
+  count: "1"
+- name: art-punk
+  url: http://www.last.fm/tag/art-punk
+  count: "1"
+- name: transcendent
+  url: http://www.last.fm/tag/transcendent
+  count: "1"
+- name: spastic
+  url: http://www.last.fm/tag/spastic
+  count: "1"
+- name: New to me
+  url: http://www.last.fm/tag/new%20to%20me
+  count: "1"
+- name: LA
+  url: http://www.last.fm/tag/la
+  count: "1"
+- name: kick ass
+  url: http://www.last.fm/tag/kick%20ass
+  count: "1"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: insane
+  url: http://www.last.fm/tag/insane
+  count: "1"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "1"
+- name: rockers
+  url: http://www.last.fm/tag/rockers
+  count: "1"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "1"
+- name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+  count: "1"

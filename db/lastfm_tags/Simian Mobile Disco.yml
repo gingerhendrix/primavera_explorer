@@ -1,0 +1,303 @@
+--- 
+artist: Simian Mobile Disco
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "67"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "45"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "37"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "31"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "18"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "10"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "9"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "6"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "4"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "3"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "3"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "3"
+- name: simian mobile disco
+  url: http://www.last.fm/tag/simian%20mobile%20disco
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: electro house
+  url: http://www.last.fm/tag/electro%20house
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Kitsune
+  url: http://www.last.fm/tag/kitsune
+  count: "1"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "1"
+- name: nu rave
+  url: http://www.last.fm/tag/nu%20rave
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "1"
+- name: electronic disco
+  url: http://www.last.fm/tag/electronic%20disco
+  count: "1"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "1"
+- name: electro-techno
+  url: http://www.last.fm/tag/electro-techno
+  count: "1"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "1"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: hipster dance party
+  url: http://www.last.fm/tag/hipster%20dance%20party
+  count: "0"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "0"
+- name: Acid
+  url: http://www.last.fm/tag/acid
+  count: "0"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "0"
+- name: hipster electro
+  url: http://www.last.fm/tag/hipster%20electro
+  count: "0"
+- name: neo-electro
+  url: http://www.last.fm/tag/neo-electro
+  count: "0"
+- name: electropunk
+  url: http://www.last.fm/tag/electropunk
+  count: "0"
+- name: space disco
+  url: http://www.last.fm/tag/space%20disco
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: Electro-Rock
+  url: http://www.last.fm/tag/electro-rock
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: elektro
+  url: http://www.last.fm/tag/elektro
+  count: "0"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "0"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "0"
+- name: Club/Dance
+  url: http://www.last.fm/tag/club%252Fdance
+  count: "0"
+- name: lowlands 2007
+  url: http://www.last.fm/tag/lowlands%202007
+  count: "0"
+- name: Glastonbury 2007
+  url: http://www.last.fm/tag/glastonbury%202007
+  count: "0"
+- name: lowlands 2008
+  url: http://www.last.fm/tag/lowlands%202008
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: hustler
+  url: http://www.last.fm/tag/hustler
+  count: "0"
+- name: coachella
+  url: http://www.last.fm/tag/coachella
+  count: "0"
+- name: pukkelpop 2008
+  url: http://www.last.fm/tag/pukkelpop%202008
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: beat
+  url: http://www.last.fm/tag/beat
+  count: "0"
+- name: radio soulwax
+  url: http://www.last.fm/tag/radio%20soulwax
+  count: "0"
+- name: remix
+  url: http://www.last.fm/tag/remix
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: melt
+  url: http://www.last.fm/tag/melt
+  count: "0"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "0"
+- name: artists ive seen live
+  url: http://www.last.fm/tag/artists%20ive%20seen%20live
+  count: "0"
+- name: dancey
+  url: http://www.last.fm/tag/dancey
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: "2008"
+  url: http://www.last.fm/tag/2008
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: summer sundae 2008
+  url: http://www.last.fm/tag/summer%20sundae%202008
+  count: "0"
+- name: Indietronic
+  url: http://www.last.fm/tag/indietronic
+  count: "0"
+- name: Remember
+  url: http://www.last.fm/tag/remember
+  count: "0"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: indie dance
+  url: http://www.last.fm/tag/indie%20dance
+  count: "0"
+- name: bands ive seen live
+  url: http://www.last.fm/tag/bands%20ive%20seen%20live
+  count: "0"
+- name: datapop
+  url: http://www.last.fm/tag/datapop
+  count: "0"
+- name: electro rock
+  url: http://www.last.fm/tag/electro%20rock
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: nsbm
+  url: http://www.last.fm/tag/nsbm
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: ELECTROGEFUCKEL
+  url: http://www.last.fm/tag/electrogefuckel
+  count: "0"
+- name: funky
+  url: http://www.last.fm/tag/funky
+  count: "0"
+- name: ed banger
+  url: http://www.last.fm/tag/ed%20banger
+  count: "0"
+- name: bristol
+  url: http://www.last.fm/tag/bristol
+  count: "0"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "0"
+- name: indie electronica
+  url: http://www.last.fm/tag/indie%20electronica
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: electro dance
+  url: http://www.last.fm/tag/electro%20dance
+  count: "0"
+- name: Ive Seen Live
+  url: http://www.last.fm/tag/ive%20seen%20live
+  count: "0"
+- name: Rave
+  url: http://www.last.fm/tag/rave
+  count: "0"
+- name: glittering raspberry dancefloors
+  url: http://www.last.fm/tag/glittering%20raspberry%20dancefloors
+  count: "0"
+- name: indie electro
+  url: http://www.last.fm/tag/indie%20electro
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: indie disco
+  url: http://www.last.fm/tag/indie%20disco
+  count: "0"
+- name: lowlands2007
+  url: http://www.last.fm/tag/lowlands2007
+  count: "0"
+- name: electro-house
+  url: http://www.last.fm/tag/electro-house
+  count: "0"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "0"

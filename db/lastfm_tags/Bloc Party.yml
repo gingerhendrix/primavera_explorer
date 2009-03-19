@@ -1,0 +1,303 @@
+--- 
+artist: Bloc Party
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "77"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "48"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "41"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "34"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "22"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "19"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "7"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "7"
+- name: Bloc Party
+  url: http://www.last.fm/tag/bloc%20party
+  count: "6"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "4"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "2"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "2"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "1"
+- name: Britrock
+  url: http://www.last.fm/tag/britrock
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: brit rock
+  url: http://www.last.fm/tag/brit%20rock
+  count: "1"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: Brit
+  url: http://www.last.fm/tag/brit
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: british rock
+  url: http://www.last.fm/tag/british%20rock
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: british indie
+  url: http://www.last.fm/tag/british%20indie
+  count: "0"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "0"
+- name: Brit-pop
+  url: http://www.last.fm/tag/brit-pop
+  count: "0"
+- name: screamo
+  url: http://www.last.fm/tag/screamo
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "0"
+- name: danceable
+  url: http://www.last.fm/tag/danceable
+  count: "0"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "0"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "0"
+- name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: my music
+  url: http://www.last.fm/tag/my%20music
+  count: "0"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: blocparty
+  url: http://www.last.fm/tag/blocparty
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+  count: "0"
+- name: ska
+  url: http://www.last.fm/tag/ska
+  count: "0"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "0"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "0"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "0"
+- name: Angular
+  url: http://www.last.fm/tag/angular
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: bloc
+  url: http://www.last.fm/tag/bloc
+  count: "0"
+- name: good music
+  url: http://www.last.fm/tag/good%20music
+  count: "0"
+- name: alt
+  url: http://www.last.fm/tag/alt
+  count: "0"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "0"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: hurricane 2007
+  url: http://www.last.fm/tag/hurricane%202007
+  count: "0"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "0"
+- name: electronic rock
+  url: http://www.last.fm/tag/electronic%20rock
+  count: "0"
+- name: overrated
+  url: http://www.last.fm/tag/overrated
+  count: "0"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "0"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "0"

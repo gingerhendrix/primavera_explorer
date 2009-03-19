@@ -5,7 +5,7 @@ class Band
   attr_accessor :lastfm_info
   attr_accessor :lastfm_tags
   
-  cattr_accessor :database
+  @bands = []
 
   def initialize
   end
@@ -28,10 +28,15 @@ class Band
      :name => @name,
      :lastfm => { :info => @lastfm_info.to_h, :tags => @lastfm_tags.to_h } }
   end
+  
+  def to_db
+    {:id => element_id,
+     :name => @name }
+  end
 
   
-  def self.load_all
-    yaml = File.open( database ) { |yf| YAML::load( yf ) }
+  def self.load_all(db)
+    yaml = db.get_resource('bands')
     if(yaml)
       @bands = yaml.map {|b| Band.new_from_hash b }
     else
@@ -39,28 +44,16 @@ class Band
     end 
   end
     
-  def self.save_all
-    File.open( database, 'w' ) do |out|
-      YAML.dump @bands.map(&:to_h), out 
-    end
+  def self.save_all(db)
+    db.save_resource('bands', @bands.map(&:to_db))
   end
   
   def self.find_by_name(name)
-    self.load_all if !@bands
     @bands.find { |band| band.name == name }
   end
 
-  def self.add(name)
-     band = Band.find_by_name(name)
-     if !band
-        band = Band.new :name => name
-        @bands << band
-     end
-     band
-  end
-  
-  def self.update_timetable
-    
+  def self.add(band)
+     @bands << band
   end
   
 

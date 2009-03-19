@@ -1,0 +1,78 @@
+--- 
+artist: The Extraordinaires
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "100"
+- name: Philadelphia
+  url: http://www.last.fm/tag/philadelphia
+  count: "50"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "33"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "33"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "33"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "33"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "16"
+- name: awesome liv
+  url: http://www.last.fm/tag/awesome%20liv
+  count: "16"
+- name: PC08
+  url: http://www.last.fm/tag/pc08
+  count: "16"
+- name: seen twice
+  url: http://www.last.fm/tag/seen%20twice
+  count: "16"
+- name: charlottesville
+  url: http://www.last.fm/tag/charlottesville
+  count: "16"
+- name: Awesome rock
+  url: http://www.last.fm/tag/awesome%20rock
+  count: "16"
+- name: Indie - Us
+  url: http://www.last.fm/tag/indie%20-%20us
+  count: "16"
+- name: pirate music
+  url: http://www.last.fm/tag/pirate%20music
+  count: "16"
+- name: virginia
+  url: http://www.last.fm/tag/virginia
+  count: "16"
+- name: pirates
+  url: http://www.last.fm/tag/pirates
+  count: "16"
+- name: folk pop
+  url: http://www.last.fm/tag/folk%20pop
+  count: "16"
+- name: crazy
+  url: http://www.last.fm/tag/crazy
+  count: "16"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "16"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "16"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "2"
+- name: in concert
+  url: http://www.last.fm/tag/in%20concert
+  count: "0"
+- name: seen em live
+  url: http://www.last.fm/tag/seen%20em%20live
+  count: "0"
+- name: have experienced in the live setting
+  url: http://www.last.fm/tag/have%20experienced%20in%20the%20live%20setting
+  count: "0"

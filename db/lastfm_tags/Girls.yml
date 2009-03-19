@@ -1,0 +1,39 @@
+--- 
+artist: Girls
+tag: 
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "100"
+- name: japanese
+  url: http://www.last.fm/tag/japanese
+  count: "50"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "25"
+- name: bluegrass
+  url: http://www.last.fm/tag/bluegrass
+  count: "25"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "25"
+- name: san francisco
+  url: http://www.last.fm/tag/san%20francisco
+  count: "25"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "25"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "25"
+- name: 60s girls
+  url: http://www.last.fm/tag/60s%20girls
+  count: "25"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"

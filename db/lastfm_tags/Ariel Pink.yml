@@ -1,0 +1,255 @@
+--- 
+artist: Ariel Pink
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "70"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "70"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "64"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "23"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "23"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "17"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "17"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "11"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "11"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "11"
+- name: drug enduced
+  url: http://www.last.fm/tag/drug%20enduced
+  count: "11"
+- name: hauntology
+  url: http://www.last.fm/tag/hauntology
+  count: "11"
+- name: human ear music
+  url: http://www.last.fm/tag/human%20ear%20music
+  count: "11"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "11"
+- name: to look up
+  url: http://www.last.fm/tag/to%20look%20up
+  count: "5"
+- name: good at 2 in the morning when I cant sleep
+  url: http://www.last.fm/tag/good%20at%202%20in%20the%20morning%20when%20i%20cant%20sleep
+  count: "5"
+- name: psyche pop
+  url: http://www.last.fm/tag/psyche%20pop
+  count: "5"
+- name: pseudo-ambient but not really ambient at all
+  url: http://www.last.fm/tag/pseudo-ambient%20but%20not%20really%20ambient%20at%20all
+  count: "5"
+- name: Perplexing
+  url: http://www.last.fm/tag/perplexing
+  count: "5"
+- name: Experimental pop
+  url: http://www.last.fm/tag/experimental%20pop
+  count: "5"
+- name: Acid-fried Pop
+  url: http://www.last.fm/tag/acid-fried%20pop
+  count: "5"
+- name: Imperfect Pop
+  url: http://www.last.fm/tag/imperfect%20pop
+  count: "5"
+- name: Animal Collective Related
+  url: http://www.last.fm/tag/animal%20collective%20related
+  count: "5"
+- name: folk thats downright freaky
+  url: http://www.last.fm/tag/folk%20thats%20downright%20freaky
+  count: "5"
+- name: beatific
+  url: http://www.last.fm/tag/beatific
+  count: "5"
+- name: hevvy
+  url: http://www.last.fm/tag/hevvy
+  count: "5"
+- name: sum bay-sick s0undz
+  url: http://www.last.fm/tag/sum%20bay-sick%20s0undz
+  count: "5"
+- name: loving muzic for loving with
+  url: http://www.last.fm/tag/loving%20muzic%20for%20loving%20with
+  count: "5"
+- name: lo-fi experimentals
+  url: http://www.last.fm/tag/lo-fi%20experimentals
+  count: "5"
+- name: sweet california
+  url: http://www.last.fm/tag/sweet%20california
+  count: "5"
+- name: lofi love
+  url: http://www.last.fm/tag/lofi%20love
+  count: "5"
+- name: BETONOMEWALKA
+  url: http://www.last.fm/tag/betonomewalka
+  count: "5"
+- name: genius pies
+  url: http://www.last.fm/tag/genius%20pies
+  count: "5"
+- name: haunted graffiti
+  url: http://www.last.fm/tag/haunted%20graffiti
+  count: "5"
+- name: flash-trash
+  url: http://www.last.fm/tag/flash-trash
+  count: "5"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "5"
+- name: lofi
+  url: http://www.last.fm/tag/lofi
+  count: "5"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "5"
+- name: warm
+  url: http://www.last.fm/tag/warm
+  count: "5"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "5"
+- name: witty
+  url: http://www.last.fm/tag/witty
+  count: "5"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "5"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "5"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "5"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "5"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "5"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "5"
+- name: a capella
+  url: http://www.last.fm/tag/a%20capella
+  count: "5"
+- name: odd
+  url: http://www.last.fm/tag/odd
+  count: "5"
+- name: underground
+  url: http://www.last.fm/tag/underground
+  count: "5"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "5"
+- name: Perfect Pop
+  url: http://www.last.fm/tag/perfect%20pop
+  count: "5"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "5"
+- name: best of the wire 2005
+  url: http://www.last.fm/tag/best%20of%20the%20wire%202005
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: gotta check it out
+  url: http://www.last.fm/tag/gotta%20check%20it%20out
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "0"
+- name: mtce tryout
+  url: http://www.last.fm/tag/mtce%20tryout
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: Person Pitch Influences
+  url: http://www.last.fm/tag/person%20pitch%20influences
+  count: "0"
+- name: bands Joe needs to listen to
+  url: http://www.last.fm/tag/bands%20joe%20needs%20to%20listen%20to
+  count: "0"
+- name: acts to check out asap
+  url: http://www.last.fm/tag/acts%20to%20check%20out%20asap
+  count: "0"
+- name: mezz 2006
+  url: http://www.last.fm/tag/mezz%202006
+  count: "0"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "0"
+- name: bedroom recording
+  url: http://www.last.fm/tag/bedroom%20recording
+  count: "0"
+- name: hott
+  url: http://www.last.fm/tag/hott
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: FIR
+  url: http://www.last.fm/tag/fir
+  count: "0"
+- name: beyond post modernism
+  url: http://www.last.fm/tag/beyond%20post%20modernism
+  count: "0"
+- name: decide
+  url: http://www.last.fm/tag/decide
+  count: "0"
+- name: to be investigated
+  url: http://www.last.fm/tag/to%20be%20investigated
+  count: "0"
+- name: Ariel Pink
+  url: http://www.last.fm/tag/ariel%20pink
+  count: "0"
+- name: paw tracks
+  url: http://www.last.fm/tag/paw%20tracks
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: spilled beer
+  url: http://www.last.fm/tag/spilled%20beer
+  count: "0"
+- name: nbt indie
+  url: http://www.last.fm/tag/nbt%20indie
+  count: "0"
+- name: dr small jukebox
+  url: http://www.last.fm/tag/dr%20small%20jukebox
+  count: "0"
+- name: give me a listen
+  url: http://www.last.fm/tag/give%20me%20a%20listen
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"

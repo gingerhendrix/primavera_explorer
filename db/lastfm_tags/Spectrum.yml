@@ -1,0 +1,303 @@
+--- 
+artist: Spectrum
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "86"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "62"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "34"
+- name: psytrance
+  url: http://www.last.fm/tag/psytrance
+  count: "34"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "27"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "24"
+- name: spacerock
+  url: http://www.last.fm/tag/spacerock
+  count: "20"
+- name: goa
+  url: http://www.last.fm/tag/goa
+  count: "17"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "17"
+- name: brazilian
+  url: http://www.last.fm/tag/brazilian
+  count: "13"
+- name: ambient pop
+  url: http://www.last.fm/tag/ambient%20pop
+  count: "13"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "13"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "13"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "13"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "10"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "10"
+- name: eurodance
+  url: http://www.last.fm/tag/eurodance
+  count: "10"
+- name: neo psychedelia
+  url: http://www.last.fm/tag/neo%20psychedelia
+  count: "10"
+- name: Neo-Goa
+  url: http://www.last.fm/tag/neo-goa
+  count: "10"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "10"
+- name: terrascopic
+  url: http://www.last.fm/tag/terrascopic
+  count: "10"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "10"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "6"
+- name: trance
+  url: http://www.last.fm/tag/trance
+  count: "6"
+- name: Guitar Drones
+  url: http://www.last.fm/tag/guitar%20drones
+  count: "6"
+- name: spaced out
+  url: http://www.last.fm/tag/spaced%20out
+  count: "6"
+- name: space
+  url: http://www.last.fm/tag/space
+  count: "6"
+- name: brasil
+  url: http://www.last.fm/tag/brasil
+  count: "6"
+- name: brazil
+  url: http://www.last.fm/tag/brazil
+  count: "6"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "6"
+- name: dream house
+  url: http://www.last.fm/tag/dream%20house
+  count: "6"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "6"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "6"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "6"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "6"
+- name: 80s-90s
+  url: http://www.last.fm/tag/80s-90s
+  count: "3"
+- name: trip
+  url: http://www.last.fm/tag/trip
+  count: "3"
+- name: Music That KICKS
+  url: http://www.last.fm/tag/music%20that%20kicks
+  count: "3"
+- name: Ye Oldsters
+  url: http://www.last.fm/tag/ye%20oldsters
+  count: "3"
+- name: YolalaElec
+  url: http://www.last.fm/tag/yolalaelec
+  count: "3"
+- name: francophone
+  url: http://www.last.fm/tag/francophone
+  count: "3"
+- name: francais
+  url: http://www.last.fm/tag/francais
+  count: "3"
+- name: Russian Pop
+  url: http://www.last.fm/tag/russian%20pop
+  count: "3"
+- name: multiple artists under same name
+  url: http://www.last.fm/tag/multiple%20artists%20under%20same%20name
+  count: "3"
+- name: euro-techno
+  url: http://www.last.fm/tag/euro-techno
+  count: "3"
+- name: Bands I have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+  count: "3"
+- name: uk indie
+  url: http://www.last.fm/tag/uk%20indie
+  count: "3"
+- name: dream-pop
+  url: http://www.last.fm/tag/dream-pop
+  count: "3"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "3"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "3"
+- name: reba29er
+  url: http://www.last.fm/tag/reba29er
+  count: "3"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "3"
+- name: kember
+  url: http://www.last.fm/tag/kember
+  count: "3"
+- name: Atari Burroughs
+  url: http://www.last.fm/tag/atari%20burroughs
+  count: "3"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "3"
+- name: 70s brazilian rock
+  url: http://www.last.fm/tag/70s%20brazilian%20rock
+  count: "3"
+- name: Walkin With Jesus
+  url: http://www.last.fm/tag/walkin%20with%20jesus
+  count: "3"
+- name: hard psych
+  url: http://www.last.fm/tag/hard%20psych
+  count: "3"
+- name: oz-rock
+  url: http://www.last.fm/tag/oz-rock
+  count: "3"
+- name: 1dgsg
+  url: http://www.last.fm/tag/1dgsg
+  count: "3"
+- name: BJM fans
+  url: http://www.last.fm/tag/bjm%20fans
+  count: "3"
+- name: Excellent underrated bands
+  url: http://www.last.fm/tag/excellent%20underrated%20bands
+  count: "3"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "3"
+- name: outrock
+  url: http://www.last.fm/tag/outrock
+  count: "3"
+- name: spacemen 3 and related
+  url: http://www.last.fm/tag/spacemen%203%20and%20related
+  count: "3"
+- name: russian smile-punk
+  url: http://www.last.fm/tag/russian%20smile-punk
+  count: "3"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "3"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "3"
+- name: eclectic rock
+  url: http://www.last.fm/tag/eclectic%20rock
+  count: "3"
+- name: Back to Mine
+  url: http://www.last.fm/tag/back%20to%20mine
+  count: "3"
+- name: current playlist
+  url: http://www.last.fm/tag/current%20playlist
+  count: "3"
+- name: Suosikit
+  url: http://www.last.fm/tag/suosikit
+  count: "3"
+- name: Acoustic Rock
+  url: http://www.last.fm/tag/acoustic%20rock
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "3"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "3"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "3"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "3"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "3"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "3"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: swedish
+  url: http://www.last.fm/tag/swedish
+  count: "3"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "3"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "3"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "3"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "3"
+- name: full on
+  url: http://www.last.fm/tag/full%20on
+  count: "3"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "3"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "3"
+- name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+  count: "3"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "3"
+- name: mpb
+  url: http://www.last.fm/tag/mpb
+  count: "3"
+- name: tropicalia
+  url: http://www.last.fm/tag/tropicalia
+  count: "3"
+- name: uplifting trance
+  url: http://www.last.fm/tag/uplifting%20trance
+  count: "3"
+- name: Perfection
+  url: http://www.last.fm/tag/perfection
+  count: "3"
+- name: drug music
+  url: http://www.last.fm/tag/drug%20music
+  count: "3"
+- name: menek
+  url: http://www.last.fm/tag/menek
+  count: "3"

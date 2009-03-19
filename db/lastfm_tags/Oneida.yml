@@ -1,0 +1,303 @@
+--- 
+artist: Oneida
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "98"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "82"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "59"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "56"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "40"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "31"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "29"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "25"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "18"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "17"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "14"
+- name: jagjaguwar
+  url: http://www.last.fm/tag/jagjaguwar
+  count: "12"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "9"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "9"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "7"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "7"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "7"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "6"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "6"
+- name: krautrock
+  url: http://www.last.fm/tag/krautrock
+  count: "6"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "6"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "6"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "6"
+- name: math noise
+  url: http://www.last.fm/tag/math%20noise
+  count: "6"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "6"
+- name: complex
+  url: http://www.last.fm/tag/complex
+  count: "4"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "4"
+- name: stoner metal
+  url: http://www.last.fm/tag/stoner%20metal
+  count: "4"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "4"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "4"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "4"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "4"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "4"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "4"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "4"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "3"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "3"
+- name: Independent Rock
+  url: http://www.last.fm/tag/independent%20rock
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "3"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "3"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "3"
+- name: mature
+  url: http://www.last.fm/tag/mature
+  count: "3"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "3"
+- name: heavy ass stuff
+  url: http://www.last.fm/tag/heavy%20ass%20stuff
+  count: "3"
+- name: terrastock
+  url: http://www.last.fm/tag/terrastock
+  count: "3"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "3"
+- name: psychedelic krautrock indietronics
+  url: http://www.last.fm/tag/psychedelic%20krautrock%20indietronics
+  count: "3"
+- name: glittering raspberry dancefloors
+  url: http://www.last.fm/tag/glittering%20raspberry%20dancefloors
+  count: "3"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "3"
+- name: serious
+  url: http://www.last.fm/tag/serious
+  count: "1"
+- name: percussion and noise
+  url: http://www.last.fm/tag/percussion%20and%20noise
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: new america
+  url: http://www.last.fm/tag/new%20america
+  count: "1"
+- name: avant-gard classsical
+  url: http://www.last.fm/tag/avant-gard%20classsical
+  count: "1"
+- name: explerimental classical
+  url: http://www.last.fm/tag/explerimental%20classical
+  count: "1"
+- name: surprise
+  url: http://www.last.fm/tag/surprise
+  count: "1"
+- name: ngh
+  url: http://www.last.fm/tag/ngh
+  count: "1"
+- name: brilliant music
+  url: http://www.last.fm/tag/brilliant%20music
+  count: "1"
+- name: avant-garde or experimental
+  url: http://www.last.fm/tag/avant-garde%20or%20experimental
+  count: "1"
+- name: awesome live
+  url: http://www.last.fm/tag/awesome%20live
+  count: "1"
+- name: indish
+  url: http://www.last.fm/tag/indish
+  count: "1"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "1"
+- name: pill-poppin
+  url: http://www.last.fm/tag/pill-poppin
+  count: "1"
+- name: Digital Quirkiness
+  url: http://www.last.fm/tag/digital%20quirkiness
+  count: "1"
+- name: them indie kids
+  url: http://www.last.fm/tag/them%20indie%20kids
+  count: "1"
+- name: good noise
+  url: http://www.last.fm/tag/good%20noise
+  count: "1"
+- name: oberlin alums
+  url: http://www.last.fm/tag/oberlin%20alums
+  count: "1"
+- name: amon duul II
+  url: http://www.last.fm/tag/amon%20duul%20ii
+  count: "1"
+- name: controlled chaos
+  url: http://www.last.fm/tag/controlled%20chaos
+  count: "1"
+- name: HIPPIE PUNK SWINGING SHIT
+  url: http://www.last.fm/tag/hippie%20punk%20swinging%20shit
+  count: "1"
+- name: bobby matador is hot
+  url: http://www.last.fm/tag/bobby%20matador%20is%20hot
+  count: "1"
+- name: bands and artists seen live
+  url: http://www.last.fm/tag/bands%20and%20artists%20seen%20live
+  count: "1"
+- name: FIR
+  url: http://www.last.fm/tag/fir
+  count: "1"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "1"
+- name: to discover
+  url: http://www.last.fm/tag/to%20discover
+  count: "1"
+- name: wantlist
+  url: http://www.last.fm/tag/wantlist
+  count: "1"
+- name: guitars n ish
+  url: http://www.last.fm/tag/guitars%20n%20ish
+  count: "1"
+- name: psychedlic
+  url: http://www.last.fm/tag/psychedlic
+  count: "1"
+- name: post psychedelic
+  url: http://www.last.fm/tag/post%20psychedelic
+  count: "1"
+- name: grand
+  url: http://www.last.fm/tag/grand
+  count: "1"
+- name: ryan radio
+  url: http://www.last.fm/tag/ryan%20radio
+  count: "1"
+- name: bir
+  url: http://www.last.fm/tag/bir
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: awakening
+  url: http://www.last.fm/tag/awakening
+  count: "1"
+- name: flashy
+  url: http://www.last.fm/tag/flashy
+  count: "1"
+- name: surrealist
+  url: http://www.last.fm/tag/surrealist
+  count: "1"
+- name: h4xx0rz
+  url: http://www.last.fm/tag/h4xx0rz
+  count: "1"
+- name: olga
+  url: http://www.last.fm/tag/olga
+  count: "1"
+- name: these here
+  url: http://www.last.fm/tag/these%20here
+  count: "1"
+- name: music to chase squirrels by
+  url: http://www.last.fm/tag/music%20to%20chase%20squirrels%20by
+  count: "1"
+- name: avant-gard
+  url: http://www.last.fm/tag/avant-gard
+  count: "1"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "1"
+- name: ghost punk
+  url: http://www.last.fm/tag/ghost%20punk
+  count: "1"
+- name: middlebury
+  url: http://www.last.fm/tag/middlebury
+  count: "1"
+- name: portishead ATP 2007
+  url: http://www.last.fm/tag/portishead%20atp%202007
+  count: "1"
+- name: portishead at nightmare before x-mas 2007
+  url: http://www.last.fm/tag/portishead%20at%20nightmare%20before%20x-mas%202007
+  count: "1"
+- name: portishead atp
+  url: http://www.last.fm/tag/portishead%20atp
+  count: "1"
+- name: My Melting Pot - A Grande Misturada
+  url: http://www.last.fm/tag/my%20melting%20pot%20-%20a%20grande%20misturada
+  count: "1"

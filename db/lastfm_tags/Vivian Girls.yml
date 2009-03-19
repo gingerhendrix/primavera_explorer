@@ -1,0 +1,282 @@
+--- 
+artist: Vivian Girls
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "68"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "65"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "57"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "47"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "34"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "26"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "15"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "13"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "13"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "13"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "13"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "10"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "10"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "10"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "10"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "10"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "10"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "5"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "5"
+- name: headmaster of the good sound
+  url: http://www.last.fm/tag/headmaster%20of%20the%20good%20sound
+  count: "5"
+- name: yes yes yes
+  url: http://www.last.fm/tag/yes%20yes%20yes
+  count: "5"
+- name: girlamazing
+  url: http://www.last.fm/tag/girlamazing
+  count: "5"
+- name: ":cerek:"
+  url: http://www.last.fm/tag/%3Acerek%3A
+  count: "5"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "5"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "5"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "5"
+- name: overrated
+  url: http://www.last.fm/tag/overrated
+  count: "5"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "5"
+- name: surf rock
+  url: http://www.last.fm/tag/surf%20rock
+  count: "5"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "5"
+- name: superguay
+  url: http://www.last.fm/tag/superguay
+  count: "2"
+- name: all-girl indie
+  url: http://www.last.fm/tag/all-girl%20indie
+  count: "2"
+- name: And I love her
+  url: http://www.last.fm/tag/and%20i%20love%20her
+  count: "2"
+- name: the god damn best
+  url: http://www.last.fm/tag/the%20god%20damn%20best
+  count: "2"
+- name: post-twee
+  url: http://www.last.fm/tag/post-twee
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "2"
+- name: rotation
+  url: http://www.last.fm/tag/rotation
+  count: "2"
+- name: twoja stara
+  url: http://www.last.fm/tag/twoja%20stara
+  count: "2"
+- name: loud girls
+  url: http://www.last.fm/tag/loud%20girls
+  count: "2"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "2"
+- name: kool girl disko
+  url: http://www.last.fm/tag/kool%20girl%20disko
+  count: "2"
+- name: recomendacoes
+  url: http://www.last.fm/tag/recomendacoes
+  count: "2"
+- name: chicks man
+  url: http://www.last.fm/tag/chicks%20man
+  count: "2"
+- name: treemelody 08
+  url: http://www.last.fm/tag/treemelody%2008
+  count: "2"
+- name: jerrycakes seen live
+  url: http://www.last.fm/tag/jerrycakes%20seen%20live
+  count: "2"
+- name: tits and ass
+  url: http://www.last.fm/tag/tits%20and%20ass
+  count: "2"
+- name: good B52sey
+  url: http://www.last.fm/tag/good%20b52sey
+  count: "2"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "2"
+- name: bang:in
+  url: http://www.last.fm/tag/bang%3Ain
+  count: "2"
+- name: wailing on guitars
+  url: http://www.last.fm/tag/wailing%20on%20guitars
+  count: "2"
+- name: hypnotic pop
+  url: http://www.last.fm/tag/hypnotic%20pop
+  count: "2"
+- name: new shaggs
+  url: http://www.last.fm/tag/new%20shaggs
+  count: "2"
+- name: all-female rock
+  url: http://www.last.fm/tag/all-female%20rock
+  count: "2"
+- name: coachella 2009 lo-fi
+  url: http://www.last.fm/tag/coachella%202009%20lo-fi
+  count: "2"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "2"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "2"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "2"
+- name: riot grrrl
+  url: http://www.last.fm/tag/riot%20grrrl
+  count: "2"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "2"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "2"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "2"
+- name: Stars
+  url: http://www.last.fm/tag/stars
+  count: "2"
+- name: twee punk
+  url: http://www.last.fm/tag/twee%20punk
+  count: "2"
+- name: low-fi
+  url: http://www.last.fm/tag/low-fi
+  count: "2"
+- name: harmony
+  url: http://www.last.fm/tag/harmony
+  count: "2"
+- name: Girl
+  url: http://www.last.fm/tag/girl
+  count: "2"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "2"
+- name: Only the best
+  url: http://www.last.fm/tag/only%20the%20best
+  count: "2"
+- name: Heroes
+  url: http://www.last.fm/tag/heroes
+  count: "2"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "2"
+- name: twee noise
+  url: http://www.last.fm/tag/twee%20noise
+  count: "2"
+- name: overated
+  url: http://www.last.fm/tag/overated
+  count: "2"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "2"
+- name: dirty punk
+  url: http://www.last.fm/tag/dirty%20punk
+  count: "2"
+- name: rock stars
+  url: http://www.last.fm/tag/rock%20stars
+  count: "2"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "2"
+- name: reverb
+  url: http://www.last.fm/tag/reverb
+  count: "2"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "2"
+- name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+  count: "2"
+- name: Hard to love
+  url: http://www.last.fm/tag/hard%20to%20love
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: valley of the bees radio
+  url: http://www.last.fm/tag/valley%20of%20the%20bees%20radio
+  count: "0"
+- name: indie punk rock
+  url: http://www.last.fm/tag/indie%20punk%20rock
+  count: "0"
+- name: give me a listen
+  url: http://www.last.fm/tag/give%20me%20a%20listen
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "0"
+- name: underground
+  url: http://www.last.fm/tag/underground
+  count: "0"
+- name: Check on It
+  url: http://www.last.fm/tag/check%20on%20it
+  count: "0"
+- name: two or more artists with the same name
+  url: http://www.last.fm/tag/two%20or%20more%20artists%20with%20the%20same%20name
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"

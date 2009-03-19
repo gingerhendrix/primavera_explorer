@@ -46,6 +46,19 @@ namespace :update do
     end
     Band.save_all
   end
+  
+  desc "Move from single file database to multi-file database"
+  task :migrate_to_v2 do
+    db = Database.new(File.dirname(__FILE__) + "/../db");
+    yaml = File.open( File.dirname(__FILE__) + "/../bands.yml" ) { |yf| YAML::load( yf ) }
+    yaml.each do |hash|
+      b = Band.new_from_hash hash
+      Band.add b
+      b.lastfm_info.save(db)
+      b.lastfm_tags.save(db)      
+    end
+    Band.save_all(db)  
+  end
 
 end
 

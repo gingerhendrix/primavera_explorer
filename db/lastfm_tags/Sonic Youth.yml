@@ -1,0 +1,303 @@
+--- 
+artist: Sonic Youth
+tag: 
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "84"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "82"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "69"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "56"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "46"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "43"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "24"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "24"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "11"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "10"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "10"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "9"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "6"
+- name: Sonic Youth
+  url: http://www.last.fm/tag/sonic%20youth
+  count: "6"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "6"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "6"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "4"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "3"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "3"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "3"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "3"
+- name: american underground
+  url: http://www.last.fm/tag/american%20underground
+  count: "3"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "2"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "2"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "2"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "1"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: alternative pop rock
+  url: http://www.last.fm/tag/alternative%20pop%20rock
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: influential
+  url: http://www.last.fm/tag/influential
+  count: "0"
+- name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+  count: "0"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "0"
+- name: no-wave
+  url: http://www.last.fm/tag/no-wave
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: underground
+  url: http://www.last.fm/tag/underground
+  count: "0"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "0"
+- name: art-rock
+  url: http://www.last.fm/tag/art-rock
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: alt
+  url: http://www.last.fm/tag/alt
+  count: "0"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "0"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "0"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "0"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "0"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "0"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: Southside 2007
+  url: http://www.last.fm/tag/southside%202007
+  count: "0"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "0"
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: dirty
+  url: http://www.last.fm/tag/dirty
+  count: "0"
+- name: bonnaroo
+  url: http://www.last.fm/tag/bonnaroo
+  count: "0"
+- name: kim gordon
+  url: http://www.last.fm/tag/kim%20gordon
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"

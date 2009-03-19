@@ -1,0 +1,192 @@
+--- 
+artist: Women
+tag: 
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "100"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "91"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "58"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "50"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "45"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "37"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "33"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "20"
+- name: Calgary
+  url: http://www.last.fm/tag/calgary
+  count: "20"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "16"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "12"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "8"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "8"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "8"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "4"
+- name: uitproberen
+  url: http://www.last.fm/tag/uitproberen
+  count: "4"
+- name: beatlesesque
+  url: http://www.last.fm/tag/beatlesesque
+  count: "4"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "4"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "4"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "4"
+- name: on repeat
+  url: http://www.last.fm/tag/on%20repeat
+  count: "4"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "4"
+- name: a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "4"
+- name: Flemish Eye
+  url: http://www.last.fm/tag/flemish%20eye
+  count: "4"
+- name: estostiossonbuenosclaroquesi
+  url: http://www.last.fm/tag/estostiossonbuenosclaroquesi
+  count: "4"
+- name: estan loquitos estos romanos
+  url: http://www.last.fm/tag/estan%20loquitos%20estos%20romanos
+  count: "4"
+- name: not The Beatles
+  url: http://www.last.fm/tag/not%20the%20beatles
+  count: "4"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "4"
+- name: gore kutherrie
+  url: http://www.last.fm/tag/gore%20kutherrie
+  count: "4"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "4"
+- name: "shoegaze: newgaze"
+  url: http://www.last.fm/tag/shoegaze%3A%20newgaze
+  count: "4"
+- name: "pop: noise"
+  url: http://www.last.fm/tag/pop%3A%20noise
+  count: "4"
+- name: reluctant recordings
+  url: http://www.last.fm/tag/reluctant%20recordings
+  count: "4"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "4"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "4"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "4"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "4"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "4"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "4"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "4"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "4"
+- name: Noise-pop
+  url: http://www.last.fm/tag/noise-pop
+  count: "4"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "4"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "4"
+- name: Local
+  url: http://www.last.fm/tag/local
+  count: "4"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "4"
+- name: jagjaguwar
+  url: http://www.last.fm/tag/jagjaguwar
+  count: "4"
+- name: halloween
+  url: http://www.last.fm/tag/halloween
+  count: "4"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "4"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "4"
+- name: super
+  url: http://www.last.fm/tag/super
+  count: "4"
+- name: beatles
+  url: http://www.last.fm/tag/beatles
+  count: "4"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "4"
+- name: Alberta
+  url: http://www.last.fm/tag/alberta
+  count: "4"
+- name: siblings
+  url: http://www.last.fm/tag/siblings
+  count: "4"
+- name: weirdness
+  url: http://www.last.fm/tag/weirdness
+  count: "4"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: anhoeren
+  url: http://www.last.fm/tag/anhoeren
+  count: "0"
+- name: a smattering sans screaming
+  url: http://www.last.fm/tag/a%20smattering%20sans%20screaming
+  count: "0"
+- name: Canuck
+  url: http://www.last.fm/tag/canuck
+  count: "0"
+- name: Softies
+  url: http://www.last.fm/tag/softies
+  count: "0"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: Bat For Lashes
+tag: 
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "84"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "67"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "57"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "52"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "26"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "24"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "13"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "5"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "5"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "4"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "4"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "3"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "3"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "3"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "3"
+- name: bat for lashes
+  url: http://www.last.fm/tag/bat%20for%20lashes
+  count: "3"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "2"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "2"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "2"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "2"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: latitude 2007
+  url: http://www.last.fm/tag/latitude%202007
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "1"
+- name: folk noir
+  url: http://www.last.fm/tag/folk%20noir
+  count: "1"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: piano
+  url: http://www.last.fm/tag/piano
+  count: "1"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "1"
+- name: brilliant
+  url: http://www.last.fm/tag/brilliant
+  count: "1"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "1"
+- name: mystical
+  url: http://www.last.fm/tag/mystical
+  count: "1"
+- name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: girl voices
+  url: http://www.last.fm/tag/girl%20voices
+  count: "0"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "0"
+- name: magic
+  url: http://www.last.fm/tag/magic
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: hurricane 08
+  url: http://www.last.fm/tag/hurricane%2008
+  count: "0"
+- name: pakistani
+  url: http://www.last.fm/tag/pakistani
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "0"
+- name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+  count: "0"
+- name: Natasha Khan
+  url: http://www.last.fm/tag/natasha%20khan
+  count: "0"
+- name: to explore
+  url: http://www.last.fm/tag/to%20explore
+  count: "0"
+- name: marvellous
+  url: http://www.last.fm/tag/marvellous
+  count: "0"
+- name: life-changing
+  url: http://www.last.fm/tag/life-changing
+  count: "0"
+- name: safe and warm and loved
+  url: http://www.last.fm/tag/safe%20and%20warm%20and%20loved
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "0"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "0"
+- name: girl power
+  url: http://www.last.fm/tag/girl%20power
+  count: "0"
+- name: weird folk
+  url: http://www.last.fm/tag/weird%20folk
+  count: "0"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "0"
+- name: chilling
+  url: http://www.last.fm/tag/chilling
+  count: "0"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "0"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: epic
+  url: http://www.last.fm/tag/epic
+  count: "0"
+- name: female singer-songwriter
+  url: http://www.last.fm/tag/female%20singer-songwriter
+  count: "0"
+- name: vocal
+  url: http://www.last.fm/tag/vocal
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: music id like to fall asleep to
+  url: http://www.last.fm/tag/music%20id%20like%20to%20fall%20asleep%20to
+  count: "0"
+- name: bats
+  url: http://www.last.fm/tag/bats
+  count: "0"
+- name: Gypsy
+  url: http://www.last.fm/tag/gypsy
+  count: "0"
+- name: heartstrings
+  url: http://www.last.fm/tag/heartstrings
+  count: "0"
+- name: lounge
+  url: http://www.last.fm/tag/lounge
+  count: "0"
+- name: poznac to musze bardziej
+  url: http://www.last.fm/tag/poznac%20to%20musze%20bardziej
+  count: "0"
+- name: reinhoeren
+  url: http://www.last.fm/tag/reinhoeren
+  count: "0"
+- name: brit folk
+  url: http://www.last.fm/tag/brit%20folk
+  count: "0"
+- name: echo
+  url: http://www.last.fm/tag/echo
+  count: "0"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "0"
+- name: twinkling starry skies
+  url: http://www.last.fm/tag/twinkling%20starry%20skies
+  count: "0"
+- name: autumn
+  url: http://www.last.fm/tag/autumn
+  count: "0"
+- name: female artists
+  url: http://www.last.fm/tag/female%20artists
+  count: "0"
+- name: brighton
+  url: http://www.last.fm/tag/brighton
+  count: "0"
+- name: strange girls
+  url: http://www.last.fm/tag/strange%20girls
+  count: "0"
+- name: alternative indie
+  url: http://www.last.fm/tag/alternative%20indie
+  count: "0"
+- name: f
+  url: http://www.last.fm/tag/f
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: summer 2007
+  url: http://www.last.fm/tag/summer%202007
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "0"
+- name: wishlist
+  url: http://www.last.fm/tag/wishlist
+  count: "0"

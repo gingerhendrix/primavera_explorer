@@ -1,0 +1,279 @@
+--- 
+artist: Wooden Shjips
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "58"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "47"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "38"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "33"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "18"
+- name: san francisco
+  url: http://www.last.fm/tag/san%20francisco
+  count: "15"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "9"
+- name: drone rock
+  url: http://www.last.fm/tag/drone%20rock
+  count: "9"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "7"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "7"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "7"
+- name: Acid Rock
+  url: http://www.last.fm/tag/acid%20rock
+  count: "3"
+- name: psychedelic indie
+  url: http://www.last.fm/tag/psychedelic%20indie
+  count: "3"
+- name: terrascopic
+  url: http://www.last.fm/tag/terrascopic
+  count: "3"
+- name: to check
+  url: http://www.last.fm/tag/to%20check
+  count: "1"
+- name: terrastock
+  url: http://www.last.fm/tag/terrastock
+  count: "1"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "1"
+- name: psychedelic punk
+  url: http://www.last.fm/tag/psychedelic%20punk
+  count: "1"
+- name: mountain music
+  url: http://www.last.fm/tag/mountain%20music
+  count: "1"
+- name: The Real Shit
+  url: http://www.last.fm/tag/the%20real%20shit
+  count: "1"
+- name: free rock
+  url: http://www.last.fm/tag/free%20rock
+  count: "1"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "1"
+- name: need-listen-to
+  url: http://www.last.fm/tag/need-listen-to
+  count: "1"
+- name: to be investigated further
+  url: http://www.last.fm/tag/to%20be%20investigated%20further
+  count: "1"
+- name: LSD
+  url: http://www.last.fm/tag/lsd
+  count: "1"
+- name: avant-garde or experimental
+  url: http://www.last.fm/tag/avant-garde%20or%20experimental
+  count: "1"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "1"
+- name: anti fi
+  url: http://www.last.fm/tag/anti%20fi
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: triumphant grotesque
+  url: http://www.last.fm/tag/triumphant%20grotesque
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: mind shaker psychedelic rock
+  url: http://www.last.fm/tag/mind%20shaker%20psychedelic%20rock
+  count: "1"
+- name: rosendo-drone
+  url: http://www.last.fm/tag/rosendo-drone
+  count: "1"
+- name: terrastock 7
+  url: http://www.last.fm/tag/terrastock%207
+  count: "1"
+- name: tomakeanddo
+  url: http://www.last.fm/tag/tomakeanddo
+  count: "1"
+- name: terrastock 2008
+  url: http://www.last.fm/tag/terrastock%202008
+  count: "1"
+- name: a decouvrir absolument
+  url: http://www.last.fm/tag/a%20decouvrir%20absolument
+  count: "1"
+- name: bannanas
+  url: http://www.last.fm/tag/bannanas
+  count: "1"
+- name: heard on femyou
+  url: http://www.last.fm/tag/heard%20on%20femyou
+  count: "1"
+- name: american psych
+  url: http://www.last.fm/tag/american%20psych
+  count: "1"
+- name: atp vs pitchfork
+  url: http://www.last.fm/tag/atp%20vs%20pitchfork
+  count: "1"
+- name: Modern psych
+  url: http://www.last.fm/tag/modern%20psych
+  count: "1"
+- name: ex-per-i-mental
+  url: http://www.last.fm/tag/ex-per-i-mental
+  count: "1"
+- name: third eye drilling
+  url: http://www.last.fm/tag/third%20eye%20drilling
+  count: "1"
+- name: cassette punk
+  url: http://www.last.fm/tag/cassette%20punk
+  count: "1"
+- name: Mad crazy psychedelic shit
+  url: http://www.last.fm/tag/mad%20crazy%20psychedelic%20shit
+  count: "1"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "1"
+- name: folk punk
+  url: http://www.last.fm/tag/folk%20punk
+  count: "1"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "1"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "1"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "1"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "1"
+- name: Acid
+  url: http://www.last.fm/tag/acid
+  count: "1"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: spacerock
+  url: http://www.last.fm/tag/spacerock
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "1"
+- name: wanna see live
+  url: http://www.last.fm/tag/wanna%20see%20live
+  count: "1"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "1"
+- name: Artists I like
+  url: http://www.last.fm/tag/artists%20i%20like
+  count: "1"
+- name: marijuana
+  url: http://www.last.fm/tag/marijuana
+  count: "1"
+- name: 00's
+  url: http://www.last.fm/tag/00%27s
+  count: "1"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "1"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "1"
+- name: i
+  url: http://www.last.fm/tag/i
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "0"
+- name: ntbc
+  url: http://www.last.fm/tag/ntbc
+  count: "0"
+- name: accccccumulate
+  url: http://www.last.fm/tag/accccccumulate
+  count: "0"
+- name: drone noise
+  url: http://www.last.fm/tag/drone%20noise
+  count: "0"
+- name: walking the cow
+  url: http://www.last.fm/tag/walking%20the%20cow
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: sf
+  url: http://www.last.fm/tag/sf
+  count: "0"
+- name: bad boys of beard-o
+  url: http://www.last.fm/tag/bad%20boys%20of%20beard-o
+  count: "0"
+- name: cali
+  url: http://www.last.fm/tag/cali
+  count: "0"
+- name: primitive
+  url: http://www.last.fm/tag/primitive
+  count: "0"
+- name: US alternative
+  url: http://www.last.fm/tag/us%20alternative
+  count: "0"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "0"
+- name: ATP v Pitchfork
+  url: http://www.last.fm/tag/atp%20v%20pitchfork
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: komotion
+  url: http://www.last.fm/tag/komotion
+  count: "0"

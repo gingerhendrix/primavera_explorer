@@ -1,0 +1,27 @@
+--- 
+artist: cuzo
+tag: 
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "100"
+- name: synth
+  url: http://www.last.fm/tag/synth
+  count: "100"
+- name: Psychodelia
+  url: http://www.last.fm/tag/psychodelia
+  count: "100"
+- name: space-rock
+  url: http://www.last.fm/tag/space-rock
+  count: "100"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "50"
+- name: psychodelic
+  url: http://www.last.fm/tag/psychodelic
+  count: "50"
+- name: Prog-Rock
+  url: http://www.last.fm/tag/prog-rock
+  count: "50"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "50"

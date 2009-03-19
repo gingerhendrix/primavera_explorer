@@ -1,0 +1,33 @@
+--- 
+artist: Ghostface Killah
+tag: 
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "100"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "50"
+- name: wu-tang
+  url: http://www.last.fm/tag/wu-tang
+  count: "37"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "12"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "12"
+- name: East Coast
+  url: http://www.last.fm/tag/east%20coast
+  count: "12"
+- name: staten island
+  url: http://www.last.fm/tag/staten%20island
+  count: "12"
+- name: Wu-Tang Clan
+  url: http://www.last.fm/tag/wu-tang%20clan
+  count: "12"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: Uffie
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "79"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "64"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "49"
+- name: ed banger
+  url: http://www.last.fm/tag/ed%20banger
+  count: "43"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "28"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "22"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "16"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "10"
+- name: uffie
+  url: http://www.last.fm/tag/uffie
+  count: "7"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "3"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "3"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "3"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "2"
+- name: ed banger records
+  url: http://www.last.fm/tag/ed%20banger%20records
+  count: "2"
+- name: kinky
+  url: http://www.last.fm/tag/kinky
+  count: "1"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "1"
+- name: hot chick
+  url: http://www.last.fm/tag/hot%20chick
+  count: "1"
+- name: miami
+  url: http://www.last.fm/tag/miami
+  count: "1"
+- name: nu rave
+  url: http://www.last.fm/tag/nu%20rave
+  count: "1"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "1"
+- name: Breakbeats
+  url: http://www.last.fm/tag/breakbeats
+  count: "1"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "1"
+- name: hipster dance party
+  url: http://www.last.fm/tag/hipster%20dance%20party
+  count: "1"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "0"
+- name: girls with attitude
+  url: http://www.last.fm/tag/girls%20with%20attitude
+  count: "0"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "0"
+- name: french electro
+  url: http://www.last.fm/tag/french%20electro
+  count: "0"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "0"
+- name: dirty electro
+  url: http://www.last.fm/tag/dirty%20electro
+  count: "0"
+- name: rebellious girls
+  url: http://www.last.fm/tag/rebellious%20girls
+  count: "0"
+- name: electro-pop
+  url: http://www.last.fm/tag/electro-pop
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: makes me want to move my feet
+  url: http://www.last.fm/tag/makes%20me%20want%20to%20move%20my%20feet
+  count: "0"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "0"
+- name: Feadz
+  url: http://www.last.fm/tag/feadz
+  count: "0"
+- name: music for broken hearted nintendo players
+  url: http://www.last.fm/tag/music%20for%20broken%20hearted%20nintendo%20players
+  count: "0"
+- name: people who are freakier and folkier than motherfucking devendra banhart
+  url: http://www.last.fm/tag/people%20who%20are%20freakier%20and%20folkier%20than%20motherfucking%20devendra%20banhart
+  count: "0"
+- name: dirty
+  url: http://www.last.fm/tag/dirty
+  count: "0"
+- name: electriphop
+  url: http://www.last.fm/tag/electriphop
+  count: "0"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "0"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "0"
+- name: electro lolita
+  url: http://www.last.fm/tag/electro%20lolita
+  count: "0"
+- name: edbanger
+  url: http://www.last.fm/tag/edbanger
+  count: "0"
+- name: blow up the speakers
+  url: http://www.last.fm/tag/blow%20up%20the%20speakers
+  count: "0"
+- name: I like posh electro-whores
+  url: http://www.last.fm/tag/i%20like%20posh%20electro-whores
+  count: "0"
+- name: Hot chick that you cant even touch
+  url: http://www.last.fm/tag/hot%20chick%20that%20you%20cant%20even%20touch
+  count: "0"
+- name: chic electro
+  url: http://www.last.fm/tag/chic%20electro
+  count: "0"
+- name: riot grrrl
+  url: http://www.last.fm/tag/riot%20grrrl
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: booty bass
+  url: http://www.last.fm/tag/booty%20bass
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: miami bass
+  url: http://www.last.fm/tag/miami%20bass
+  count: "0"
+- name: glittering raspberry dancefloors
+  url: http://www.last.fm/tag/glittering%20raspberry%20dancefloors
+  count: "0"
+- name: lowlands 2007
+  url: http://www.last.fm/tag/lowlands%202007
+  count: "0"
+- name: electro hop
+  url: http://www.last.fm/tag/electro%20hop
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: elektro
+  url: http://www.last.fm/tag/elektro
+  count: "0"
+- name: stuff like that is gonna drive me crazy
+  url: http://www.last.fm/tag/stuff%20like%20that%20is%20gonna%20drive%20me%20crazy
+  count: "0"
+- name: hot
+  url: http://www.last.fm/tag/hot
+  count: "0"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "0"
+- name: put your red shoes on
+  url: http://www.last.fm/tag/put%20your%20red%20shoes%20on
+  count: "0"
+- name: girls i have a crush on
+  url: http://www.last.fm/tag/girls%20i%20have%20a%20crush%20on
+  count: "0"
+- name: Electro Hip Hop
+  url: http://www.last.fm/tag/electro%20hip%20hop
+  count: "0"
+- name: alternative hip hop
+  url: http://www.last.fm/tag/alternative%20hip%20hop
+  count: "0"
+- name: pop the glock
+  url: http://www.last.fm/tag/pop%20the%20glock
+  count: "0"
+- name: electrorap
+  url: http://www.last.fm/tag/electrorap
+  count: "0"
+- name: ed rec
+  url: http://www.last.fm/tag/ed%20rec
+  count: "0"
+- name: eletronica
+  url: http://www.last.fm/tag/eletronica
+  count: "0"
+- name: i have a crush on the girls in this band
+  url: http://www.last.fm/tag/i%20have%20a%20crush%20on%20the%20girls%20in%20this%20band
+  count: "0"
+- name: epitome of my life
+  url: http://www.last.fm/tag/epitome%20of%20my%20life
+  count: "0"
+- name: songs I know know by heart
+  url: http://www.last.fm/tag/songs%20i%20know%20know%20by%20heart
+  count: "0"
+- name: eurosonic-noorderslag 2007
+  url: http://www.last.fm/tag/eurosonic-noorderslag%202007
+  count: "0"
+- name: wondrous soundbeads for our delicate ears
+  url: http://www.last.fm/tag/wondrous%20soundbeads%20for%20our%20delicate%20ears
+  count: "0"
+- name: elektronisches
+  url: http://www.last.fm/tag/elektronisches
+  count: "0"
+- name: justice
+  url: http://www.last.fm/tag/justice
+  count: "0"
+- name: intention to see live
+  url: http://www.last.fm/tag/intention%20to%20see%20live
+  count: "0"
+- name: paris
+  url: http://www.last.fm/tag/paris
+  count: "0"
+- name: bangin
+  url: http://www.last.fm/tag/bangin
+  count: "0"
+- name: wishlist
+  url: http://www.last.fm/tag/wishlist
+  count: "0"
+- name: hipster
+  url: http://www.last.fm/tag/hipster
+  count: "0"
+- name: banger
+  url: http://www.last.fm/tag/banger
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: hipster electro
+  url: http://www.last.fm/tag/hipster%20electro
+  count: "0"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "0"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: lowlands2007
+  url: http://www.last.fm/tag/lowlands2007
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: frauen und technik
+  url: http://www.last.fm/tag/frauen%20und%20technik
+  count: "0"
+- name: hihi
+  url: http://www.last.fm/tag/hihi
+  count: "0"

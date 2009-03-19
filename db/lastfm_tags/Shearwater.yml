@@ -1,0 +1,303 @@
+--- 
+artist: Shearwater
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "93"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "57"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "52"
+- name: austin
+  url: http://www.last.fm/tag/austin
+  count: "28"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "18"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "17"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "14"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "10"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "7"
+- name: texas
+  url: http://www.last.fm/tag/texas
+  count: "6"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "6"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "5"
+- name: sadcore
+  url: http://www.last.fm/tag/sadcore
+  count: "5"
+- name: alt country
+  url: http://www.last.fm/tag/alt%20country
+  count: "5"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "5"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "4"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "3"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "2"
+- name: misra
+  url: http://www.last.fm/tag/misra
+  count: "2"
+- name: okkervil
+  url: http://www.last.fm/tag/okkervil
+  count: "2"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "2"
+- name: look into
+  url: http://www.last.fm/tag/look%20into
+  count: "2"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "2"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "2"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "1"
+- name: seen live and was sober enough to remember it
+  url: http://www.last.fm/tag/seen%20live%20and%20was%20sober%20enough%20to%20remember%20it
+  count: "1"
+- name: emotional
+  url: http://www.last.fm/tag/emotional
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: so beautiful that I couldnt reply when the bombs finished falling
+  url: http://www.last.fm/tag/so%20beautiful%20that%20i%20couldnt%20reply%20when%20the%20bombs%20finished%20falling
+  count: "1"
+- name: texan
+  url: http://www.last.fm/tag/texan
+  count: "1"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "1"
+- name: Matador Records
+  url: http://www.last.fm/tag/matador%20records
+  count: "1"
+- name: best of 2008
+  url: http://www.last.fm/tag/best%20of%202008
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: Gartenphotos
+  url: http://www.last.fm/tag/gartenphotos
+  count: "1"
+- name: pretty much perfect
+  url: http://www.last.fm/tag/pretty%20much%20perfect
+  count: "0"
+- name: emofolkrock
+  url: http://www.last.fm/tag/emofolkrock
+  count: "0"
+- name: a long red glare
+  url: http://www.last.fm/tag/a%20long%20red%20glare
+  count: "0"
+- name: "seen live: 2007"
+  url: http://www.last.fm/tag/seen%20live%3A%202007
+  count: "0"
+- name: Texana
+  url: http://www.last.fm/tag/texana
+  count: "0"
+- name: they owe me beer
+  url: http://www.last.fm/tag/they%20owe%20me%20beer
+  count: "0"
+- name: sx07
+  url: http://www.last.fm/tag/sx07
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: some nights i thirst for real blood for real knives for real cries
+  url: http://www.last.fm/tag/some%20nights%20i%20thirst%20for%20real%20blood%20for%20real%20knives%20for%20real%20cries
+  count: "0"
+- name: on-the-road
+  url: http://www.last.fm/tag/on-the-road
+  count: "0"
+- name: me slowly
+  url: http://www.last.fm/tag/me%20slowly
+  count: "0"
+- name: nochmal-nochmal
+  url: http://www.last.fm/tag/nochmal-nochmal
+  count: "0"
+- name: awesome live shows I would see again
+  url: http://www.last.fm/tag/awesome%20live%20shows%20i%20would%20see%20again
+  count: "0"
+- name: schlau machen
+  url: http://www.last.fm/tag/schlau%20machen
+  count: "0"
+- name: 4love
+  url: http://www.last.fm/tag/4love
+  count: "0"
+- name: CTFO
+  url: http://www.last.fm/tag/ctfo
+  count: "0"
+- name: lo-folk
+  url: http://www.last.fm/tag/lo-folk
+  count: "0"
+- name: island artists
+  url: http://www.last.fm/tag/island%20artists
+  count: "0"
+- name: best of 2006
+  url: http://www.last.fm/tag/best%20of%202006
+  count: "0"
+- name: "66"
+  url: http://www.last.fm/tag/66
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: stuff i want
+  url: http://www.last.fm/tag/stuff%20i%20want
+  count: "0"
+- name: ":premiruce utonuce:"
+  url: http://www.last.fm/tag/%3Apremiruce%20utonuce%3A
+  count: "0"
+- name: plan b
+  url: http://www.last.fm/tag/plan%20b
+  count: "0"
+- name: usuals
+  url: http://www.last.fm/tag/usuals
+  count: "0"
+- name: texas artist
+  url: http://www.last.fm/tag/texas%20artist
+  count: "0"
+- name: "32"
+  url: http://www.last.fm/tag/32
+  count: "0"
+- name: chocolate lake
+  url: http://www.last.fm/tag/chocolate%20lake
+  count: "0"
+- name: Carpet Crawler
+  url: http://www.last.fm/tag/carpet%20crawler
+  count: "0"
+- name: da approfondire
+  url: http://www.last.fm/tag/da%20approfondire
+  count: "0"
+- name: you need to hear this
+  url: http://www.last.fm/tag/you%20need%20to%20hear%20this
+  count: "0"
+- name: folk me slowly
+  url: http://www.last.fm/tag/folk%20me%20slowly
+  count: "0"
+- name: the beautiful bands of texas
+  url: http://www.last.fm/tag/the%20beautiful%20bands%20of%20texas
+  count: "0"
+- name: need to see
+  url: http://www.last.fm/tag/need%20to%20see
+  count: "0"
+- name: of the soundtrack of my life
+  url: http://www.last.fm/tag/of%20the%20soundtrack%20of%20my%20life
+  count: "0"
+- name: This Looks Cool
+  url: http://www.last.fm/tag/this%20looks%20cool
+  count: "0"
+- name: al live gezien
+  url: http://www.last.fm/tag/al%20live%20gezien
+  count: "0"
+- name: burning water fluid fire
+  url: http://www.last.fm/tag/burning%20water%20fluid%20fire
+  count: "0"
+- name: magnolia october
+  url: http://www.last.fm/tag/magnolia%20october
+  count: "0"
+- name: sasquatch 2009
+  url: http://www.last.fm/tag/sasquatch%202009
+  count: "0"
+- name: burning skin
+  url: http://www.last.fm/tag/burning%20skin
+  count: "0"
+- name: Baustar
+  url: http://www.last.fm/tag/baustar
+  count: "0"
+- name: estostiossonbuenosclaroquesi
+  url: http://www.last.fm/tag/estostiossonbuenosclaroquesi
+  count: "0"
+- name: dreamy echoy indie
+  url: http://www.last.fm/tag/dreamy%20echoy%20indie
+  count: "0"
+- name: increible
+  url: http://www.last.fm/tag/increible
+  count: "0"
+- name: ALt-CR
+  url: http://www.last.fm/tag/alt-cr
+  count: "0"
+- name: dour2008
+  url: http://www.last.fm/tag/dour2008
+  count: "0"
+- name: found:concert
+  url: http://www.last.fm/tag/found%3Aconcert
+  count: "0"
+- name: bursting out of yourself
+  url: http://www.last.fm/tag/bursting%20out%20of%20yourself
+  count: "0"
+- name: when all your moneys gone and you are drunk as hell
+  url: http://www.last.fm/tag/when%20all%20your%20moneys%20gone%20and%20you%20are%20drunk%20as%20hell
+  count: "0"
+- name: maybe this will make getting older easier and somehow blunt the pain
+  url: http://www.last.fm/tag/maybe%20this%20will%20make%20getting%20older%20easier%20and%20somehow%20blunt%20the%20pain
+  count: "0"
+- name: alternativest
+  url: http://www.last.fm/tag/alternativest
+  count: "0"
+- name: crying in the bathtub
+  url: http://www.last.fm/tag/crying%20in%20the%20bathtub
+  count: "0"
+- name: best band ever formed
+  url: http://www.last.fm/tag/best%20band%20ever%20formed
+  count: "0"

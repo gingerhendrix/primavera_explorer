@@ -1,0 +1,273 @@
+--- 
+artist: A-Trak
+tag: 
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "100"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "55"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "44"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "31"
+- name: scratch
+  url: http://www.last.fm/tag/scratch
+  count: "29"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "19"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "17"
+- name: montreal
+  url: http://www.last.fm/tag/montreal
+  count: "17"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "17"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "14"
+- name: mashup
+  url: http://www.last.fm/tag/mashup
+  count: "10"
+- name: mash-up
+  url: http://www.last.fm/tag/mash-up
+  count: "6"
+- name: dance party
+  url: http://www.last.fm/tag/dance%20party
+  count: "6"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "6"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "4"
+- name: Electric Picnic 2008
+  url: http://www.last.fm/tag/electric%20picnic%202008
+  count: "4"
+- name: quebec
+  url: http://www.last.fm/tag/quebec
+  count: "4"
+- name: artists and bands i have seen
+  url: http://www.last.fm/tag/artists%20and%20bands%20i%20have%20seen
+  count: "2"
+- name: "hip hop : underground"
+  url: http://www.last.fm/tag/hip%20hop%20%3A%20underground
+  count: "2"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "2"
+- name: Best DJ ever
+  url: http://www.last.fm/tag/best%20dj%20ever
+  count: "2"
+- name: roskilde 2006
+  url: http://www.last.fm/tag/roskilde%202006
+  count: "2"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "2"
+- name: statik distribution
+  url: http://www.last.fm/tag/statik%20distribution
+  count: "2"
+- name: subsublistened
+  url: http://www.last.fm/tag/subsublistened
+  count: "2"
+- name: dmc
+  url: http://www.last.fm/tag/dmc
+  count: "2"
+- name: roskilde 06
+  url: http://www.last.fm/tag/roskilde%2006
+  count: "2"
+- name: experienced live
+  url: http://www.last.fm/tag/experienced%20live
+  count: "2"
+- name: zenzizi station
+  url: http://www.last.fm/tag/zenzizi%20station
+  count: "2"
+- name: Kitsune
+  url: http://www.last.fm/tag/kitsune
+  count: "2"
+- name: Sexy sounds
+  url: http://www.last.fm/tag/sexy%20sounds
+  count: "2"
+- name: electric picnic 2007
+  url: http://www.last.fm/tag/electric%20picnic%202007
+  count: "2"
+- name: hipster rap
+  url: http://www.last.fm/tag/hipster%20rap
+  count: "2"
+- name: DMC Champion
+  url: http://www.last.fm/tag/dmc%20champion
+  count: "2"
+- name: pop montreal 2007
+  url: http://www.last.fm/tag/pop%20montreal%202007
+  count: "2"
+- name: WHP 07
+  url: http://www.last.fm/tag/whp%2007
+  count: "2"
+- name: whp hip-hop
+  url: http://www.last.fm/tag/whp%20hip-hop
+  count: "2"
+- name: whp hip-hop breaks dnb
+  url: http://www.last.fm/tag/whp%20hip-hop%20breaks%20dnb
+  count: "2"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "2"
+- name: remix hero
+  url: http://www.last.fm/tag/remix%20hero
+  count: "2"
+- name: dot to dot 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%202008
+  count: "2"
+- name: Dot to Dot Festival - Bristol 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%20festival%20-%20bristol%202008
+  count: "2"
+- name: i could be a pretentious asshole and tag this seen live but im not going to
+  url: http://www.last.fm/tag/i%20could%20be%20a%20pretentious%20asshole%20and%20tag%20this%20seen%20live%20but%20im%20not%20going%20to
+  count: "2"
+- name: crazy fools
+  url: http://www.last.fm/tag/crazy%20fools
+  count: "2"
+- name: wielmozny pan lubi
+  url: http://www.last.fm/tag/wielmozny%20pan%20lubi
+  count: "2"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "2"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "2"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "2"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "2"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "2"
+- name: remix
+  url: http://www.last.fm/tag/remix
+  count: "2"
+- name: turntablist
+  url: http://www.last.fm/tag/turntablist
+  count: "2"
+- name: remixes
+  url: http://www.last.fm/tag/remixes
+  count: "2"
+- name: instrumental hip-hop
+  url: http://www.last.fm/tag/instrumental%20hip-hop
+  count: "2"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "2"
+- name: urban
+  url: http://www.last.fm/tag/urban
+  count: "2"
+- name: dancey
+  url: http://www.last.fm/tag/dancey
+  count: "2"
+- name: Dirty South
+  url: http://www.last.fm/tag/dirty%20south
+  count: "2"
+- name: Kanye West
+  url: http://www.last.fm/tag/kanye%20west
+  count: "2"
+- name: mash up
+  url: http://www.last.fm/tag/mash%20up
+  count: "2"
+- name: djs
+  url: http://www.last.fm/tag/djs
+  count: "2"
+- name: scratching
+  url: http://www.last.fm/tag/scratching
+  count: "2"
+- name: bmore
+  url: http://www.last.fm/tag/bmore
+  count: "2"
+- name: turntables
+  url: http://www.last.fm/tag/turntables
+  count: "2"
+- name: loveinmusicform
+  url: http://www.last.fm/tag/loveinmusicform
+  count: "2"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "2"
+- name: frenchy
+  url: http://www.last.fm/tag/frenchy
+  count: "2"
+- name: goodmusicfam
+  url: http://www.last.fm/tag/goodmusicfam
+  count: "2"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "2"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "0"
+- name: pukkelpop 2008
+  url: http://www.last.fm/tag/pukkelpop%202008
+  count: "0"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "0"
+- name: in queue no albums
+  url: http://www.last.fm/tag/in%20queue%20no%20albums
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: I am canadian
+  url: http://www.last.fm/tag/i%20am%20canadian
+  count: "0"
+- name: electro hiphop
+  url: http://www.last.fm/tag/electro%20hiphop
+  count: "0"
+- name: bbc radio 1 essential mix appearance
+  url: http://www.last.fm/tag/bbc%20radio%201%20essential%20mix%20appearance
+  count: "0"
+- name: kakav partaj
+  url: http://www.last.fm/tag/kakav%20partaj
+  count: "0"
+- name: coachella
+  url: http://www.last.fm/tag/coachella
+  count: "0"
+- name: indie disco
+  url: http://www.last.fm/tag/indie%20disco
+  count: "0"
+- name: fuji rock festival
+  url: http://www.last.fm/tag/fuji%20rock%20festival
+  count: "0"
+- name: chekkout
+  url: http://www.last.fm/tag/chekkout
+  count: "0"
+- name: look at
+  url: http://www.last.fm/tag/look%20at
+  count: "0"
+- name: Montreal DJ
+  url: http://www.last.fm/tag/montreal%20dj
+  count: "0"
+- name: fuji rock festival 07
+  url: http://www.last.fm/tag/fuji%20rock%20festival%2007
+  count: "0"
+- name: heavy rotation
+  url: http://www.last.fm/tag/heavy%20rotation
+  count: "0"
+- name: o-hara
+  url: http://www.last.fm/tag/o-hara
+  count: "0"

@@ -1,0 +1,243 @@
+--- 
+artist: Ponytail
+tag: 
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "75"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "37"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "31"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "24"
+- name: Baltimore
+  url: http://www.last.fm/tag/baltimore
+  count: "13"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "13"
+- name: we are free
+  url: http://www.last.fm/tag/we%20are%20free
+  count: "6"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "6"
+- name: ZXZW 2008
+  url: http://www.last.fm/tag/zxzw%202008
+  count: "6"
+- name: bmore
+  url: http://www.last.fm/tag/bmore
+  count: "6"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "6"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "6"
+- name: maryland
+  url: http://www.last.fm/tag/maryland
+  count: "6"
+- name: zxzw
+  url: http://www.last.fm/tag/zxzw
+  count: "6"
+- name: descargar
+  url: http://www.last.fm/tag/descargar
+  count: "3"
+- name: little children screaming
+  url: http://www.last.fm/tag/little%20children%20screaming
+  count: "3"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "3"
+- name: the god damn best
+  url: http://www.last.fm/tag/the%20god%20damn%20best
+  count: "3"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "3"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "3"
+- name: For Fun
+  url: http://www.last.fm/tag/for%20fun
+  count: "3"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "3"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "3"
+- name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+  count: "3"
+- name: Makes Me Smile
+  url: http://www.last.fm/tag/makes%20me%20smile
+  count: "3"
+- name: sxsw 2008
+  url: http://www.last.fm/tag/sxsw%202008
+  count: "3"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "3"
+- name: they sound japanese
+  url: http://www.last.fm/tag/they%20sound%20japanese
+  count: "3"
+- name: Mantua
+  url: http://www.last.fm/tag/mantua
+  count: "3"
+- name: aural karate
+  url: http://www.last.fm/tag/aural%20karate
+  count: "3"
+- name: capable of beating up conor oberst
+  url: http://www.last.fm/tag/capable%20of%20beating%20up%20conor%20oberst
+  count: "3"
+- name: jerrycakes seen live
+  url: http://www.last.fm/tag/jerrycakes%20seen%20live
+  count: "3"
+- name: screaming little girl
+  url: http://www.last.fm/tag/screaming%20little%20girl
+  count: "3"
+- name: creative capitalism
+  url: http://www.last.fm/tag/creative%20capitalism
+  count: "3"
+- name: scary awesome
+  url: http://www.last.fm/tag/scary%20awesome
+  count: "3"
+- name: third wave art punk
+  url: http://www.last.fm/tag/third%20wave%20art%20punk
+  count: "3"
+- name: awkward yet awesome
+  url: http://www.last.fm/tag/awkward%20yet%20awesome
+  count: "3"
+- name: A little kid strapped to a magical rocket going way too fast and high and far
+  url: http://www.last.fm/tag/a%20little%20kid%20strapped%20to%20a%20magical%20rocket%20going%20way%20too%20fast%20and%20high%20and%20far
+  count: "3"
+- name: i dont feel that I need to explain my art to you Warren
+  url: http://www.last.fm/tag/i%20dont%20feel%20that%20i%20need%20to%20explain%20my%20art%20to%20you%20warren
+  count: "3"
+- name: All the powers of a king plus all the powers of Superman
+  url: http://www.last.fm/tag/all%20the%20powers%20of%20a%20king%20plus%20all%20the%20powers%20of%20superman
+  count: "3"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "3"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "3"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "3"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "3"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "3"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "3"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "3"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "3"
+- name: bands ive seen
+  url: http://www.last.fm/tag/bands%20ive%20seen
+  count: "3"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "3"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "3"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "3"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "3"
+- name: special
+  url: http://www.last.fm/tag/special
+  count: "3"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "3"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "3"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: finnish
+  url: http://www.last.fm/tag/finnish
+  count: "0"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "0"
+- name: "200901"
+  url: http://www.last.fm/tag/200901
+  count: "0"
+- name: Crap
+  url: http://www.last.fm/tag/crap
+  count: "0"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "0"
+- name: bands that played in vera
+  url: http://www.last.fm/tag/bands%20that%20played%20in%20vera
+  count: "0"
+- name: samplebased
+  url: http://www.last.fm/tag/samplebased
+  count: "0"
+- name: click
+  url: http://www.last.fm/tag/click
+  count: "0"
+- name: playtime
+  url: http://www.last.fm/tag/playtime
+  count: "0"
+- name: art
+  url: http://www.last.fm/tag/art
+  count: "0"
+- name: melodies
+  url: http://www.last.fm/tag/melodies
+  count: "0"
+- name: cut
+  url: http://www.last.fm/tag/cut
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: FM4
+  url: http://www.last.fm/tag/fm4
+  count: "0"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "0"

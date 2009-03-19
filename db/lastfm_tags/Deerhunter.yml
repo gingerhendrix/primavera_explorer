@@ -1,0 +1,303 @@
+--- 
+artist: Deerhunter
+tag: 
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "89"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "86"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "60"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "54"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "30"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "23"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "11"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "8"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "7"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "7"
+- name: atlanta
+  url: http://www.last.fm/tag/atlanta
+  count: "7"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "7"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "5"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "5"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "4"
+- name: kranky
+  url: http://www.last.fm/tag/kranky
+  count: "4"
+- name: Psychedelia
+  url: http://www.last.fm/tag/psychedelia
+  count: "3"
+- name: georgia
+  url: http://www.last.fm/tag/georgia
+  count: "3"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "3"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "3"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "2"
+- name: shoegazing
+  url: http://www.last.fm/tag/shoegazing
+  count: "2"
+- name: deerhunter
+  url: http://www.last.fm/tag/deerhunter
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: shit rock
+  url: http://www.last.fm/tag/shit%20rock
+  count: "2"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "2"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "2"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "2"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "2"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: ambient-punk
+  url: http://www.last.fm/tag/ambient-punk
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: best of 2007
+  url: http://www.last.fm/tag/best%20of%202007
+  count: "1"
+- name: skygazing
+  url: http://www.last.fm/tag/skygazing
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "1"
+- name: ambient punk
+  url: http://www.last.fm/tag/ambient%20punk
+  count: "1"
+- name: 4ad
+  url: http://www.last.fm/tag/4ad
+  count: "1"
+- name: ambient pop
+  url: http://www.last.fm/tag/ambient%20pop
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "1"
+- name: art
+  url: http://www.last.fm/tag/art
+  count: "1"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "1"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "0"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "0"
+- name: sound better than their name suggests
+  url: http://www.last.fm/tag/sound%20better%20than%20their%20name%20suggests
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "0"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "0"
+- name: fender jaguar
+  url: http://www.last.fm/tag/fender%20jaguar
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: hooves and paws
+  url: http://www.last.fm/tag/hooves%20and%20paws
+  count: "0"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "0"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "0"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "0"
+- name: Cerebral
+  url: http://www.last.fm/tag/cerebral
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: artists ive seen live
+  url: http://www.last.fm/tag/artists%20ive%20seen%20live
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: nu-gaze
+  url: http://www.last.fm/tag/nu-gaze
+  count: "0"
+- name: meine tiere
+  url: http://www.last.fm/tag/meine%20tiere
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: Seen Perform Live
+  url: http://www.last.fm/tag/seen%20perform%20live
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: brooding
+  url: http://www.last.fm/tag/brooding
+  count: "0"
+- name: loud
+  url: http://www.last.fm/tag/loud
+  count: "0"
+- name: railgun
+  url: http://www.last.fm/tag/railgun
+  count: "0"
+- name: rotting corpse pop
+  url: http://www.last.fm/tag/rotting%20corpse%20pop
+  count: "0"
+- name: non the artists
+  url: http://www.last.fm/tag/non%20the%20artists
+  count: "0"
+- name: genius pies
+  url: http://www.last.fm/tag/genius%20pies
+  count: "0"
+- name: Pitchfork Festival 2007
+  url: http://www.last.fm/tag/pitchfork%20festival%202007
+  count: "0"
+- name: lsd abuse
+  url: http://www.last.fm/tag/lsd%20abuse
+  count: "0"
+- name: hanki lisaa
+  url: http://www.last.fm/tag/hanki%20lisaa
+  count: "0"
+- name: indierock indie
+  url: http://www.last.fm/tag/indierock%20indie
+  count: "0"
+- name: hyperspace
+  url: http://www.last.fm/tag/hyperspace
+  count: "0"
+- name: seen live and was sober enough to remember it
+  url: http://www.last.fm/tag/seen%20live%20and%20was%20sober%20enough%20to%20remember%20it
+  count: "0"
+- name: 20jfg
+  url: http://www.last.fm/tag/20jfg
+  count: "0"
+- name: xxjfg
+  url: http://www.last.fm/tag/xxjfg
+  count: "0"
+- name: brought to you by southern records
+  url: http://www.last.fm/tag/brought%20to%20you%20by%20southern%20records
+  count: "0"
+- name: 2007 favs
+  url: http://www.last.fm/tag/2007%20favs
+  count: "0"
+- name: Pitchfork Music Festival 2007
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202007
+  count: "0"
+- name: hupin
+  url: http://www.last.fm/tag/hupin
+  count: "0"
+- name: twinkles and fuzz
+  url: http://www.last.fm/tag/twinkles%20and%20fuzz
+  count: "0"
+- name: nugaze
+  url: http://www.last.fm/tag/nugaze
+  count: "0"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "0"
+- name: overwhelming underdogs
+  url: http://www.last.fm/tag/overwhelming%20underdogs
+  count: "0"

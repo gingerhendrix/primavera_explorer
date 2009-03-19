@@ -1,0 +1,303 @@
+--- 
+artist: Michael Nyman
+tag: 
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "100"
+- name: Classical
+  url: http://www.last.fm/tag/classical
+  count: "87"
+- name: piano
+  url: http://www.last.fm/tag/piano
+  count: "79"
+- name: minimalism
+  url: http://www.last.fm/tag/minimalism
+  count: "76"
+- name: contemporary classical
+  url: http://www.last.fm/tag/contemporary%20classical
+  count: "69"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "40"
+- name: composers
+  url: http://www.last.fm/tag/composers
+  count: "16"
+- name: composer
+  url: http://www.last.fm/tag/composer
+  count: "14"
+- name: Soundtracks
+  url: http://www.last.fm/tag/soundtracks
+  count: "9"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "7"
+- name: michael nyman
+  url: http://www.last.fm/tag/michael%20nyman
+  count: "6"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "5"
+- name: minimalist
+  url: http://www.last.fm/tag/minimalist
+  count: "5"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "3"
+- name: score
+  url: http://www.last.fm/tag/score
+  count: "3"
+- name: film music
+  url: http://www.last.fm/tag/film%20music
+  count: "3"
+- name: neoclassical
+  url: http://www.last.fm/tag/neoclassical
+  count: "2"
+- name: Contemporary
+  url: http://www.last.fm/tag/contemporary
+  count: "2"
+- name: new age
+  url: http://www.last.fm/tag/new%20age
+  count: "2"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "2"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "1"
+- name: movie score composers
+  url: http://www.last.fm/tag/movie%20score%20composers
+  count: "1"
+- name: classic
+  url: http://www.last.fm/tag/classic
+  count: "1"
+- name: nyman
+  url: http://www.last.fm/tag/nyman
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: ost
+  url: http://www.last.fm/tag/ost
+  count: "1"
+- name: 20th Century Classical
+  url: http://www.last.fm/tag/20th%20century%20classical
+  count: "1"
+- name: orchestral
+  url: http://www.last.fm/tag/orchestral
+  count: "1"
+- name: filmmusik
+  url: http://www.last.fm/tag/filmmusik
+  count: "1"
+- name: Film music composer
+  url: http://www.last.fm/tag/film%20music%20composer
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: 20th Century
+  url: http://www.last.fm/tag/20th%20century
+  count: "1"
+- name: achingly intelligent
+  url: http://www.last.fm/tag/achingly%20intelligent
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: peter greenaway
+  url: http://www.last.fm/tag/peter%20greenaway
+  count: "0"
+- name: modern classical
+  url: http://www.last.fm/tag/modern%20classical
+  count: "0"
+- name: Film composers
+  url: http://www.last.fm/tag/film%20composers
+  count: "0"
+- name: minimal music
+  url: http://www.last.fm/tag/minimal%20music
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: Original Score
+  url: http://www.last.fm/tag/original%20score
+  count: "0"
+- name: film score
+  url: http://www.last.fm/tag/film%20score
+  count: "0"
+- name: Greenaway
+  url: http://www.last.fm/tag/greenaway
+  count: "0"
+- name: modern classic
+  url: http://www.last.fm/tag/modern%20classic
+  count: "0"
+- name: solo piano
+  url: http://www.last.fm/tag/solo%20piano
+  count: "0"
+- name: 20th century classical composer
+  url: http://www.last.fm/tag/20th%20century%20classical%20composer
+  count: "0"
+- name: Film Composer
+  url: http://www.last.fm/tag/film%20composer
+  count: "0"
+- name: piano solo
+  url: http://www.last.fm/tag/piano%20solo
+  count: "0"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "0"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "0"
+- name: minimalistic
+  url: http://www.last.fm/tag/minimalistic
+  count: "0"
+- name: strings
+  url: http://www.last.fm/tag/strings
+  count: "0"
+- name: gattacca
+  url: http://www.last.fm/tag/gattacca
+  count: "0"
+- name: Favourite Composers
+  url: http://www.last.fm/tag/favourite%20composers
+  count: "0"
+- name: modern
+  url: http://www.last.fm/tag/modern
+  count: "0"
+- name: 1970s
+  url: http://www.last.fm/tag/1970s
+  count: "0"
+- name: good music
+  url: http://www.last.fm/tag/good%20music
+  count: "0"
+- name: Minimalist Music
+  url: http://www.last.fm/tag/minimalist%20music
+  count: "0"
+- name: classical music
+  url: http://www.last.fm/tag/classical%20music
+  count: "0"
+- name: occhiali di un certo livello
+  url: http://www.last.fm/tag/occhiali%20di%20un%20certo%20livello
+  count: "0"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "0"
+- name: movie soundtrack
+  url: http://www.last.fm/tag/movie%20soundtrack
+  count: "0"
+- name: piano pieces
+  url: http://www.last.fm/tag/piano%20pieces
+  count: "0"
+- name: classical piano
+  url: http://www.last.fm/tag/classical%20piano
+  count: "0"
+- name: us
+  url: http://www.last.fm/tag/us
+  count: "0"
+- name: 9 songs
+  url: http://www.last.fm/tag/9%20songs
+  count: "0"
+- name: filmowa
+  url: http://www.last.fm/tag/filmowa
+  count: "0"
+- name: britain
+  url: http://www.last.fm/tag/britain
+  count: "0"
+- name: 1980s
+  url: http://www.last.fm/tag/1980s
+  count: "0"
+- name: 2000s
+  url: http://www.last.fm/tag/2000s
+  count: "0"
+- name: klasyczna
+  url: http://www.last.fm/tag/klasyczna
+  count: "0"
+- name: vitti
+  url: http://www.last.fm/tag/vitti
+  count: "0"
+- name: good for reading
+  url: http://www.last.fm/tag/good%20for%20reading
+  count: "0"
+- name: 1990s
+  url: http://www.last.fm/tag/1990s
+  count: "0"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "0"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: violin
+  url: http://www.last.fm/tag/violin
+  count: "0"
+- name: Movie Music
+  url: http://www.last.fm/tag/movie%20music
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "0"
+- name: overrated
+  url: http://www.last.fm/tag/overrated
+  count: "0"
+- name: sweetly calming
+  url: http://www.last.fm/tag/sweetly%20calming
+  count: "0"
+- name: GATTACA
+  url: http://www.last.fm/tag/gattaca
+  count: "0"
+- name: Ausys
+  url: http://www.last.fm/tag/ausys
+  count: "0"
+- name: ramiai tik ramiai
+  url: http://www.last.fm/tag/ramiai%20tik%20ramiai
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: POT POURRI
+  url: http://www.last.fm/tag/pot%20pourri
+  count: "0"
+- name: songs i really relate to
+  url: http://www.last.fm/tag/songs%20i%20really%20relate%20to
+  count: "0"

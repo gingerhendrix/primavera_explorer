@@ -1,0 +1,303 @@
+--- 
+artist: Michael Mayer
+tag: 
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "100"
+- name: Kompakt
+  url: http://www.last.fm/tag/kompakt
+  count: "66"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "64"
+- name: minimal techno
+  url: http://www.last.fm/tag/minimal%20techno
+  count: "64"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "55"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "24"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "20"
+- name: microhouse
+  url: http://www.last.fm/tag/microhouse
+  count: "17"
+- name: german
+  url: http://www.last.fm/tag/german
+  count: "10"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "9"
+- name: Cologne
+  url: http://www.last.fm/tag/cologne
+  count: "7"
+- name: germany
+  url: http://www.last.fm/tag/germany
+  count: "6"
+- name: Michael Mayer
+  url: http://www.last.fm/tag/michael%20mayer
+  count: "6"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "5"
+- name: minimal house
+  url: http://www.last.fm/tag/minimal%20house
+  count: "4"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "4"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "3"
+- name: deep techno
+  url: http://www.last.fm/tag/deep%20techno
+  count: "3"
+- name: deutsch
+  url: http://www.last.fm/tag/deutsch
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: tech-house
+  url: http://www.last.fm/tag/tech-house
+  count: "2"
+- name: tech house
+  url: http://www.last.fm/tag/tech%20house
+  count: "2"
+- name: seen dj
+  url: http://www.last.fm/tag/seen%20dj
+  count: "2"
+- name: click
+  url: http://www.last.fm/tag/click
+  count: "1"
+- name: kl4bb1n d0wn
+  url: http://www.last.fm/tag/kl4bb1n%20d0wn
+  count: "1"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "1"
+- name: Mayer
+  url: http://www.last.fm/tag/mayer
+  count: "1"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "1"
+- name: mnml
+  url: http://www.last.fm/tag/mnml
+  count: "1"
+- name: Minimal Electro
+  url: http://www.last.fm/tag/minimal%20electro
+  count: "1"
+- name: schmitz minimal
+  url: http://www.last.fm/tag/schmitz%20minimal
+  count: "1"
+- name: Makes me BOUNCE
+  url: http://www.last.fm/tag/makes%20me%20bounce
+  count: "1"
+- name: klickklack
+  url: http://www.last.fm/tag/klickklack
+  count: "1"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: french apartment music
+  url: http://www.last.fm/tag/french%20apartment%20music
+  count: "1"
+- name: gay house
+  url: http://www.last.fm/tag/gay%20house
+  count: "0"
+- name: sublistened
+  url: http://www.last.fm/tag/sublistened
+  count: "0"
+- name: chill with me
+  url: http://www.last.fm/tag/chill%20with%20me
+  count: "0"
+- name: adrien wayne
+  url: http://www.last.fm/tag/adrien%20wayne
+  count: "0"
+- name: tagged artist
+  url: http://www.last.fm/tag/tagged%20artist
+  count: "0"
+- name: FIB 2006
+  url: http://www.last.fm/tag/fib%202006
+  count: "0"
+- name: minimal tech house
+  url: http://www.last.fm/tag/minimal%20tech%20house
+  count: "0"
+- name: le boss
+  url: http://www.last.fm/tag/le%20boss
+  count: "0"
+- name: zeug
+  url: http://www.last.fm/tag/zeug
+  count: "0"
+- name: Kompakt Extra
+  url: http://www.last.fm/tag/kompakt%20extra
+  count: "0"
+- name: taged artists
+  url: http://www.last.fm/tag/taged%20artists
+  count: "0"
+- name: maschinenmusik
+  url: http://www.last.fm/tag/maschinenmusik
+  count: "0"
+- name: flya techno
+  url: http://www.last.fm/tag/flya%20techno
+  count: "0"
+- name: farangstar
+  url: http://www.last.fm/tag/farangstar
+  count: "0"
+- name: EMP805
+  url: http://www.last.fm/tag/emp805
+  count: "0"
+- name: statik distribution
+  url: http://www.last.fm/tag/statik%20distribution
+  count: "0"
+- name: scoogee
+  url: http://www.last.fm/tag/scoogee
+  count: "0"
+- name: sexy sexy
+  url: http://www.last.fm/tag/sexy%20sexy
+  count: "0"
+- name: achingly intelligent
+  url: http://www.last.fm/tag/achingly%20intelligent
+  count: "0"
+- name: savoy
+  url: http://www.last.fm/tag/savoy
+  count: "0"
+- name: bochum
+  url: http://www.last.fm/tag/bochum
+  count: "0"
+- name: arbeidsmusikk
+  url: http://www.last.fm/tag/arbeidsmusikk
+  count: "0"
+- name: best electro ever
+  url: http://www.last.fm/tag/best%20electro%20ever
+  count: "0"
+- name: pablo NY
+  url: http://www.last.fm/tag/pablo%20ny
+  count: "0"
+- name: t1nch
+  url: http://www.last.fm/tag/t1nch
+  count: "0"
+- name: bliepjes
+  url: http://www.last.fm/tag/bliepjes
+  count: "0"
+- name: di
+  url: http://www.last.fm/tag/di
+  count: "0"
+- name: transitions
+  url: http://www.last.fm/tag/transitions
+  count: "0"
+- name: new horizons
+  url: http://www.last.fm/tag/new%20horizons
+  count: "0"
+- name: Kompakt and friends
+  url: http://www.last.fm/tag/kompakt%20and%20friends
+  count: "0"
+- name: indirilecek
+  url: http://www.last.fm/tag/indirilecek
+  count: "0"
+- name: sahkotaivas
+  url: http://www.last.fm/tag/sahkotaivas
+  count: "0"
+- name: zenzizi station
+  url: http://www.last.fm/tag/zenzizi%20station
+  count: "0"
+- name: heard live
+  url: http://www.last.fm/tag/heard%20live
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: wirejapan
+  url: http://www.last.fm/tag/wirejapan
+  count: "0"
+- name: beierlein-X
+  url: http://www.last.fm/tag/beierlein-x
+  count: "0"
+- name: Supermayer
+  url: http://www.last.fm/tag/supermayer
+  count: "0"
+- name: profound techno
+  url: http://www.last.fm/tag/profound%20techno
+  count: "0"
+- name: techno guru
+  url: http://www.last.fm/tag/techno%20guru
+  count: "0"
+- name: carlosgvidal
+  url: http://www.last.fm/tag/carlosgvidal
+  count: "0"
+- name: Marcos likes
+  url: http://www.last.fm/tag/marcos%20likes
+  count: "0"
+- name: minimal makes me happy
+  url: http://www.last.fm/tag/minimal%20makes%20me%20happy
+  count: "0"
+- name: Forever Sweet
+  url: http://www.last.fm/tag/forever%20sweet
+  count: "0"
+- name: Friends Experiment
+  url: http://www.last.fm/tag/friends%20experiment
+  count: "0"
+- name: M Mayer
+  url: http://www.last.fm/tag/m%20mayer
+  count: "0"
+- name: M Migher
+  url: http://www.last.fm/tag/m%20migher
+  count: "0"
+- name: Kreisel 99
+  url: http://www.last.fm/tag/kreisel%2099
+  count: "0"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "0"
+- name: akrazia
+  url: http://www.last.fm/tag/akrazia
+  count: "0"
+- name: fredag kveld
+  url: http://www.last.fm/tag/fredag%20kveld
+  count: "0"
+- name: verschobener morgen
+  url: http://www.last.fm/tag/verschobener%20morgen
+  count: "0"
+- name: aaa ciary po ciele
+  url: http://www.last.fm/tag/aaa%20ciary%20po%20ciele
+  count: "0"
+- name: wielmozny pan lubi
+  url: http://www.last.fm/tag/wielmozny%20pan%20lubi
+  count: "0"
+- name: minitechno
+  url: http://www.last.fm/tag/minitechno
+  count: "0"
+- name: Pipor2 cabron
+  url: http://www.last.fm/tag/pipor2%20cabron
+  count: "0"
+- name: komex
+  url: http://www.last.fm/tag/komex
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: Kompakt label
+  url: http://www.last.fm/tag/kompakt%20label
+  count: "0"
+- name: andrzej
+  url: http://www.last.fm/tag/andrzej
+  count: "0"
+- name: chef-martin
+  url: http://www.last.fm/tag/chef-martin
+  count: "0"
+- name: tekk
+  url: http://www.last.fm/tag/tekk
+  count: "0"
+- name: seen live by annabest
+  url: http://www.last.fm/tag/seen%20live%20by%20annabest
+  count: "0"
+- name: kunde ju va bra
+  url: http://www.last.fm/tag/kunde%20ju%20va%20bra
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: Throwing Muses
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "82"
+- name: 4ad
+  url: http://www.last.fm/tag/4ad
+  count: "73"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "62"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "56"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "45"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "34"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "24"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "11"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "11"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "9"
+- name: kristin hersh
+  url: http://www.last.fm/tag/kristin%20hersh
+  count: "7"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "6"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "5"
+- name: tanya donelly
+  url: http://www.last.fm/tag/tanya%20donelly
+  count: "4"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "3"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "3"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "3"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "2"
+- name: ecto
+  url: http://www.last.fm/tag/ecto
+  count: "2"
+- name: eerie
+  url: http://www.last.fm/tag/eerie
+  count: "2"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "2"
+- name: boston
+  url: http://www.last.fm/tag/boston
+  count: "2"
+- name: rhode island
+  url: http://www.last.fm/tag/rhode%20island
+  count: "2"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "2"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "2"
+- name: throwing music
+  url: http://www.last.fm/tag/throwing%20music
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "2"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "2"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "2"
+- name: art-rock
+  url: http://www.last.fm/tag/art-rock
+  count: "2"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "2"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "2"
+- name: the female voice
+  url: http://www.last.fm/tag/the%20female%20voice
+  count: "2"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "2"
+- name: Best Band EVER
+  url: http://www.last.fm/tag/best%20band%20ever
+  count: "1"
+- name: alternative pop/rock
+  url: http://www.last.fm/tag/alternative%2Bpop%252Frock
+  count: "1"
+- name: Passionate
+  url: http://www.last.fm/tag/passionate
+  count: "1"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "1"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "1"
+- name: college
+  url: http://www.last.fm/tag/college
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: theatrical
+  url: http://www.last.fm/tag/theatrical
+  count: "1"
+- name: Angst-Ridden
+  url: http://www.last.fm/tag/angst-ridden
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: artists
+  url: http://www.last.fm/tag/artists
+  count: "1"
+- name: poetry
+  url: http://www.last.fm/tag/poetry
+  count: "1"
+- name: art
+  url: http://www.last.fm/tag/art
+  count: "1"
+- name: Female Vox
+  url: http://www.last.fm/tag/female%20vox
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "1"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "1"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "1"
+- name: Girls that kick ass
+  url: http://www.last.fm/tag/girls%20that%20kick%20ass
+  count: "1"
+- name: earnest
+  url: http://www.last.fm/tag/earnest
+  count: "1"
+- name: cathartic
+  url: http://www.last.fm/tag/cathartic
+  count: "1"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "1"
+- name: Volatile
+  url: http://www.last.fm/tag/volatile
+  count: "1"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "1"
+- name: paranoid
+  url: http://www.last.fm/tag/paranoid
+  count: "1"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "1"
+- name: female-fronted bands
+  url: http://www.last.fm/tag/female-fronted%20bands
+  count: "1"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "1"
+- name: unsettling
+  url: http://www.last.fm/tag/unsettling
+  count: "1"
+- name: covers
+  url: http://www.last.fm/tag/covers
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: railgun
+  url: http://www.last.fm/tag/railgun
+  count: "1"
+- name: non the artists
+  url: http://www.last.fm/tag/non%20the%20artists
+  count: "1"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "1"
+- name: brooding
+  url: http://www.last.fm/tag/brooding
+  count: "1"
+- name: throwing muses
+  url: http://www.last.fm/tag/throwing%20muses
+  count: "1"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: found through WCWS
+  url: http://www.last.fm/tag/found%20through%20wcws
+  count: "0"
+- name: music to chase squirrels by
+  url: http://www.last.fm/tag/music%20to%20chase%20squirrels%20by
+  count: "0"
+- name: Thank God for Mental Illness
+  url: http://www.last.fm/tag/thank%20god%20for%20mental%20illness
+  count: "0"
+- name: interviewed
+  url: http://www.last.fm/tag/interviewed
+  count: "0"
+- name: The Real Ramona
+  url: http://www.last.fm/tag/the%20real%20ramona
+  count: "0"
+- name: Big Six
+  url: http://www.last.fm/tag/big%20six
+  count: "0"
+- name: first wave
+  url: http://www.last.fm/tag/first%20wave
+  count: "0"
+- name: best mouth in rock
+  url: http://www.last.fm/tag/best%20mouth%20in%20rock
+  count: "0"
+- name: Empire
+  url: http://www.last.fm/tag/empire
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: indie poprock
+  url: http://www.last.fm/tag/indie%20poprock
+  count: "0"
+- name: schizophrenia
+  url: http://www.last.fm/tag/schizophrenia
+  count: "0"
+- name: Left of the Dial
+  url: http://www.last.fm/tag/left%20of%20the%20dial
+  count: "0"
+- name: Top 5 of all-time
+  url: http://www.last.fm/tag/top%205%20of%20all-time
+  count: "0"
+- name: to be found
+  url: http://www.last.fm/tag/to%20be%20found
+  count: "0"
+- name: this and that
+  url: http://www.last.fm/tag/this%20and%20that
+  count: "0"
+- name: electrifying
+  url: http://www.last.fm/tag/electrifying
+  count: "0"
+- name: American rocktasticness
+  url: http://www.last.fm/tag/american%20rocktasticness
+  count: "0"
+- name: hipster doofus tag
+  url: http://www.last.fm/tag/hipster%20doofus%20tag
+  count: "0"
+- name: Band I want to hear more of
+  url: http://www.last.fm/tag/band%20i%20want%20to%20hear%20more%20of
+  count: "0"
+- name: should listen
+  url: http://www.last.fm/tag/should%20listen
+  count: "0"
+- name: right now radio
+  url: http://www.last.fm/tag/right%20now%20radio
+  count: "0"

@@ -22,6 +22,15 @@ class LastfmInfo
     info
   end
   
+  def save(db)
+    db.save_resource("lastfm_info/#{@name}", info)
+  end
+  
+  def load_from_db(db)
+    @info = db.get_resource("lastfm_info/#{@name}")
+  end
+  
+  
   def image
     if @info && @info['image'] &&  @info['image'].length >= 3 &&  @info['image'][2]['#text'] 
       @info['image'][2]['#text']

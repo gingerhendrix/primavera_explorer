@@ -1,0 +1,303 @@
+--- 
+artist: Girl Talk
+tag: 
+- name: mashup
+  url: http://www.last.fm/tag/mashup
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "59"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "51"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "42"
+- name: mash-up
+  url: http://www.last.fm/tag/mash-up
+  count: "29"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "16"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: bastard pop
+  url: http://www.last.fm/tag/bastard%20pop
+  count: "8"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "6"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "6"
+- name: remix
+  url: http://www.last.fm/tag/remix
+  count: "5"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "5"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "5"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "4"
+- name: pittsburgh
+  url: http://www.last.fm/tag/pittsburgh
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: mash up
+  url: http://www.last.fm/tag/mash%20up
+  count: "2"
+- name: glitch
+  url: http://www.last.fm/tag/glitch
+  count: "2"
+- name: samples
+  url: http://www.last.fm/tag/samples
+  count: "2"
+- name: illegal art
+  url: http://www.last.fm/tag/illegal%20art
+  count: "2"
+- name: dance party
+  url: http://www.last.fm/tag/dance%20party
+  count: "2"
+- name: Pennsylvania
+  url: http://www.last.fm/tag/pennsylvania
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: girl talk
+  url: http://www.last.fm/tag/girl%20talk
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "1"
+- name: plunderphonics
+  url: http://www.last.fm/tag/plunderphonics
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "1"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "1"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "1"
+- name: Lollapalooza 2008
+  url: http://www.last.fm/tag/lollapalooza%202008
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: sampling
+  url: http://www.last.fm/tag/sampling
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: mashups
+  url: http://www.last.fm/tag/mashups
+  count: "0"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: best of 2006
+  url: http://www.last.fm/tag/best%20of%202006
+  count: "0"
+- name: bona fide partystarter
+  url: http://www.last.fm/tag/bona%20fide%20partystarter
+  count: "0"
+- name: coachella 2007
+  url: http://www.last.fm/tag/coachella%202007
+  count: "0"
+- name: PA
+  url: http://www.last.fm/tag/pa
+  count: "0"
+- name: sound collage
+  url: http://www.last.fm/tag/sound%20collage
+  count: "0"
+- name: crazy good
+  url: http://www.last.fm/tag/crazy%20good
+  count: "0"
+- name: crazy
+  url: http://www.last.fm/tag/crazy
+  count: "0"
+- name: eurockeennes 2008
+  url: http://www.last.fm/tag/eurockeennes%202008
+  count: "0"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "0"
+- name: bonnaroo
+  url: http://www.last.fm/tag/bonnaroo
+  count: "0"
+- name: wondrous soundbeads for our delicate ears
+  url: http://www.last.fm/tag/wondrous%20soundbeads%20for%20our%20delicate%20ears
+  count: "0"
+- name: bands ive seen
+  url: http://www.last.fm/tag/bands%20ive%20seen
+  count: "0"
+- name: coachella
+  url: http://www.last.fm/tag/coachella
+  count: "0"
+- name: seen twice
+  url: http://www.last.fm/tag/seen%20twice
+  count: "0"
+- name: transmusicales
+  url: http://www.last.fm/tag/transmusicales
+  count: "0"
+- name: Sampler-orgy
+  url: http://www.last.fm/tag/sampler-orgy
+  count: "0"
+- name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: badass
+  url: http://www.last.fm/tag/badass
+  count: "0"
+- name: Playful
+  url: http://www.last.fm/tag/playful
+  count: "0"
+- name: glittering raspberry dancefloors
+  url: http://www.last.fm/tag/glittering%20raspberry%20dancefloors
+  count: "0"
+- name: 2007 Coachella
+  url: http://www.last.fm/tag/2007%20coachella
+  count: "0"
+- name: ADHD
+  url: http://www.last.fm/tag/adhd
+  count: "0"
+- name: Mash it up but be mean about it
+  url: http://www.last.fm/tag/mash%20it%20up%20but%20be%20mean%20about%20it
+  count: "0"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "0"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "0"
+- name: Pitchfork Music Festival 2007
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202007
+  count: "0"
+- name: djs
+  url: http://www.last.fm/tag/djs
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: epic
+  url: http://www.last.fm/tag/epic
+  count: "0"
+- name: Favorite Bands
+  url: http://www.last.fm/tag/favorite%20bands
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "0"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: met this band or person
+  url: http://www.last.fm/tag/met%20this%20band%20or%20person
+  count: "0"
+- name: would give up my virginity to see them
+  url: http://www.last.fm/tag/would%20give%20up%20my%20virginity%20to%20see%20them
+  count: "0"
+- name: on beat
+  url: http://www.last.fm/tag/on%20beat
+  count: "0"
+- name: wonderfully delightful
+  url: http://www.last.fm/tag/wonderfully%20delightful
+  count: "0"
+- name: 3 times
+  url: http://www.last.fm/tag/3%20times
+  count: "0"
+- name: Maushole Music
+  url: http://www.last.fm/tag/maushole%20music
+  count: "0"
+- name: psycho sampling
+  url: http://www.last.fm/tag/psycho%20sampling
+  count: "0"
+- name: Bands to look into
+  url: http://www.last.fm/tag/bands%20to%20look%20into
+  count: "0"
+- name: girltalk
+  url: http://www.last.fm/tag/girltalk
+  count: "0"
+- name: scumriddim
+  url: http://www.last.fm/tag/scumriddim
+  count: "0"
+- name: black people music
+  url: http://www.last.fm/tag/black%20people%20music
+  count: "0"
+- name: greyfriars inspired
+  url: http://www.last.fm/tag/greyfriars%20inspired
+  count: "0"
+- name: Desperate To See Live
+  url: http://www.last.fm/tag/desperate%20to%20see%20live
+  count: "0"
+- name: the bizness
+  url: http://www.last.fm/tag/the%20bizness
+  count: "0"
+- name: partey
+  url: http://www.last.fm/tag/partey
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: take a listen
+  url: http://www.last.fm/tag/take%20a%20listen
+  count: "0"
+- name: Bonnaroo 2007
+  url: http://www.last.fm/tag/bonnaroo%202007
+  count: "0"
+- name: theres a party in my ears and everyones invited
+  url: http://www.last.fm/tag/theres%20a%20party%20in%20my%20ears%20and%20everyones%20invited
+  count: "0"
+- name: sxsw 2007
+  url: http://www.last.fm/tag/sxsw%202007
+  count: "0"
+- name: Bump n Grind eh oh
+  url: http://www.last.fm/tag/bump%20n%20grind%20eh%20oh
+  count: "0"

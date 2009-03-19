@@ -1,0 +1,303 @@
+--- 
+artist: Bowerbirds
+tag: 
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "55"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "46"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "26"
+- name: North Carolina
+  url: http://www.last.fm/tag/north%20carolina
+  count: "15"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "7"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "7"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "7"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "6"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "4"
+- name: roots
+  url: http://www.last.fm/tag/roots
+  count: "4"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "4"
+- name: Blogotheque
+  url: http://www.last.fm/tag/blogotheque
+  count: "4"
+- name: triangle
+  url: http://www.last.fm/tag/triangle
+  count: "3"
+- name: Nu-Folk
+  url: http://www.last.fm/tag/nu-folk
+  count: "3"
+- name: raleigh
+  url: http://www.last.fm/tag/raleigh
+  count: "3"
+- name: honest
+  url: http://www.last.fm/tag/honest
+  count: "3"
+- name: america
+  url: http://www.last.fm/tag/america
+  count: "3"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "3"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "3"
+- name: alternative country
+  url: http://www.last.fm/tag/alternative%20country
+  count: "3"
+- name: southern indie
+  url: http://www.last.fm/tag/southern%20indie
+  count: "3"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "3"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "3"
+- name: Slow-coustic
+  url: http://www.last.fm/tag/slow-coustic
+  count: "3"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "3"
+- name: End Of The Road
+  url: http://www.last.fm/tag/end%20of%20the%20road
+  count: "1"
+- name: Toe-tappers
+  url: http://www.last.fm/tag/toe-tappers
+  count: "1"
+- name: hannes favoritter
+  url: http://www.last.fm/tag/hannes%20favoritter
+  count: "1"
+- name: totally saw live
+  url: http://www.last.fm/tag/totally%20saw%20live
+  count: "1"
+- name: a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "1"
+- name: absolutely wonderful
+  url: http://www.last.fm/tag/absolutely%20wonderful
+  count: "1"
+- name: a campfire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campfire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "1"
+- name: franny
+  url: http://www.last.fm/tag/franny
+  count: "1"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "1"
+- name: rumbling
+  url: http://www.last.fm/tag/rumbling
+  count: "1"
+- name: indiepop - us
+  url: http://www.last.fm/tag/indiepop%20-%20us
+  count: "1"
+- name: get em
+  url: http://www.last.fm/tag/get%20em
+  count: "1"
+- name: plucked or strummed
+  url: http://www.last.fm/tag/plucked%20or%20strummed
+  count: "1"
+- name: i dont feel that I need to explain my art to you Warren
+  url: http://www.last.fm/tag/i%20dont%20feel%20that%20i%20need%20to%20explain%20my%20art%20to%20you%20warren
+  count: "1"
+- name: strutsnfrets
+  url: http://www.last.fm/tag/strutsnfrets
+  count: "1"
+- name: musica de bosque
+  url: http://www.last.fm/tag/musica%20de%20bosque
+  count: "1"
+- name: wish to have live at el lokal
+  url: http://www.last.fm/tag/wish%20to%20have%20live%20at%20el%20lokal
+  count: "1"
+- name: best-of-08
+  url: http://www.last.fm/tag/best-of-08
+  count: "1"
+- name: NOT FREAK FOLK
+  url: http://www.last.fm/tag/not%20freak%20folk
+  count: "1"
+- name: still waters run deep
+  url: http://www.last.fm/tag/still%20waters%20run%20deep
+  count: "1"
+- name: i have so much strength in me you have no idea i have a love in my life it makes me stronger than anything you can imagine
+  url: http://www.last.fm/tag/i%20have%20so%20much%20strength%20in%20me%20you%20have%20no%20idea%20i%20have%20a%20love%20in%20my%20life%20it%20makes%20me%20stronger%20than%20anything%20you%20can%20imagine
+  count: "1"
+- name: leaves and water
+  url: http://www.last.fm/tag/leaves%20and%20water
+  count: "1"
+- name: bowerbirds-good indiefolk
+  url: http://www.last.fm/tag/bowerbirds-good%20indiefolk
+  count: "1"
+- name: coping with public transit
+  url: http://www.last.fm/tag/coping%20with%20public%20transit
+  count: "1"
+- name: dropmehere
+  url: http://www.last.fm/tag/dropmehere
+  count: "1"
+- name: "sitrc: birds"
+  url: http://www.last.fm/tag/sitrc%3A%20birds
+  count: "1"
+- name: the real indie
+  url: http://www.last.fm/tag/the%20real%20indie
+  count: "1"
+- name: infallible
+  url: http://www.last.fm/tag/infallible
+  count: "1"
+- name: king kong kitchie kitchie ki-me-o
+  url: http://www.last.fm/tag/king%20kong%20kitchie%20kitchie%20ki-me-o
+  count: "1"
+- name: jaarlijstje 2007
+  url: http://www.last.fm/tag/jaarlijstje%202007
+  count: "1"
+- name: and they rode on in the friscalating dusklight
+  url: http://www.last.fm/tag/and%20they%20rode%20on%20in%20the%20friscalating%20dusklight
+  count: "1"
+- name: if you live in North Carolina you should really be listening to these bands
+  url: http://www.last.fm/tag/if%20you%20live%20in%20north%20carolina%20you%20should%20really%20be%20listening%20to%20these%20bands
+  count: "1"
+- name: questcequecest
+  url: http://www.last.fm/tag/questcequecest
+  count: "1"
+- name: dead oceans
+  url: http://www.last.fm/tag/dead%20oceans
+  count: "1"
+- name: NC
+  url: http://www.last.fm/tag/nc
+  count: "1"
+- name: folk-pop
+  url: http://www.last.fm/tag/folk-pop
+  count: "1"
+- name: violin
+  url: http://www.last.fm/tag/violin
+  count: "1"
+- name: folk-ish
+  url: http://www.last.fm/tag/folk-ish
+  count: "1"
+- name: folksy
+  url: http://www.last.fm/tag/folksy
+  count: "1"
+- name: hand claps
+  url: http://www.last.fm/tag/hand%20claps
+  count: "1"
+- name: alt-folk
+  url: http://www.last.fm/tag/alt-folk
+  count: "1"
+- name: philosophical
+  url: http://www.last.fm/tag/philosophical
+  count: "1"
+- name: folkish
+  url: http://www.last.fm/tag/folkish
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: new folk
+  url: http://www.last.fm/tag/new%20folk
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: seen-live
+  url: http://www.last.fm/tag/seen-live
+  count: "1"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "1"
+- name: must listen
+  url: http://www.last.fm/tag/must%20listen
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: seen em
+  url: http://www.last.fm/tag/seen%20em
+  count: "1"
+- name: Curious
+  url: http://www.last.fm/tag/curious
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: folk pop
+  url: http://www.last.fm/tag/folk%20pop
+  count: "0"
+- name: jonesyseenit
+  url: http://www.last.fm/tag/jonesyseenit
+  count: "0"
+- name: dark folk
+  url: http://www.last.fm/tag/dark%20folk
+  count: "0"
+- name: End Of The Road 2008
+  url: http://www.last.fm/tag/end%20of%20the%20road%202008
+  count: "0"
+- name: meine tiere
+  url: http://www.last.fm/tag/meine%20tiere
+  count: "0"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "0"
+- name: majesic forest happiness
+  url: http://www.last.fm/tag/majesic%20forest%20happiness
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: Listen To This
+  url: http://www.last.fm/tag/listen%20to%20this
+  count: "0"
+- name: Folk progressive
+  url: http://www.last.fm/tag/folk%20progressive
+  count: "0"
+- name: have to listen
+  url: http://www.last.fm/tag/have%20to%20listen
+  count: "0"
+- name: beauteous
+  url: http://www.last.fm/tag/beauteous
+  count: "0"
+- name: in concert
+  url: http://www.last.fm/tag/in%20concert
+  count: "0"
+- name: alt folk
+  url: http://www.last.fm/tag/alt%20folk
+  count: "0"
+- name: Bands I have seen live and kicking
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live%20and%20kicking
+  count: "0"

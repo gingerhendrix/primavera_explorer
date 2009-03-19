@@ -1,0 +1,303 @@
+--- 
+artist: The Jayhawks
+tag: 
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "100"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "51"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "31"
+- name: country
+  url: http://www.last.fm/tag/country
+  count: "29"
+- name: alt country
+  url: http://www.last.fm/tag/alt%20country
+  count: "27"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "14"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "10"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "9"
+- name: Minnesota
+  url: http://www.last.fm/tag/minnesota
+  count: "8"
+- name: country rock
+  url: http://www.last.fm/tag/country%20rock
+  count: "6"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "4"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "2"
+- name: alternative country
+  url: http://www.last.fm/tag/alternative%20country
+  count: "2"
+- name: Jayhawks
+  url: http://www.last.fm/tag/jayhawks
+  count: "2"
+- name: roots rock
+  url: http://www.last.fm/tag/roots%20rock
+  count: "2"
+- name: Alternative Country-Rock
+  url: http://www.last.fm/tag/alternative%20country-rock
+  count: "2"
+- name: no depression
+  url: http://www.last.fm/tag/no%20depression
+  count: "1"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "1"
+- name: Minneapolis
+  url: http://www.last.fm/tag/minneapolis
+  count: "1"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: nd
+  url: http://www.last.fm/tag/nd
+  count: "1"
+- name: twang
+  url: http://www.last.fm/tag/twang
+  count: "1"
+- name: country-rock
+  url: http://www.last.fm/tag/country-rock
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: My Radio
+  url: http://www.last.fm/tag/my%20radio
+  count: "1"
+- name: roots
+  url: http://www.last.fm/tag/roots
+  count: "1"
+- name: Faves
+  url: http://www.last.fm/tag/faves
+  count: "1"
+- name: diggit
+  url: http://www.last.fm/tag/diggit
+  count: "1"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "1"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: yadda yadda yadda
+  url: http://www.last.fm/tag/yadda%20yadda%20yadda
+  count: "0"
+- name: Smooshieus
+  url: http://www.last.fm/tag/smooshieus
+  count: "0"
+- name: bands to check out
+  url: http://www.last.fm/tag/bands%20to%20check%20out
+  count: "0"
+- name: The Psychodrama Press Cowpunk Hoedown
+  url: http://www.last.fm/tag/the%20psychodrama%20press%20cowpunk%20hoedown
+  count: "0"
+- name: Radio Phantom Zone
+  url: http://www.last.fm/tag/radio%20phantom%20zone
+  count: "0"
+- name: def american
+  url: http://www.last.fm/tag/def%20american
+  count: "0"
+- name: indie roots
+  url: http://www.last.fm/tag/indie%20roots
+  count: "0"
+- name: austin city limits
+  url: http://www.last.fm/tag/austin%20city%20limits
+  count: "0"
+- name: Bands that require a listen
+  url: http://www.last.fm/tag/bands%20that%20require%20a%20listen
+  count: "0"
+- name: GrayCharles
+  url: http://www.last.fm/tag/graycharles
+  count: "0"
+- name: Gray Charles
+  url: http://www.last.fm/tag/gray%20charles
+  count: "0"
+- name: Music From the OC
+  url: http://www.last.fm/tag/music%20from%20the%20oc
+  count: "0"
+- name: H5N1
+  url: http://www.last.fm/tag/h5n1
+  count: "0"
+- name: country band
+  url: http://www.last.fm/tag/country%20band
+  count: "0"
+- name: chilton-esque
+  url: http://www.last.fm/tag/chilton-esque
+  count: "0"
+- name: Bigger than life
+  url: http://www.last.fm/tag/bigger%20than%20life
+  count: "0"
+- name: todo
+  url: http://www.last.fm/tag/todo
+  count: "0"
+- name: seen em live
+  url: http://www.last.fm/tag/seen%20em%20live
+  count: "0"
+- name: coffeehouse
+  url: http://www.last.fm/tag/coffeehouse
+  count: "0"
+- name: modern country
+  url: http://www.last.fm/tag/modern%20country
+  count: "0"
+- name: Semi hero
+  url: http://www.last.fm/tag/semi%20hero
+  count: "0"
+- name: german gothic
+  url: http://www.last.fm/tag/german%20gothic
+  count: "0"
+- name: Live in NC
+  url: http://www.last.fm/tag/live%20in%20nc
+  count: "0"
+- name: i could listen to this band forever
+  url: http://www.last.fm/tag/i%20could%20listen%20to%20this%20band%20forever
+  count: "0"
+- name: cannot stop listening help
+  url: http://www.last.fm/tag/cannot%20stop%20listening%20help
+  count: "0"
+- name: everything sounds better with a twang
+  url: http://www.last.fm/tag/everything%20sounds%20better%20with%20a%20twang
+  count: "0"
+- name: WFUV
+  url: http://www.last.fm/tag/wfuv
+  count: "0"
+- name: want to hear more
+  url: http://www.last.fm/tag/want%20to%20hear%20more
+  count: "0"
+- name: rainy day music
+  url: http://www.last.fm/tag/rainy%20day%20music
+  count: "0"
+- name: leiwand - roots
+  url: http://www.last.fm/tag/leiwand%20-%20roots
+  count: "0"
+- name: leiwand - frontline
+  url: http://www.last.fm/tag/leiwand%20-%20frontline
+  count: "0"
+- name: LOVELOVE
+  url: http://www.last.fm/tag/lovelove
+  count: "0"
+- name: us-american
+  url: http://www.last.fm/tag/us-american
+  count: "0"
+- name: blog
+  url: http://www.last.fm/tag/blog
+  count: "0"
+- name: preview
+  url: http://www.last.fm/tag/preview
+  count: "0"
+- name: to-check-out
+  url: http://www.last.fm/tag/to-check-out
+  count: "0"
+- name: from my childhood
+  url: http://www.last.fm/tag/from%20my%20childhood
+  count: "0"
+- name: leiwand4u fm
+  url: http://www.last.fm/tag/leiwand4u%20fm
+  count: "0"
+- name: RyanRadio
+  url: http://www.last.fm/tag/ryanradio
+  count: "0"
+- name: Lammertsma
+  url: http://www.last.fm/tag/lammertsma
+  count: "0"
+- name: quiet acoustic goodness
+  url: http://www.last.fm/tag/quiet%20acoustic%20goodness
+  count: "0"
+- name: criminally underappreciated
+  url: http://www.last.fm/tag/criminally%20underappreciated
+  count: "0"
+- name: javajustice
+  url: http://www.last.fm/tag/javajustice
+  count: "0"
+- name: Gary Louris
+  url: http://www.last.fm/tag/gary%20louris
+  count: "0"
+- name: appalachian memories
+  url: http://www.last.fm/tag/appalachian%20memories
+  count: "0"
+- name: folk american
+  url: http://www.last.fm/tag/folk%20american
+  count: "0"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "0"
+- name: in an alt-country mood
+  url: http://www.last.fm/tag/in%20an%20alt-country%20mood
+  count: "0"
+- name: grupazos
+  url: http://www.last.fm/tag/grupazos
+  count: "0"
+- name: YSTwang
+  url: http://www.last.fm/tag/ystwang
+  count: "0"
+- name: Dejame las llaves de tu choza en Montana
+  url: http://www.last.fm/tag/dejame%20las%20llaves%20de%20tu%20choza%20en%20montana
+  count: "0"
+- name: country group
+  url: http://www.last.fm/tag/country%20group
+  count: "0"
+- name: Blues Stay Away Music
+  url: http://www.last.fm/tag/blues%20stay%20away%20music
+  count: "0"
+- name: azkena rock
+  url: http://www.last.fm/tag/azkena%20rock
+  count: "0"
+- name: Myjukebox
+  url: http://www.last.fm/tag/myjukebox
+  count: "0"
+- name: cowhat fav
+  url: http://www.last.fm/tag/cowhat%20fav
+  count: "0"
+- name: Nebraska Survival Albums
+  url: http://www.last.fm/tag/nebraska%20survival%20albums
+  count: "0"
+- name: bands that define me
+  url: http://www.last.fm/tag/bands%20that%20define%20me
+  count: "0"
+- name: de avonden
+  url: http://www.last.fm/tag/de%20avonden
+  count: "0"
+- name: post hitching post
+  url: http://www.last.fm/tag/post%20hitching%20post
+  count: "0"
+- name: minnesota alt-country
+  url: http://www.last.fm/tag/minnesota%20alt-country
+  count: "0"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: lorcas
+  url: http://www.last.fm/tag/lorcas
+  count: "0"

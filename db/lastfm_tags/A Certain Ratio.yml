@@ -1,0 +1,303 @@
+--- 
+artist: A Certain Ratio
+tag: 
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "100"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "47"
+- name: Manchester
+  url: http://www.last.fm/tag/manchester
+  count: "25"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "23"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "19"
+- name: factory records
+  url: http://www.last.fm/tag/factory%20records
+  count: "10"
+- name: factory
+  url: http://www.last.fm/tag/factory
+  count: "10"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "10"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "8"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: punk-funk
+  url: http://www.last.fm/tag/punk-funk
+  count: "4"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "4"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "3"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "3"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: madchester
+  url: http://www.last.fm/tag/madchester
+  count: "2"
+- name: funky
+  url: http://www.last.fm/tag/funky
+  count: "2"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "2"
+- name: punk funk
+  url: http://www.last.fm/tag/punk%20funk
+  count: "2"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "2"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "2"
+- name: John Peel
+  url: http://www.last.fm/tag/john%20peel
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: New-Wave
+  url: http://www.last.fm/tag/new-wave
+  count: "1"
+- name: jazzdance
+  url: http://www.last.fm/tag/jazzdance
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: Luxury Stranger
+  url: http://www.last.fm/tag/luxury%20stranger
+  count: "1"
+- name: 80s underground
+  url: http://www.last.fm/tag/80s%20underground
+  count: "1"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "1"
+- name: freak zone
+  url: http://www.last.fm/tag/freak%20zone
+  count: "1"
+- name: Martin Hannett
+  url: http://www.last.fm/tag/martin%20hannett
+  count: "1"
+- name: Leftfield
+  url: http://www.last.fm/tag/leftfield
+  count: "1"
+- name: quinlor
+  url: http://www.last.fm/tag/quinlor
+  count: "1"
+- name: 24 hour party people
+  url: http://www.last.fm/tag/24%20hour%20party%20people
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "1"
+- name: postpunk
+  url: http://www.last.fm/tag/postpunk
+  count: "1"
+- name: cold funk
+  url: http://www.last.fm/tag/cold%20funk
+  count: "0"
+- name: things i would like to hear more of
+  url: http://www.last.fm/tag/things%20i%20would%20like%20to%20hear%20more%20of
+  count: "0"
+- name: to get into
+  url: http://www.last.fm/tag/to%20get%20into
+  count: "0"
+- name: tranquilita
+  url: http://www.last.fm/tag/tranquilita
+  count: "0"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "0"
+- name: hannett
+  url: http://www.last.fm/tag/hannett
+  count: "0"
+- name: dance with guitars
+  url: http://www.last.fm/tag/dance%20with%20guitars
+  count: "0"
+- name: manchester scene
+  url: http://www.last.fm/tag/manchester%20scene
+  count: "0"
+- name: post funk
+  url: http://www.last.fm/tag/post%20funk
+  count: "0"
+- name: schmitz wellen
+  url: http://www.last.fm/tag/schmitz%20wellen
+  count: "0"
+- name: acr
+  url: http://www.last.fm/tag/acr
+  count: "0"
+- name: postpunknewwave
+  url: http://www.last.fm/tag/postpunknewwave
+  count: "0"
+- name: innvoative
+  url: http://www.last.fm/tag/innvoative
+  count: "0"
+- name: kokoro mayikibo
+  url: http://www.last.fm/tag/kokoro%20mayikibo
+  count: "0"
+- name: Inquiries
+  url: http://www.last.fm/tag/inquiries
+  count: "0"
+- name: Maart 2006 Alles Is Goed
+  url: http://www.last.fm/tag/maart%202006%20alles%20is%20goed
+  count: "0"
+- name: obscure eighties
+  url: http://www.last.fm/tag/obscure%20eighties
+  count: "0"
+- name: Left of the Dial
+  url: http://www.last.fm/tag/left%20of%20the%20dial
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: why 1976 to 1984 were the best years in rock history since Robert Johnson
+  url: http://www.last.fm/tag/why%201976%20to%201984%20were%20the%20best%20years%20in%20rock%20history%20since%20robert%20johnson
+  count: "0"
+- name: international style
+  url: http://www.last.fm/tag/international%20style
+  count: "0"
+- name: new wave funk
+  url: http://www.last.fm/tag/new%20wave%20funk
+  count: "0"
+- name: chill bill
+  url: http://www.last.fm/tag/chill%20bill
+  count: "0"
+- name: dance-machine
+  url: http://www.last.fm/tag/dance-machine
+  count: "0"
+- name: new zic
+  url: http://www.last.fm/tag/new%20zic
+  count: "0"
+- name: electro-disco-italo-punk
+  url: http://www.last.fm/tag/electro-disco-italo-punk
+  count: "0"
+- name: a-o-t-w
+  url: http://www.last.fm/tag/a-o-t-w
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: recommendations i approve of
+  url: http://www.last.fm/tag/recommendations%20i%20approve%20of
+  count: "0"
+- name: Album Culture Worth
+  url: http://www.last.fm/tag/album%20culture%20worth
+  count: "0"
+- name: you disappoint me
+  url: http://www.last.fm/tag/you%20disappoint%20me
+  count: "0"
+- name: new wave post-punk goth
+  url: http://www.last.fm/tag/new%20wave%20post-punk%20goth
+  count: "0"
+- name: blanq funq
+  url: http://www.last.fm/tag/blanq%20funq
+  count: "0"
+- name: tolistenhiero2
+  url: http://www.last.fm/tag/tolistenhiero2
+  count: "0"
+- name: cok interesan
+  url: http://www.last.fm/tag/cok%20interesan
+  count: "0"
+- name: early peak
+  url: http://www.last.fm/tag/early%20peak
+  count: "0"
+- name: Krautrock-inspired
+  url: http://www.last.fm/tag/krautrock-inspired
+  count: "0"
+- name: Music like Joy Division
+  url: http://www.last.fm/tag/music%20like%20joy%20division
+  count: "0"
+- name: Simon York
+  url: http://www.last.fm/tag/simon%20york
+  count: "0"
+- name: bazooka
+  url: http://www.last.fm/tag/bazooka
+  count: "0"
+- name: buddamat
+  url: http://www.last.fm/tag/buddamat
+  count: "0"
+- name: best albums of 2008
+  url: http://www.last.fm/tag/best%20albums%20of%202008
+  count: "0"
+- name: the post in punk
+  url: http://www.last.fm/tag/the%20post%20in%20punk
+  count: "0"
+- name: just listen to this
+  url: http://www.last.fm/tag/just%20listen%20to%20this
+  count: "0"
+- name: psych funk
+  url: http://www.last.fm/tag/psych%20funk
+  count: "0"
+- name: just a bit of fun
+  url: http://www.last.fm/tag/just%20a%20bit%20of%20fun
+  count: "0"
+- name: marmarealistic pillow of cloud
+  url: http://www.last.fm/tag/marmarealistic%20pillow%20of%20cloud
+  count: "0"
+- name: j07
+  url: http://www.last.fm/tag/j07
+  count: "0"
+- name: music for getting smashed and dancey
+  url: http://www.last.fm/tag/music%20for%20getting%20smashed%20and%20dancey
+  count: "0"
+- name: mixt
+  url: http://www.last.fm/tag/mixt
+  count: "0"
+- name: non the artists
+  url: http://www.last.fm/tag/non%20the%20artists
+  count: "0"
+- name: Cunning like the Fox
+  url: http://www.last.fm/tag/cunning%20like%20the%20fox
+  count: "0"
+- name: afinal o funk nem  mau
+  url: http://www.last.fm/tag/afinal%20o%20funk%20nem%20%20mau
+  count: "0"
+- name: studies
+  url: http://www.last.fm/tag/studies
+  count: "0"
+- name: darkwave liszaj radio
+  url: http://www.last.fm/tag/darkwave%20liszaj%20radio
+  count: "0"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "0"
+- name: post-punk-funk
+  url: http://www.last.fm/tag/post-punk-funk
+  count: "0"
+- name: wahs and guitars
+  url: http://www.last.fm/tag/wahs%20and%20guitars
+  count: "0"
+- name: kocham lubie szanuje
+  url: http://www.last.fm/tag/kocham%20lubie%20szanuje
+  count: "0"
+- name: Children of The Zone
+  url: http://www.last.fm/tag/children%20of%20the%20zone
+  count: "0"

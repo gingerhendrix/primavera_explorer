@@ -1,0 +1,303 @@
+--- 
+artist: The Vaselines
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "95"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "89"
+- name: Scottish
+  url: http://www.last.fm/tag/scottish
+  count: "62"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "41"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "33"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "30"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "16"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "15"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "12"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "12"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "11"
+- name: scotland
+  url: http://www.last.fm/tag/scotland
+  count: "10"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "9"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "6"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "5"
+- name: c86
+  url: http://www.last.fm/tag/c86
+  count: "4"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "4"
+- name: edinburgh
+  url: http://www.last.fm/tag/edinburgh
+  count: "4"
+- name: glasgow
+  url: http://www.last.fm/tag/glasgow
+  count: "4"
+- name: Twee as Fuck
+  url: http://www.last.fm/tag/twee%20as%20fuck
+  count: "4"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "3"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "3"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "3"
+- name: Left of the Dial
+  url: http://www.last.fm/tag/left%20of%20the%20dial
+  count: "3"
+- name: we are messy and we like it
+  url: http://www.last.fm/tag/we%20are%20messy%20and%20we%20like%20it
+  count: "2"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "2"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "2"
+- name: clever and funny
+  url: http://www.last.fm/tag/clever%20and%20funny
+  count: "2"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "2"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "2"
+- name: indiepop
+  url: http://www.last.fm/tag/indiepop
+  count: "2"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "2"
+- name: indy
+  url: http://www.last.fm/tag/indy
+  count: "2"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "2"
+- name: twee-pop
+  url: http://www.last.fm/tag/twee-pop
+  count: "2"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "2"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "2"
+- name: cover
+  url: http://www.last.fm/tag/cover
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "2"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "2"
+- name: wonderful music
+  url: http://www.last.fm/tag/wonderful%20music
+  count: "1"
+- name: super great pop songs
+  url: http://www.last.fm/tag/super%20great%20pop%20songs
+  count: "1"
+- name: female indie
+  url: http://www.last.fm/tag/female%20indie
+  count: "1"
+- name: funfun
+  url: http://www.last.fm/tag/funfun
+  count: "1"
+- name: Indipop
+  url: http://www.last.fm/tag/indipop
+  count: "1"
+- name: Iveldie
+  url: http://www.last.fm/tag/iveldie
+  count: "1"
+- name: the way of
+  url: http://www.last.fm/tag/the%20way%20of
+  count: "1"
+- name: indie songwriters
+  url: http://www.last.fm/tag/indie%20songwriters
+  count: "1"
+- name: underdeveloped or underappreciated
+  url: http://www.last.fm/tag/underdeveloped%20or%20underappreciated
+  count: "1"
+- name: pizza
+  url: http://www.last.fm/tag/pizza
+  count: "1"
+- name: so i love this
+  url: http://www.last.fm/tag/so%20i%20love%20this
+  count: "1"
+- name: v
+  url: http://www.last.fm/tag/v
+  count: "1"
+- name: yes yes yes
+  url: http://www.last.fm/tag/yes%20yes%20yes
+  count: "1"
+- name: kurt loved you
+  url: http://www.last.fm/tag/kurt%20loved%20you
+  count: "1"
+- name: Sounds like sun
+  url: http://www.last.fm/tag/sounds%20like%20sun
+  count: "1"
+- name: The The Bands
+  url: http://www.last.fm/tag/the%20the%20bands
+  count: "1"
+- name: damelie artists
+  url: http://www.last.fm/tag/damelie%20artists
+  count: "1"
+- name: female bandmembers
+  url: http://www.last.fm/tag/female%20bandmembers
+  count: "1"
+- name: sub pop bands
+  url: http://www.last.fm/tag/sub%20pop%20bands
+  count: "1"
+- name: scotch pop
+  url: http://www.last.fm/tag/scotch%20pop
+  count: "1"
+- name: Glasgow Bands
+  url: http://www.last.fm/tag/glasgow%20bands
+  count: "1"
+- name: Nicola
+  url: http://www.last.fm/tag/nicola
+  count: "1"
+- name: The Artists
+  url: http://www.last.fm/tag/the%20artists
+  count: "1"
+- name: neo acoustic
+  url: http://www.last.fm/tag/neo%20acoustic
+  count: "1"
+- name: Best group EVER
+  url: http://www.last.fm/tag/best%20group%20ever
+  count: "1"
+- name: Bands thatll make your mom go WTF
+  url: http://www.last.fm/tag/bands%20thatll%20make%20your%20mom%20go%20wtf
+  count: "1"
+- name: teenage soundtrack
+  url: http://www.last.fm/tag/teenage%20soundtrack
+  count: "1"
+- name: scottish pop
+  url: http://www.last.fm/tag/scottish%20pop
+  count: "1"
+- name: zaujimave
+  url: http://www.last.fm/tag/zaujimave
+  count: "1"
+- name: its a sad and beautiful world
+  url: http://www.last.fm/tag/its%20a%20sad%20and%20beautiful%20world
+  count: "1"
+- name: scots
+  url: http://www.last.fm/tag/scots
+  count: "1"
+- name: want to hear
+  url: http://www.last.fm/tag/want%20to%20hear
+  count: "1"
+- name: out pop
+  url: http://www.last.fm/tag/out%20pop
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: best shit
+  url: http://www.last.fm/tag/best%20shit
+  count: "1"
+- name: retro lounge
+  url: http://www.last.fm/tag/retro%20lounge
+  count: "1"
+- name: nu-pop noise bliss
+  url: http://www.last.fm/tag/nu-pop%20noise%20bliss
+  count: "1"
+- name: all-girl indie
+  url: http://www.last.fm/tag/all-girl%20indie
+  count: "1"
+- name: whatwedoissecret
+  url: http://www.last.fm/tag/whatwedoissecret
+  count: "1"
+- name: Scottish bands are better than English bands
+  url: http://www.last.fm/tag/scottish%20bands%20are%20better%20than%20english%20bands
+  count: "1"
+- name: Twee twee twiddle-lee-dee
+  url: http://www.last.fm/tag/twee%20twee%20twiddle-lee-dee
+  count: "1"
+- name: Bands I Found On My Own
+  url: http://www.last.fm/tag/bands%20i%20found%20on%20my%20own
+  count: "1"
+- name: poprawiacz nastroju
+  url: http://www.last.fm/tag/poprawiacz%20nastroju
+  count: "1"
+- name: Seattle-Sound
+  url: http://www.last.fm/tag/seattle-sound
+  count: "1"
+- name: nae bother a ta
+  url: http://www.last.fm/tag/nae%20bother%20a%20ta
+  count: "1"
+- name: scotland is for lovers
+  url: http://www.last.fm/tag/scotland%20is%20for%20lovers
+  count: "1"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "1"
+- name: girl-boy duo
+  url: http://www.last.fm/tag/girl-boy%20duo
+  count: "1"
+- name: bandas que salvam o mundo
+  url: http://www.last.fm/tag/bandas%20que%20salvam%20o%20mundo
+  count: "1"
+- name: the great fucking band of all times
+  url: http://www.last.fm/tag/the%20great%20fucking%20band%20of%20all%20times
+  count: "1"
+- name: bands named after foods that are awesome
+  url: http://www.last.fm/tag/bands%20named%20after%20foods%20that%20are%20awesome
+  count: "1"
+- name: lets all move to scotland
+  url: http://www.last.fm/tag/lets%20all%20move%20to%20scotland
+  count: "1"
+- name: beauty and flowers
+  url: http://www.last.fm/tag/beauty%20and%20flowers
+  count: "1"
+- name: pussaan sua
+  url: http://www.last.fm/tag/pussaan%20sua
+  count: "1"

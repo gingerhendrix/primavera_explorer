@@ -1,0 +1,303 @@
+--- 
+artist: Neil Young
+tag: 
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "100"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "86"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "80"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "73"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "47"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "29"
+- name: country
+  url: http://www.last.fm/tag/country
+  count: "16"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "14"
+- name: Neil Young
+  url: http://www.last.fm/tag/neil%20young
+  count: "9"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "8"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "5"
+- name: country rock
+  url: http://www.last.fm/tag/country%20rock
+  count: "5"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "4"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "4"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "4"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "3"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "3"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "3"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "2"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "2"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "2"
+- name: oldies
+  url: http://www.last.fm/tag/oldies
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "2"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "2"
+- name: classic
+  url: http://www.last.fm/tag/classic
+  count: "2"
+- name: political
+  url: http://www.last.fm/tag/political
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: country-rock
+  url: http://www.last.fm/tag/country-rock
+  count: "2"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "1"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+  count: "1"
+- name: legend
+  url: http://www.last.fm/tag/legend
+  count: "1"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "1"
+- name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+  count: "1"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "1"
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "1"
+- name: Great Lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+  count: "1"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: songwriter
+  url: http://www.last.fm/tag/songwriter
+  count: "0"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: Southern Rock
+  url: http://www.last.fm/tag/southern%20rock
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: album rock
+  url: http://www.last.fm/tag/album%20rock
+  count: "0"
+- name: CSNY
+  url: http://www.last.fm/tag/csny
+  count: "0"
+- name: toronto
+  url: http://www.last.fm/tag/toronto
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: classics
+  url: http://www.last.fm/tag/classics
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "0"
+- name: Protest
+  url: http://www.last.fm/tag/protest
+  count: "0"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "0"
+- name: GodFather of Grunge
+  url: http://www.last.fm/tag/godfather%20of%20grunge
+  count: "0"
+- name: alt country
+  url: http://www.last.fm/tag/alt%20country
+  count: "0"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: world
+  url: http://www.last.fm/tag/world
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: neil young is god
+  url: http://www.last.fm/tag/neil%20young%20is%20god
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: Oh Canada
+  url: http://www.last.fm/tag/oh%20canada
+  count: "0"
+- name: hippie
+  url: http://www.last.fm/tag/hippie
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: good music
+  url: http://www.last.fm/tag/good%20music
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: My Favorites
+  url: http://www.last.fm/tag/my%20favorites
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: proto-punk
+  url: http://www.last.fm/tag/proto-punk
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "0"
+- name: singer-songwriters
+  url: http://www.last.fm/tag/singer-songwriters
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: neil
+  url: http://www.last.fm/tag/neil
+  count: "0"
+- name: harmonica
+  url: http://www.last.fm/tag/harmonica
+  count: "0"
+- name: ost
+  url: http://www.last.fm/tag/ost
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "0"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"

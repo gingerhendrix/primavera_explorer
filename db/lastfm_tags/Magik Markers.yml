@@ -1,0 +1,303 @@
+--- 
+artist: Magik Markers
+tag: 
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "100"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "94"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "70"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "48"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "27"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "11"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "11"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "11"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "9"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "7"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "7"
+- name: low-fi
+  url: http://www.last.fm/tag/low-fi
+  count: "7"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "5"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "5"
+- name: reification
+  url: http://www.last.fm/tag/reification
+  count: "5"
+- name: space
+  url: http://www.last.fm/tag/space
+  count: "3"
+- name: ecstatic peace
+  url: http://www.last.fm/tag/ecstatic%20peace
+  count: "3"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "3"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "3"
+- name: skull rock
+  url: http://www.last.fm/tag/skull%20rock
+  count: "3"
+- name: motherfuckin rabbits ejaculating sunshine
+  url: http://www.last.fm/tag/motherfuckin%20rabbits%20ejaculating%20sunshine
+  count: "3"
+- name: free rock
+  url: http://www.last.fm/tag/free%20rock
+  count: "3"
+- name: free guitar
+  url: http://www.last.fm/tag/free%20guitar
+  count: "3"
+- name: free improvisation
+  url: http://www.last.fm/tag/free%20improvisation
+  count: "3"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "3"
+- name: connecticut
+  url: http://www.last.fm/tag/connecticut
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "3"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "3"
+- name: she swallowed her head she ate my ear and he just sat there at the casio
+  url: http://www.last.fm/tag/she%20swallowed%20her%20head%20she%20ate%20my%20ear%20and%20he%20just%20sat%20there%20at%20the%20casio
+  count: "1"
+- name: intervenzione divina
+  url: http://www.last.fm/tag/intervenzione%20divina
+  count: "1"
+- name: landscaping with bulbs
+  url: http://www.last.fm/tag/landscaping%20with%20bulbs
+  count: "1"
+- name: "rock: noise"
+  url: http://www.last.fm/tag/rock%3A%20noise
+  count: "1"
+- name: find then buy
+  url: http://www.last.fm/tag/find%20then%20buy
+  count: "1"
+- name: modern mutant
+  url: http://www.last.fm/tag/modern%20mutant
+  count: "1"
+- name: to explore further
+  url: http://www.last.fm/tag/to%20explore%20further
+  count: "1"
+- name: FIMAV
+  url: http://www.last.fm/tag/fimav
+  count: "1"
+- name: best of 2007
+  url: http://www.last.fm/tag/best%20of%202007
+  count: "1"
+- name: no core
+  url: http://www.last.fm/tag/no%20core
+  count: "1"
+- name: at least one brilliant album title
+  url: http://www.last.fm/tag/at%20least%20one%20brilliant%20album%20title
+  count: "1"
+- name: find out more
+  url: http://www.last.fm/tag/find%20out%20more
+  count: "1"
+- name: hartford
+  url: http://www.last.fm/tag/hartford
+  count: "1"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "1"
+- name: Fuzz and buzz majesty
+  url: http://www.last.fm/tag/fuzz%20and%20buzz%20majesty
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: sonic youth-related
+  url: http://www.last.fm/tag/sonic%20youth-related
+  count: "1"
+- name: mothers against noise
+  url: http://www.last.fm/tag/mothers%20against%20noise
+  count: "1"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: tolistenhiero
+  url: http://www.last.fm/tag/tolistenhiero
+  count: "1"
+- name: cumbo cet
+  url: http://www.last.fm/tag/cumbo%20cet
+  count: "1"
+- name: ferraille
+  url: http://www.last.fm/tag/ferraille
+  count: "1"
+- name: sonic taste
+  url: http://www.last.fm/tag/sonic%20taste
+  count: "1"
+- name: nocore
+  url: http://www.last.fm/tag/nocore
+  count: "1"
+- name: BAND I NEED TO CHECK
+  url: http://www.last.fm/tag/band%20i%20need%20to%20check
+  count: "1"
+- name: notnotfun
+  url: http://www.last.fm/tag/notnotfun
+  count: "1"
+- name: cok interesan
+  url: http://www.last.fm/tag/cok%20interesan
+  count: "1"
+- name: sluimerstrotjes
+  url: http://www.last.fm/tag/sluimerstrotjes
+  count: "1"
+- name: spastic head music
+  url: http://www.last.fm/tag/spastic%20head%20music
+  count: "1"
+- name: worth a shot
+  url: http://www.last.fm/tag/worth%20a%20shot
+  count: "1"
+- name: non the artists
+  url: http://www.last.fm/tag/non%20the%20artists
+  count: "1"
+- name: suoni per il popolo
+  url: http://www.last.fm/tag/suoni%20per%20il%20popolo
+  count: "1"
+- name: most music ive seen live
+  url: http://www.last.fm/tag/most%20music%20ive%20seen%20live
+  count: "1"
+- name: gromgalm
+  url: http://www.last.fm/tag/gromgalm
+  count: "1"
+- name: Live Acts
+  url: http://www.last.fm/tag/live%20acts
+  count: "1"
+- name: falling out of the sky and into my lap
+  url: http://www.last.fm/tag/falling%20out%20of%20the%20sky%20and%20into%20my%20lap
+  count: "1"
+- name: seen live and was sober enough to remember it
+  url: http://www.last.fm/tag/seen%20live%20and%20was%20sober%20enough%20to%20remember%20it
+  count: "1"
+- name: slightly unnerving
+  url: http://www.last.fm/tag/slightly%20unnerving
+  count: "1"
+- name: compra mi disco
+  url: http://www.last.fm/tag/compra%20mi%20disco
+  count: "1"
+- name: Girl
+  url: http://www.last.fm/tag/girl
+  count: "1"
+- name: noise punk
+  url: http://www.last.fm/tag/noise%20punk
+  count: "1"
+- name: Drag City
+  url: http://www.last.fm/tag/drag%20city
+  count: "1"
+- name: Stars
+  url: http://www.last.fm/tag/stars
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: everything
+  url: http://www.last.fm/tag/everything
+  count: "1"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "1"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "1"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: drums
+  url: http://www.last.fm/tag/drums
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: lofi
+  url: http://www.last.fm/tag/lofi
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "1"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "1"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "1"
+- name: drone rock
+  url: http://www.last.fm/tag/drone%20rock
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "1"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: avant-garage
+  url: http://www.last.fm/tag/avant-garage
+  count: "1"
+- name: really fucking good
+  url: http://www.last.fm/tag/really%20fucking%20good
+  count: "1"
+- name: discover
+  url: http://www.last.fm/tag/discover
+  count: "1"
+- name: Emotional Hardcore
+  url: http://www.last.fm/tag/emotional%20hardcore
+  count: "1"
+- name: elissa says stupid stuff in interviews
+  url: http://www.last.fm/tag/elissa%20says%20stupid%20stuff%20in%20interviews
+  count: "1"
+- name: thurston moore's children
+  url: http://www.last.fm/tag/thurston%20moore%27s%20children
+  count: "1"

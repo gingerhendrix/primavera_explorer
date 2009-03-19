@@ -12,7 +12,7 @@ class LastfmTags
     @tags = artist.top_tags
   end
   
-  def tags
+  def top_tags
     if @tags && @tags[:tags] && @tags[:tags]['tag'] && @tags[:tags]['tag'].is_a?(Array)
       tags = @tags[:tags]['tag']
       sorted_tags = tags.sort_by { |tag| tag['count'].to_i }
@@ -20,6 +20,14 @@ class LastfmTags
     else
       []
     end
+  end
+  
+  def save(db)
+    db.save_resource("lastfm_tags/#{@name}", @tags)
+  end
+  
+  def load_from_db(db)
+    @tags = db.get_resource("lastfm_tags/#{@name}")
   end
   
   def self.new_from_hash(name, hash)

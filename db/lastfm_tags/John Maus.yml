@@ -1,0 +1,210 @@
+--- 
+artist: John Maus
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "86"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "78"
+- name: sounds even better when drunk
+  url: http://www.last.fm/tag/sounds%20even%20better%20when%20drunk
+  count: "52"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "47"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "17"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "17"
+- name: haunted graffiti
+  url: http://www.last.fm/tag/haunted%20graffiti
+  count: "13"
+- name: hauntology
+  url: http://www.last.fm/tag/hauntology
+  count: "13"
+- name: best thing in the universe
+  url: http://www.last.fm/tag/best%20thing%20in%20the%20universe
+  count: "8"
+- name: upset the rhythm
+  url: http://www.last.fm/tag/upset%20the%20rhythm
+  count: "8"
+- name: lo fi
+  url: http://www.last.fm/tag/lo%20fi
+  count: "8"
+- name: SAD ORGAN SEX
+  url: http://www.last.fm/tag/sad%20organ%20sex
+  count: "8"
+- name: glammy
+  url: http://www.last.fm/tag/glammy
+  count: "4"
+- name: kick it old school--kick the crap outta that school
+  url: http://www.last.fm/tag/kick%20it%20old%20school--kick%20the%20crap%20outta%20that%20school
+  count: "4"
+- name: lofi love
+  url: http://www.last.fm/tag/lofi%20love
+  count: "4"
+- name: dreamboat
+  url: http://www.last.fm/tag/dreamboat
+  count: "4"
+- name: fucking love john maus
+  url: http://www.last.fm/tag/fucking%20love%20john%20maus
+  count: "4"
+- name: Mamma G Radio
+  url: http://www.last.fm/tag/mamma%20g%20radio
+  count: "4"
+- name: Pseudo-Hitler
+  url: http://www.last.fm/tag/pseudo-hitler
+  count: "4"
+- name: get this
+  url: http://www.last.fm/tag/get%20this
+  count: "4"
+- name: two or more artists with the same name
+  url: http://www.last.fm/tag/two%20or%20more%20artists%20with%20the%20same%20name
+  count: "4"
+- name: Ku-klux-cowboy
+  url: http://www.last.fm/tag/ku-klux-cowboy
+  count: "4"
+- name: wtf i love it
+  url: http://www.last.fm/tag/wtf%20i%20love%20it
+  count: "4"
+- name: Magnetic Fields rip-off
+  url: http://www.last.fm/tag/magnetic%20fields%20rip-off
+  count: "4"
+- name: ultra obscure creepy stuff
+  url: http://www.last.fm/tag/ultra%20obscure%20creepy%20stuff
+  count: "4"
+- name: mausterious
+  url: http://www.last.fm/tag/mausterious
+  count: "4"
+- name: listen to more often
+  url: http://www.last.fm/tag/listen%20to%20more%20often
+  count: "4"
+- name: keyboard tones
+  url: http://www.last.fm/tag/keyboard%20tones
+  count: "4"
+- name: Tree Music
+  url: http://www.last.fm/tag/tree%20music
+  count: "4"
+- name: gahhhhhoooooohhhhhwaaaaahhhhhhh
+  url: http://www.last.fm/tag/gahhhhhoooooohhhhhwaaaaahhhhhhh
+  count: "4"
+- name: "electronic: lo-fi"
+  url: http://www.last.fm/tag/electronic%3A%20lo-fi
+  count: "4"
+- name: meine tiere
+  url: http://www.last.fm/tag/meine%20tiere
+  count: "4"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "4"
+- name: dial a cliche
+  url: http://www.last.fm/tag/dial%20a%20cliche
+  count: "4"
+- name: baroque
+  url: http://www.last.fm/tag/baroque
+  count: "4"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "4"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "4"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "4"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "4"
+- name: epic
+  url: http://www.last.fm/tag/epic
+  count: "4"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "4"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "4"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "4"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "4"
+- name: best
+  url: http://www.last.fm/tag/best
+  count: "4"
+- name: danceable
+  url: http://www.last.fm/tag/danceable
+  count: "4"
+- name: poppy
+  url: http://www.last.fm/tag/poppy
+  count: "4"
+- name: paved Wiener
+  url: http://www.last.fm/tag/paved%20wiener
+  count: "4"
+- name: Distorted
+  url: http://www.last.fm/tag/distorted
+  count: "4"
+- name: i love you
+  url: http://www.last.fm/tag/i%20love%20you
+  count: "4"
+- name: hawaii
+  url: http://www.last.fm/tag/hawaii
+  count: "4"
+- name: low-fi
+  url: http://www.last.fm/tag/low-fi
+  count: "4"
+- name: baritone
+  url: http://www.last.fm/tag/baritone
+  count: "4"
+- name: cream of the crop
+  url: http://www.last.fm/tag/cream%20of%20the%20crop
+  count: "4"
+- name: magnificent
+  url: http://www.last.fm/tag/magnificent
+  count: "4"
+- name: Twisted
+  url: http://www.last.fm/tag/twisted
+  count: "4"
+- name: ludes
+  url: http://www.last.fm/tag/ludes
+  count: "4"
+- name: not emo
+  url: http://www.last.fm/tag/not%20emo
+  count: "4"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: merak
+  url: http://www.last.fm/tag/merak
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "0"
+- name: i tottaly get it
+  url: http://www.last.fm/tag/i%20tottaly%20get%20it
+  count: "0"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "0"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "0"

@@ -1,0 +1,303 @@
+--- 
+artist: DJ Mehdi
+tag: 
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "100"
+- name: ed banger
+  url: http://www.last.fm/tag/ed%20banger
+  count: "93"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "83"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "79"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "47"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "17"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "17"
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "13"
+- name: french electro
+  url: http://www.last.fm/tag/french%20electro
+  count: "6"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "5"
+- name: ed rec
+  url: http://www.last.fm/tag/ed%20rec
+  count: "4"
+- name: ed banger records
+  url: http://www.last.fm/tag/ed%20banger%20records
+  count: "4"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "3"
+- name: france
+  url: http://www.last.fm/tag/france
+  count: "3"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "3"
+- name: paris
+  url: http://www.last.fm/tag/paris
+  count: "3"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "3"
+- name: elektro
+  url: http://www.last.fm/tag/elektro
+  count: "3"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "3"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: french touch
+  url: http://www.last.fm/tag/french%20touch
+  count: "2"
+- name: Electro Hip Hop
+  url: http://www.last.fm/tag/electro%20hip%20hop
+  count: "2"
+- name: french house
+  url: http://www.last.fm/tag/french%20house
+  count: "2"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "2"
+- name: f
+  url: http://www.last.fm/tag/f
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: francais
+  url: http://www.last.fm/tag/francais
+  count: "1"
+- name: Neonized Magazine
+  url: http://www.last.fm/tag/neonized%20magazine
+  count: "1"
+- name: electro hip-hop
+  url: http://www.last.fm/tag/electro%20hip-hop
+  count: "1"
+- name: electro french
+  url: http://www.last.fm/tag/electro%20french
+  count: "1"
+- name: mehdi
+  url: http://www.last.fm/tag/mehdi
+  count: "1"
+- name: Dour 2007
+  url: http://www.last.fm/tag/dour%202007
+  count: "1"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: edbanger
+  url: http://www.last.fm/tag/edbanger
+  count: "0"
+- name: ilt
+  url: http://www.last.fm/tag/ilt
+  count: "0"
+- name: live connection
+  url: http://www.last.fm/tag/live%20connection
+  count: "0"
+- name: sexy tune
+  url: http://www.last.fm/tag/sexy%20tune
+  count: "0"
+- name: neo disco
+  url: http://www.last.fm/tag/neo%20disco
+  count: "0"
+- name: French band
+  url: http://www.last.fm/tag/french%20band
+  count: "0"
+- name: i love techno
+  url: http://www.last.fm/tag/i%20love%20techno
+  count: "0"
+- name: Trash Disco
+  url: http://www.last.fm/tag/trash%20disco
+  count: "0"
+- name: electro hiphop
+  url: http://www.last.fm/tag/electro%20hiphop
+  count: "0"
+- name: tekfunk
+  url: http://www.last.fm/tag/tekfunk
+  count: "0"
+- name: "2007"
+  url: http://www.last.fm/tag/2007
+  count: "0"
+- name: seen dj
+  url: http://www.last.fm/tag/seen%20dj
+  count: "0"
+- name: artists I have seen
+  url: http://www.last.fm/tag/artists%20i%20have%20seen
+  count: "0"
+- name: chanteurs
+  url: http://www.last.fm/tag/chanteurs
+  count: "0"
+- name: lil electro
+  url: http://www.last.fm/tag/lil%20electro
+  count: "0"
+- name: lil dance
+  url: http://www.last.fm/tag/lil%20dance
+  count: "0"
+- name: lil best
+  url: http://www.last.fm/tag/lil%20best
+  count: "0"
+- name: lil grime
+  url: http://www.last.fm/tag/lil%20grime
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"
+- name: stonet
+  url: http://www.last.fm/tag/stonet
+  count: "0"
+- name: fitzsy
+  url: http://www.last.fm/tag/fitzsy
+  count: "0"
+- name: wielmozny pan lubi
+  url: http://www.last.fm/tag/wielmozny%20pan%20lubi
+  count: "0"
+- name: warehouse project 2008
+  url: http://www.last.fm/tag/warehouse%20project%202008
+  count: "0"
+- name: artist arpan recomended
+  url: http://www.last.fm/tag/artist%20arpan%20recomended
+  count: "0"
+- name: tried but failed
+  url: http://www.last.fm/tag/tried%20but%20failed
+  count: "0"
+- name: electroasis
+  url: http://www.last.fm/tag/electroasis
+  count: "0"
+- name: Pukkelpop 08
+  url: http://www.last.fm/tag/pukkelpop%2008
+  count: "0"
+- name: creamfields andalucia 08
+  url: http://www.last.fm/tag/creamfields%20andalucia%2008
+  count: "0"
+- name: bartelive
+  url: http://www.last.fm/tag/bartelive
+  count: "0"
+- name: trop 2 hype tue
+  url: http://www.last.fm/tag/trop%202%20hype%20tue
+  count: "0"
+- name: zem francais
+  url: http://www.last.fm/tag/zem%20francais
+  count: "0"
+- name: cumbo cet
+  url: http://www.last.fm/tag/cumbo%20cet
+  count: "0"
+- name: vet en morsig
+  url: http://www.last.fm/tag/vet%20en%20morsig
+  count: "0"
+- name: Marcos likes
+  url: http://www.last.fm/tag/marcos%20likes
+  count: "0"
+- name: transmusicales
+  url: http://www.last.fm/tag/transmusicales
+  count: "0"
+- name: i love techno 2008
+  url: http://www.last.fm/tag/i%20love%20techno%202008
+  count: "0"
+- name: nblue
+  url: http://www.last.fm/tag/nblue
+  count: "0"
+- name: Gerby
+  url: http://www.last.fm/tag/gerby
+  count: "0"
+- name: euro-crunk
+  url: http://www.last.fm/tag/euro-crunk
+  count: "0"
+- name: by heck chuck you should give this a listen
+  url: http://www.last.fm/tag/by%20heck%20chuck%20you%20should%20give%20this%20a%20listen
+  count: "0"
+- name: ow yeah
+  url: http://www.last.fm/tag/ow%20yeah
+  count: "0"
+- name: ELECTROGEFUCKEL
+  url: http://www.last.fm/tag/electrogefuckel
+  count: "0"
+- name: take a listen
+  url: http://www.last.fm/tag/take%20a%20listen
+  count: "0"
+- name: mat payne
+  url: http://www.last.fm/tag/mat%20payne
+  count: "0"
+- name: Revolution francaise
+  url: http://www.last.fm/tag/revolution%20francaise
+  count: "0"
+- name: eurosonic-noorderslag 2007
+  url: http://www.last.fm/tag/eurosonic-noorderslag%202007
+  count: "0"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "0"
+- name: Artist
+  url: http://www.last.fm/tag/artist
+  count: "0"
+- name: european
+  url: http://www.last.fm/tag/european
+  count: "0"
+- name: alternative electronic
+  url: http://www.last.fm/tag/alternative%20electronic
+  count: "0"
+- name: wow
+  url: http://www.last.fm/tag/wow
+  count: "0"
+- name: Eurotrash
+  url: http://www.last.fm/tag/eurotrash
+  count: "0"
+- name: indie dance
+  url: http://www.last.fm/tag/indie%20dance
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: Daft Punk
+  url: http://www.last.fm/tag/daft%20punk
+  count: "0"
+- name: eletronica
+  url: http://www.last.fm/tag/eletronica
+  count: "0"
+- name: urban
+  url: http://www.last.fm/tag/urban
+  count: "0"
+- name: breaks
+  url: http://www.last.fm/tag/breaks
+  count: "0"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "0"
+- name: Grime
+  url: http://www.last.fm/tag/grime
+  count: "0"
+- name: world
+  url: http://www.last.fm/tag/world
+  count: "0"
+- name: indie electronica
+  url: http://www.last.fm/tag/indie%20electronica
+  count: "0"

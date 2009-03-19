@@ -1,0 +1,66 @@
+--- 
+name: the lions constellation
+stats: 
+  playcount: "305"
+  listeners: "10"
+similar: 
+  artist: 
+  - name: Random Feelings
+    url: http://www.last.fm/music/Random+Feelings
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/7157049.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/7157049.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/7157049.jpg
+  - name: La Brigada
+    url: http://www.last.fm/music/La+Brigada
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/14463657.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/14463657.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/14463657.jpg
+  - name: Sanpedro
+    url: http://www.last.fm/music/Sanpedro
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/18017619.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/18017619.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/18017619.jpg
+  - name: Hans Laguna
+    url: http://www.last.fm/music/Hans+Laguna
+    image: 
+    - size: small
+      "#text": ""
+    - size: medium
+      "#text": ">"
+    - size: large
+      "#text": ""
+  - name: Gentle Music Men
+    url: http://www.last.fm/music/Gentle+Music+Men
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/4832045.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/4832045.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/4832045.jpg
+url: http://www.last.fm/music/the+lions+constellation
+mbid: ""
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/22626859.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/22626859.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/22626859.jpg

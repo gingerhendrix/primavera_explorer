@@ -1,0 +1,303 @@
+--- 
+artist: Andrew Bird
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "98"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "74"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "36"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "30"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "19"
+- name: violin
+  url: http://www.last.fm/tag/violin
+  count: "13"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "11"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "10"
+- name: chicago
+  url: http://www.last.fm/tag/chicago
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "6"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "6"
+- name: andrew bird
+  url: http://www.last.fm/tag/andrew%20bird
+  count: "5"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "4"
+- name: whistling
+  url: http://www.last.fm/tag/whistling
+  count: "3"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "3"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "3"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "3"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "3"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "2"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "2"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "2"
+- name: whistler
+  url: http://www.last.fm/tag/whistler
+  count: "1"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "1"
+- name: Illinois
+  url: http://www.last.fm/tag/illinois
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: Great Lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+  count: "1"
+- name: Retro Swing
+  url: http://www.last.fm/tag/retro%20swing
+  count: "1"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+  count: "1"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: alt-folk
+  url: http://www.last.fm/tag/alt-folk
+  count: "1"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "1"
+- name: songwriter
+  url: http://www.last.fm/tag/songwriter
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: multi-instrumentalist
+  url: http://www.last.fm/tag/multi-instrumentalist
+  count: "1"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "1"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "0"
+- name: coachella 2007
+  url: http://www.last.fm/tag/coachella%202007
+  count: "0"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: righteous babe
+  url: http://www.last.fm/tag/righteous%20babe
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: swing
+  url: http://www.last.fm/tag/swing
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: new folk
+  url: http://www.last.fm/tag/new%20folk
+  count: "0"
+- name: the best music you will ever hear
+  url: http://www.last.fm/tag/the%20best%20music%20you%20will%20ever%20hear
+  count: "0"
+- name: professional whistler
+  url: http://www.last.fm/tag/professional%20whistler
+  count: "0"
+- name: indie-pop
+  url: http://www.last.fm/tag/indie-pop
+  count: "0"
+- name: intelligent
+  url: http://www.last.fm/tag/intelligent
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: strings
+  url: http://www.last.fm/tag/strings
+  count: "0"
+- name: violinist
+  url: http://www.last.fm/tag/violinist
+  count: "0"
+- name: great lyrics
+  url: http://www.last.fm/tag/great%20lyrics
+  count: "0"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: Have Seen Live
+  url: http://www.last.fm/tag/have%20seen%20live
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "0"
+- name: H5N1
+  url: http://www.last.fm/tag/h5n1
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: Lollapalooza 2006
+  url: http://www.last.fm/tag/lollapalooza%202006
+  count: "0"
+- name: Good Stuff
+  url: http://www.last.fm/tag/good%20stuff
+  count: "0"
+- name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: loved
+  url: http://www.last.fm/tag/loved
+  count: "0"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: relax
+  url: http://www.last.fm/tag/relax
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "0"
+- name: brilliant
+  url: http://www.last.fm/tag/brilliant
+  count: "0"
+- name: great live
+  url: http://www.last.fm/tag/great%20live
+  count: "0"

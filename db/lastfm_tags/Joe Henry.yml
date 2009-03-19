@@ -1,0 +1,303 @@
+--- 
+artist: Joe Henry
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "47"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "35"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "26"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "22"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "21"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "8"
+- name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+  count: "8"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "8"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "5"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "3"
+- name: smarttoons
+  url: http://www.last.fm/tag/smarttoons
+  count: "3"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "3"
+- name: anti-
+  url: http://www.last.fm/tag/anti-
+  count: "3"
+- name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+  count: "3"
+- name: songwriter
+  url: http://www.last.fm/tag/songwriter
+  count: "3"
+- name: Joe Henry
+  url: http://www.last.fm/tag/joe%20henry
+  count: "3"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "3"
+- name: North Carolina
+  url: http://www.last.fm/tag/north%20carolina
+  count: "3"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "3"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "3"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "3"
+- name: Singer - Songwriter
+  url: http://www.last.fm/tag/singer%20-%20songwriter
+  count: "3"
+- name: My best favorites
+  url: http://www.last.fm/tag/my%20best%20favorites
+  count: "1"
+- name: Reflecting
+  url: http://www.last.fm/tag/reflecting
+  count: "1"
+- name: vodka
+  url: http://www.last.fm/tag/vodka
+  count: "1"
+- name: villa tempo
+  url: http://www.last.fm/tag/villa%20tempo
+  count: "1"
+- name: drinking songs
+  url: http://www.last.fm/tag/drinking%20songs
+  count: "1"
+- name: Live in NC
+  url: http://www.last.fm/tag/live%20in%20nc
+  count: "1"
+- name: pepperalley inspiration
+  url: http://www.last.fm/tag/pepperalley%20inspiration
+  count: "1"
+- name: pepperalley los angeles
+  url: http://www.last.fm/tag/pepperalley%20los%20angeles
+  count: "1"
+- name: favoriet
+  url: http://www.last.fm/tag/favoriet
+  count: "1"
+- name: Fox
+  url: http://www.last.fm/tag/fox
+  count: "1"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "1"
+- name: suzanne vega
+  url: http://www.last.fm/tag/suzanne%20vega
+  count: "1"
+- name: storyteller
+  url: http://www.last.fm/tag/storyteller
+  count: "1"
+- name: My Radio
+  url: http://www.last.fm/tag/my%20radio
+  count: "1"
+- name: Zaxxon Eclecticon
+  url: http://www.last.fm/tag/zaxxon%20eclecticon
+  count: "1"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: "rock: folk"
+  url: http://www.last.fm/tag/rock%3A%20folk
+  count: "1"
+- name: ALt-CR
+  url: http://www.last.fm/tag/alt-cr
+  count: "1"
+- name: we got married in a fever
+  url: http://www.last.fm/tag/we%20got%20married%20in%20a%20fever
+  count: "1"
+- name: and they rode on in the friscalating dusklight
+  url: http://www.last.fm/tag/and%20they%20rode%20on%20in%20the%20friscalating%20dusklight
+  count: "1"
+- name: between Cave and Sting
+  url: http://www.last.fm/tag/between%20cave%20and%20sting
+  count: "1"
+- name: artist i need to check out
+  url: http://www.last.fm/tag/artist%20i%20need%20to%20check%20out
+  count: "1"
+- name: jacenty favorite
+  url: http://www.last.fm/tag/jacenty%20favorite
+  count: "1"
+- name: MBO-Song
+  url: http://www.last.fm/tag/mbo-song
+  count: "1"
+- name: try more of this sometime
+  url: http://www.last.fm/tag/try%20more%20of%20this%20sometime
+  count: "1"
+- name: ronxi
+  url: http://www.last.fm/tag/ronxi
+  count: "1"
+- name: california USA
+  url: http://www.last.fm/tag/california%20usa
+  count: "1"
+- name: radioparadise
+  url: http://www.last.fm/tag/radioparadise
+  count: "1"
+- name: jacenty music
+  url: http://www.last.fm/tag/jacenty%20music
+  count: "1"
+- name: drunk and lonely
+  url: http://www.last.fm/tag/drunk%20and%20lonely
+  count: "1"
+- name: voice with feeling
+  url: http://www.last.fm/tag/voice%20with%20feeling
+  count: "1"
+- name: estostiossonbuenosclaroquesi
+  url: http://www.last.fm/tag/estostiossonbuenosclaroquesi
+  count: "1"
+- name: Baustar
+  url: http://www.last.fm/tag/baustar
+  count: "1"
+- name: na kolana chamy
+  url: http://www.last.fm/tag/na%20kolana%20chamy
+  count: "1"
+- name: male version of ani difranco
+  url: http://www.last.fm/tag/male%20version%20of%20ani%20difranco
+  count: "1"
+- name: Yeah Good stuff
+  url: http://www.last.fm/tag/yeah%20good%20stuff
+  count: "1"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "1"
+- name: vocal jazz
+  url: http://www.last.fm/tag/vocal%20jazz
+  count: "1"
+- name: blues-rock
+  url: http://www.last.fm/tag/blues-rock
+  count: "1"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "1"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "1"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "1"
+- name: ironic
+  url: http://www.last.fm/tag/ironic
+  count: "1"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: pop noir
+  url: http://www.last.fm/tag/pop%20noir
+  count: "1"
+- name: composer
+  url: http://www.last.fm/tag/composer
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: singer-songwriters
+  url: http://www.last.fm/tag/singer-songwriters
+  count: "1"
+- name: alt-rock
+  url: http://www.last.fm/tag/alt-rock
+  count: "1"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "1"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "1"
+- name: progressive country
+  url: http://www.last.fm/tag/progressive%20country
+  count: "1"
+- name: deadpan
+  url: http://www.last.fm/tag/deadpan
+  count: "1"
+- name: bitter
+  url: http://www.last.fm/tag/bitter
+  count: "1"
+- name: guitar rock
+  url: http://www.last.fm/tag/guitar%20rock
+  count: "1"
+- name: folkrock
+  url: http://www.last.fm/tag/folkrock
+  count: "1"
+- name: largo
+  url: http://www.last.fm/tag/largo
+  count: "1"
+- name: Contemporary
+  url: http://www.last.fm/tag/contemporary
+  count: "1"
+- name: singer songwriter
+  url: http://www.last.fm/tag/singer%20songwriter
+  count: "1"
+- name: nostalgia
+  url: http://www.last.fm/tag/nostalgia
+  count: "1"
+- name: good music
+  url: http://www.last.fm/tag/good%20music
+  count: "1"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "1"
+- name: heartbreak
+  url: http://www.last.fm/tag/heartbreak
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: Adult Alternative
+  url: http://www.last.fm/tag/adult%20alternative
+  count: "0"
+- name: alt country
+  url: http://www.last.fm/tag/alt%20country
+  count: "0"

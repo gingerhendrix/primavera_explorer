@@ -1,0 +1,27 @@
+--- 
+artist: lemonade
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: electrohouse
+  url: http://www.last.fm/tag/electrohouse
+  count: "66"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "33"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "33"
+- name: house music
+  url: http://www.last.fm/tag/house%20music
+  count: "33"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "0"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "0"

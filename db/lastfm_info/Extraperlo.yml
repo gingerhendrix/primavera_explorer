@@ -1,0 +1,66 @@
+--- 
+name: Extraperlo
+stats: 
+  playcount: "1310"
+  listeners: "218"
+similar: 
+  artist: 
+  - name: Albaialeix
+    url: http://www.last.fm/music/Albaialeix
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/21548405.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/21548405.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/21548405.jpg
+  - name: Veracruz
+    url: http://www.last.fm/music/Veracruz
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/7773031.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/7773031.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/7773031.jpg
+  - name: La estrella de David
+    url: http://www.last.fm/music/La+estrella+de+David
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/3643845.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/3643845.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/3643845.jpg
+  - name: Lo poder del cant
+    url: http://www.last.fm/music/Lo+poder+del+cant
+    image: 
+    - size: small
+      "#text": ""
+    - size: medium
+      "#text": ">"
+    - size: large
+      "#text": ""
+  - name: Centella
+    url: http://www.last.fm/music/Centella
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/16845597.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/16845597.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/16845597.jpg
+url: http://www.last.fm/music/Extraperlo
+mbid: ""
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/22025813.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/22025813.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/22025813.jpg

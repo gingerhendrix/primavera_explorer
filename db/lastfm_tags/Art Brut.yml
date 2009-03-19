@@ -1,0 +1,303 @@
+--- 
+artist: Art Brut
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "85"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "51"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "40"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "39"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "20"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "18"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "10"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "7"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "5"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "3"
+- name: brit rock
+  url: http://www.last.fm/tag/brit%20rock
+  count: "3"
+- name: Art brut
+  url: http://www.last.fm/tag/art%20brut
+  count: "3"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "2"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "2"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "2"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "2"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "2"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "1"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "1"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "1"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: Britrock
+  url: http://www.last.fm/tag/britrock
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: Brit
+  url: http://www.last.fm/tag/brit
+  count: "0"
+- name: Southside 2007
+  url: http://www.last.fm/tag/southside%202007
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: very british
+  url: http://www.last.fm/tag/very%20british
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: Bang Bang Rock and Roll
+  url: http://www.last.fm/tag/bang%20bang%20rock%20and%20roll
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: art-rock
+  url: http://www.last.fm/tag/art-rock
+  count: "0"
+- name: ironic
+  url: http://www.last.fm/tag/ironic
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "0"
+- name: lyrics
+  url: http://www.last.fm/tag/lyrics
+  count: "0"
+- name: hilarious
+  url: http://www.last.fm/tag/hilarious
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: clever
+  url: http://www.last.fm/tag/clever
+  count: "0"
+- name: Brit-pop
+  url: http://www.last.fm/tag/brit-pop
+  count: "0"
+- name: live gesehen
+  url: http://www.last.fm/tag/live%20gesehen
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: german
+  url: http://www.last.fm/tag/german
+  count: "0"
+- name: Brit indie
+  url: http://www.last.fm/tag/brit%20indie
+  count: "0"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: Alternative and Indie
+  url: http://www.last.fm/tag/alternative%20and%20indie
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: top of the pops
+  url: http://www.last.fm/tag/top%20of%20the%20pops
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: nme
+  url: http://www.last.fm/tag/nme
+  count: "0"
+- name: Love it
+  url: http://www.last.fm/tag/love%20it
+  count: "0"
+- name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+  count: "0"
+- name: new stuff
+  url: http://www.last.fm/tag/new%20stuff
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: Self-Conscious
+  url: http://www.last.fm/tag/self-conscious
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: seen em
+  url: http://www.last.fm/tag/seen%20em
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: Bournemouth
+  url: http://www.last.fm/tag/bournemouth
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "0"
+- name: Faves
+  url: http://www.last.fm/tag/faves
+  count: "0"
+- name: soo very british
+  url: http://www.last.fm/tag/soo%20very%20british
+  count: "0"
+- name: witty
+  url: http://www.last.fm/tag/witty
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: artrocker
+  url: http://www.last.fm/tag/artrocker
+  count: "0"
+- name: Happy Music
+  url: http://www.last.fm/tag/happy%20music
+  count: "0"
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "0"
+- name: swedish
+  url: http://www.last.fm/tag/swedish
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "0"
+- name: seen djing
+  url: http://www.last.fm/tag/seen%20djing
+  count: "0"
+- name: best of british
+  url: http://www.last.fm/tag/best%20of%20british
+  count: "0"
+- name: Rock Am Ring 2006
+  url: http://www.last.fm/tag/rock%20am%20ring%202006
+  count: "0"
+- name: "Seen Live:"
+  url: http://www.last.fm/tag/seen%20live%3A
+  count: "0"

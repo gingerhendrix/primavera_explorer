@@ -1,0 +1,303 @@
+--- 
+artist: Shellac
+tag: 
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "100"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "81"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "40"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "38"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "29"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "26"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "23"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "18"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "10"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "9"
+- name: Steve Albini
+  url: http://www.last.fm/tag/steve%20albini
+  count: "9"
+- name: chicago
+  url: http://www.last.fm/tag/chicago
+  count: "7"
+- name: albini
+  url: http://www.last.fm/tag/albini
+  count: "6"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "6"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "5"
+- name: touch and go
+  url: http://www.last.fm/tag/touch%20and%20go
+  count: "5"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "4"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "3"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "3"
+- name: Shellac
+  url: http://www.last.fm/tag/shellac
+  count: "3"
+- name: math
+  url: http://www.last.fm/tag/math
+  count: "3"
+- name: minimalist
+  url: http://www.last.fm/tag/minimalist
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: Illinois
+  url: http://www.last.fm/tag/illinois
+  count: "2"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "2"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: Math-rock
+  url: http://www.last.fm/tag/math-rock
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: bob weston
+  url: http://www.last.fm/tag/bob%20weston
+  count: "1"
+- name: John Peel
+  url: http://www.last.fm/tag/john%20peel
+  count: "1"
+- name: Bands I have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+  count: "1"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: good shit
+  url: http://www.last.fm/tag/good%20shit
+  count: "0"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+  count: "0"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "0"
+- name: mathrock
+  url: http://www.last.fm/tag/mathrock
+  count: "0"
+- name: postpunk
+  url: http://www.last.fm/tag/postpunk
+  count: "0"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "0"
+- name: indy
+  url: http://www.last.fm/tag/indy
+  count: "0"
+- name: Alternative and Indie
+  url: http://www.last.fm/tag/alternative%20and%20indie
+  count: "0"
+- name: abrasive
+  url: http://www.last.fm/tag/abrasive
+  count: "0"
+- name: chicago punk
+  url: http://www.last.fm/tag/chicago%20punk
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: Irreverent
+  url: http://www.last.fm/tag/irreverent
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: Touch And Go Records
+  url: http://www.last.fm/tag/touch%20and%20go%20records
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: Visceral
+  url: http://www.last.fm/tag/visceral
+  count: "0"
+- name: chicago rock
+  url: http://www.last.fm/tag/chicago%20rock
+  count: "0"
+- name: ubercool
+  url: http://www.last.fm/tag/ubercool
+  count: "0"
+- name: The day I felt expansive
+  url: http://www.last.fm/tag/the%20day%20i%20felt%20expansive
+  count: "0"
+- name: Hard
+  url: http://www.last.fm/tag/hard
+  count: "0"
+- name: Cool old indie
+  url: http://www.last.fm/tag/cool%20old%20indie
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: Radio Griesgram
+  url: http://www.last.fm/tag/radio%20griesgram
+  count: "0"
+- name: Radio Miekesch
+  url: http://www.last.fm/tag/radio%20miekesch
+  count: "0"
+- name: heavy bands that are neither hardcore nor metal
+  url: http://www.last.fm/tag/heavy%20bands%20that%20are%20neither%20hardcore%20nor%20metal
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: todd trainer
+  url: http://www.last.fm/tag/todd%20trainer
+  count: "0"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: Raucous
+  url: http://www.last.fm/tag/raucous
+  count: "0"
+- name: pohodio
+  url: http://www.last.fm/tag/pohodio
+  count: "0"
+- name: Wry
+  url: http://www.last.fm/tag/wry
+  count: "0"
+- name: Hostile
+  url: http://www.last.fm/tag/hostile
+  count: "0"
+- name: Brash
+  url: http://www.last.fm/tag/brash
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: us
+  url: http://www.last.fm/tag/us
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: angry
+  url: http://www.last.fm/tag/angry
+  count: "0"
+- name: primavera sound 2008
+  url: http://www.last.fm/tag/primavera%20sound%202008
+  count: "0"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "0"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: vegetable man
+  url: http://www.last.fm/tag/vegetable%20man
+  count: "0"
+- name: new vawe
+  url: http://www.last.fm/tag/new%20vawe
+  count: "0"
+- name: nukesatori
+  url: http://www.last.fm/tag/nukesatori
+  count: "0"
+- name: aferecords
+  url: http://www.last.fm/tag/aferecords
+  count: "0"
+- name: seen by secularhumanist
+  url: http://www.last.fm/tag/seen%20by%20secularhumanist
+  count: "0"
+- name: ebriarecords
+  url: http://www.last.fm/tag/ebriarecords
+  count: "0"
+- name: nuke satori
+  url: http://www.last.fm/tag/nuke%20satori
+  count: "0"
+- name: misskokoro
+  url: http://www.last.fm/tag/misskokoro
+  count: "0"
+- name: kokoro mayikibo
+  url: http://www.last.fm/tag/kokoro%20mayikibo
+  count: "0"
+- name: mila records
+  url: http://www.last.fm/tag/mila%20records
+  count: "0"

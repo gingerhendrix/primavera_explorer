@@ -1,0 +1,237 @@
+--- 
+artist: The New Year
+tag: 
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "96"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "51"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "27"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "18"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "15"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "12"
+- name: dallas
+  url: http://www.last.fm/tag/dallas
+  count: "9"
+- name: brooding
+  url: http://www.last.fm/tag/brooding
+  count: "6"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "6"
+- name: the new year
+  url: http://www.last.fm/tag/the%20new%20year
+  count: "6"
+- name: Slow Rock
+  url: http://www.last.fm/tag/slow%20rock
+  count: "6"
+- name: texas
+  url: http://www.last.fm/tag/texas
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: largeheartedboy
+  url: http://www.last.fm/tag/largeheartedboy
+  count: "3"
+- name: equals love
+  url: http://www.last.fm/tag/equals%20love
+  count: "3"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "3"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "3"
+- name: grey music
+  url: http://www.last.fm/tag/grey%20music
+  count: "3"
+- name: gott
+  url: http://www.last.fm/tag/gott
+  count: "3"
+- name: touch and go
+  url: http://www.last.fm/tag/touch%20and%20go
+  count: "3"
+- name: The Artists
+  url: http://www.last.fm/tag/the%20artists
+  count: "3"
+- name: texas artist
+  url: http://www.last.fm/tag/texas%20artist
+  count: "3"
+- name: estostiossonbuenosclaroquesi
+  url: http://www.last.fm/tag/estostiossonbuenosclaroquesi
+  count: "3"
+- name: Texana
+  url: http://www.last.fm/tag/texana
+  count: "3"
+- name: lo mas mejor
+  url: http://www.last.fm/tag/lo%20mas%20mejor
+  count: "3"
+- name: guitar science
+  url: http://www.last.fm/tag/guitar%20science
+  count: "3"
+- name: grupazos
+  url: http://www.last.fm/tag/grupazos
+  count: "3"
+- name: exploresoundof
+  url: http://www.last.fm/tag/exploresoundof
+  count: "3"
+- name: zone slowcore
+  url: http://www.last.fm/tag/zone%20slowcore
+  count: "3"
+- name: slodio
+  url: http://www.last.fm/tag/slodio
+  count: "3"
+- name: Tanned Tin 08
+  url: http://www.last.fm/tag/tanned%20tin%2008
+  count: "3"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "3"
+- name: primavera09
+  url: http://www.last.fm/tag/primavera09
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "3"
+- name: moody
+  url: http://www.last.fm/tag/moody
+  count: "3"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "3"
+- name: lofi
+  url: http://www.last.fm/tag/lofi
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "3"
+- name: glam
+  url: http://www.last.fm/tag/glam
+  count: "3"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "3"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "3"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "3"
+- name: cabaret
+  url: http://www.last.fm/tag/cabaret
+  count: "3"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "3"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "3"
+- name: Driving
+  url: http://www.last.fm/tag/driving
+  count: "3"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "0"
+- name: new year music
+  url: http://www.last.fm/tag/new%20year%20music
+  count: "0"
+- name: not fucking shoegaze you idiots
+  url: http://www.last.fm/tag/not%20fucking%20shoegaze%20you%20idiots
+  count: "0"
+- name: plethora of guitars
+  url: http://www.last.fm/tag/plethora%20of%20guitars
+  count: "0"
+- name: sleepy rock
+  url: http://www.last.fm/tag/sleepy%20rock
+  count: "0"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "0"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "0"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "0"
+- name: earnest
+  url: http://www.last.fm/tag/earnest
+  count: "0"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: intimate
+  url: http://www.last.fm/tag/intimate
+  count: "0"
+- name: poignant
+  url: http://www.last.fm/tag/poignant
+  count: "0"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "0"
+- name: x
+  url: http://www.last.fm/tag/x
+  count: "0"
+- name: gentle
+  url: http://www.last.fm/tag/gentle
+  count: "0"
+- name: literate
+  url: http://www.last.fm/tag/literate
+  count: "0"
+- name: slo-core
+  url: http://www.last.fm/tag/slo-core
+  count: "0"
+- name: myStuff
+  url: http://www.last.fm/tag/mystuff
+  count: "0"
+- name: Brainwashed DOT com
+  url: http://www.last.fm/tag/brainwashed%20dot%20com
+  count: "0"
+- name: laid-back/mellow
+  url: http://www.last.fm/tag/laid-back%252Fmellow
+  count: "0"
+- name: to get list
+  url: http://www.last.fm/tag/to%20get%20list
+  count: "0"

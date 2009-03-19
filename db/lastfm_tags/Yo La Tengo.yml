@@ -1,0 +1,303 @@
+--- 
+artist: Yo La Tengo
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "71"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "44"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "28"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "27"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "19"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "12"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "9"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "7"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "6"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "6"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "6"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "5"
+- name: Yo La Tengo
+  url: http://www.last.fm/tag/yo%20la%20tengo
+  count: "5"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "4"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "4"
+- name: new jersey
+  url: http://www.last.fm/tag/new%20jersey
+  count: "3"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "2"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "2"
+- name: matador
+  url: http://www.last.fm/tag/matador
+  count: "2"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: hoboken
+  url: http://www.last.fm/tag/hoboken
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "1"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "1"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "1"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "1"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "0"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "0"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "0"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "0"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: calm
+  url: http://www.last.fm/tag/calm
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "0"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "0"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: fav artists
+  url: http://www.last.fm/tag/fav%20artists
+  count: "0"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "0"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: All
+  url: http://www.last.fm/tag/all
+  count: "0"
+- name: Matador Records
+  url: http://www.last.fm/tag/matador%20records
+  count: "0"
+- name: happy
+  url: http://www.last.fm/tag/happy
+  count: "0"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "0"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "0"
+- name: gentle
+  url: http://www.last.fm/tag/gentle
+  count: "0"
+- name: autumnal
+  url: http://www.last.fm/tag/autumnal
+  count: "0"
+- name: Love it
+  url: http://www.last.fm/tag/love%20it
+  count: "0"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "0"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: Dream
+  url: http://www.last.fm/tag/dream
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "0"

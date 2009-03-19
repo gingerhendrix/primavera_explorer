@@ -1,0 +1,303 @@
+--- 
+artist: Lightning Bolt
+tag: 
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "80"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "69"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "40"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "28"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "17"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "12"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "8"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "6"
+- name: Lightning Bolt
+  url: http://www.last.fm/tag/lightning%20bolt
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "3"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "3"
+- name: noisecore
+  url: http://www.last.fm/tag/noisecore
+  count: "3"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: rhode island
+  url: http://www.last.fm/tag/rhode%20island
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "2"
+- name: providence
+  url: http://www.last.fm/tag/providence
+  count: "2"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: mathcore
+  url: http://www.last.fm/tag/mathcore
+  count: "1"
+- name: Drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+  count: "1"
+- name: loud
+  url: http://www.last.fm/tag/loud
+  count: "1"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: math
+  url: http://www.last.fm/tag/math
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: noiserock
+  url: http://www.last.fm/tag/noiserock
+  count: "0"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "0"
+- name: noisy
+  url: http://www.last.fm/tag/noisy
+  count: "0"
+- name: grindcore
+  url: http://www.last.fm/tag/grindcore
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: emd
+  url: http://www.last.fm/tag/emd
+  count: "0"
+- name: Eargasm
+  url: http://www.last.fm/tag/eargasm
+  count: "0"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "0"
+- name: math metal
+  url: http://www.last.fm/tag/math%20metal
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: Load
+  url: http://www.last.fm/tag/load
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "0"
+- name: brian chippendale
+  url: http://www.last.fm/tag/brian%20chippendale
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: thrash metal
+  url: http://www.last.fm/tag/thrash%20metal
+  count: "0"
+- name: duo
+  url: http://www.last.fm/tag/duo
+  count: "0"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: noise punk
+  url: http://www.last.fm/tag/noise%20punk
+  count: "0"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "0"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: proto-punk
+  url: http://www.last.fm/tag/proto-punk
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: heavy
+  url: http://www.last.fm/tag/heavy
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "0"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "0"
+- name: noise Ramones
+  url: http://www.last.fm/tag/noise%20ramones
+  count: "0"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "0"
+- name: discordant
+  url: http://www.last.fm/tag/discordant
+  count: "0"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "0"
+- name: fast
+  url: http://www.last.fm/tag/fast
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: Hella
+  url: http://www.last.fm/tag/hella
+  count: "0"
+- name: insane
+  url: http://www.last.fm/tag/insane
+  count: "0"
+- name: komeda
+  url: http://www.last.fm/tag/komeda
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: Driving
+  url: http://www.last.fm/tag/driving
+  count: "0"
+- name: best of the wire 2005
+  url: http://www.last.fm/tag/best%20of%20the%20wire%202005
+  count: "0"
+- name: avant rock
+  url: http://www.last.fm/tag/avant%20rock
+  count: "0"
+- name: tinnitus
+  url: http://www.last.fm/tag/tinnitus
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: Cacophony
+  url: http://www.last.fm/tag/cacophony
+  count: "0"
+- name: nice elevator music
+  url: http://www.last.fm/tag/nice%20elevator%20music
+  count: "0"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "0"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "0"
+- name: sun ra
+  url: http://www.last.fm/tag/sun%20ra
+  count: "0"
+- name: rock out
+  url: http://www.last.fm/tag/rock%20out
+  count: "0"
+- name: Good Stuff
+  url: http://www.last.fm/tag/good%20stuff
+  count: "0"
+- name: raw
+  url: http://www.last.fm/tag/raw
+  count: "0"
+- name: Math-rock
+  url: http://www.last.fm/tag/math-rock
+  count: "0"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "0"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "0"
+- name: Bands I have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+  count: "0"
+- name: free jazz
+  url: http://www.last.fm/tag/free%20jazz
+  count: "0"
