@@ -32,15 +32,15 @@
           %li.band{ :id => b.element_id, :onclick => "expand(this)", :class => "band" }
             %span.name= b.name  
             - if b.lastfm_info
-              %img{ :src => b.image, :width=>126, :height=>101}
+              %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
               %div.info
                 %div.stats
-                  %span.listeners= "Listeners: " + b.lastfm_info['stats']['listeners'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-                  %span.playcount= "Playcount: " + b.lastfm_info['stats']['playcount'].to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+                  %span.listeners= "Listeners: " + b.lastfm_info.listeners.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+                  %span.playcount= "Playcount: " + b.lastfm_info.playcount.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
                 %div.tags
-                  - b.tags.each do |tag|
+                  - b.lastfm_tags.tags.each do |tag|
                     %span.tag= tag['name']                  
-                %span.bio= b.lastfm_info['bio']['summary']
+                %span.bio= b.lastfm_info.bio
             - else
               %div.info
                 %span.no_info= "Sorry, I don't know anything about " + b.name

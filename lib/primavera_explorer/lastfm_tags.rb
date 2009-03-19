@@ -13,8 +13,8 @@ class LastfmTags
   end
   
   def tags
-    if @lastfm[:tags] && @lastfm[:tags]['tag'] && @lastfm[:tags]['tag'].is_a?(Array)
-      tags = @lastfm[:tags]['tag']
+    if @tags && @tags[:tags] && @tags[:tags]['tag'] && @tags[:tags]['tag'].is_a?(Array)
+      tags = @tags[:tags]['tag']
       sorted_tags = tags.sort_by { |tag| tag['count'].to_i }
       tags.slice(0, 5)
     else

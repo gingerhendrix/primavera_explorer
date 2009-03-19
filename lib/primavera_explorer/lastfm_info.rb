@@ -12,9 +12,9 @@ class LastfmInfo
     @info = artist.info
   end
   
-  def self.new_from_hash(name, info)
+  def self.new_from_hash(name, hash)
     info = LastfmInfo.new(name)
-    info.info = info
+    info.info = hash
     info
   end
   
@@ -23,15 +23,22 @@ class LastfmInfo
   end
   
   def image
-    if @info && 
-       @info['image'] && 
-       @info['image'].length >= 3 && 
-       @info['image'][2]['#text'] 
-      
+    if @info && @info['image'] &&  @info['image'].length >= 3 &&  @info['image'][2]['#text'] 
       @info['image'][2]['#text']
     else
       '#'
     end
   end
 
+  def listeners
+    @info['stats']['listeners'] if @info && @info['stats']
+  end
+  
+  def playcount
+    @info['stats']['playcount'] if @info && @info['stats']
+  end
+  
+  def bio
+    @info['bio']['summary'] if @info && @info['bio']
+  end
 end
