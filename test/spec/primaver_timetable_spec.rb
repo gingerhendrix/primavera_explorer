@@ -1,8 +1,4 @@
-require 'rubygems'
-
-require File.dirname(__FILE__) + '/../../lib/primavera_explorer.rb'
-
-require 'spec'
+require File.dirname(__FILE__) + 'spec_helper.rb'
 
 describe "PrimaveraTimetable" do
 

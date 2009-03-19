@@ -2,71 +2,45 @@
 
 class Band
   attr_accessor :name
+  attr_accessor :lastfm_info
+  attr_accessor :lastfm_tags
+  
   cattr_accessor :database
 
-  def initialize(yaml)
-    @name = yaml[:name]
-    @lastfm = yaml[:lastfm] || Hash.new
+  def initialize
   end
   
-  def lastfm_info(load=false)
-    return @lastfm[:info] if @lastfm[:info] || !load
-    puts "Retrieving artist info for " + @name + "\n"
-    artist = Scrobbler2::Artist.new @name
-    @lastfm[:info] = artist.info
-  end
-  
-  def lastfm_tags(load=false)
-    return @lastfm[:tags] if @lastfm[:tags] || !load
-    puts "Retrieving tags for " + @name + "\n"
-    artist = Scrobbler2::Artist.new @name
-    @lastfm[:tags] = artist.top_tags
+  def self.new_from_hash(info)
+    band = Band.new
+    name = info[:name]
+    band.name = name
+    band.lastfm_info = LastfmInfo.new_from_hash name, info[:lastfm][:info]
+    band.lastfm_tags = LastfmTags.new_from_hash name, info[:lastfm][:tags]    
+    band
   end
   
   def element_id
     "artist_" + name.gsub(/[^\w]/, "_")
   end
   
-  def tags
-    if @lastfm[:tags] && @lastfm[:tags]['tag'] && @lastfm[:tags]['tag'].is_a?(Array)
-      tags = @lastfm[:tags]['tag']
-      sorted_tags = tags.sort_by { |tag| tag['count'].to_i }
-      tags.slice(0, 5)
-    else
-      []
-    end
-  end
-  
-  def image
-    if @lastfm[:info] && 
-       @lastfm[:info]['image'] && 
-       @lastfm[:info]['image'].length >= 3 && 
-       @lastfm[:info]['image'][2]['#text'] 
-      
-      @lastfm[:info]['image'][2]['#text']
-    else
-      '#'
-    end
-  end
-  
   def to_h
     {:id => element_id,
      :name => @name,
-     :lastfm => @lastfm}
+     :lastfm => { :info => @lastfm_info.to_h, :tags => @lastfm_tags.to_h } }
   end
 
   
   def self.load_all
     yaml = File.open( database ) { |yf| YAML::load( yf ) }
     if(yaml)
-      @bands = yaml.map {|b| Band.new b }
+      @bands = yaml.map {|b| Band.new_from_hash b }
     else
       @bands = []
     end 
   end
     
   def self.save_all
-    File.open( 'primavera_timetable.yml', 'w' ) do |out|
+    File.open( database, 'w' ) do |out|
       YAML.dump @bands.map(&:to_h), out 
     end
   end

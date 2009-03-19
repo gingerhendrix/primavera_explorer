@@ -13,6 +13,8 @@ Scrobbler2::Base.api_secret = "943696955e27b45d7c91c978bed909d5"
 Scrobbler2::Base.session_key = "d22c32a016d60adf5ea0b1d8a08e305f"
 
 require 'primavera_explorer/band.rb'
+require 'primavera_explorer/lastfm_info.rb'
+require 'primavera_explorer/lastfm_tags.rb'
 require 'primavera_explorer/primavera_timetable.rb'
 require 'primavera_explorer/json.rb'
 
