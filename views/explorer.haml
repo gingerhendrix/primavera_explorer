@@ -38,7 +38,7 @@
                   %span.listeners= "Listeners: " + b.lastfm_info.listeners.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
                   %span.playcount= "Playcount: " + b.lastfm_info.playcount.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
                 %div.tags
-                  - b.lastfm_tags.tags.each do |tag|
+                  - b.lastfm_tags.top_tags.each do |tag|
                     %span.tag= tag['name']                  
                 %span.bio= b.lastfm_info.bio
             - else

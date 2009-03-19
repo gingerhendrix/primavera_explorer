@@ -14,8 +14,13 @@ class Band
     band = Band.new
     name = info[:name]
     band.name = name
-    band.lastfm_info = LastfmInfo.new_from_hash name, info[:lastfm][:info]
-    band.lastfm_tags = LastfmTags.new_from_hash name, info[:lastfm][:tags]    
+    if info[:lastfm]
+      band.lastfm_info = LastfmInfo.new_from_hash name, info[:lastfm][:info]
+      band.lastfm_tags = LastfmTags.new_from_hash name, info[:lastfm][:tags]    
+    else
+      band.lastfm_info = LastfmInfo.new name
+      band.lastfm_tags = LastfmTags.new name
+    end
     band
   end
   
@@ -38,7 +43,12 @@ class Band
   def self.load_all(db)
     yaml = db.get_resource('bands')
     if(yaml)
-      @bands = yaml.map {|b| Band.new_from_hash b }
+      @bands = yaml.map do |b| 
+        band = Band.new_from_hash b
+        band.lastfm_info.load_from_db db
+        band.lastfm_tags.load_from_db db
+        band
+      end
     else
       @bands = []
     end 
