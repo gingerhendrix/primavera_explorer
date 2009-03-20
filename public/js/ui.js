@@ -56,7 +56,7 @@ var UI = new (function (){
   }
 
 
-  function expand(el){
+  this.expand = function(el){
     if(expanded && expanded != el) $(expanded).removeClass("expand");
     $(el).toggleClass("expand");
     expanded = el;
@@ -116,6 +116,16 @@ var UI = new (function (){
       $('#tagcloud').append(tagEl);
       $('#tagcloud').append(' ');
    });
+  }
+  
+  this.selectDay = function(day){
+    $(".day.option").removeClass("selected");
+    $(".day.option."+day).addClass("selected");
+    $('.band').removeClass("selected");
+    
+    bands.selectByDay(day).forEach(function(band){
+      $('#'+band.id).addClass("selected");
+    });
   }
 
 })();

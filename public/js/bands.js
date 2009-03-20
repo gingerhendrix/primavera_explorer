@@ -72,6 +72,17 @@ function Bands(bandsData){
     });
     return this.tagMap;
   }
+  
+  this.selectByDay = function(day){
+    return this.data.filter(function(b){
+       var band_day = jsonProp(b, "timetable.day");
+       if(band_day){
+         return (band_day.toLowerCase().indexOf(day) >= 0)
+       }else{
+        return false;
+       }
+    });
+  }
 
 }
 

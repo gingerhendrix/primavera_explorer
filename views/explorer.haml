@@ -16,21 +16,30 @@
       %div#controls
         %div.sort 
           %span.label sort
-          %span{ :class => "sort option alpha", :onclick => "UI.sort('alpha')"} Alpha
-          %span{ :class => "sort option playcount", :onclick => "UI.sort('playcount')"} Playcount
-          %span{ :class => "sort option listeners", :onclick => "UI.sort('listeners')"} Listeners
+          %span{ :class => "sort option alpha", :onclick => "UI.sort('alpha')"} alpha
+          %span{ :class => "sort option playcount", :onclick => "UI.sort('playcount')"} playcount
+          %span{ :class => "sort option listeners", :onclick => "UI.sort('listeners')"} listeners
         %div.view
           %span.label view
-          %span{ :class => "view option compact", :onclick => "UI.viewCompact()" } Compact
-          %span{ :class => "view option list", :onclick => "UI.viewList()" } Expanded
-          %span{ :class => "view option full", :onclick => "UI.viewFull()" } Full        
+          %span{ :class => "view option compact", :onclick => "UI.viewCompact()" } compact
+          %span{ :class => "view option list", :onclick => "UI.viewList()" } expanded
+          %span{ :class => "view option full", :onclick => "UI.viewFull()" } full        
+        %div.day
+          %span.label day
+          %span{ :class => "day option monday", :onclick => "UI.selectDay('monday')" } monday
+          %span{ :class => "day option tuesday", :onclick => "UI.selectDay('tuesday')" } tuesday
+          %span{ :class => "day option wednesday", :onclick => "UI.selectDay('wednesday')" } wednesday
+          %span{ :class => "day option thursday", :onclick => "UI.selectDay('thursday')" } thursday
+          %span{ :class => "day option friday", :onclick => "UI.selectDay('friday')" } friday
+          %span{ :class => "day option saturday", :onclick => "UI.selectDay('saturday')" } saturday
+          %span{ :class => "day option sunday", :onclick => "UI.selectDay('sunday')" } sunday          
       %div.tagcloud
         %span.label tags
         %div#tagcloud
     %div#bands
       %ul
         - @bands.each do |b| 
-          %li.band{ :id => b.element_id, :onclick => "expand(this)", :class => "band" }
+          %li.band{ :id => b.element_id, :onclick => "UI.expand(this)", :class => "band" }
             %span.name= b.display_name  
             - if b.lastfm_info
               %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
