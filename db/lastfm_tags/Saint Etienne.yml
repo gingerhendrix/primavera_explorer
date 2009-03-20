@@ -1,0 +1,303 @@
+--- 
+artist: Saint Etienne
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "63"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "56"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "52"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "45"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "29"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "29"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "28"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "16"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "15"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "9"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "8"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "8"
+- name: saint etienne
+  url: http://www.last.fm/tag/saint%20etienne
+  count: "7"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "6"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "6"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "5"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "5"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "4"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "4"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "4"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "4"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "3"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "3"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "3"
+- name: indie dance
+  url: http://www.last.fm/tag/indie%20dance
+  count: "3"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "3"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "2"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "2"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "2"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "2"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "2"
+- name: elegant
+  url: http://www.last.fm/tag/elegant
+  count: "2"
+- name: electro-pop
+  url: http://www.last.fm/tag/electro-pop
+  count: "2"
+- name: sophisticated
+  url: http://www.last.fm/tag/sophisticated
+  count: "2"
+- name: smooth
+  url: http://www.last.fm/tag/smooth
+  count: "2"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "1"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "1"
+- name: indiepop
+  url: http://www.last.fm/tag/indiepop
+  count: "1"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "1"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "1"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "1"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "1"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: yearning
+  url: http://www.last.fm/tag/yearning
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "1"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "1"
+- name: stylish
+  url: http://www.last.fm/tag/stylish
+  count: "1"
+- name: Summery
+  url: http://www.last.fm/tag/summery
+  count: "1"
+- name: melodic
+  url: http://www.last.fm/tag/melodic
+  count: "1"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "1"
+- name: chill out
+  url: http://www.last.fm/tag/chill%20out
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "1"
+- name: heavenly
+  url: http://www.last.fm/tag/heavenly
+  count: "1"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: relaxing
+  url: http://www.last.fm/tag/relaxing
+  count: "1"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+  count: "1"
+- name: plaintive
+  url: http://www.last.fm/tag/plaintive
+  count: "1"
+- name: gentle
+  url: http://www.last.fm/tag/gentle
+  count: "1"
+- name: Club/Dance
+  url: http://www.last.fm/tag/club%252Fdance
+  count: "1"
+- name: Carefree
+  url: http://www.last.fm/tag/carefree
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: Playful
+  url: http://www.last.fm/tag/playful
+  count: "1"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "1"
+- name: lounge
+  url: http://www.last.fm/tag/lounge
+  count: "1"
+- name: wistful
+  url: http://www.last.fm/tag/wistful
+  count: "1"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "1"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "1"
+- name: cheerful
+  url: http://www.last.fm/tag/cheerful
+  count: "1"
+- name: Electronic Pop
+  url: http://www.last.fm/tag/electronic%20pop
+  count: "1"
+- name: euro-pop
+  url: http://www.last.fm/tag/euro-pop
+  count: "1"
+- name: relaxed
+  url: http://www.last.fm/tag/relaxed
+  count: "1"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "1"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "0"
+- name: relax
+  url: http://www.last.fm/tag/relax
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: Brit
+  url: http://www.last.fm/tag/brit
+  count: "0"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "0"
+- name: croydon
+  url: http://www.last.fm/tag/croydon
+  count: "0"
+- name: greys anatomy
+  url: http://www.last.fm/tag/greys%20anatomy
+  count: "0"
+- name: female indie
+  url: http://www.last.fm/tag/female%20indie
+  count: "0"
+- name: Searching
+  url: http://www.last.fm/tag/searching
+  count: "0"
+- name: Springlike
+  url: http://www.last.fm/tag/springlike
+  count: "0"
+- name: club-dance
+  url: http://www.last.fm/tag/club-dance
+  count: "0"
+- name: french female
+  url: http://www.last.fm/tag/french%20female
+  count: "0"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "0"
+- name: french pop
+  url: http://www.last.fm/tag/french%20pop
+  count: "0"
+- name: Indietronic
+  url: http://www.last.fm/tag/indietronic
+  count: "0"
+- name: Faves
+  url: http://www.last.fm/tag/faves
+  count: "0"
+- name: glam rock
+  url: http://www.last.fm/tag/glam%20rock
+  count: "0"
+- name: Progressive House
+  url: http://www.last.fm/tag/progressive%20house
+  count: "0"

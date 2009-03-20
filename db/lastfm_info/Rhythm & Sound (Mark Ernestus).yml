@@ -1,0 +1,66 @@
+--- 
+name: Rhythm
+similar: 
+  artist: 
+  - name: Blisse
+    url: http://www.last.fm/music/Blisse
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/330557.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/330557.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/330557.jpg
+  - name: Eden Automatic
+    url: http://www.last.fm/music/Eden+Automatic
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/34363.gif
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/34363.gif>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/34363.gif
+  - name: Budapest One
+    url: http://www.last.fm/music/Budapest+One
+    image: 
+    - size: small
+      "#text": ""
+    - size: medium
+      "#text": ">"
+    - size: large
+      "#text": ""
+  - name: King Zero
+    url: http://www.last.fm/music/King+Zero
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/1977963.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/1977963.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/1977963.jpg
+  - name: Greatness In Tragedy
+    url: http://www.last.fm/music/Greatness+In+Tragedy
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/375398.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/375398.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/375398.jpg
+stats: 
+  playcount: "4243"
+  listeners: "664"
+url: http://www.last.fm/music/Rhythm
+mbid: b35b0636-99da-4112-892d-3b3202bea9e7
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/165254.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/165254.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/165254.jpg

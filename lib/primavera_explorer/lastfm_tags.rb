@@ -22,12 +22,17 @@ class LastfmTags
     end
   end
   
+  def resource_name
+    name = @name.gsub("/", "_");
+    "lastfm_tags/#{name}"
+  end
+  
   def save(db)
-    db.save_resource("lastfm_tags/#{@name}", @tags)
+    db.save_resource(resource_name, @tags)
   end
   
   def load_from_db(db)
-    @tags = db.get_resource("lastfm_tags/#{@name}")
+    @tags = db.get_resource(resource_name)
   end
   
   def self.new_from_hash(name, hash)

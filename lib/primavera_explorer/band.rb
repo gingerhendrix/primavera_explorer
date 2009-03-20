@@ -2,6 +2,8 @@
 
 class Band
   attr_accessor :name
+  attr_accessor :lastfm_name
+  attr_accessor :display_name
   attr_accessor :lastfm_info
   attr_accessor :lastfm_tags
   attr_accessor :timetable_entry
@@ -11,6 +13,8 @@ class Band
   def initialize(name = false)
     if name 
       @name = name
+      @lastfm_name = name
+      @display_name = name
       @lastfm_info = LastfmInfo.new name
       @lastfm_tags = LastfmTags.new name
     end
@@ -20,12 +24,14 @@ class Band
     band = Band.new
     name = info[:name]
     band.name = name
+    band.lastfm_name = !info[:lastfm_name].blank? ? info[:lastfm_name] : name
+    band.display_name = !info[:display_name].blank? ? info[:display_name] : name    
     if info[:lastfm]
-      band.lastfm_info = LastfmInfo.new_from_hash name, info[:lastfm][:info]
-      band.lastfm_tags = LastfmTags.new_from_hash name, info[:lastfm][:tags]    
+      band.lastfm_info = LastfmInfo.new_from_hash band.lastfm_name, info[:lastfm][:info]
+      band.lastfm_tags = LastfmTags.new_from_hash band.lastfm_name, info[:lastfm][:tags]    
     else
-      band.lastfm_info = LastfmInfo.new name
-      band.lastfm_tags = LastfmTags.new name
+      band.lastfm_info = LastfmInfo.new band.lastfm_name
+      band.lastfm_tags = LastfmTags.new band.lastfm_name
     end
     band
   end
@@ -37,12 +43,16 @@ class Band
   def to_h
     {:id => element_id,
      :name => @name,
+     :display_name => @display_name,
+     :lastfm_name => @lastfm_name,
      :lastfm => { :info => @lastfm_info.to_h, :tags => @lastfm_tags.to_h } }
   end
   
   def to_db
     {:id => element_id,
-     :name => @name }
+     :name => @name,
+     :display_name => @display_name,
+     :lastfm_name => @lastfm_name}
   end
 
   def self.load_timetable(db)
@@ -69,7 +79,12 @@ class Band
   end
   
   def self.find_by_name(name)
-    @bands.find { |band| band.name == name }
+    band = @bands.find { |band| band.name == name }
+    unless band
+      band = Band.new(name)
+      add band
+   end
+   band
   end
 
   def self.add(band)

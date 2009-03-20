@@ -1,0 +1,68 @@
+--- 
+name: Muletrain
+similar: 
+  artist: 
+  - name: !binary |
+      w5xiZXI=
+
+    url: http://www.last.fm/music/%C3%9Cber
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/4293933.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/4293933.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/4293933.jpg
+  - name: Zanussi
+    url: http://www.last.fm/music/Zanussi
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/2351735.gif
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/2351735.gif>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/2351735.gif
+  - name: "El Coraz\xC3\xB3n del Sapo"
+    url: http://www.last.fm/music/El+Coraz%C3%B3n+del+Sapo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/8355247.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/8355247.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/8355247.jpg
+  - name: Rouse
+    url: http://www.last.fm/music/Rouse
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/32298.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/32298.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/32298.jpg
+  - name: Gulag
+    url: http://www.last.fm/music/Gulag
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/584155.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/584155.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/584155.jpg
+stats: 
+  playcount: "11292"
+  listeners: "359"
+url: http://www.last.fm/music/Muletrain
+mbid: ""
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/83300.gif
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/83300.gif
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/83300.gif

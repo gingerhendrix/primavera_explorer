@@ -1,0 +1,303 @@
+--- 
+artist: Jesu
+tag: 
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "100"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "85"
+- name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+  count: "66"
+- name: Sludge
+  url: http://www.last.fm/tag/sludge
+  count: "64"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "61"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "40"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "28"
+- name: Post-Metal
+  url: http://www.last.fm/tag/post-metal
+  count: "21"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "18"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "15"
+- name: Doom
+  url: http://www.last.fm/tag/doom
+  count: "11"
+- name: drone doom
+  url: http://www.last.fm/tag/drone%20doom
+  count: "5"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "5"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "4"
+- name: Justin Broadrick
+  url: http://www.last.fm/tag/justin%20broadrick
+  count: "4"
+- name: drone metal
+  url: http://www.last.fm/tag/drone%20metal
+  count: "4"
+- name: industrial metal
+  url: http://www.last.fm/tag/industrial%20metal
+  count: "3"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "3"
+- name: sludge metal
+  url: http://www.last.fm/tag/sludge%20metal
+  count: "3"
+- name: post metal
+  url: http://www.last.fm/tag/post%20metal
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: ambient metal
+  url: http://www.last.fm/tag/ambient%20metal
+  count: "2"
+- name: Progressive metal
+  url: http://www.last.fm/tag/progressive%20metal
+  count: "2"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "1"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: drone doom metal
+  url: http://www.last.fm/tag/drone%20doom%20metal
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "1"
+- name: shoegazing
+  url: http://www.last.fm/tag/shoegazing
+  count: "1"
+- name: metalgaze
+  url: http://www.last.fm/tag/metalgaze
+  count: "1"
+- name: alternative metal
+  url: http://www.last.fm/tag/alternative%20metal
+  count: "1"
+- name: United Kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+  count: "1"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "1"
+- name: experimental metal
+  url: http://www.last.fm/tag/experimental%20metal
+  count: "1"
+- name: DOOMGAZE
+  url: http://www.last.fm/tag/doomgaze
+  count: "1"
+- name: artcore
+  url: http://www.last.fm/tag/artcore
+  count: "1"
+- name: welsh
+  url: http://www.last.fm/tag/welsh
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: shoegaze metal
+  url: http://www.last.fm/tag/shoegaze%20metal
+  count: "0"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "0"
+- name: heavy
+  url: http://www.last.fm/tag/heavy
+  count: "0"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: slow
+  url: http://www.last.fm/tag/slow
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: Avant-garde Metal
+  url: http://www.last.fm/tag/avant-garde%20metal
+  count: "0"
+- name: ambient sludge
+  url: http://www.last.fm/tag/ambient%20sludge
+  count: "0"
+- name: hydra head
+  url: http://www.last.fm/tag/hydra%20head
+  count: "0"
+- name: epic
+  url: http://www.last.fm/tag/epic
+  count: "0"
+- name: DroneGaze
+  url: http://www.last.fm/tag/dronegaze
+  count: "0"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "0"
+- name: wales
+  url: http://www.last.fm/tag/wales
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: post-doom
+  url: http://www.last.fm/tag/post-doom
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "0"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: black metal
+  url: http://www.last.fm/tag/black%20metal
+  count: "0"
+- name: metalcore
+  url: http://www.last.fm/tag/metalcore
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: stoner metal
+  url: http://www.last.fm/tag/stoner%20metal
+  count: "0"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "0"
+- name: soundscape
+  url: http://www.last.fm/tag/soundscape
+  count: "0"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "0"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "0"
+- name: Post-core
+  url: http://www.last.fm/tag/post-core
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: dark ambient
+  url: http://www.last.fm/tag/dark%20ambient
+  count: "0"
+- name: ambient rock
+  url: http://www.last.fm/tag/ambient%20rock
+  count: "0"
+- name: drone-doom metal
+  url: http://www.last.fm/tag/drone-doom%20metal
+  count: "0"
+- name: hydrahead
+  url: http://www.last.fm/tag/hydrahead
+  count: "0"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "0"
+- name: death metal
+  url: http://www.last.fm/tag/death%20metal
+  count: "0"
+- name: grindcore
+  url: http://www.last.fm/tag/grindcore
+  count: "0"
+- name: fucking amazing
+  url: http://www.last.fm/tag/fucking%20amazing
+  count: "0"
+- name: loving it
+  url: http://www.last.fm/tag/loving%20it
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: melodic
+  url: http://www.last.fm/tag/melodic
+  count: "0"
+- name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+  count: "0"
+- name: ambient post doom
+  url: http://www.last.fm/tag/ambient%20post%20doom
+  count: "0"
+- name: Experimental pop
+  url: http://www.last.fm/tag/experimental%20pop
+  count: "0"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "0"
+- name: Godflesh
+  url: http://www.last.fm/tag/godflesh
+  count: "0"
+- name: Post-Industrial
+  url: http://www.last.fm/tag/post-industrial
+  count: "0"
+- name: best
+  url: http://www.last.fm/tag/best
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"

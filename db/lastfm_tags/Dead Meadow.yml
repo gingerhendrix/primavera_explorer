@@ -1,0 +1,303 @@
+--- 
+artist: Dead Meadow
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "83"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "45"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "32"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "29"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "23"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "17"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "15"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "7"
+- name: psychedelic stoner rock
+  url: http://www.last.fm/tag/psychedelic%20stoner%20rock
+  count: "6"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "3"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "3"
+- name: matador
+  url: http://www.last.fm/tag/matador
+  count: "3"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "3"
+- name: heavy
+  url: http://www.last.fm/tag/heavy
+  count: "3"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: Psychedelia
+  url: http://www.last.fm/tag/psychedelia
+  count: "2"
+- name: psych-rock
+  url: http://www.last.fm/tag/psych-rock
+  count: "2"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "2"
+- name: washington dc
+  url: http://www.last.fm/tag/washington%20dc
+  count: "1"
+- name: terrascopic
+  url: http://www.last.fm/tag/terrascopic
+  count: "1"
+- name: drug music
+  url: http://www.last.fm/tag/drug%20music
+  count: "1"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: Heavy Psychedelia
+  url: http://www.last.fm/tag/heavy%20psychedelia
+  count: "1"
+- name: heavy metal
+  url: http://www.last.fm/tag/heavy%20metal
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: space
+  url: http://www.last.fm/tag/space
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: green man 2007
+  url: http://www.last.fm/tag/green%20man%202007
+  count: "1"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "1"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "1"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: sabbathesque
+  url: http://www.last.fm/tag/sabbathesque
+  count: "1"
+- name: music to take drugs to
+  url: http://www.last.fm/tag/music%20to%20take%20drugs%20to
+  count: "1"
+- name: DC
+  url: http://www.last.fm/tag/dc
+  count: "1"
+- name: Heavy Psychedelic
+  url: http://www.last.fm/tag/heavy%20psychedelic
+  count: "1"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "1"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "1"
+- name: End Of The Road 2008
+  url: http://www.last.fm/tag/end%20of%20the%20road%202008
+  count: "1"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "1"
+- name: psychedelic indie
+  url: http://www.last.fm/tag/psychedelic%20indie
+  count: "1"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "1"
+- name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+  count: "1"
+- name: dj martian
+  url: http://www.last.fm/tag/dj%20martian
+  count: "1"
+- name: stoner metal
+  url: http://www.last.fm/tag/stoner%20metal
+  count: "1"
+- name: heavy rock
+  url: http://www.last.fm/tag/heavy%20rock
+  count: "1"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: The Combined Legacy and Influences of The Brian Jonestown Massacre and The Dandy Warhols
+  url: http://www.last.fm/tag/the%20combined%20legacy%20and%20influences%20of%20the%20brian%20jonestown%20massacre%20and%20the%20dandy%20warhols
+  count: "0"
+- name: shoegaze or ambient or electronic
+  url: http://www.last.fm/tag/shoegaze%20or%20ambient%20or%20electronic
+  count: "0"
+- name: a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: ambient atmospheric
+  url: http://www.last.fm/tag/ambient%20atmospheric
+  count: "0"
+- name: sweet noise
+  url: http://www.last.fm/tag/sweet%20noise
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: hypnotizing
+  url: http://www.last.fm/tag/hypnotizing
+  count: "0"
+- name: semimental
+  url: http://www.last.fm/tag/semimental
+  count: "0"
+- name: dudes with bongs are stoked
+  url: http://www.last.fm/tag/dudes%20with%20bongs%20are%20stoked
+  count: "0"
+- name: Dritmusikk
+  url: http://www.last.fm/tag/dritmusikk
+  count: "0"
+- name: The Balls
+  url: http://www.last.fm/tag/the%20balls
+  count: "0"
+- name: keeping rock alive
+  url: http://www.last.fm/tag/keeping%20rock%20alive
+  count: "0"
+- name: Library
+  url: http://www.last.fm/tag/library
+  count: "0"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "0"
+- name: louisville
+  url: http://www.last.fm/tag/louisville
+  count: "0"
+- name: Ethiopique
+  url: http://www.last.fm/tag/ethiopique
+  count: "0"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "0"
+- name: Psyche
+  url: http://www.last.fm/tag/psyche
+  count: "0"
+- name: yeehaaa
+  url: http://www.last.fm/tag/yeehaaa
+  count: "0"
+- name: just nice
+  url: http://www.last.fm/tag/just%20nice
+  count: "0"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "0"
+- name: Experimental post-rock
+  url: http://www.last.fm/tag/experimental%20post-rock
+  count: "0"
+- name: psychedelic-rock
+  url: http://www.last.fm/tag/psychedelic-rock
+  count: "0"
+- name: 0seen
+  url: http://www.last.fm/tag/0seen
+  count: "0"
+- name: to be heard
+  url: http://www.last.fm/tag/to%20be%20heard
+  count: "0"
+- name: brilliant music
+  url: http://www.last.fm/tag/brilliant%20music
+  count: "0"
+- name: new weird global
+  url: http://www.last.fm/tag/new%20weird%20global
+  count: "0"
+- name: HIPPIE PUNK SWINGING SHIT
+  url: http://www.last.fm/tag/hippie%20punk%20swinging%20shit
+  count: "0"
+- name: stoner and doom stuff
+  url: http://www.last.fm/tag/stoner%20and%20doom%20stuff
+  count: "0"
+- name: randomly awesome
+  url: http://www.last.fm/tag/randomly%20awesome
+  count: "0"
+- name: Live in NC
+  url: http://www.last.fm/tag/live%20in%20nc
+  count: "0"
+- name: heavy as fuck
+  url: http://www.last.fm/tag/heavy%20as%20fuck
+  count: "0"
+- name: Dead Meadow
+  url: http://www.last.fm/tag/dead%20meadow
+  count: "0"
+- name: upcoming shows
+  url: http://www.last.fm/tag/upcoming%20shows
+  count: "0"
+- name: minha lista
+  url: http://www.last.fm/tag/minha%20lista
+  count: "0"
+- name: the dig scene
+  url: http://www.last.fm/tag/the%20dig%20scene
+  count: "0"
+- name: Crazy Sheeot
+  url: http://www.last.fm/tag/crazy%20sheeot
+  count: "0"
+- name: fuckin brilliant music
+  url: http://www.last.fm/tag/fuckin%20brilliant%20music
+  count: "0"
+- name: My Melting Pot - A Grande Misturada
+  url: http://www.last.fm/tag/my%20melting%20pot%20-%20a%20grande%20misturada
+  count: "0"
+- name: melt yer brain
+  url: http://www.last.fm/tag/melt%20yer%20brain
+  count: "0"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "0"
+- name: tolotta
+  url: http://www.last.fm/tag/tolotta
+  count: "0"
+- name: one of my all time favourite songs
+  url: http://www.last.fm/tag/one%20of%20my%20all%20time%20favourite%20songs
+  count: "0"
+- name: Mammatus
+  url: http://www.last.fm/tag/mammatus
+  count: "0"

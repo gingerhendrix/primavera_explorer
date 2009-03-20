@@ -1,0 +1,66 @@
+--- 
+name: La Bien Querida
+similar: 
+  artist: 
+  - name: Anntona
+    url: http://www.last.fm/music/Anntona
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/6943631.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/6943631.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/6943631.jpg
+  - name: Bicicross
+    url: http://www.last.fm/music/Bicicross
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/4152388.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/4152388.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/4152388.jpg
+  - name: San gris
+    url: http://www.last.fm/music/San+gris
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/16174045.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/16174045.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/16174045.jpg
+  - name: Incrucificables
+    url: http://www.last.fm/music/Incrucificables
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/416815.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/416815.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/416815.jpg
+  - name: La estrella de David
+    url: http://www.last.fm/music/La+estrella+de+David
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/3643845.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/3643845.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/3643845.jpg
+stats: 
+  playcount: "11062"
+  listeners: "583"
+url: http://www.last.fm/music/La+Bien+Querida
+mbid: ""
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/6248771.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/6248771.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/6248771.jpg

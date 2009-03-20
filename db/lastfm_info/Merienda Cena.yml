@@ -1,0 +1,66 @@
+--- 
+name: Merienda Cena
+similar: 
+  artist: 
+  - name: Chiquita y chatarra
+    url: http://www.last.fm/music/Chiquita+y+chatarra
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/7207513.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/7207513.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/7207513.jpg
+  - name: Kokoshca
+    url: http://www.last.fm/music/Kokoshca
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/16494927.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/16494927.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/16494927.jpg
+  - name: Juanita y los Feos
+    url: http://www.last.fm/music/Juanita+y+los+Feos
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/12782403.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/12782403.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/12782403.jpg
+  - name: Anntona
+    url: http://www.last.fm/music/Anntona
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/6943631.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/6943631.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/6943631.jpg
+  - name: Tornasol
+    url: http://www.last.fm/music/Tornasol
+    image: 
+    - size: small
+      "#text": ""
+    - size: medium
+      "#text": ">"
+    - size: large
+      "#text": ""
+stats: 
+  playcount: "258"
+  listeners: "30"
+url: http://www.last.fm/music/Merienda+Cena
+mbid: ""
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/5309394.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/5309394.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/5309394.jpg

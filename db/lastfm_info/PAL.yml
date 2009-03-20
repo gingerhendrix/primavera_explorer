@@ -1,0 +1,66 @@
+--- 
+name: PAL
+similar: 
+  artist: 
+  - name: Can
+    url: http://www.last.fm/music/Can
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/46924.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/46924.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/46924.jpg
+  - name: Jugoplastika
+    url: http://www.last.fm/music/Jugoplastika
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/8311953.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/8311953.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/8311953.jpg
+  - name: P.A.L.
+    url: http://www.last.fm/music/P.A.L.
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/5458650.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/5458650.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/5458650.jpg
+  - name: Clovis
+    url: http://www.last.fm/music/Clovis
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/5753207.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/5753207.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/5753207.jpg
+  - name: Tachenko
+    url: http://www.last.fm/music/Tachenko
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/106192.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/106192.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/106192.jpg
+stats: 
+  playcount: "2644"
+  listeners: "497"
+url: http://www.last.fm/music/PAL
+mbid: 55706926-031a-4004-8239-449feded0f43
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/8376223.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/8376223.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/8376223.jpg

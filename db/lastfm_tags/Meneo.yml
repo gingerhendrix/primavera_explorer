@@ -1,0 +1,45 @@
+--- 
+artist: MENEO
+tag: 
+- name: chiptune
+  url: http://www.last.fm/tag/chiptune
+  count: "100"
+- name: 8bit
+  url: http://www.last.fm/tag/8bit
+  count: "83"
+- name: micromusic
+  url: http://www.last.fm/tag/micromusic
+  count: "66"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "50"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "33"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "16"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "16"
+- name: chiptunes
+  url: http://www.last.fm/tag/chiptunes
+  count: "16"
+- name: 8-bit
+  url: http://www.last.fm/tag/8-bit
+  count: "16"
+- name: tropical
+  url: http://www.last.fm/tag/tropical
+  count: "16"
+- name: chipstyle
+  url: http://www.last.fm/tag/chipstyle
+  count: "16"
+- name: chipcore
+  url: http://www.last.fm/tag/chipcore
+  count: "16"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "16"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"

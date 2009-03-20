@@ -1,0 +1,72 @@
+--- 
+name: Klaus
+similar: 
+  artist: 
+  - name: Julia Claire
+    url: http://www.last.fm/music/Julia+Claire
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/590143.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/590143.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/590143.jpg
+  - name: Jules Tropicana
+    url: http://www.last.fm/music/Jules+Tropicana
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/512421.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/512421.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/512421.jpg
+  - name: Paul Paul
+    url: http://www.last.fm/music/Paul+Paul
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/5713442.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/5713442.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/5713442.jpg
+  - name: Kris Tallow
+    url: http://www.last.fm/music/Kris+Tallow
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/8450439.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/8450439.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/8450439.jpg
+  - name: Alyne
+    url: http://www.last.fm/music/Alyne
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/556987.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/556987.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/556987.jpg
+stats: 
+  playcount: "5824"
+  listeners: "680"
+url: http://www.last.fm/music/Klaus
+mbid: 6ecf4976-ca9b-4d3c-82c4-a90dc745f115
+streamable: "1"
+bio: 
+  published: Tue, 19 Aug 2008 18:01:16 +0000
+  content: |-
+    <a href="http://www.myspace.com/musicklaus" rel="nofollow">http://www.myspace.com/musicklaus</a>
+     electronica artist
+     
+     there is also a Christian artists by the same name
+  summary: |-
+    <a href="http://www.myspace.com/musicklaus" rel="nofollow">http://www.myspace.com/musicklaus</a>
+     electronica artist  there is also a Christian artists by the same name
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/111218.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/111218.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/111218.jpg

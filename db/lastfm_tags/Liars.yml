@@ -1,0 +1,303 @@
+--- 
+artist: Liars
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "65"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "50"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "43"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "33"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "18"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "17"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "15"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "8"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "7"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "6"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "5"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "5"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "3"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "3"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "3"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "2"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: Liars
+  url: http://www.last.fm/tag/liars
+  count: "2"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "1"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "1"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "1"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "1"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "1"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: mute
+  url: http://www.last.fm/tag/mute
+  count: "1"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: noise punk
+  url: http://www.last.fm/tag/noise%20punk
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: art
+  url: http://www.last.fm/tag/art
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "0"
+- name: no-wave
+  url: http://www.last.fm/tag/no-wave
+  count: "0"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "0"
+- name: Berlin
+  url: http://www.last.fm/tag/berlin
+  count: "0"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "0"
+- name: seen em
+  url: http://www.last.fm/tag/seen%20em
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: tribal
+  url: http://www.last.fm/tag/tribal
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "0"
+- name: Seen Perform Live
+  url: http://www.last.fm/tag/seen%20perform%20live
+  count: "0"
+- name: man beating a goat
+  url: http://www.last.fm/tag/man%20beating%20a%20goat
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: Brainwashed DOT com
+  url: http://www.last.fm/tag/brainwashed%20dot%20com
+  count: "0"
+- name: experimental indie
+  url: http://www.last.fm/tag/experimental%20indie
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: drums
+  url: http://www.last.fm/tag/drums
+  count: "0"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "0"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "0"
+- name: Bands seen Live
+  url: http://www.last.fm/tag/bands%20seen%20live
+  count: "0"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "0"
+- name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+  count: "0"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "0"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "0"
+- name: australian
+  url: http://www.last.fm/tag/australian
+  count: "0"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "0"
+- name: percussion and noise
+  url: http://www.last.fm/tag/percussion%20and%20noise
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: pukkelpop 2007
+  url: http://www.last.fm/tag/pukkelpop%202007
+  count: "0"
+- name: wondrous soundbeads for our delicate ears
+  url: http://www.last.fm/tag/wondrous%20soundbeads%20for%20our%20delicate%20ears
+  count: "0"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: anger
+  url: http://www.last.fm/tag/anger
+  count: "0"
+- name: eerie
+  url: http://www.last.fm/tag/eerie
+  count: "0"
+- name: REVOLUTIONARY
+  url: http://www.last.fm/tag/revolutionary
+  count: "0"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "0"
+- name: No Rave
+  url: http://www.last.fm/tag/no%20rave
+  count: "0"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "0"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "0"
+- name: glittering raspberry dancefloors
+  url: http://www.last.fm/tag/glittering%20raspberry%20dancefloors
+  count: "0"
+- name: bands i have seen
+  url: http://www.last.fm/tag/bands%20i%20have%20seen
+  count: "0"
+- name: They Were Wrong So We Drowned
+  url: http://www.last.fm/tag/they%20were%20wrong%20so%20we%20drowned
+  count: "0"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"

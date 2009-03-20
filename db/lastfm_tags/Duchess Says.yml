@@ -1,0 +1,291 @@
+--- 
+artist: Duchess Says
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "86"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "72"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "54"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "50"
+- name: montreal
+  url: http://www.last.fm/tag/montreal
+  count: "31"
+- name: electropunk
+  url: http://www.last.fm/tag/electropunk
+  count: "22"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "22"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "18"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "18"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "13"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "13"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "13"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "13"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "13"
+- name: canadian indie
+  url: http://www.last.fm/tag/canadian%20indie
+  count: "13"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "9"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "9"
+- name: Osheaga
+  url: http://www.last.fm/tag/osheaga
+  count: "9"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "9"
+- name: music to test listen
+  url: http://www.last.fm/tag/music%20to%20test%20listen
+  count: "9"
+- name: electro punk
+  url: http://www.last.fm/tag/electro%20punk
+  count: "9"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "9"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "9"
+- name: summer lovers unlimited
+  url: http://www.last.fm/tag/summer%20lovers%20unlimited
+  count: "4"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "4"
+- name: Lesbien
+  url: http://www.last.fm/tag/lesbien
+  count: "4"
+- name: disco punk
+  url: http://www.last.fm/tag/disco%20punk
+  count: "4"
+- name: disco-punk
+  url: http://www.last.fm/tag/disco-punk
+  count: "4"
+- name: weird punk
+  url: http://www.last.fm/tag/weird%20punk
+  count: "4"
+- name: -electronic-
+  url: http://www.last.fm/tag/-electronic-
+  count: "4"
+- name: weirdcore
+  url: http://www.last.fm/tag/weirdcore
+  count: "4"
+- name: harder
+  url: http://www.last.fm/tag/harder
+  count: "4"
+- name: electro-cute
+  url: http://www.last.fm/tag/electro-cute
+  count: "4"
+- name: seen live but wasnt quite sober
+  url: http://www.last.fm/tag/seen%20live%20but%20wasnt%20quite%20sober
+  count: "4"
+- name: eurockeennes 2006
+  url: http://www.last.fm/tag/eurockeennes%202006
+  count: "4"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "4"
+- name: fast bike and sweaty dancing
+  url: http://www.last.fm/tag/fast%20bike%20and%20sweaty%20dancing
+  count: "4"
+- name: alien 8
+  url: http://www.last.fm/tag/alien%208
+  count: "4"
+- name: electronica with a fist
+  url: http://www.last.fm/tag/electronica%20with%20a%20fist
+  count: "4"
+- name: -wabu-
+  url: http://www.last.fm/tag/-wabu-
+  count: "4"
+- name: "montr\xC3\xA9al"
+  url: http://www.last.fm/tag/montr%C3%A9al
+  count: "4"
+- name: -alternative-
+  url: http://www.last.fm/tag/-alternative-
+  count: "4"
+- name: cbc radio 3
+  url: http://www.last.fm/tag/cbc%20radio%203
+  count: "4"
+- name: emd
+  url: http://www.last.fm/tag/emd
+  count: "4"
+- name: oshega
+  url: http://www.last.fm/tag/oshega
+  count: "4"
+- name: if I were a dj
+  url: http://www.last.fm/tag/if%20i%20were%20a%20dj
+  count: "4"
+- name: nocore
+  url: http://www.last.fm/tag/nocore
+  count: "4"
+- name: slum
+  url: http://www.last.fm/tag/slum
+  count: "4"
+- name: no core
+  url: http://www.last.fm/tag/no%20core
+  count: "4"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "4"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "4"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "4"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "4"
+- name: modern mutant
+  url: http://www.last.fm/tag/modern%20mutant
+  count: "4"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "4"
+- name: female vocal
+  url: http://www.last.fm/tag/female%20vocal
+  count: "4"
+- name: bandsseenlive
+  url: http://www.last.fm/tag/bandsseenlive
+  count: "4"
+- name: remix
+  url: http://www.last.fm/tag/remix
+  count: "4"
+- name: ksssss
+  url: http://www.last.fm/tag/ksssss
+  count: "4"
+- name: female fronted
+  url: http://www.last.fm/tag/female%20fronted
+  count: "4"
+- name: sex
+  url: http://www.last.fm/tag/sex
+  count: "4"
+- name: Electro Wave
+  url: http://www.last.fm/tag/electro%20wave
+  count: "4"
+- name: riot grrl
+  url: http://www.last.fm/tag/riot%20grrl
+  count: "4"
+- name: "qu\xC3\xA9bec"
+  url: http://www.last.fm/tag/qu%C3%A9bec
+  count: "4"
+- name: Electro-Punk
+  url: http://www.last.fm/tag/electro-punk
+  count: "4"
+- name: canadianoise
+  url: http://www.last.fm/tag/canadianoise
+  count: "4"
+- name: Contemporary
+  url: http://www.last.fm/tag/contemporary
+  count: "4"
+- name: death disco
+  url: http://www.last.fm/tag/death%20disco
+  count: "4"
+- name: quebec
+  url: http://www.last.fm/tag/quebec
+  count: "4"
+- name: synths
+  url: http://www.last.fm/tag/synths
+  count: "4"
+- name: artrock
+  url: http://www.last.fm/tag/artrock
+  count: "4"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "0"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "0"
+- name: le guess who 2007
+  url: http://www.last.fm/tag/le%20guess%20who%202007
+  count: "0"
+- name: osheaga-2008
+  url: http://www.last.fm/tag/osheaga-2008
+  count: "0"
+- name: dinner 2009
+  url: http://www.last.fm/tag/dinner%202009
+  count: "0"
+- name: i should keep an eye on this one
+  url: http://www.last.fm/tag/i%20should%20keep%20an%20eye%20on%20this%20one
+  count: "0"
+- name: DOT TO DOT 2009
+  url: http://www.last.fm/tag/dot%20to%20dot%202009
+  count: "0"
+- name: electro-ish
+  url: http://www.last.fm/tag/electro-ish
+  count: "0"
+- name: schmitz wellen
+  url: http://www.last.fm/tag/schmitz%20wellen
+  count: "0"
+- name: damn it
+  url: http://www.last.fm/tag/damn%20it
+  count: "0"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "0"
+- name: Muusika
+  url: http://www.last.fm/tag/muusika
+  count: "0"
+- name: dour festival 2006
+  url: http://www.last.fm/tag/dour%20festival%202006
+  count: "0"
+- name: moog rock
+  url: http://www.last.fm/tag/moog%20rock
+  count: "0"
+- name: melodic punk
+  url: http://www.last.fm/tag/melodic%20punk
+  count: "0"
+- name: Remember
+  url: http://www.last.fm/tag/remember
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "0"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"

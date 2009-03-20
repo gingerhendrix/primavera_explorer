@@ -1,0 +1,18 @@
+--- 
+artist: Klaus
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "33"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "33"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "33"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"

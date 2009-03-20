@@ -1,0 +1,66 @@
+--- 
+name: Tachenko
+similar: 
+  artist: 
+  - name: La Costa Brava
+    url: http://www.last.fm/music/La+Costa+Brava
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/268033.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/268033.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/268033.jpg
+  - name: "El Ni\xC3\xB1o Gusano"
+    url: http://www.last.fm/music/El+Ni%C3%B1o+Gusano
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/180892.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/180892.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/180892.jpg
+  - name: Sr. Chinarro
+    url: http://www.last.fm/music/Sr.+Chinarro
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/6765143.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/6765143.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/6765143.jpg
+  - name: "La Habitaci\xC3\xB3n Roja"
+    url: http://www.last.fm/music/La+Habitaci%C3%B3n+Roja
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/427542.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/427542.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/427542.jpg
+  - name: Francisco Nixon
+    url: http://www.last.fm/music/Francisco+Nixon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/264848.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/264848.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/264848.jpg
+stats: 
+  playcount: "171873"
+  listeners: "17495"
+url: http://www.last.fm/music/Tachenko
+mbid: 11d2a5e9-8117-4c54-bffe-b8a49acb2667
+streamable: "1"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/106192.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/106192.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/106192.jpg

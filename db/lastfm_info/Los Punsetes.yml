@@ -1,0 +1,66 @@
+--- 
+name: Los Punsetes
+similar: 
+  artist: 
+  - name: Joe Crepusculo
+    url: http://www.last.fm/music/Joe+Crepusculo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/5380043.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/5380043.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/5380043.jpg
+  - name: Sr. Chinarro
+    url: http://www.last.fm/music/Sr.+Chinarro
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/6765143.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/6765143.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/6765143.jpg
+  - name: "Joe Crep\xC3\xBAsculo"
+    url: http://www.last.fm/music/Joe+Crep%C3%BAsculo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/16889107.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/16889107.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/16889107.jpg
+  - name: Hidrogenesse
+    url: http://www.last.fm/music/Hidrogenesse
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/14581.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/14581.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/14581.jpg
+  - name: Klaus & Kinski
+    url: http://www.last.fm/music/Klaus%2B%2526%2BKinski
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/9548705.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/9548705.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/9548705.jpg
+stats: 
+  playcount: "107277"
+  listeners: "9021"
+url: http://www.last.fm/music/Los+Punsetes
+mbid: ""
+streamable: "1"
+bio: 
+  published: Sun, 3 Aug 2008 15:52:23 +0000
+  content: "Los Punsetes is a band formed in Madrid in 2004. They have released a couple of demos (2004 and 2006) and a 7&quot; single (2007) with (WA)TT records, and a LP called LP with Gramaciones Grabof\xC3\xB3nicas in 2008"
+  summary: "Los Punsetes is a band formed in Madrid in 2004. They have released a couple of demos (2004 and 2006) and a 7&quot; single (2007) with (WA)TT records, and a LP called LP with Gramaciones Grabof\xC3\xB3nicas in 2008"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/420803.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/420803.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/420803.jpg

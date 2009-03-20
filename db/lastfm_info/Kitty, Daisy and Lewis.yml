@@ -1,0 +1,66 @@
+--- 
+name: Kitty, Daisy and Lewis
+similar: 
+  artist: 
+  - name: Wayne Walker
+    url: http://www.last.fm/music/Wayne+Walker
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/2238668.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/2238668.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/2238668.jpg
+  - name: Eddie Cochran
+    url: http://www.last.fm/music/Eddie+Cochran
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/2245542.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/2245542.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/2245542.jpg
+  - name: Kitty, Daisy & Lewis
+    url: http://www.last.fm/music/Kitty%252C%2BDaisy%2B%2526%2BLewis
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/11127519.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/11127519.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/11127519.jpg
+  - name: Marvin The Martian
+    url: http://www.last.fm/music/Marvin+The+Martian
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/167185.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/167185.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/167185.jpg
+  - name: The Dub Pistols Feat. Rodney P And Terry Hall
+    url: http://www.last.fm/music/The+Dub+Pistols+Feat.+Rodney+P+And+Terry+Hall
+    image: 
+    - size: small
+      "#text": ""
+    - size: medium
+      "#text": ">"
+    - size: large
+      "#text": ""
+stats: 
+  playcount: "2760"
+  listeners: "274"
+url: http://www.last.fm/music/Kitty%2C+Daisy+and+Lewis
+mbid: b7ca7429-4ffb-4528-8e7e-6d6b8bd20770
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/17727639.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/17727639.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/17727639.jpg

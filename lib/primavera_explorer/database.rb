@@ -6,7 +6,7 @@ class Database
   end
 
   def get_resource(name)
-    yaml = File.open( "#{@root}/#{name}.yml" ) { |yf| YAML::load( yf ) }
+    yaml = File.open( "#{@root}/#{name}.yml" ) { |yf| YAML::load( yf ) } if File.exist? "#{@root}/#{name}.yml"
   end
   
   def save_resource(name, data)

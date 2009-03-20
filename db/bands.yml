@@ -1,175 +1,497 @@
 --- 
-- :name: A-Trak
-  :id: artist_A_Trak
-- :name: A Certain Ratio
+- :lastfm_name: A Certain Ratio
+  :display_name: A Certain Ratio
+  :name: A Certain Ratio
   :id: artist_A_Certain_Ratio
-- :name: Alela Diane
+- :lastfm_name: A-Trak
+  :display_name: A-Trak
+  :name: A-Trak
+  :id: artist_A_Trak
+- :lastfm_name: Agent Ribbons
+  :display_name: Agent Ribbons
+  :name: Agent Ribbons
+  :id: artist_Agent_Ribbons
+- :lastfm_name: Alela Diane
+  :display_name: Alela Diane
+  :name: Alela Diane
   :id: artist_Alela_Diane
-- :name: Andrew Bird
+- :lastfm_name: Andrew Bird
+  :display_name: Andrew Bird
+  :name: Andrew Bird
   :id: artist_Andrew_Bird
-- :name: Angelo Spencer
+- :lastfm_name: Andy Votel
+  :display_name: Andy Votel
+  :name: Andy Votel
+  :id: artist_Andy_Votel
+- :lastfm_name: Angelo Spencer
+  :display_name: Angelo Spencer
+  :name: Angelo Spencer
   :id: artist_Angelo_Spencer
-- :name: Aphex Twin
+- :lastfm_name: Aphex Twin
+  :display_name: Aphex Twin
+  :name: Aphex Twin
   :id: artist_Aphex_Twin
-- :name: Ariel Pink
+- :lastfm_name: Ariel Pink
+  :display_name: Ariel Pink
+  :name: Ariel Pink
   :id: artist_Ariel_Pink
-- :name: Art Brut
+- :lastfm_name: Art Brut
+  :display_name: Art Brut
+  :name: Art Brut
   :id: artist_Art_Brut
-- :name: The Bad Plus
-  :id: artist_The_Bad_Plus
-- :name: Bat For Lashes
+- :lastfm_name: Bat For Lashes
+  :display_name: Bat For Lashes
+  :name: Bat For Lashes
   :id: artist_Bat_For_Lashes
-- :name: Black Lips
+- :lastfm_name: "B\xE9lmez"
+  :display_name: "B\xE9lmez"
+  :name: "B\xE9lmez"
+  :id: artist_B_lmez
+- :lastfm_name: Black Lips
+  :display_name: Black Lips
+  :name: Black Lips
   :id: artist_Black_Lips
-- :name: Bloc Party
+- :lastfm_name: Bloc Party
+  :display_name: Bloc Party
+  :name: Bloc Party
   :id: artist_Bloc_Party
-- :name: Bowerbirds
+- :lastfm_name: Bowerbirds
+  :display_name: Bowerbirds
+  :name: Bowerbirds
   :id: artist_Bowerbirds
-- :name: The Bug
-  :id: artist_The_Bug
-- :name: Carsick Cars
+- :lastfm_name: Brian Hunt
+  :display_name: Brian Hunt
+  :name: Brian Hunt
+  :id: artist_Brian_Hunt
+- :lastfm_name: Carsick Cars
+  :display_name: Carsick Cars
+  :name: Carsick Cars
   :id: artist_Carsick_Cars
-- :name: Crystal Antlers
-  :id: artist_Crystal_Antlers
-- :name: Crystal Stilts
-  :id: artist_Crystal_Stilts
-- :name: Cuzo
-  :id: artist_Cuzo
-- :name: Chad VanGaalen
+- :lastfm_name: Chad VanGaalen
+  :display_name: Chad VanGaalen
+  :name: Chad VanGaalen
   :id: artist_Chad_VanGaalen
-- :name: Damien Jurado
+- :lastfm_name: Chris "The Judge" Arthur
+  :display_name: Chris "The Judge" Arthur
+  :name: Chris "The Judge" Arthur
+  :id: artist_Chris__The_Judge__Arthur
+- :lastfm_name: Crystal Antlers
+  :display_name: Crystal Antlers
+  :name: Crystal Antlers
+  :id: artist_Crystal_Antlers
+- :lastfm_name: Crystal Stilts
+  :display_name: Crystal Stilts
+  :name: Crystal Stilts
+  :id: artist_Crystal_Stilts
+- :lastfm_name: Cuzo
+  :display_name: Cuzo
+  :name: Cuzo
+  :id: artist_Cuzo
+- :lastfm_name: Damien Jurado
+  :display_name: Damien Jurado
+  :name: Damien Jurado
   :id: artist_Damien_Jurado
-- :name: Dan Deacon Ensemble
+- :lastfm_name: Dan Deacon
+  :display_name: Dan Deacon Ensemble
+  :name: Dan Deacon Ensemble
   :id: artist_Dan_Deacon_Ensemble
-- :name: Deerhunter
+- :lastfm_name: Daniel Devine (WaKS Records)
+  :display_name: Daniel Devine (WaKS Records)
+  :name: Daniel Devine (WaKS Records)
+  :id: artist_Daniel_Devine__WaKS_Records_
+- :lastfm_name: Dead Meadow
+  :display_name: Dead Meadow
+  :name: Dead Meadow
+  :id: artist_Dead_Meadow
+- :lastfm_name: Deerhunter
+  :display_name: Deerhunter
+  :name: Deerhunter
   :id: artist_Deerhunter
-- :name: Dj Mehdi
+- :lastfm_name: DJ /rupture
+  :display_name: DJ /rupture
+  :name: DJ /rupture
+  :id: artist_DJ__rupture
+- :lastfm_name: Dj Mehdi
+  :display_name: Dj Mehdi
+  :name: Dj Mehdi
   :id: artist_Dj_Mehdi
-- :name: The Drones
-  :id: artist_The_Drones
-- :name: Ebony Bones
+- :lastfm_name: Dj Yoda
+  :display_name: Dj Yoda
+  :name: Dj Yoda
+  :id: artist_Dj_Yoda
+- :lastfm_name: Dr. Kiko
+  :display_name: Dr. Kiko
+  :name: Dr. Kiko
+  :id: artist_Dr__Kiko
+- :lastfm_name: Duchess Says
+  :display_name: Duchess Says
+  :name: Duchess Says
+  :id: artist_Duchess_Says
+- :lastfm_name: "dälek"
+  :display_name: "dälek"
+  :name: "D\xE4lek"
+  :id: artist_D_lek
+- :lastfm_name: Ebony Bones
+  :display_name: Ebony Bones
+  :name: Ebony Bones
   :id: artist_Ebony_Bones
-- :name: El-P
+- :lastfm_name: El-P
+  :display_name: El-P
+  :name: El-P
   :id: artist_El_P
-- :name: Extra Life
+- :lastfm_name: Extra Life
+  :display_name: Extra Life
+  :name: Extra Life
   :id: artist_Extra_Life
-- :name: The Extraordinaires
-  :id: artist_The_Extraordinaires
-- :name: Extraperlo
+- :lastfm_name: Extraperlo
+  :display_name: Extraperlo
+  :name: Extraperlo
   :id: artist_Extraperlo
-- :name: Fucked Up
+- :lastfm_name: Fucked Up
+  :display_name: Fucked Up
+  :name: Fucked Up
   :id: artist_Fucked_Up
-- :name: Gang Gang Dance
+- :lastfm_name: Gang Gang Dance
+  :display_name: Gang Gang Dance
+  :name: Gang Gang Dance
   :id: artist_Gang_Gang_Dance
-- :name: Ghostface Killah
+- :lastfm_name: Ghostface Killah
+  :display_name: Ghostface Killah
+  :name: Ghostface Killah
   :id: artist_Ghostface_Killah
-- :name: Girl Talk
-  :id: artist_Girl_Talk
-- :name: Girls
+- :lastfm_name: Girls
+  :display_name: Girls
+  :name: Girls
   :id: artist_Girls
-- :name: Jarvis Cocker
+- :lastfm_name: Half Foot Outside
+  :display_name: Half Foot Outside
+  :name: Half Foot Outside
+  :id: artist_Half_Foot_Outside
+- :lastfm_name: Herman Dune
+  :display_name: Herman Dune
+  :name: Herman Dune
+  :id: artist_Herman_Dune
+- :lastfm_name: Jarvis Cocker
+  :display_name: Jarvis Cocker
+  :name: Jarvis Cocker
   :id: artist_Jarvis_Cocker
-- :name: Jason Lytle from Grandaddy
-  :id: artist_Jason_Lytle_from_Grandaddy
-- :name: Jay Reatard
+- :lastfm_name: Jason Lytle
+  :display_name: Jason Lytle
+  :name: Jason Lytle
+  :id: artist_Jason_Lytle
+- :lastfm_name: Jay Reatard
+  :display_name: Jay Reatard
+  :name: Jay Reatard
   :id: artist_Jay_Reatard
-- :name: The Jayhawks
-  :id: artist_The_Jayhawks
-- :name: The Jesus Lizard
-  :id: artist_The_Jesus_Lizard
-- :name: "Joe Crep\xC3\xBAsculo y Los Destructores"
-  :id: artist_Joe_Crep__sculo_y_Los_Destructores
-- :name: Joe Henry
+- :lastfm_name: Jeremy Jay
+  :display_name: Jeremy Jay
+  :name: Jeremy Jay
+  :id: artist_Jeremy_Jay
+- :lastfm_name: Jesu
+  :display_name: Jesu
+  :name: Jesu
+  :id: artist_Jesu
+- :lastfm_name: "Joe Crepusculo"
+  :display_name: "Joe Crepusculo y Los Destructores"
+  :name: "Joe Crep\xFAsculo y Los Destructores"
+  :id: artist_Joe_Crep_sculo_y_Los_Destructores
+- :lastfm_name: Joe Henry
+  :display_name: Joe Henry
+  :name: Joe Henry
   :id: artist_Joe_Henry
-- :name: John Maus
+- :lastfm_name: John Maus
+  :display_name: John Maus
+  :name: John Maus
   :id: artist_John_Maus
-- :name: Karl Blau
+- :lastfm_name: Karl Blau
+  :display_name: Karl Blau
+  :name: Karl Blau
   :id: artist_Karl_Blau
-- :name: Kimya Dawson
+- :lastfm_name: Kimya Dawson
+  :display_name: Kimya Dawson
+  :name: Kimya Dawson
   :id: artist_Kimya_Dawson
-- :name: Kitty Daisy and Lewis
-  :id: artist_Kitty_Daisy_and_Lewis
-- :name: Lemonade
+- :lastfm_name: Kitty, Daisy and Lewis
+  :display_name: Kitty, Daisy and Lewis
+  :name: Kitty, Daisy and Lewis
+  :id: artist_Kitty__Daisy_and_Lewis
+- :lastfm_name: Klaus & Kinski
+  :display_name: Klaus & Kinski
+  :name: Klaus & Kinski
+  :id: artist_Klaus___Kinski
+- :lastfm_name: La Bien Querida
+  :display_name: La Bien Querida
+  :name: La Bien Querida
+  :id: artist_La_Bien_Querida
+- :lastfm_name: Lemonade
+  :display_name: Lemonade
+  :name: Lemonade
   :id: artist_Lemonade
-- :name: Lightning Bolt
+- :lastfm_name: Liars
+  :display_name: Liars
+  :name: Liars
+  :id: artist_Liars
+- :lastfm_name: Lightning Bolt
+  :display_name: Lightning Bolt
+  :name: Lightning Bolt
   :id: artist_Lightning_Bolt
-- :name: The Lions Constellation
-  :id: artist_The_Lions_Constellation
-- :name: The Mae Shi
-  :id: artist_The_Mae_Shi
-- :name: Magik Markers
+- :lastfm_name: Los Punsetes
+  :display_name: Los Punsetes
+  :name: Los Punsetes
+  :id: artist_Los_Punsetes
+- :lastfm_name: Magik Markers
+  :display_name: Magik Markers
+  :name: Magik Markers
   :id: artist_Magik_Markers
-- :name: Magnolia Electric Co.
+- :lastfm_name: Magnolia Electric Co.
+  :display_name: Magnolia Electric Co.
+  :name: Magnolia Electric Co.
   :id: artist_Magnolia_Electric_Co_
-- :name: Mahjongg
+- :lastfm_name: Mahjongg
+  :display_name: Mahjongg
+  :name: Mahjongg
   :id: artist_Mahjongg
-- :name: Marnie Stern
+- :lastfm_name: Maika Makovski
+  :display_name: Maika Makovski
+  :name: Maika Makovski
+  :id: artist_Maika_Makovski
+- :lastfm_name: Marnie Stern
+  :display_name: Marnie Stern
+  :name: Marnie Stern
   :id: artist_Marnie_Stern
-- :name: Michael Mayer
+- :lastfm_name: Meneo
+  :display_name: Meneo
+  :name: Meneo
+  :id: artist_Meneo
+- :lastfm_name: Merienda Cena
+  :display_name: Merienda Cena
+  :name: Merienda Cena
+  :id: artist_Merienda_Cena
+- :lastfm_name: Michael Mayer
+  :display_name: Michael Mayer
+  :name: Michael Mayer
   :id: artist_Michael_Mayer
-- :name: Michael Nyman
+- :lastfm_name: Michael Nyman
+  :display_name: Michael Nyman
+  :name: Michael Nyman
   :id: artist_Michael_Nyman
-- :name: My Bloody Valentine
+- :lastfm_name: Muletrain
+  :display_name: Muletrain
+  :name: Muletrain
+  :id: artist_Muletrain
+- :lastfm_name: My Bloody Valentine
+  :display_name: My Bloody Valentine
+  :name: My Bloody Valentine
   :id: artist_My_Bloody_Valentine
-- :name: Neil Young
+- :lastfm_name: Neil Young
+  :display_name: Neil Young
+  :name: Neil Young
   :id: artist_Neil_Young
-- :name: The New Year
-  :id: artist_The_New_Year
-- :name: Oneida
+- :lastfm_name: Oneida
+  :display_name: Oneida
+  :name: Oneida
   :id: artist_Oneida
-- :name: The Pains Of Being Pure At Heart
-  :id: artist_The_Pains_Of_Being_Pure_At_Heart
-- :name: Phoenix
+- :lastfm_name: PAL
+  :display_name: PAL
+  :name: PAL
+  :id: artist_PAL
+- :lastfm_name: Phoenix
+  :display_name: Phoenix
+  :name: Phoenix
   :id: artist_Phoenix
-- :name: Plants and Animals
-  :id: artist_Plants_and_Animals
-- :name: Ponytail
+- :lastfm_name: Plants and Animals
+  :display_name: Plants and Animals
+  :name: Plants & Animals
+  :id: artist_Plants___Animals
+- :lastfm_name: Ponytail
+  :display_name: Ponytail
+  :name: Ponytail
   :id: artist_Ponytail
-- :name: Rosvita
+- :lastfm_name: Reigning Sound
+  :display_name: Reigning Sound
+  :name: Reigning Sound
+  :id: artist_Reigning_Sound
+- :lastfm_name: Rhythm & Sound (Mark Ernestus)
+  :display_name: Rhythm & Sound (Mark Ernestus)
+  :name: Rhythm & Sound (Mark Ernestus)
+  :id: artist_Rhythm___Sound__Mark_Ernestus_
+- :lastfm_name: Rosvita
+  :display_name: Rosvita
+  :name: Rosvita
   :id: artist_Rosvita
-- :name: The Secret Society
-  :id: artist_The_Secret_Society
-- :name: Shearwater
+- :lastfm_name: Saint Etienne
+  :display_name: Saint Etienne
+  :name: Saint Etienne
+  :id: artist_Saint_Etienne
+- :lastfm_name: Shearwater
+  :display_name: Shearwater
+  :name: Shearwater
   :id: artist_Shearwater
-- :name: Shellac
+- :lastfm_name: Shellac
+  :display_name: Shellac
+  :name: Shellac
   :id: artist_Shellac
-- :name: Simian Mobile Disco
+- :lastfm_name: Simian Mobile Disco
+  :display_name: Simian Mobile Disco
+  :name: Simian Mobile Disco
   :id: artist_Simian_Mobile_Disco
-- :name: "Skateb\xC3\xA5rd"
-  :id: artist_Skateb__rd
-- :name: Sleepy Sun
+- :lastfm_name: "Skatebård"
+  :display_name: "Skatebård"
+  :name: "Skateb\xE5rd"
+  :id: artist_Skateb_rd
+- :lastfm_name: Sleepy Sun
+  :display_name: Sleepy Sun
+  :name: Sleepy Sun
   :id: artist_Sleepy_Sun
-- :name: The Soft Pack
-  :id: artist_The_Soft_Pack
-- :name: Sonic Youth
+- :lastfm_name: Sonic Youth
+  :display_name: Sonic Youth
+  :name: Sonic Youth
   :id: artist_Sonic_Youth
-- :name: Spectrum
+- :lastfm_name: Spectrum
+  :display_name: Spectrum
+  :name: Spectrum
   :id: artist_Spectrum
-- :name: Spiritualized
+- :lastfm_name: Spiritualized
+  :display_name: Spiritualized
+  :name: Spiritualized
   :id: artist_Spiritualized
-- :name: Squarepusher
+- :lastfm_name: Squarepusher
+  :display_name: Squarepusher
+  :name: Squarepusher
   :id: artist_Squarepusher
-- :name: Sunn O))) performing "The Grimmerobe Demos"
-  :id: artist_Sunn_O____performing__The_Grimmerobe_Demos_
-- :name: The Tallest Man On Earth
+- :lastfm_name: Stanley Brinks
+  :display_name: Stanley Brinks
+  :name: Stanley Brinks
+  :id: artist_Stanley_Brinks
+- :lastfm_name: Sunn O)))
+  :display_name: Sunn O)))
+  :name: Sunn O)))
+  :id: artist_Sunn_O___
+- :lastfm_name: Tachenko
+  :display_name: Tachenko
+  :name: Tachenko
+  :id: artist_Tachenko
+- :lastfm_name: Th' Faith Healers
+  :display_name: Th' Faith Healers
+  :name: Th' Faith Healers
+  :id: artist_Th__Faith_Healers
+- :lastfm_name: The Bad Plus
+  :display_name: The Bad Plus
+  :name: The Bad Plus
+  :id: artist_The_Bad_Plus
+- :lastfm_name: The Bats
+  :display_name: The Bats
+  :name: The Bats
+  :id: artist_The_Bats
+- :lastfm_name: The Bug
+  :display_name: The Bug
+  :name: The Bug
+  :id: artist_The_Bug
+- :lastfm_name: The Drones
+  :display_name: The Drones
+  :name: The Drones
+  :id: artist_The_Drones
+- :lastfm_name: The Extraordinaires
+  :display_name: The Extraordinaires
+  :name: The Extraordinaires
+  :id: artist_The_Extraordinaires
+- :lastfm_name: The Intelligence
+  :display_name: The Intelligence
+  :name: The Intelligence
+  :id: artist_The_Intelligence
+- :lastfm_name: The Jayhawks
+  :display_name: The Jayhawks
+  :name: The Jayhawks
+  :id: artist_The_Jayhawks
+- :lastfm_name: The Jesus Lizard
+  :display_name: The Jesus Lizard
+  :name: The Jesus Lizard
+  :id: artist_The_Jesus_Lizard
+- :lastfm_name: The Lions Constellation
+  :display_name: The Lions Constellation
+  :name: The Lions Constellation
+  :id: artist_The_Lions_Constellation
+- :lastfm_name: The Mae Shi
+  :display_name: The Mae Shi
+  :name: The Mae Shi
+  :id: artist_The_Mae_Shi
+- :lastfm_name: The New Year
+  :display_name: The New Year
+  :name: The New Year
+  :id: artist_The_New_Year
+- :lastfm_name: The Pains Of Being Pure At Heart
+  :display_name: The Pains Of Being Pure At Heart
+  :name: The Pains Of Being Pure At Heart
+  :id: artist_The_Pains_Of_Being_Pure_At_Heart
+- :lastfm_name: The Right Ons
+  :display_name: The Right Ons
+  :name: The Right Ons
+  :id: artist_The_Right_Ons
+- :lastfm_name: The Secret Society
+  :display_name: The Secret Society
+  :name: The Secret Society
+  :id: artist_The_Secret_Society
+- :lastfm_name: The Soft Pack
+  :display_name: The Soft Pack
+  :name: The Soft Pack
+  :id: artist_The_Soft_Pack
+- :lastfm_name: The Tallest Man On Earth
+  :display_name: The Tallest Man On Earth
+  :name: The Tallest Man On Earth
   :id: artist_The_Tallest_Man_On_Earth
-- :name: Throwing Muses
-  :id: artist_Throwing_Muses
-- :name: Uffie
-  :id: artist_Uffie
-- :name: The Vaselines
+- :lastfm_name: The Vaselines
+  :display_name: The Vaselines
+  :name: The Vaselines
   :id: artist_The_Vaselines
-- :name: Veracruz
+- :lastfm_name: Throwing Muses
+  :display_name: Throwing Muses
+  :name: Throwing Muses
+  :id: artist_Throwing_Muses
+- :lastfm_name: Tim Burgess
+  :display_name: Tim Burgess (The Charlatans)
+  :name: Tim Burgess (The Charlatans)
+  :id: artist_Tim_Burgess__The_Charlatans_
+- :lastfm_name: Tokyo Sex Destruction
+  :display_name: Tokyo Sex Destruction
+  :name: Tokyo Sex Destruction
+  :id: artist_Tokyo_Sex_Destruction
+- :lastfm_name: Uffie
+  :display_name: Uffie
+  :name: Uffie
+  :id: artist_Uffie
+- :lastfm_name: Veracruz
+  :display_name: Veracruz
+  :name: Veracruz
   :id: artist_Veracruz
-- :name: Vivian Girls
+- :lastfm_name: Vivian Girls
+  :display_name: Vivian Girls
+  :name: Vivian Girls
   :id: artist_Vivian_Girls
-- :name: Wavves
+- :lastfm_name: Wavves
+  :display_name: Wavves
+  :name: Wavves
   :id: artist_Wavves
-- :name: Women
+- :lastfm_name: Wio Leokadio
+  :display_name: Wio Leokadio
+  :name: Wio Leokadio
+  :id: artist_Wio_Leokadio
+- :lastfm_name: Women
+  :display_name: Women
+  :name: Women
   :id: artist_Women
-- :name: Wooden Shjips
+- :lastfm_name: Wooden Shjips
+  :display_name: Wooden Shjips
+  :name: Wooden Shjips
   :id: artist_Wooden_Shjips
-- :name: Yo La Tengo
+- :lastfm_name: Yo La Tengo
+  :display_name: Yo La Tengo
+  :name: Yo La Tengo
   :id: artist_Yo_La_Tengo
-- :name: Zombie Zombie
+- :lastfm_name: Zombie Zombie
+  :display_name: Zombie Zombie
+  :name: Zombie Zombie
   :id: artist_Zombie_Zombie
+- :lastfm_name: Zu
+  :display_name: Zu
+  :name: Zu
+  :id: artist_Zu

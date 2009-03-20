@@ -1,0 +1,24 @@
+--- 
+artist: Rhythm
+tag: 
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "100"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "100"
+- name: christian
+  url: http://www.last.fm/tag/christian
+  count: "100"
+- name: texas
+  url: http://www.last.fm/tag/texas
+  count: "100"
+- name: dallas
+  url: http://www.last.fm/tag/dallas
+  count: "100"
+- name: dallas locals
+  url: http://www.last.fm/tag/dallas%20locals
+  count: "100"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "3"

@@ -1,0 +1,303 @@
+--- 
+artist: DJ /rupture
+tag: 
+- name: breakcore
+  url: http://www.last.fm/tag/breakcore
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "85"
+- name: mashup
+  url: http://www.last.fm/tag/mashup
+  count: "65"
+- name: ragga
+  url: http://www.last.fm/tag/ragga
+  count: "50"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "47"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "31"
+- name: Raggacore
+  url: http://www.last.fm/tag/raggacore
+  count: "26"
+- name: dubstep
+  url: http://www.last.fm/tag/dubstep
+  count: "19"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "17"
+- name: jungle
+  url: http://www.last.fm/tag/jungle
+  count: "13"
+- name: mash up
+  url: http://www.last.fm/tag/mash%20up
+  count: "10"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "10"
+- name: dancehall
+  url: http://www.last.fm/tag/dancehall
+  count: "8"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "7"
+- name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+  count: "7"
+- name: Grime
+  url: http://www.last.fm/tag/grime
+  count: "7"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "5"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "4"
+- name: mashcore
+  url: http://www.last.fm/tag/mashcore
+  count: "4"
+- name: Drill n Bass
+  url: http://www.last.fm/tag/drill%20n%20bass
+  count: "4"
+- name: Ragga Jungle
+  url: http://www.last.fm/tag/ragga%20jungle
+  count: "4"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "2"
+- name: dupstep  breakcore ragga
+  url: http://www.last.fm/tag/dupstep%20%20breakcore%20ragga
+  count: "2"
+- name: mash-up
+  url: http://www.last.fm/tag/mash-up
+  count: "2"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "2"
+- name: world
+  url: http://www.last.fm/tag/world
+  count: "2"
+- name: reggae
+  url: http://www.last.fm/tag/reggae
+  count: "2"
+- name: bangface
+  url: http://www.last.fm/tag/bangface
+  count: "2"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "2"
+- name: electronic dub
+  url: http://www.last.fm/tag/electronic%20dub
+  count: "2"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "2"
+- name: glitch
+  url: http://www.last.fm/tag/glitch
+  count: "2"
+- name: tigerbeat6
+  url: http://www.last.fm/tag/tigerbeat6
+  count: "2"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "2"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "2"
+- name: uk-uip-hop
+  url: http://www.last.fm/tag/uk-uip-hop
+  count: "1"
+- name: Decouverte
+  url: http://www.last.fm/tag/decouverte
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "1"
+- name: new zic
+  url: http://www.last.fm/tag/new%20zic
+  count: "1"
+- name: Ohms World
+  url: http://www.last.fm/tag/ohms%20world
+  count: "1"
+- name: pra
+  url: http://www.last.fm/tag/pra
+  count: "1"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "1"
+- name: SongsinfluencedbyChazandDave
+  url: http://www.last.fm/tag/songsinfluencedbychazanddave
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: nice nait
+  url: http://www.last.fm/tag/nice%20nait
+  count: "1"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "1"
+- name: look into
+  url: http://www.last.fm/tag/look%20into
+  count: "1"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "1"
+- name: Toneburst
+  url: http://www.last.fm/tag/toneburst
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: dutty artz
+  url: http://www.last.fm/tag/dutty%20artz
+  count: "1"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "1"
+- name: samples roberta flack
+  url: http://www.last.fm/tag/samples%20roberta%20flack
+  count: "1"
+- name: 2 s34rch
+  url: http://www.last.fm/tag/2%20s34rch
+  count: "1"
+- name: french beats
+  url: http://www.last.fm/tag/french%20beats
+  count: "1"
+- name: syn jungle
+  url: http://www.last.fm/tag/syn%20jungle
+  count: "1"
+- name: mudd up
+  url: http://www.last.fm/tag/mudd%20up
+  count: "1"
+- name: ar fheabhas ar fad
+  url: http://www.last.fm/tag/ar%20fheabhas%20ar%20fad
+  count: "1"
+- name: rupture
+  url: http://www.last.fm/tag/rupture
+  count: "1"
+- name: PostEverything
+  url: http://www.last.fm/tag/posteverything
+  count: "1"
+- name: a god
+  url: http://www.last.fm/tag/a%20god
+  count: "1"
+- name: ART FARTS
+  url: http://www.last.fm/tag/art%20farts
+  count: "1"
+- name: I CANT HEAR YOU OVER MY ANNOYING MUSIC
+  url: http://www.last.fm/tag/i%20cant%20hear%20you%20over%20my%20annoying%20music
+  count: "1"
+- name: smoke weed
+  url: http://www.last.fm/tag/smoke%20weed
+  count: "1"
+- name: beat-driven
+  url: http://www.last.fm/tag/beat-driven
+  count: "1"
+- name: Muusika
+  url: http://www.last.fm/tag/muusika
+  count: "1"
+- name: interesting artists
+  url: http://www.last.fm/tag/interesting%20artists
+  count: "1"
+- name: future shock
+  url: http://www.last.fm/tag/future%20shock
+  count: "1"
+- name: lil dance
+  url: http://www.last.fm/tag/lil%20dance
+  count: "1"
+- name: lil best
+  url: http://www.last.fm/tag/lil%20best
+  count: "1"
+- name: Tigerbeat6 Inc
+  url: http://www.last.fm/tag/tigerbeat6%20inc
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: mes decouverte
+  url: http://www.last.fm/tag/mes%20decouverte
+  count: "1"
+- name: Seen Perform Live
+  url: http://www.last.fm/tag/seen%20perform%20live
+  count: "1"
+- name: hard breaks
+  url: http://www.last.fm/tag/hard%20breaks
+  count: "1"
+- name: World Music
+  url: http://www.last.fm/tag/world%20music
+  count: "1"
+- name: Fusion
+  url: http://www.last.fm/tag/fusion
+  count: "1"
+- name: Gangsta Rap
+  url: http://www.last.fm/tag/gangsta%20rap
+  count: "1"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "1"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "1"
+- name: Drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+  count: "1"
+- name: abstract
+  url: http://www.last.fm/tag/abstract
+  count: "1"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "1"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "1"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: rnb
+  url: http://www.last.fm/tag/rnb
+  count: "1"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "1"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "1"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "1"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "1"
+- name: improv
+  url: http://www.last.fm/tag/improv
+  count: "1"

@@ -1,0 +1,303 @@
+--- 
+artist: DJ Yoda
+tag: 
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "100"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "76"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "36"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "32"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "26"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "10"
+- name: comedy
+  url: http://www.last.fm/tag/comedy
+  count: "7"
+- name: mash-up
+  url: http://www.last.fm/tag/mash-up
+  count: "7"
+- name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+  count: "7"
+- name: DJ Yoda
+  url: http://www.last.fm/tag/dj%20yoda
+  count: "5"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "5"
+- name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: Mix Masters
+  url: http://www.last.fm/tag/mix%20masters
+  count: "2"
+- name: stuff ive seen
+  url: http://www.last.fm/tag/stuff%20ive%20seen
+  count: "2"
+- name: breaks
+  url: http://www.last.fm/tag/breaks
+  count: "2"
+- name: antidote
+  url: http://www.last.fm/tag/antidote
+  count: "1"
+- name: I can be cool sometimes
+  url: http://www.last.fm/tag/i%20can%20be%20cool%20sometimes
+  count: "1"
+- name: Unthugged
+  url: http://www.last.fm/tag/unthugged
+  count: "1"
+- name: The XFM Remix Style
+  url: http://www.last.fm/tag/the%20xfm%20remix%20style
+  count: "1"
+- name: schmitz bounce
+  url: http://www.last.fm/tag/schmitz%20bounce
+  count: "1"
+- name: turntabilism
+  url: http://www.last.fm/tag/turntabilism
+  count: "1"
+- name: good shtuff
+  url: http://www.last.fm/tag/good%20shtuff
+  count: "1"
+- name: Ive Seen Live
+  url: http://www.last.fm/tag/ive%20seen%20live
+  count: "1"
+- name: funk-hop
+  url: http://www.last.fm/tag/funk-hop
+  count: "1"
+- name: turtablism
+  url: http://www.last.fm/tag/turtablism
+  count: "1"
+- name: summer sundae
+  url: http://www.last.fm/tag/summer%20sundae
+  count: "1"
+- name: bonkers
+  url: http://www.last.fm/tag/bonkers
+  count: "1"
+- name: awesome people
+  url: http://www.last.fm/tag/awesome%20people
+  count: "1"
+- name: hip hop shit
+  url: http://www.last.fm/tag/hip%20hop%20shit
+  count: "1"
+- name: Electro techno bollocks
+  url: http://www.last.fm/tag/electro%20techno%20bollocks
+  count: "1"
+- name: old school hip-hop
+  url: http://www.last.fm/tag/old%20school%20hip-hop
+  count: "1"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "1"
+- name: wielmozny pan lubi
+  url: http://www.last.fm/tag/wielmozny%20pan%20lubi
+  count: "1"
+- name: turntabelistiq-hahahaha
+  url: http://www.last.fm/tag/turntabelistiq-hahahaha
+  count: "1"
+- name: rad-o-rama
+  url: http://www.last.fm/tag/rad-o-rama
+  count: "1"
+- name: Get Loaded in the Park
+  url: http://www.last.fm/tag/get%20loaded%20in%20the%20park
+  count: "1"
+- name: whp hip-hop breaks dnb
+  url: http://www.last.fm/tag/whp%20hip-hop%20breaks%20dnb
+  count: "1"
+- name: whp hip-hop
+  url: http://www.last.fm/tag/whp%20hip-hop
+  count: "1"
+- name: WHP 07
+  url: http://www.last.fm/tag/whp%2007
+  count: "1"
+- name: getting back into hip-hop
+  url: http://www.last.fm/tag/getting%20back%20into%20hip-hop
+  count: "1"
+- name: Primavera 2007
+  url: http://www.last.fm/tag/primavera%202007
+  count: "1"
+- name: playlist01
+  url: http://www.last.fm/tag/playlist01
+  count: "1"
+- name: summer sundae 2007
+  url: http://www.last.fm/tag/summer%20sundae%202007
+  count: "1"
+- name: Sound Of Bestival 2007
+  url: http://www.last.fm/tag/sound%20of%20bestival%202007
+  count: "1"
+- name: geek fag whiteboy hip hop shit
+  url: http://www.last.fm/tag/geek%20fag%20whiteboy%20hip%20hop%20shit
+  count: "1"
+- name: selected hip-hop
+  url: http://www.last.fm/tag/selected%20hip-hop
+  count: "1"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "1"
+- name: mix it
+  url: http://www.last.fm/tag/mix%20it
+  count: "1"
+- name: Sound Of Bestival
+  url: http://www.last.fm/tag/sound%20of%20bestival
+  count: "1"
+- name: super happy dance
+  url: http://www.last.fm/tag/super%20happy%20dance
+  count: "1"
+- name: Something for the weekend
+  url: http://www.last.fm/tag/something%20for%20the%20weekend
+  count: "1"
+- name: DJ-set
+  url: http://www.last.fm/tag/dj-set
+  count: "1"
+- name: awesome turntablism at its best
+  url: http://www.last.fm/tag/awesome%20turntablism%20at%20its%20best
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: jedi master
+  url: http://www.last.fm/tag/jedi%20master
+  count: "1"
+- name: samples
+  url: http://www.last.fm/tag/samples
+  count: "1"
+- name: laidback
+  url: http://www.last.fm/tag/laidback
+  count: "1"
+- name: master
+  url: http://www.last.fm/tag/master
+  count: "1"
+- name: mash-ups
+  url: http://www.last.fm/tag/mash-ups
+  count: "1"
+- name: underground rap
+  url: http://www.last.fm/tag/underground%20rap
+  count: "1"
+- name: ost
+  url: http://www.last.fm/tag/ost
+  count: "1"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "1"
+- name: Music to skate to
+  url: http://www.last.fm/tag/music%20to%20skate%20to
+  count: "1"
+- name: Hippish-hop DJs
+  url: http://www.last.fm/tag/hippish-hop%20djs
+  count: "1"
+- name: hippish-hop
+  url: http://www.last.fm/tag/hippish-hop
+  count: "1"
+- name: plunderphonics
+  url: http://www.last.fm/tag/plunderphonics
+  count: "1"
+- name: scratching
+  url: http://www.last.fm/tag/scratching
+  count: "1"
+- name: Most Listened to hip hop
+  url: http://www.last.fm/tag/most%20listened%20to%20hip%20hop
+  count: "1"
+- name: The Good Stuff
+  url: http://www.last.fm/tag/the%20good%20stuff
+  count: "1"
+- name: kremkake
+  url: http://www.last.fm/tag/kremkake
+  count: "1"
+- name: UK hip hop
+  url: http://www.last.fm/tag/uk%20hip%20hop
+  count: "1"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: bootlegs
+  url: http://www.last.fm/tag/bootlegs
+  count: "1"
+- name: Mash ups
+  url: http://www.last.fm/tag/mash%20ups
+  count: "1"
+- name: UK hip-hop
+  url: http://www.last.fm/tag/uk%20hip-hop
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: Bestival 2008
+  url: http://www.last.fm/tag/bestival%202008
+  count: "0"
+- name: bbc radio 1 essential mix appearance
+  url: http://www.last.fm/tag/bbc%20radio%201%20essential%20mix%20appearance
+  count: "0"
+- name: funky
+  url: http://www.last.fm/tag/funky
+  count: "0"
+- name: mixed up
+  url: http://www.last.fm/tag/mixed%20up
+  count: "0"
+- name: blanq funq
+  url: http://www.last.fm/tag/blanq%20funq
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"

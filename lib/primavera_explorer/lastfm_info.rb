@@ -21,13 +21,18 @@ class LastfmInfo
   def to_h
     info
   end
+    
+  def resource_name
+    name = @name.gsub("/", "_")
+    "lastfm_info/#{name}"
+  end
   
   def save(db)
-    db.save_resource("lastfm_info/#{@name}", info)
+    db.save_resource(resource_name, info)
   end
   
   def load_from_db(db)
-    @info = db.get_resource("lastfm_info/#{@name}")
+    @info = db.get_resource(resource_name)
   end
   
   

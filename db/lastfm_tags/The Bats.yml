@@ -1,0 +1,198 @@
+--- 
+artist: The Bats
+tag: 
+- name: New Zealand
+  url: http://www.last.fm/tag/new%20zealand
+  count: "100"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "60"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "53"
+- name: Kiwi
+  url: http://www.last.fm/tag/kiwi
+  count: "46"
+- name: flying nun
+  url: http://www.last.fm/tag/flying%20nun
+  count: "32"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "28"
+- name: nz
+  url: http://www.last.fm/tag/nz
+  count: "17"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "14"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "10"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "10"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "10"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "7"
+- name: kiwi pop
+  url: http://www.last.fm/tag/kiwi%20pop
+  count: "7"
+- name: indiepop
+  url: http://www.last.fm/tag/indiepop
+  count: "7"
+- name: jangle
+  url: http://www.last.fm/tag/jangle
+  count: "7"
+- name: New Zealand Rock
+  url: http://www.last.fm/tag/new%20zealand%20rock
+  count: "7"
+- name: dunedin sound
+  url: http://www.last.fm/tag/dunedin%20sound
+  count: "7"
+- name: sxsw2006
+  url: http://www.last.fm/tag/sxsw2006
+  count: "7"
+- name: NZ Music
+  url: http://www.last.fm/tag/nz%20music
+  count: "3"
+- name: christchurch
+  url: http://www.last.fm/tag/christchurch
+  count: "3"
+- name: jangly guitar music
+  url: http://www.last.fm/tag/jangly%20guitar%20music
+  count: "3"
+- name: fuckin catchy
+  url: http://www.last.fm/tag/fuckin%20catchy
+  count: "3"
+- name: catch-all indie
+  url: http://www.last.fm/tag/catch-all%20indie
+  count: "3"
+- name: indie-pop radio
+  url: http://www.last.fm/tag/indie-pop%20radio
+  count: "3"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "3"
+- name: The Bats
+  url: http://www.last.fm/tag/the%20bats
+  count: "3"
+- name: vromopoparies
+  url: http://www.last.fm/tag/vromopoparies
+  count: "3"
+- name: ":jupi hura:"
+  url: http://www.last.fm/tag/%3Ajupi%20hura%3A
+  count: "3"
+- name: aprobado ps09
+  url: http://www.last.fm/tag/aprobado%20ps09
+  count: "3"
+- name: miuh
+  url: http://www.last.fm/tag/miuh
+  count: "3"
+- name: nz nindie
+  url: http://www.last.fm/tag/nz%20nindie
+  count: "3"
+- name: rare victory
+  url: http://www.last.fm/tag/rare%20victory
+  count: "3"
+- name: superguay
+  url: http://www.last.fm/tag/superguay
+  count: "3"
+- name: New Zealand jingle jangle
+  url: http://www.last.fm/tag/new%20zealand%20jingle%20jangle
+  count: "3"
+- name: flying nuns and their antipodean chums
+  url: http://www.last.fm/tag/flying%20nuns%20and%20their%20antipodean%20chums
+  count: "3"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "3"
+- name: stroke me like a pony
+  url: http://www.last.fm/tag/stroke%20me%20like%20a%20pony
+  count: "3"
+- name: great rhythm section
+  url: http://www.last.fm/tag/great%20rhythm%20section
+  count: "3"
+- name: primavera sound 2009
+  url: http://www.last.fm/tag/primavera%20sound%202009
+  count: "3"
+- name: drone rock
+  url: http://www.last.fm/tag/drone%20rock
+  count: "3"
+- name: cool
+  url: http://www.last.fm/tag/cool
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "3"
+- name: John Peel
+  url: http://www.last.fm/tag/john%20peel
+  count: "3"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "3"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "3"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "3"
+- name: alt-pop
+  url: http://www.last.fm/tag/alt-pop
+  count: "3"
+- name: 1980s
+  url: http://www.last.fm/tag/1980s
+  count: "3"
+- name: jangly
+  url: http://www.last.fm/tag/jangly
+  count: "3"
+- name: Merge
+  url: http://www.last.fm/tag/merge
+  count: "3"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "3"
+- name: Only the best
+  url: http://www.last.fm/tag/only%20the%20best
+  count: "3"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "3"
+- name: real indie
+  url: http://www.last.fm/tag/real%20indie
+  count: "3"
+- name: so cute they should be edible
+  url: http://www.last.fm/tag/so%20cute%20they%20should%20be%20edible
+  count: "3"
+- name: two bands with the same name
+  url: http://www.last.fm/tag/two%20bands%20with%20the%20same%20name
+  count: "3"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Fucker
+  url: http://www.last.fm/tag/fucker
+  count: "0"
+- name: jangle pop
+  url: http://www.last.fm/tag/jangle%20pop
+  count: "0"
+- name: The Clean
+  url: http://www.last.fm/tag/the%20clean
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+  count: "0"
+- name: Ear candy
+  url: http://www.last.fm/tag/ear%20candy
+  count: "0"
+- name: listen to
+  url: http://www.last.fm/tag/listen%20to
+  count: "0"

@@ -1,0 +1,66 @@
+--- 
+name: Brian Hunt
+similar: 
+  artist: 
+  - name: Templeton
+    url: http://www.last.fm/music/Templeton
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/3932464.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/3932464.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/3932464.jpg
+  - name: Prairie Fire Organizing Committee
+    url: http://www.last.fm/music/Prairie+Fire+Organizing+Committee
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/15131203.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/15131203.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/15131203.jpg
+  - name: Slow Down Mery
+    url: http://www.last.fm/music/Slow+Down+Mery
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/2989506.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/2989506.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/2989506.jpg
+  - name: Healthcontrol
+    url: http://www.last.fm/music/Healthcontrol
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/195245.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/195245.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/195245.jpg
+  - name: Pokey Lafarge
+    url: http://www.last.fm/music/Pokey+Lafarge
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/3279598.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/3279598.jpg>
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/3279598.jpg
+stats: 
+  playcount: "204"
+  listeners: "14"
+url: http://www.last.fm/music/Brian+Hunt
+mbid: ""
+streamable: "0"
+bio: 
+  published: ""
+  content: ""
+  summary: ""
+image: 
+- size: small
+  "#text": ""
+- size: medium
+  "#text": ""
+- size: large
+  "#text": ""

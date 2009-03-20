@@ -29,7 +29,7 @@ class PrimaveraTimetable
   
   def bands
     @bands = @entries.map do |entry|
-      band = Band.find_by_name(entry.name) || Band.new(entry.name)
+      band = Band.find_by_name(entry.name) 
       band.timetable_entry = entry
       band
     end
