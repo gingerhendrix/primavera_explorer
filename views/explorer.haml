@@ -30,7 +30,7 @@
       %ul
         - @bands.each do |b| 
           %li.band{ :id => b.element_id, :onclick => "expand(this)", :class => "band" }
-            %span.name= b.name  
+            %span.name= b.display_name  
             - if b.lastfm_info
               %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
               %div.info
@@ -40,6 +40,13 @@
                 %div.tags
                   - b.lastfm_tags.top_tags.each do |tag|
                     %span.tag= tag['name']                  
+                %div.timetable
+                  %span.label Stage
+                  %span.stage= b.timetable_entry.stage
+                  %span.label Day
+                  %span.day= b.timetable_entry.day
+                  %span.label Time
+                  %span.time= b.timetable_entry.time
                 %span.bio= b.lastfm_info.bio
             - else
               %div.info

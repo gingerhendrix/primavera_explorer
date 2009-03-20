@@ -45,7 +45,8 @@ class Band
      :name => @name,
      :display_name => @display_name,
      :lastfm_name => @lastfm_name,
-     :lastfm => { :info => @lastfm_info.to_h, :tags => @lastfm_tags.to_h } }
+     :lastfm => { :info => @lastfm_info.to_h, :tags => @lastfm_tags.to_h },
+     :timetable => @timetable_entry ? @timetable_entry.to_h : nil }
   end
   
   def to_db

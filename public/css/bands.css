@@ -95,7 +95,8 @@ ul.column{
 li.band{
   list-style: none;
   padding-top: 30px;
-  height: 200px;
+  height: 300px;
+  overflow: hidden;
   margin-left: 20px;
   width: 595px;
 }
@@ -133,9 +134,28 @@ li.band .info{
   font-size: 9pt;
 }
 
-li.band .bio{
-   
+li.band .timetable{
+  font-size: 9pt;
 }
+
+li.band .timetable .label{
+  display: block;
+  clear: left;
+  float: left;
+  width: 100px;
+}
+
+li.band .timetable .stage, li.band .timetable .day, li.band .timetable .time{
+  float: left;
+  width: 150px;
+}
+
+li.band .bio{
+  display: block;
+  clear: left;
+  padding-top: 10px;
+}
+
 
 #tagcloud .tag{
   margin-right: 10px;
@@ -226,7 +246,7 @@ li.band .bio{
 }
 
 #bands.list li.band.expand{
-  height: 200px;
+  height: 300px;
 }
 
 #bands.list li.band.expand .info{
