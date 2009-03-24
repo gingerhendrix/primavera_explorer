@@ -42,6 +42,11 @@ body{
   float: left;
 }
 
+#controls .options {
+  float: left;
+  width: 240px;
+}
+
 #controls .option{
   padding-right: 10px;
   cursor: pointer;
@@ -51,8 +56,13 @@ body{
   font-weight: bold;
 }
 
-#controls .view, #controls .sort, .tagcloud{
-  margin-top: 2px;
+#controls > div{
+ margin-top: 3px;
+ overflow: hidden;
+}
+
+.tagcloud{
+  margin-top: 5px;
 }
 
 

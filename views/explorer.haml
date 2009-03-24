@@ -2,12 +2,14 @@
   %head
     %meta{ :charset => "UTF-8" }
     %link{ :rel => "stylesheet", :href => "css/bands.css" }
+    %script{ :src => "js/stage_selector.js"}
+    %script{ :src => "js/day_selector.js"}
     %script{ :src => "js/ui.js"}
     %script{ :src => "js/jquery.js"}
-    %script{ :src => "js/bands.js"}
     %script{ :src => "js/tagmap.js"}
     %script{ :src => "js/tagcloud.js"}
     %script{ :src => "js/folksonomy.js"}
+    %script{ :src => "js/bands.js"}
     %script{ :src => "bandsData.js" }
   %body
     %img{ :src => "img/primavera_logo.png", :width => "170", :height => "240", :id => "primavera_logo" }
@@ -16,23 +18,22 @@
       %div#controls
         %div.sort 
           %span.label sort
-          %span{ :class => "sort option alpha", :onclick => "UI.sort('alpha')"} alpha
-          %span{ :class => "sort option playcount", :onclick => "UI.sort('playcount')"} playcount
-          %span{ :class => "sort option listeners", :onclick => "UI.sort('listeners')"} listeners
+          %div.options
+            %span{ :class => "sort option alpha", :onclick => "UI.sort('alpha')"} alpha
+            %span{ :class => "sort option playcount", :onclick => "UI.sort('playcount')"} playcount
+            %span{ :class => "sort option listeners", :onclick => "UI.sort('listeners')"} listeners
         %div.view
           %span.label view
-          %span{ :class => "view option compact", :onclick => "UI.viewCompact()" } compact
-          %span{ :class => "view option list", :onclick => "UI.viewList()" } expanded
-          %span{ :class => "view option full", :onclick => "UI.viewFull()" } full        
+          %div.options
+            %span{ :class => "view option compact", :onclick => "UI.viewCompact()" } compact
+            %span{ :class => "view option list", :onclick => "UI.viewList()" } expanded
+            %span{ :class => "view option full", :onclick => "UI.viewFull()" } full        
         %div.day
           %span.label day
-          %span{ :class => "day option monday", :onclick => "UI.selectDay('monday')" } monday
-          %span{ :class => "day option tuesday", :onclick => "UI.selectDay('tuesday')" } tuesday
-          %span{ :class => "day option wednesday", :onclick => "UI.selectDay('wednesday')" } wednesday
-          %span{ :class => "day option thursday", :onclick => "UI.selectDay('thursday')" } thursday
-          %span{ :class => "day option friday", :onclick => "UI.selectDay('friday')" } friday
-          %span{ :class => "day option saturday", :onclick => "UI.selectDay('saturday')" } saturday
-          %span{ :class => "day option sunday", :onclick => "UI.selectDay('sunday')" } sunday          
+          %div#day_options.options
+        %div.stage
+          %span.label stage
+          %div#stage_options.options
       %div.tagcloud
         %span.label tags
         %div#tagcloud

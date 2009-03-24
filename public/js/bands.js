@@ -5,7 +5,7 @@ $(document.body).ready(function(){
   UI.sort('listeners');
   window.setTimeout(function(){
     bands.makeTagMap();
-    UI.writeTagMap();
+    UI.writeControls();
   }, 10);
 });
 
@@ -78,6 +78,17 @@ function Bands(bandsData){
        var band_day = jsonProp(b, "timetable.day");
        if(band_day){
          return (band_day.toLowerCase().indexOf(day) >= 0)
+       }else{
+        return false;
+       }
+    });
+  }
+
+  this.selectByStage = function(stage){
+    return this.data.filter(function(b){
+      var band_stage = jsonProp(b, "timetable.stage");
+       if(band_stage){
+         return (band_stage.toLowerCase().indexOf(stage) >= 0)
        }else{
         return false;
        }

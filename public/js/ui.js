@@ -1,6 +1,10 @@
 var UI = new (function (){
   var expanded;
   var numColumns = 2;
+  var self = this;
+  
+  this.stageSelector = new StageSelector(this);
+  this.daySelector = new DaySelector(this);
   
   this.sort = function(name){
     $(".sort.option").removeClass("selected");
@@ -17,6 +21,12 @@ var UI = new (function (){
     fn.call(bands);
   
     columnify();
+  }
+  
+  this.writeControls = function(){
+    this.writeTagMap();
+    this.stageSelector.writeControls();
+    this.daySelector.writeControls();
   }
   
   
@@ -62,6 +72,20 @@ var UI = new (function (){
     expanded = el;
   }
 
+  this.clearHighlight = function(){
+    $('.band').removeClass("selectedOver");
+  }
+  
+  this.highlight = function(els){
+    els.forEach(function(el){
+       el.addClass("selectedOver");
+    });
+  }
+  
+  this.select = function(els){
+  
+  }
+
   function columnify(){
     var columns = [];
     for(var i=0; i< numColumns; i++){
@@ -90,26 +114,24 @@ var UI = new (function (){
       $(tagEl).addClass("size"+sizeClass);   
       $(tagEl).text(tag);
       $(tagEl).mouseover(function(){
-        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return b.id; });
-        selected.forEach(function(id){
-          $('#' + id).addClass("selectedOver");
-        });
+        $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
+        $(tagEl).addClass("selectedOver");
+        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
+        self.highlight(selected);
       });
       $(tagEl).mouseout(function(){
-        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return b.id; });
-        selected.forEach(function(id){
-          $('#' + id).removeClass("selectedOver");
-        });
+        $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
+        self.clearHighlight();
       });
       $(tagEl).click(function(){
-        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return b.id; });
+        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
         var select = !($(tagEl).hasClass("selected"));
-        $("#bands .band.selected").removeClass("selected");
         $("#tagcloud .tag.selected").removeClass("selected");
+        $("#bands .band.selected").removeClass("selected");
         if(select){
           $(tagEl).addClass("selected");
-          selected.forEach(function(id){
-              $('#' + id).addClass("selected");
+          selected.forEach(function(el){
+              el.addClass("selected");
           });
         }
       });
@@ -119,13 +141,14 @@ var UI = new (function (){
   }
   
   this.selectDay = function(day){
-    $(".day.option").removeClass("selected");
-    $(".day.option."+day).addClass("selected");
+    $(".day.option").removeClass("selectedOver");
+    $(".day.option."+day).addClass("selectedOver");
     $('.band').removeClass("selected");
-    
+    self.clearHightlight();
     bands.selectByDay(day).forEach(function(band){
       $('#'+band.id).addClass("selected");
     });
   }
+
 
 })();
