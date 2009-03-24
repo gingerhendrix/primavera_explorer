@@ -5,6 +5,7 @@ var UI = new (function (){
   
   this.stageSelector = new StageSelector(this);
   this.daySelector = new DaySelector(this);
+  this.tagSelector = new TagSelector(this);
   
   this.sort = function(name){
     $(".sort.option").removeClass("selected");
@@ -24,7 +25,7 @@ var UI = new (function (){
   }
   
   this.writeControls = function(){
-    this.writeTagMap();
+    this.tagSelector.writeControls();
     this.stageSelector.writeControls();
     this.daySelector.writeControls();
   }
@@ -104,51 +105,5 @@ var UI = new (function (){
     });
   }
   
-  this.writeTagMap = function(){
-    var selected;
-    bands.tagMap.topTags(42).forEach(function(tag, index, arr){
-      var tagEl = document.createElement("a");
-      var sizeClass = Math.floor((index/arr.length)*7);
-      $(tagEl).attr("href", "#");
-      $(tagEl).addClass("tag");
-      $(tagEl).addClass("size"+sizeClass);   
-      $(tagEl).text(tag);
-      $(tagEl).mouseover(function(){
-        $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
-        $(tagEl).addClass("selectedOver");
-        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
-        self.highlight(selected);
-      });
-      $(tagEl).mouseout(function(){
-        $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
-        self.clearHighlight();
-      });
-      $(tagEl).click(function(){
-        var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
-        var select = !($(tagEl).hasClass("selected"));
-        $("#tagcloud .tag.selected").removeClass("selected");
-        $("#bands .band.selected").removeClass("selected");
-        if(select){
-          $(tagEl).addClass("selected");
-          selected.forEach(function(el){
-              el.addClass("selected");
-          });
-        }
-      });
-      $('#tagcloud').append(tagEl);
-      $('#tagcloud').append(' ');
-   });
-  }
-  
-  this.selectDay = function(day){
-    $(".day.option").removeClass("selectedOver");
-    $(".day.option."+day).addClass("selectedOver");
-    $('.band').removeClass("selected");
-    self.clearHightlight();
-    bands.selectByDay(day).forEach(function(band){
-      $('#'+band.id).addClass("selected");
-    });
-  }
-
 
 })();
