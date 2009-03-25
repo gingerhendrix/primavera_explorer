@@ -2,6 +2,7 @@ var UI = new (function (){
   var expanded;
   var numColumns = 2;
   var self = this;
+  var selected = [];
   
   this.stageSelector = new StageSelector(this);
   this.daySelector = new DaySelector(this);
@@ -83,8 +84,27 @@ var UI = new (function (){
     });
   }
   
-  this.select = function(els){
+  this.currentSelector = function(){
+    return {
+     days : this.daySelector.selected,
+     stages : this.stageSelector.selected
+     };
+  };
   
+  function bandToElement(b){
+     return $('#'+b.id)
+  }
+  
+  this.select = function(){
+    selected = bands.select(this.currentSelector());
+    $('.band').addClass("unselected");
+    selected.forEach(function(band){
+      bandToElement(band).removeClass("unselected");
+    });
+
+    //Compute intersection of selected days, stages and tags
+    //Hide everything else
+    columnify();
   }
 
   function columnify(){

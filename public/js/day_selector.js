@@ -1,6 +1,7 @@
 function DaySelector(ui){
   var self = this;
-
+  this.selected = ["thursday", "friday", "saturday"];
+  
   this.mouseover =  function(day){
     $(".day.option").removeClass("selectedOver");
     $(".day.option."+day).addClass("selectedOver");

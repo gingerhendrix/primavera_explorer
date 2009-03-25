@@ -5,17 +5,23 @@
   */
 function Folksonomy(){
   
+  var tuples = [];
   var tagIndex = {};// { tag : { tuples : [tupleIndex], cumulativeWeight : weight} }
+  var itemIndex = {};
   var tags = []; // All the tags
   
   this.add = function(item, tagCloud){
+    itemIndex[item.id] = [];
     tagCloud.eachTag(function(tag, weight){
       var tuple = {item : item, tag: tag, weight : Number(weight)};
+      tuples.push(tuple);
+      var tupleId = tuples.length -1;
+      itemIndex[item.id].push({tag : tag, weight : weight});
       if(!tagIndex[tag]){
         tags.push(tag);
         tagIndex[tag] = { tuples : [], cumulativeWeight : 0 };
       }
-      tagIndex[tag].tuples.push(tuple);
+      tagIndex[tag].tuples.push(tupleId);
       tagIndex[tag].cumulativeWeight += Number(weight);
     });
   }
@@ -33,12 +39,16 @@ function Folksonomy(){
     return tagIndex[tag];
   }
   
+  this.tagsForItem = function(item){
+    return itemIndex[item.id];  
+  }
+  
   this.itemsForTag = function(tag, cutoff){
      if(!cutoff) cutoff = 10;
-     return tagIndex[tag].tuples.filter(function(tuple){
-        return tuple.weight > cutoff;
-     }).map(function(tuple){
-       return tuple.item;
+     return tagIndex[tag].tuples.filter(function(tupleId){
+        return tuples[tupleId].weight > cutoff;
+     }).map(function(tupleId){
+       return tuples[tupleId].item;
      });
   }
 

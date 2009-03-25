@@ -73,26 +73,45 @@ function Bands(bandsData){
     return this.tagMap;
   }
   
+  function isOnDay(b, day){
+    var band_day = jsonProp(b, "timetable.day");
+     if(band_day){
+       return (band_day.toLowerCase().indexOf(day) >= 0)
+     }else{
+      return false;
+     }
+  }
+
+  function isOnStage(band, stage){
+    var band_stage = jsonProp(band, "timetable.stage");
+    if(band_stage){
+      return (band_stage.toLowerCase().indexOf(stage) >= 0)
+    }else{
+      return false;
+    }
+  }
+  
+  function hasTag(band, stage){
+    
+  }
+
   this.selectByDay = function(day){
-    return this.data.filter(function(b){
-       var band_day = jsonProp(b, "timetable.day");
-       if(band_day){
-         return (band_day.toLowerCase().indexOf(day) >= 0)
-       }else{
-        return false;
-       }
-    });
+    return this.data.filter(function(b){isOnDay(b, day)});
   }
 
   this.selectByStage = function(stage){
+    return this.data.filter(function(b){return isOnStage(b, stage)});
+  }
+  
+  this.select = function(selector){
     return this.data.filter(function(b){
-      var band_stage = jsonProp(b, "timetable.stage");
-       if(band_stage){
-         return (band_stage.toLowerCase().indexOf(stage) >= 0)
-       }else{
-        return false;
-       }
+      var selected = true;
+      //selected = selected && (selector.days.length==0 || selector.days.some(function(day){ isOnDay(b, day) }));
+      selected = selected && (selector.stages.length==0 || selector.stages.some(function(stage){ return isOnStage(b, stage) }));
+   //   selected = selected && (selector.tags.length==0 || b.tags.some(function(tag){ hasTag(b, tag) });   
+      return selected;     
     });
+  
   }
 
 }

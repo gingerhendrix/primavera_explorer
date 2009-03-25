@@ -50,6 +50,7 @@ body{
 #controls .option{
   padding-right: 10px;
   cursor: pointer;
+  white-space: nowrap;
 }
 
 #controls .option.selected{
@@ -105,6 +106,10 @@ ul.column{
   float: left;
   margin: 0;
   padding: 0;
+}
+
+li.band.unselected{
+  display: none;
 }
 
 li.band{
