@@ -96,7 +96,7 @@ function Bands(bandsData){
   }
 
   this.selectByDay = function(day){
-    return this.data.filter(function(b){isOnDay(b, day)});
+    return this.data.filter(function(b){return isOnDay(b, day)});
   }
 
   this.selectByStage = function(stage){
@@ -106,7 +106,7 @@ function Bands(bandsData){
   this.select = function(selector){
     return this.data.filter(function(b){
       var selected = true;
-      //selected = selected && (selector.days.length==0 || selector.days.some(function(day){ isOnDay(b, day) }));
+      selected = selected && (selector.days.length==0 || selector.days.some(function(day){ return isOnDay(b, day) }));
       selected = selected && (selector.stages.length==0 || selector.stages.some(function(stage){ return isOnStage(b, stage) }));
    //   selected = selected && (selector.tags.length==0 || b.tags.some(function(tag){ hasTag(b, tag) });   
       return selected;     
