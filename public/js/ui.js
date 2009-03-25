@@ -97,18 +97,19 @@ var UI = new (function (){
   
   this.select = function(){
     selected = bands.select(this.currentSelector());
-    $('.band').addClass("unselected");
-    selected.forEach(function(band){
-      bandToElement(band).removeClass("unselected");
+    bands.data.forEach(function(band){
+      band.selected = false;
     });
-
-    //Compute intersection of selected days, stages and tags
-    //Hide everything else
+    selected.forEach(function(band){
+      band.selected = true;
+    });
     columnify();
   }
 
   function columnify(){
     var columns = [];
+    var hidden = $(document.createElement("ul"));
+    
     for(var i=0; i< numColumns; i++){
       var ul = document.createElement("ul");
       $(ul).addClass('column');
@@ -116,13 +117,19 @@ var UI = new (function (){
     }
     var colIdx = 0;
     bands.data.forEach(function(b){
-      columns[colIdx].append($('#'+b.id));
-      colIdx = (colIdx +1) % numColumns;
+      if(b.selected){
+        columns[colIdx].append($('#'+b.id));
+        colIdx = (colIdx +1) % numColumns;
+      }else{
+        hidden.append($('#'+b.id));
+      }
     });
     $('#bands').empty();
     columns.forEach(function(c){
       $('#bands').append(c);
     });
+     $('#hidden_bands').empty();
+     $('#hidden_bands').append(hidden);
   }
   
 

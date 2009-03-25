@@ -102,6 +102,10 @@ h1{
   overflow: hidden;
 }
 
+#hidden_bands{
+  display: none;
+}
+
 ul.column{
   float: left;
   margin: 0;
