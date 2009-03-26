@@ -4,18 +4,21 @@ function OptionSelector(){
   this.options = []; //Override in child class
   this.optionClass = ""; //Override in child class
   this.optionsId = ""; //Override in child class
-  
+
   this.selected = [];
+  this.highlighted;
 
   this.mouseover =  function(option){
     $(".option."+this.optionClass).removeClass("selectedOver");
-    this.getOptionElement().addClass("selectedOver");
-    // ui.highlight(bands.selectByoption(option).map(function(b){ return $('#'+b.id); } ));
+    this.getOptionElement(option).addClass("selectedOver");
+    this.highlighted = option;
+    //this.ui.highlight();
   }
   
   this.mouseout = function(option){
    $(".option." + this.optionClass).removeClass("selectedOver");
-  // ui.clearHighlight();
+   this.highlighted = false;
+   //this.ui.clearHighlight();
   }
   
   this.getOptionElement = function(option){

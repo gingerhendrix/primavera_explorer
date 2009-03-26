@@ -75,20 +75,30 @@ var UI = new (function (){
   }
 
   this.clearHighlight = function(){
-    $('.band').removeClass("selectedOver");
-    $('.band').css('opacity', 100);
+  //  $('.band').removeClass("selectedOver");
+    $('.band').css('opacity', 1);
   }
   
-  this.highlight = function(els){
-    els.forEach(function(el){
-       el.addClass("selectedOver");
+  this.highlight = function(){
+    var highlighted;
+    if(this.daySelector.highlighted){
+      highlighted = bands.selectByDay(this.daySelector.highlighted);
+    }else if(this.stageSelector.highlighted){
+      highlighted = bands.selectByStage(this.stageSelector.highlighted);
+    }else{
+      highlighted = [];
+    }
+    $('.band').css('opacity', 0);
+    highlighted.forEach(function(band){
+//       bandToElement(band).addClass("selectedOver");
+       bandToElement(band).css('opacity', 1);
     });
   }
   
   this.fuzzyHighlight = function(selection){
     $('.band').css('opacity', 0);
     selection.forEach(function(tuple){
-      $('#'+tuple.item.id).css('opacity', tuple.weight/100);
+      bandToElement(tuple.item).css('opacity', tuple.weight/100);
     });
   }
   
