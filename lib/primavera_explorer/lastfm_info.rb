@@ -5,6 +5,7 @@ class LastfmInfo
 
   def initialize(name)
     @name = name
+    @info = {}
   end
 
   def load_from_web
@@ -20,6 +21,10 @@ class LastfmInfo
   
   def to_h
     info
+  end
+  
+  def to_json
+    { :stats => (info ? info['stats'] : {}) }
   end
     
   def resource_name

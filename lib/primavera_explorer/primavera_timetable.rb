@@ -67,6 +67,10 @@ class PrimaveraTimetable
        :time => @time}
     end
     
+    def to_json
+      to_h
+    end
+    
   end
 
 end

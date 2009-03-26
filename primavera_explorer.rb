@@ -22,6 +22,6 @@ get '/bandsData.js' do
   @timetable = PrimaveraTimetable.new
   @timetable.load_from_db(db)
   @bands = @timetable.bands
-  "var bandsData = " + @bands.map(&:to_h).to_json + ";\n"
+  "var bandsData = " + @bands.map(&:to_json).to_json + ";\n"
 end
 

@@ -34,16 +34,16 @@ function Bands(bandsData){
 
   this.sortByPlaycount = function(){
     this.data = this.data.sort(function(b1, b2){
-      var pc1 = jsonProp(b1, "lastfm.info.stats.playcount")  || 0;
-      var pc2 = jsonProp(b2, "lastfm.info.stats.playcount") || 0;
+      var pc1 = jsonProp(b1, "info.stats.playcount")  || 0;
+      var pc2 = jsonProp(b2, "info.stats.playcount") || 0;
       return Number(pc1) > Number(pc2) ? -1 : 1;
     });
   }
   
   this.sortByListeners = function(){
     this.data = this.data.sort(function(b1, b2){
-     var l1 = jsonProp(b1, "lastfm.info.stats.listeners") || 0;
-     var l2 = jsonProp(b2, "lastfm.info.stats.listeners") || 0;
+     var l1 = jsonProp(b1, "info.stats.listeners") || 0;
+     var l2 = jsonProp(b2, "info.stats.listeners") || 0;
      return Number(l1) > Number(l2) ? -1 : 1;
     });
   }
@@ -61,7 +61,7 @@ function Bands(bandsData){
     var self = this;
     this.tagMap = new Folksonomy();
     bandsData.forEach(function(band){
-      var tags = jsonProp(band, "lastfm.tags.tag") || [];
+      var tags = jsonProp(band, "tags.tag") || [];
       if($.isArray(tags)){
         var tagCloud = new TagCloud();
         tags.forEach(function(t){

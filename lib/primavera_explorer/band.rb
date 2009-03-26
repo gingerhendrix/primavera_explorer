@@ -49,6 +49,13 @@ class Band
      :timetable => @timetable_entry ? @timetable_entry.to_h : nil }
   end
   
+  def to_json
+    {:id => element_id,
+     :timetable => @timetable_entry ? @timetable_entry.to_json : nil ,
+     :tags => @lastfm_tags.to_json,
+     :info => @lastfm_info.to_json }
+  end
+  
   def to_db
     {:id => element_id,
      :name => @name,
