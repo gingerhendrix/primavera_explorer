@@ -31,7 +31,10 @@ function OptionSelector(){
   
   this.deselect = function(option){
     this.getOptionElement(option).removeClass("selected");
-    this.selected.splice(i, 1);
+    var i = this.selected.indexOf(option);
+    if(i>=0){
+      this.selected.splice(i, 1);
+    }
   }
   
   this.clearSelection = function(option){

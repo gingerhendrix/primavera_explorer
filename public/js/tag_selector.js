@@ -2,6 +2,7 @@
 function TagSelector(ui){
   this.ui = ui;
   var self = this;
+  this.selected = [];
   
   this.mouseover =  function(tag, tagEl){
     $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
@@ -14,18 +15,34 @@ function TagSelector(ui){
     $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
     ui.clearHighlight();
   }
+
+  this.select = function(tag, tagEl){
+    $(tagEl).addClass("selected");
+    this.selected.push(tag);
+    ui.select();
+  }
+  
+  this.deselect = function(tag, tagEl){
+    $(tagEl).removeClass("selected");
+    var i = this.selected.indexOf(tag);
+    if(i>=0){
+      this.selected.splice(i, 1);
+    }
+    ui.select();
+ }
+  
+  this.toggleSelection = function(tag, tagEl){
+    var i = this.selected.indexOf(tag);
+    if(i>=0){    
+      this.deselect(tag, tagEl);
+    }else{
+      this.select(tag, tagEl);      
+    }
+    ui.select();
+  }
   
   this.click = function(tag, tagEl){
-    var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
-    var select = !($(tagEl).hasClass("selected"));
-    $("#tagcloud .tag.selected").removeClass("selected");
-    $("#bands .band.selected").removeClass("selected");
-    if(select){
-      $(tagEl).addClass("selected");
-        selected.forEach(function(el){
-          el.addClass("selected");
-       });
-    }
+    this.toggleSelection(tag, tagEl);
   }
   
   this.writeControls = function(){

@@ -87,7 +87,8 @@ var UI = new (function (){
   this.currentSelector = function(){
     return {
      days : this.daySelector.selected,
-     stages : this.stageSelector.selected
+     stages : this.stageSelector.selected,
+     tags : this.tagSelector.selected
      };
   };
   

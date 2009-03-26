@@ -29,6 +29,7 @@ var bands;
 function Bands(bandsData){
   this.data = bandsData;
   this.tagMap;
+  var self = this;
 
   this.sortByPlaycount = function(){
     this.data = this.data.sort(function(b1, b2){
@@ -91,8 +92,8 @@ function Bands(bandsData){
     }
   }
   
-  function hasTag(band, stage){
-    
+  function hasTag(band, tag){
+    return self.tagMap.tagsForItem(band).some(function(t){ return (t.tag == tag) && (t.weight > 10); });
   }
 
   this.selectByDay = function(day){
@@ -108,7 +109,7 @@ function Bands(bandsData){
       var selected = true;
       selected = selected && (selector.days.length==0 || selector.days.some(function(day){ return isOnDay(b, day) }));
       selected = selected && (selector.stages.length==0 || selector.stages.some(function(stage){ return isOnStage(b, stage) }));
-   //   selected = selected && (selector.tags.length==0 || b.tags.some(function(tag){ hasTag(b, tag) });   
+      selected = selected && (selector.tags.length==0 || selector.tags.some(function(tag){ return hasTag(b, tag) }));   
       return selected;     
     });
   

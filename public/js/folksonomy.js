@@ -40,7 +40,7 @@ function Folksonomy(){
   }
   
   this.tagsForItem = function(item){
-    return itemIndex[item.id];  
+    return itemIndex[item.id] || [];  
   }
   
   this.itemsForTag = function(tag, cutoff){
