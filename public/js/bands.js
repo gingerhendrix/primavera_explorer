@@ -67,8 +67,8 @@ function Bands(bandsData){
         tags.forEach(function(t){
           tagCloud.addTag(t.name, t.count);
         });
-        tagCloud.normalizeNames();
-        tagCloud.removeZeroWeighted();
+       // tagCloud.normalizeNames();
+       // tagCloud.removeZeroWeighted();
         self.tagMap.add(band, tagCloud);
       }
     });
