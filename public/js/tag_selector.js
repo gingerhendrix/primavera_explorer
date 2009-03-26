@@ -17,6 +17,7 @@ function TagSelector(ui){
   }
 
   this.select = function(tag, tagEl){
+    this.selected = [];
     $(tagEl).addClass("selected");
     this.selected.push(tag);
     ui.select();
@@ -31,6 +32,10 @@ function TagSelector(ui){
     ui.select();
  }
   
+  this.clearSelection = function(){
+    $("#tagcloud .tag.selected").removeClass("selected");  
+  }
+  
   this.toggleSelection = function(tag, tagEl){
     var i = this.selected.indexOf(tag);
     if(i>=0){    
@@ -42,6 +47,7 @@ function TagSelector(ui){
   }
   
   this.click = function(tag, tagEl){
+    this.clearSelection()
     this.toggleSelection(tag, tagEl);
   }
   
