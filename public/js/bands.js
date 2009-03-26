@@ -6,6 +6,7 @@ $(document.body).ready(function(){
   window.setTimeout(function(){
     bands.makeTagMap();
     UI.writeControls();
+    UI.select();
   }, 10);
 });
 

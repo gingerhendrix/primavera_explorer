@@ -74,6 +74,7 @@ function OptionSelector(){
       container.append(optionEl);
       container.append(' ');
     });
+    this.select("all");
   } 
 
 }

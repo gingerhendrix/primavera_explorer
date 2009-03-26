@@ -76,11 +76,19 @@ var UI = new (function (){
 
   this.clearHighlight = function(){
     $('.band').removeClass("selectedOver");
+    $('.band').css('opacity', 100);
   }
   
   this.highlight = function(els){
     els.forEach(function(el){
        el.addClass("selectedOver");
+    });
+  }
+  
+  this.fuzzyHighlight = function(selection){
+    $('.band').css('opacity', 0);
+    selection.forEach(function(tuple){
+      $('#'+tuple.item.id).css('opacity', tuple.weight/100);
     });
   }
   

@@ -35,6 +35,10 @@ function Folksonomy(){
     return tags.slice(0, n);
   }
   
+  this.tuple = function(idx){
+    return tuples[idx];
+  }
+  
   this.tuplesForTag = function(tag){
     return tagIndex[tag];
   }

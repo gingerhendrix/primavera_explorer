@@ -7,8 +7,8 @@ function TagSelector(ui){
   this.mouseover =  function(tag, tagEl){
     $("#tagcloud .tag.selectedOver").removeClass("selectedOver");
     $(tagEl).addClass("selectedOver");
-    var selected = bands.tagMap.itemsForTag(tag).map(function(b){ return $('#' + b.id); });
-    ui.highlight(selected);
+    var selected = bands.tagMap.tuplesForTag(tag).tuples.map(function(t){ return bands.tagMap.tuple(t); });
+    ui.fuzzyHighlight(selected);
   }
   
   this.mouseout = function(tag, tagEl){
