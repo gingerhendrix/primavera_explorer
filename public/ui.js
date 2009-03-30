@@ -258,6 +258,7 @@ var UI = new (function (){
 
 
   this.expand = function(el){
+    tracker.trackArtistSelect($(el).attr("id"));
     if(expanded && expanded != el) $(expanded).removeClass("expand");
     $(el).toggleClass("expand");
     expanded = el;
@@ -301,6 +302,10 @@ var UI = new (function (){
   
   function bandToElement(b){
      return $('#'+b.id)
+  }
+  
+  function elementToBand(el){
+    return bands.find_by_id($(el).attr("id"))
   }
   
   this.select = function(){
@@ -594,8 +599,10 @@ function Folksonomy(){
 
 }
 
+var tracker;
 
 $(document.body).ready(function(){
+  tracker = new Tracker(pageTracker);
   bands = new Bands(bandsData);
   UI.viewCompact();
   UI.sort('listeners');
@@ -605,6 +612,7 @@ $(document.body).ready(function(){
     UI.select();
   }, 10);
 });
+
 
 function jsonProp(json, propRef){
   var props = propRef.split(".");
@@ -711,8 +719,22 @@ function Bands(bandsData){
     });
   
   }
+  
+  this.find_by_id = function(band_id){
+    console.log("Finding " + band_id);
+    return this.data.filter(function(b){
+      return b.id === band_id;
+    })[0];
+  }
 
 }
 
 
+
+function Tracker(pageTracker){
+  
+  this.trackArtistSelect = function(artist_name){
+    pageTracker._trackEvent("Artists", "Select", artist_name);
+  }
+}
 

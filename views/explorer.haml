@@ -61,3 +61,17 @@
               %div.info
                 %span.no_info= "Sorry, I don't know anything about " + b.name
     %div#hidden_bands
+    %script
+      :plain
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    %script
+      :plain
+        try {
+          var pageTracker = _gat._getTracker("UA-8143307-1");
+          pageTracker._trackPageview();
+        } catch(err) {
+          if(console && console.log){
+            console.log("GA Error %o", err);
+          }
+        }    

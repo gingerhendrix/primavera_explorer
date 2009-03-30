@@ -1,5 +1,7 @@
+var tracker;
 
 $(document.body).ready(function(){
+  tracker = new Tracker(pageTracker);
   bands = new Bands(bandsData);
   UI.viewCompact();
   UI.sort('listeners');
@@ -9,6 +11,7 @@ $(document.body).ready(function(){
     UI.select();
   }, 10);
 });
+
 
 function jsonProp(json, propRef){
   var props = propRef.split(".");
@@ -114,6 +117,13 @@ function Bands(bandsData){
       return selected;     
     });
   
+  }
+  
+  this.find_by_id = function(band_id){
+    console.log("Finding " + band_id);
+    return this.data.filter(function(b){
+      return b.id === band_id;
+    })[0];
   }
 
 }

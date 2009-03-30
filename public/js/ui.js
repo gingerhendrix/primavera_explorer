@@ -69,6 +69,7 @@ var UI = new (function (){
 
 
   this.expand = function(el){
+    tracker.trackArtistSelect($(el).attr("id"));
     if(expanded && expanded != el) $(expanded).removeClass("expand");
     $(el).toggleClass("expand");
     expanded = el;
@@ -112,6 +113,10 @@ var UI = new (function (){
   
   function bandToElement(b){
      return $('#'+b.id)
+  }
+  
+  function elementToBand(el){
+    return bands.find_by_id($(el).attr("id"))
   }
   
   this.select = function(){
