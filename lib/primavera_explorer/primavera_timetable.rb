@@ -10,7 +10,9 @@ class PrimaveraTimetable
     @doc = Hpricot(open("http://www.primaverasound.com/index.php?sec=horarios&idioma=en"))
     @entries = [];
     @doc.search('#horarios tr') do |el|
-      @entries << TimetableEntry.new_from_element(el);
+      if el.at("td.nom")
+        @entries << TimetableEntry.new_from_element(el);
+      end
     end
     @doc
   end

@@ -15,6 +15,10 @@
   :display_name: Alela Diane
   :name: Alela Diane
   :id: artist_Alela_Diane
+- :lastfm_name: Alondra Bentley
+  :display_name: Alondra Bentley
+  :name: Alondra Bentley
+  :id: artist_Alondra_Bentley
 - :lastfm_name: Andrew Bird
   :display_name: Andrew Bird
   :name: Andrew Bird
@@ -31,10 +35,10 @@
   :display_name: Aphex Twin
   :name: Aphex Twin
   :id: artist_Aphex_Twin
-- :lastfm_name: Ariel Pink
-  :display_name: Ariel Pink
-  :name: Ariel Pink
-  :id: artist_Ariel_Pink
+- :lastfm_name: Ariel Pink's Haunted Graffiti
+  :display_name: Ariel Pink's Haunted Graffiti
+  :name: Ariel Pink's Haunted Graffiti
+  :id: artist_Ariel_Pink_s_Haunted_Graffiti
 - :lastfm_name: Art Brut
   :display_name: Art Brut
   :name: Art Brut
@@ -43,8 +47,8 @@
   :display_name: Bat For Lashes
   :name: Bat For Lashes
   :id: artist_Bat_For_Lashes
-- :lastfm_name: "B\xE9lmez"
-  :display_name: "B\xE9lmez"
+- :lastfm_name: "Bolmez"
+  :display_name: "Bolmez"
   :name: "B\xE9lmez"
   :id: artist_B_lmez
 - :lastfm_name: Black Lips
@@ -67,6 +71,10 @@
   :display_name: Carsick Cars
   :name: Carsick Cars
   :id: artist_Carsick_Cars
+- :lastfm_name: Centella
+  :display_name: Centella
+  :name: Centella
+  :id: artist_Centella
 - :lastfm_name: Chad VanGaalen
   :display_name: Chad VanGaalen
   :name: Chad VanGaalen
@@ -103,6 +111,10 @@
   :display_name: Dead Meadow
   :name: Dead Meadow
   :id: artist_Dead_Meadow
+- :lastfm_name: Declan Allen & Barry Hogan djs
+  :display_name: Declan Allen & Barry Hogan djs
+  :name: Declan Allen & Barry Hogan djs
+  :id: artist_Declan_Allen___Barry_Hogan_djs
 - :lastfm_name: Deerhunter
   :display_name: Deerhunter
   :name: Deerhunter
@@ -111,6 +123,22 @@
   :display_name: DJ /rupture
   :name: DJ /rupture
   :id: artist_DJ__rupture
+- :lastfm_name: Dj Coco
+  :display_name: Dj Coco
+  :name: Dj Coco
+  :id: artist_Dj_Coco
+- :lastfm_name: Dj Feadz & Jackson
+  :display_name: Dj Feadz & Jackson
+  :name: Dj Feadz & Jackson
+  :id: artist_Dj_Feadz___Jackson
+- :lastfm_name: Dj Fra
+  :display_name: Dj Fra
+  :name: Dj Fra
+  :id: artist_Dj_Fra
+- :lastfm_name: Dj Kosmos
+  :display_name: Dj Kosmos
+  :name: Dj Kosmos
+  :id: artist_Dj_Kosmos
 - :lastfm_name: Dj Mehdi
   :display_name: Dj Mehdi
   :name: Dj Mehdi
@@ -127,18 +155,26 @@
   :display_name: Duchess Says
   :name: Duchess Says
   :id: artist_Duchess_Says
-- :lastfm_name: "dälek"
-  :display_name: "dälek"
-  :name: "D\xE4lek"
+- :lastfm_name: Dalek
+  :display_name: Dalek
+  :name: D\xE4lek
   :id: artist_D_lek
 - :lastfm_name: Ebony Bones
   :display_name: Ebony Bones
   :name: Ebony Bones
   :id: artist_Ebony_Bones
+- :lastfm_name: El Gremio
+  :display_name: El Gremio
+  :name: El Gremio
+  :id: artist_El_Gremio
 - :lastfm_name: El-P
   :display_name: El-P
   :name: El-P
   :id: artist_El_P
+- :lastfm_name: Elvira
+  :display_name: Elvira
+  :name: Elvira
+  :id: artist_Elvira
 - :lastfm_name: Extra Life
   :display_name: Extra Life
   :name: Extra Life
@@ -147,6 +183,10 @@
   :display_name: Extraperlo
   :name: Extraperlo
   :id: artist_Extraperlo
+- :lastfm_name: Ezra Furman & the Harpoons
+  :display_name: Ezra Furman & the Harpoons
+  :name: Ezra Furman & the Harpoons
+  :id: artist_Ezra_Furman___the_Harpoons
 - :lastfm_name: Fucked Up
   :display_name: Fucked Up
   :name: Fucked Up
@@ -163,6 +203,10 @@
   :display_name: Girls
   :name: Girls
   :id: artist_Girls
+- :lastfm_name: "G\xFAdar"
+  :display_name: "G\xFAdar"
+  :name: "G\xFAdar"
+  :id: artist_G_dar
 - :lastfm_name: Half Foot Outside
   :display_name: Half Foot Outside
   :name: Half Foot Outside
@@ -171,6 +215,10 @@
   :display_name: Herman Dune
   :name: Herman Dune
   :id: artist_Herman_Dune
+- :lastfm_name: Hola A Todo El Mundo
+  :display_name: Hola A Todo El Mundo
+  :name: Hola A Todo El Mundo
+  :id: artist_Hola_A_Todo_El_Mundo
 - :lastfm_name: Jarvis Cocker
   :display_name: Jarvis Cocker
   :name: Jarvis Cocker
@@ -191,9 +239,13 @@
   :display_name: Jesu
   :name: Jesu
   :id: artist_Jesu
-- :lastfm_name: "Joe Crepusculo"
-  :display_name: "Joe Crepusculo y Los Destructores"
-  :name: "Joe Crep\xFAsculo y Los Destructores"
+- :lastfm_name: Joan Colomo
+  :display_name: Joan Colomo
+  :name: Joan Colomo
+  :id: artist_Joan_Colomo
+- :lastfm_name: Joe Crepusculo y Los Destructores
+  :display_name: Joe Crepusculo y Los Destructores
+  :name: Joe Crep\xFAsculo y Los Destructores
   :id: artist_Joe_Crep_sculo_y_Los_Destructores
 - :lastfm_name: Joe Henry
   :display_name: Joe Henry
@@ -203,6 +255,10 @@
   :display_name: John Maus
   :name: John Maus
   :id: artist_John_Maus
+- :lastfm_name: Juan B
+  :display_name: Juan B
+  :name: Juan B
+  :id: artist_Juan_B
 - :lastfm_name: Karl Blau
   :display_name: Karl Blau
   :name: Karl Blau
@@ -255,6 +311,10 @@
   :display_name: Maika Makovski
   :name: Maika Makovski
   :id: artist_Maika_Makovski
+- :lastfm_name: Marc Pinol
+  :display_name: Marc Pinol
+  :name: "Marc Pi\xF1ol"
+  :id: artist_Marc_Pi_ol
 - :lastfm_name: Marnie Stern
   :display_name: Marnie Stern
   :name: Marnie Stern
@@ -275,6 +335,10 @@
   :display_name: Michael Nyman
   :name: Michael Nyman
   :id: artist_Michael_Nyman
+- :lastfm_name: Mujeres
+  :display_name: Mujeres
+  :name: Mujeres
+  :id: artist_Mujeres
 - :lastfm_name: Muletrain
   :display_name: Muletrain
   :name: Muletrain
@@ -291,6 +355,10 @@
   :display_name: Oneida
   :name: Oneida
   :id: artist_Oneida
+- :lastfm_name: Oniric
+  :display_name: Oniric
+  :name: Oniric
+  :id: artist_Oniric
 - :lastfm_name: PAL
   :display_name: PAL
   :name: PAL
@@ -300,13 +368,17 @@
   :name: Phoenix
   :id: artist_Phoenix
 - :lastfm_name: Plants and Animals
-  :display_name: Plants and Animals
+  :display_name: Plants & Animals
   :name: Plants & Animals
   :id: artist_Plants___Animals
 - :lastfm_name: Ponytail
   :display_name: Ponytail
   :name: Ponytail
   :id: artist_Ponytail
+- :lastfm_name: QA'A
+  :display_name: QA'A
+  :name: QA'A
+  :id: artist_QA_A
 - :lastfm_name: Reigning Sound
   :display_name: Reigning Sound
   :name: Reigning Sound
@@ -323,6 +395,10 @@
   :display_name: Saint Etienne
   :name: Saint Etienne
   :id: artist_Saint_Etienne
+- :lastfm_name: "Sedaios"
+  :display_name: "Sedaios"
+  :name: "Sedai\xF3s"
+  :id: artist_Sedai_s
 - :lastfm_name: Shearwater
   :display_name: Shearwater
   :name: Shearwater
@@ -335,8 +411,8 @@
   :display_name: Simian Mobile Disco
   :name: Simian Mobile Disco
   :id: artist_Simian_Mobile_Disco
-- :lastfm_name: "Skatebård"
-  :display_name: "Skatebård"
+- :lastfm_name: "Skatebard"
+  :display_name: "Skatebard"
   :name: "Skateb\xE5rd"
   :id: artist_Skateb_rd
 - :lastfm_name: Sleepy Sun
@@ -387,6 +463,10 @@
   :display_name: The Bug
   :name: The Bug
   :id: artist_The_Bug
+- :lastfm_name: The Disciplines
+  :display_name: The Disciplines
+  :name: The Disciplines
+  :id: artist_The_Disciplines
 - :lastfm_name: The Drones
   :display_name: The Drones
   :name: The Drones
@@ -395,6 +475,10 @@
   :display_name: The Extraordinaires
   :name: The Extraordinaires
   :id: artist_The_Extraordinaires
+- :lastfm_name: The Horrors
+  :display_name: The Horrors
+  :name: The Horrors
+  :id: artist_The_Horrors
 - :lastfm_name: The Intelligence
   :display_name: The Intelligence
   :name: The Intelligence
@@ -448,17 +532,13 @@
   :name: Throwing Muses
   :id: artist_Throwing_Muses
 - :lastfm_name: Tim Burgess
-  :display_name: Tim Burgess (The Charlatans)
+  :display_name: Tim Burgess
   :name: Tim Burgess (The Charlatans)
   :id: artist_Tim_Burgess__The_Charlatans_
 - :lastfm_name: Tokyo Sex Destruction
   :display_name: Tokyo Sex Destruction
   :name: Tokyo Sex Destruction
   :id: artist_Tokyo_Sex_Destruction
-- :lastfm_name: Uffie
-  :display_name: Uffie
-  :name: Uffie
-  :id: artist_Uffie
 - :lastfm_name: Veracruz
   :display_name: Veracruz
   :name: Veracruz
@@ -483,6 +563,10 @@
   :display_name: Wooden Shjips
   :name: Wooden Shjips
   :id: artist_Wooden_Shjips
+- :lastfm_name: "Uber"
+  :display_name: "Uber"
+  :name: "\xDCber"
+  :id: artist__ber
 - :lastfm_name: Yo La Tengo
   :display_name: Yo La Tengo
   :name: Yo La Tengo
