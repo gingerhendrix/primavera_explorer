@@ -53,8 +53,8 @@ function Bands(bandsData){
 
   this.sortByAlpha = function(){
     this.data = this.data.sort(function(b1, b2){
-       var a1 = jsonProp(b1, "name") || "";
-       var a2 = jsonProp(b2, "name") || "";
+       var a1 = jsonProp(b1, "name");
+       var a2 = jsonProp(b2, "name");
        return a1 > a2 ? 1 : -1;
     });
   }
