@@ -20,6 +20,7 @@
             %span{ :class => "sort option alpha", :onclick => "UI.sort('alpha')"} alpha
             %span{ :class => "sort option playcount", :onclick => "UI.sort('playcount')"} playcount
             %span{ :class => "sort option listeners", :onclick => "UI.sort('listeners')"} listeners
+            %span{ :class => "sort option date", :onclick => "UI.sort('date')"} date
         %div.view
           %span.label view
           %div.options
@@ -38,40 +39,6 @@
     %div#bands
       %ul
         - @bands.each do |b| 
-          %li.band{ :id => b.element_id, :onclick => "UI.expand(this)", :class => "band" }
-            %span.name= b.display_name  
-            - if b.lastfm_info
-              %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
-              %div.info
-                %div.stats
-                  %span.listeners= "Listeners: " + b.lastfm_info.listeners.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-                  %span.playcount= "Playcount: " + b.lastfm_info.playcount.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-                %div.tags
-                  - b.lastfm_tags.top_tags.each do |tag|
-                    %span.tag= tag['name']                  
-                %div.timetable
-                  %span.label Stage
-                  %span.stage= b.timetable_entry.stage
-                  %span.label Day
-                  %span.day= b.timetable_entry.day
-                  %span.label Time
-                  %span.time= b.timetable_entry.time
-                %span.bio= b.lastfm_info.bio
-            - else
-              %div.info
-                %span.no_info= "Sorry, I don't know anything about " + b.name
+          = haml :_band, :locals => { :b => b } 
     %div#hidden_bands
-    %script
-      :plain
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    %script
-      :plain
-        try {
-          var pageTracker = _gat._getTracker("UA-8143307-1");
-          pageTracker._trackPageview();
-        } catch(err) {
-          if(console && console.log){
-            console.log("GA Error %o", err);
-          }
-        }    
+    = haml :_analytics
