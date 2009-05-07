@@ -6,8 +6,10 @@ function StageSelector(ui){
     {id : "atp", title : "atp"},
     {id : "pitchfork", title : "pitchfork"},
     {id : "miro", title : "joan miro park"},
-    {id : "forum", title : "parc del forum"},
-    {id : "apolo", title : "apolo venue"}];
+    {id : "auditori", title : "auditori"},
+    {id : "apolo", title : "apolo venue"},
+    {id : "vice", title : "vice"},
+    {id : "rockdelux", title: "rockdelux"}];
   this.optionClass = "stage";
   this.optionsId = "stage_options"; 
   
