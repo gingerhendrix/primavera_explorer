@@ -2,7 +2,7 @@
 %html
   %head
     %meta{ :charset => "UTF-8" }
-    %link{ :rel => "stylesheet", :href => "css/bands.css" }
+    %link{ :rel => "stylesheet", :href => "css/timetable.css" }
     %script{ :src => "js/jquery.js"}
     %script{ :src => "http://base2.googlecode.com/svn/version/1.0/base2-p.js" }
     %script= "base2.JavaScript.bind(window);"
@@ -14,4 +14,10 @@
       - @timetable.days.each do |day|
         %div.day
           %h2= day
+          - @timetable.stages_for_day(day).each do |stage|
+            %div.stage
+              %h3= stage
+              %ul.bands
+                - @timetable.bands_for_day_and_stage(day, stage).each do |band|
+                  = haml :_band, :locals => {:b => band}
     = haml :_analytics

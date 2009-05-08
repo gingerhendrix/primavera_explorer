@@ -1,4 +1,4 @@
-require File.dirname(__FILE__) + 'spec_helper.rb'
+require File.dirname(__FILE__) + '/spec_helper.rb'
 
 describe "PrimaveraTimetable" do
 
@@ -14,14 +14,14 @@ describe "PrimaveraTimetable" do
     end
     
     it "should populate entries" do
-      @pt.entries.length.should be 124
+      @pt.entries.length.should be 145
     end
     
     it "should have correct first entry" do
       @pt.entries[0].name.should == "A Certain Ratio"
-      @pt.entries[0].stage.should == "PARC DEL FORUM"
+      @pt.entries[0].stage.should == "RAY BAN - VICE"
       @pt.entries[0].day.should == "Friday 29th of may"
-      @pt.entries[0].time.should == "00:00"
+      @pt.entries[0].time.should == "02:00"
     end
   end
   

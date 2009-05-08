@@ -19,6 +19,8 @@ var UI = new (function (){
       fn = bands.sortByListeners;
     }else if(name=="playcount"){
       fn = bands.sortByPlaycount;
+    }else if(name=="date"){
+      fn = bands.sortByDate;
     }
     fn.call(bands);
   

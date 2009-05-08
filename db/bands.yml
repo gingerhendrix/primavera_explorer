@@ -47,8 +47,8 @@
   :display_name: Bat For Lashes
   :name: Bat For Lashes
   :id: artist_Bat_For_Lashes
-- :lastfm_name: "Bolmez"
-  :display_name: "Bolmez"
+- :lastfm_name: "B\xE9lmez"
+  :display_name: "B\xE9lmez"
   :name: "B\xE9lmez"
   :id: artist_B_lmez
 - :lastfm_name: Black Lips
@@ -99,7 +99,7 @@
   :display_name: Damien Jurado
   :name: Damien Jurado
   :id: artist_Damien_Jurado
-- :lastfm_name: Dan Deacon
+- :lastfm_name: Dan Deacon Ensemble
   :display_name: Dan Deacon Ensemble
   :name: Dan Deacon Ensemble
   :id: artist_Dan_Deacon_Ensemble
@@ -155,9 +155,9 @@
   :display_name: Duchess Says
   :name: Duchess Says
   :id: artist_Duchess_Says
-- :lastfm_name: Dalek
-  :display_name: Dalek
-  :name: D\xE4lek
+- :lastfm_name: "D\xE4lek"
+  :display_name: "D\xE4lek"
+  :name: "D\xE4lek"
   :id: artist_D_lek
 - :lastfm_name: Ebony Bones
   :display_name: Ebony Bones
@@ -243,9 +243,9 @@
   :display_name: Joan Colomo
   :name: Joan Colomo
   :id: artist_Joan_Colomo
-- :lastfm_name: Joe Crepusculo y Los Destructores
-  :display_name: Joe Crepusculo y Los Destructores
-  :name: Joe Crep\xFAsculo y Los Destructores
+- :lastfm_name: "Joe Crep\xFAsculo y Los Destructores"
+  :display_name: "Joe Crep\xFAsculo y Los Destructores"
+  :name: "Joe Crep\xFAsculo y Los Destructores"
   :id: artist_Joe_Crep_sculo_y_Los_Destructores
 - :lastfm_name: Joe Henry
   :display_name: Joe Henry
@@ -311,8 +311,8 @@
   :display_name: Maika Makovski
   :name: Maika Makovski
   :id: artist_Maika_Makovski
-- :lastfm_name: Marc Pinol
-  :display_name: Marc Pinol
+- :lastfm_name: "Marc Pi\xF1ol"
+  :display_name: "Marc Pi\xF1ol"
   :name: "Marc Pi\xF1ol"
   :id: artist_Marc_Pi_ol
 - :lastfm_name: Marnie Stern
@@ -367,7 +367,7 @@
   :display_name: Phoenix
   :name: Phoenix
   :id: artist_Phoenix
-- :lastfm_name: Plants and Animals
+- :lastfm_name: Plants & Animals
   :display_name: Plants & Animals
   :name: Plants & Animals
   :id: artist_Plants___Animals
@@ -395,8 +395,8 @@
   :display_name: Saint Etienne
   :name: Saint Etienne
   :id: artist_Saint_Etienne
-- :lastfm_name: "Sedaios"
-  :display_name: "Sedaios"
+- :lastfm_name: "Sedai\xF3s"
+  :display_name: "Sedai\xF3s"
   :name: "Sedai\xF3s"
   :id: artist_Sedai_s
 - :lastfm_name: Shearwater
@@ -411,8 +411,8 @@
   :display_name: Simian Mobile Disco
   :name: Simian Mobile Disco
   :id: artist_Simian_Mobile_Disco
-- :lastfm_name: "Skatebard"
-  :display_name: "Skatebard"
+- :lastfm_name: "Skateb\xE5rd"
+  :display_name: "Skateb\xE5rd"
   :name: "Skateb\xE5rd"
   :id: artist_Skateb_rd
 - :lastfm_name: Sleepy Sun
@@ -531,8 +531,8 @@
   :display_name: Throwing Muses
   :name: Throwing Muses
   :id: artist_Throwing_Muses
-- :lastfm_name: Tim Burgess
-  :display_name: Tim Burgess
+- :lastfm_name: Tim Burgess (The Charlatans)
+  :display_name: Tim Burgess (The Charlatans)
   :name: Tim Burgess (The Charlatans)
   :id: artist_Tim_Burgess__The_Charlatans_
 - :lastfm_name: Tokyo Sex Destruction
@@ -563,8 +563,8 @@
   :display_name: Wooden Shjips
   :name: Wooden Shjips
   :id: artist_Wooden_Shjips
-- :lastfm_name: "Uber"
-  :display_name: "Uber"
+- :lastfm_name: "\xDCber"
+  :display_name: "\xDCber"
   :name: "\xDCber"
   :id: artist__ber
 - :lastfm_name: Yo La Tengo

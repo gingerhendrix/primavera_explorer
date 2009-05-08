@@ -11,7 +11,28 @@ class PrimaveraTimetable
     @entries = [];
     @doc.search('#horarios tr') do |el|
       if el.at("td.nom")
-        @entries << TimetableEntry.new_from_element(el);
+        name = el.at("td.nom a").inner_html.strip
+        if el.at("td.escenari").inner_html.include? "<br />"
+          names = [name, name]
+          stages = el.at("td.escenari").inner_html.split("<br />")
+          days = el.at("td.dia").inner_html.split("<br />")
+          times = el.at("td.horari").inner_html.split("<br />")
+          [0,1].each do |i|
+            entry = TimetableEntry.new
+            entry.name = names[i]
+            entry.stage = stages[i]
+            entry.day = days[i]
+            entry.time = times[i]
+            @entries << entry;
+          end
+        else
+          entry = TimetableEntry.new
+          entry.name = name
+          entry.stage = el.at("td.escenari").inner_html
+          entry.day = el.at("td.dia").inner_html
+          entry.time = el.at("td.horari").inner_html
+          @entries << entry;
+        end
       end
     end
     @doc
@@ -30,13 +51,39 @@ class PrimaveraTimetable
   end
   
   def bands
-    @bands = @entries.map do |entry|
-      band = Band.find_by_name(entry.name) 
-      band.timetable_entry = entry
-      band
-    end
-    @bands
+    @entries.map(&:band)
   end
+  
+  def days
+    days = []
+    @entries.each do |entry|
+      if !days.include? entry.day
+        days.push entry.day
+      end 
+    end
+    days.sort { |d1, d2| d1.match(/([\d]{2})/)[1] <=> d2.match(/([\d]{2})/)[1] rescue 0 }
+  end
+  
+  def stages_for_day(day)
+    entries = @entries.select do |entry|
+      entry.day == day
+    end  
+    stages = []
+    entries.each do |entry|
+      if !stages.include? entry.stage
+        stages.push entry.stage
+      end
+    end
+    stages
+  end
+  
+  def bands_for_day_and_stage(day, stage)
+    entries = @entries.select do |entry|
+      entry.day == day && entry.stage == stage
+    end  
+    entries.map(&:band)    
+  end
+  
   
   class TimetableEntry
     attr_accessor :name
@@ -48,9 +95,16 @@ class PrimaveraTimetable
       entry = TimetableEntry.new
       entry.name = el.at("td.nom a").inner_html.strip
       entry.stage = el.at("td.escenari").inner_html
-      entry.day = el.at("td.dia").inner_html
+      entry.day = el.at("td.dia").inner_html.strip
       entry.time = el.at("td.horari").inner_html
       entry
+    end
+    
+    def band
+      band = Band.find_by_name(self.name) 
+      #This is a bit dodgy - bands can have multiple timetable entries
+      band.timetable_entry = self
+      band
     end
     
     def self.new_from_hash(h)
@@ -62,11 +116,31 @@ class PrimaveraTimetable
       entry
     end
     
+    def date
+      begin 
+        year = 2009
+        month = "may"
+        day = self.day.match(/([\d]{2})/)[1]
+        time = self.time.match(/([\d]{2}):([\d]{2})/)
+        hour = time[1].to_i
+        min = time[2].to_i
+        
+        date = Time.mktime(year, month, day, hour, min)
+        if hour >= 0 && hour <= 8
+          date += 1.day
+        end
+        date
+       rescue
+       
+       end
+    end
+        
     def to_h
       {:name => @name,
        :stage => @stage,
        :day => @day,
-       :time => @time}
+       :time => @time,
+       :date => date ? date.ctime : ""}
     end
     
     def to_json

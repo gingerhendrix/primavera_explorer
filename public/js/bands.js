@@ -59,6 +59,14 @@ function Bands(bandsData){
     });
   }
   
+  this.sortByDate = function(){
+     this.data = this.data.sort(function(b1, b2){
+       var d1 = new Date(jsonProp(b1, "timetable.date"));
+       var d2 = new Date(jsonProp(b2, "timetable.date"));
+       return d1 > d2 ? 1 : -1;
+    });
+  }
+  
   
   this.makeTagMap = function(){
     var self = this;

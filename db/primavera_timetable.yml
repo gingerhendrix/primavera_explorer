@@ -1,582 +1,762 @@
 --- 
 :entries: 
 - :time: "02:00"
-  :day: Friday 29th of may
   :stage: RAY BAN - VICE
+  :day: Friday 29th of may
   :name: A Certain Ratio
+  :date: Sat May 30 02:00:00 2009
 - :time: "03:15"
-  :day: Saturday 30th of may
   :stage: PITCHFORK
+  :day: Saturday 30th of may
   :name: A-Trak
+  :date: Sun May 31 03:15:00 2009
 - :time: "21:00"
-  :day: Wednesday 27th of may
   :stage: APOLO VENUE (ACUARELA SHOWCASE)
+  :day: Wednesday 27th of may
   :name: Agent Ribbons
+  :date: Wed May 27 21:00:00 2009
 - :time: "17:00"
-  :day: Saturday 30th of may
   :stage: AUDITORI FORUM
+  :day: Saturday 30th of may
   :name: Alela Diane
+  :date: Sat May 30 17:00:00 2009
 - :time: "13:00"
-  :day: Saturday 30th of may
   :stage: JOAN MIRO PARK
+  :day: Saturday 30th of may
   :name: Alondra Bentley
+  :date: Sat May 30 13:00:00 2009
 - :time: "23:00"
-  :day: Thursday 28th of may
   :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
   :name: Andrew Bird
+  :date: Thu May 28 23:00:00 2009
 - :time: "23:00"
-  :day: Tuesday 26th of may
   :stage: SIDECAR VENUE (B-MUSIC SHOWCASE)
+  :day: Tuesday 26th of may
   :name: Andy Votel
+  :date: Tue May 26 23:00:00 2009
 - :time: "16:30"
-  :day: Sunday 31st of may
   :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
   :name: Angelo Spencer
+  :date: Sun May 31 16:30:00 2009
 - :time: "01:35"
-  :day: Thursday 28th of may
   :stage: ROCKDELUX
+  :day: Thursday 28th of may
   :name: Aphex Twin
+  :date: Fri May 29 01:35:00 2009
 - :time: "17:30"
-  :day: Saturday 30th of may
   :stage: ATP
+  :day: Saturday 30th of may
   :name: Ariel Pink's Haunted Graffiti
+  :date: Sat May 30 17:30:00 2009
 - :time: "21:20"
-  :day: Friday 29th of may
   :stage: ESTRELLA DAMM
+  :day: Friday 29th of may
   :name: Art Brut
+  :date: Fri May 29 21:20:00 2009
 - :time: "19:10"
-  :day: Friday 29th of may
   :stage: ESTRELLA DAMM
+  :day: Friday 29th of may
   :name: Bat For Lashes
+  :date: Fri May 29 19:10:00 2009
 - :time: "20:00"
-  :day: Wednesday 27th of may
   :stage: APOLO VENUE (ACUARELA SHOWCASE)
+  :day: Wednesday 27th of may
   :name: "B\xE9lmez"
+  :date: Wed May 27 20:00:00 2009
 - :time: "03:00"
-  :day: Saturday 30th of may
   :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
   :name: Black Lips
+  :date: Sun May 31 03:00:00 2009
 - :time: "02:15"
-  :day: Friday 29th of may
   :stage: ESTRELLA DAMM
+  :day: Friday 29th of may
   :name: Bloc Party
-- :time: 22:00<br />14:15
-  :day: Thursday 28th of may<br />Saturday 30th of may
-  :stage: PITCHFORK<br />JOAN MIRO PARK
+  :date: Sat May 30 02:15:00 2009
+- :time: "22:00"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
   :name: Bowerbirds
+  :date: Thu May 28 22:00:00 2009
+- :time: "14:15"
+  :stage: JOAN MIRO PARK
+  :day: Saturday 30th of may
+  :name: Bowerbirds
+  :date: Sat May 30 14:15:00 2009
 - :time: "20:00"
-  :day: Monday 25th of may
   :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
+  :day: Monday 25th of may
   :name: Brian Hunt
+  :date: Mon May 25 20:00:00 2009
 - :time: "21:00"
-  :day: Friday 29th of may
   :stage: ATP
+  :day: Friday 29th of may
   :name: Carsick Cars
+  :date: Fri May 29 21:00:00 2009
 - :time: "00:05"
-  :day: Saturday 23th of may
   :stage: METRO (SAGRADA FAMILIA)
+  :day: Saturday 23th of may
   :name: Centella
+  :date: Sun May 24 00:05:00 2009
 - :time: "18:00"
-  :day: Saturday 30th of may
   :stage: ROCKDELUX
+  :day: Saturday 30th of may
   :name: Chad VanGaalen
+  :date: Sat May 30 18:00:00 2009
 - :time: "21:00"
-  :day: Tuesday 26th of may
   :stage: SIDECAR VENUE (B-MUSIC SHOWCASE)
+  :day: Tuesday 26th of may
   :name: Chris "The Judge" Arthur
+  :date: Tue May 26 21:00:00 2009
 - :time: "22:30"
-  :day: Friday 29th of may
   :stage: PITCHFORK
+  :day: Friday 29th of may
   :name: Crystal Antlers
-- :time: 18:15<br />15:00
-  :day: Friday 29th of may<br />Saturday 30th of may
-  :stage: PITCHFORK<br />JOAN MIRO PARK
+  :date: Fri May 29 22:30:00 2009
+- :time: "18:15"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
   :name: Crystal Stilts
+  :date: Fri May 29 18:15:00 2009
+- :time: "15:00"
+  :stage: JOAN MIRO PARK
+  :day: Saturday 30th of may
+  :name: Crystal Stilts
+  :date: Sat May 30 15:00:00 2009
 - :time: "18:00"
-  :day: Thursday 28th of may
   :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
   :name: Cuzo
+  :date: Thu May 28 18:00:00 2009
 - :time: "17:00"
-  :day: Friday 29th of may
   :stage: AUDITORI FORUM
+  :day: Friday 29th of may
   :name: Damien Jurado
+  :date: Fri May 29 17:00:00 2009
 - :time: "01:00"
-  :day: Friday 29th of may
   :stage: PITCHFORK
+  :day: Friday 29th of may
   :name: Dan Deacon Ensemble
+  :date: Sat May 30 01:00:00 2009
 - :time: "01:15"
-  :day: Sunday 31st of may
   :stage: LA 2 (CLOSING PARTY)
+  :day: Sunday 31st of may
   :name: Daniel Devine (WaKS Records)
+  :date: Mon Jun  1 01:15:00 2009
 - :time: "00:15"
-  :day: Thursday 28th of may
   :stage: ATP
+  :day: Thursday 28th of may
   :name: Dead Meadow
+  :date: Fri May 29 00:15:00 2009
 - :time: "04:00"
-  :day: Friday 29th of may
   :stage: ATP
+  :day: Friday 29th of may
   :name: Declan Allen & Barry Hogan djs
+  :date: Sat May 30 04:00:00 2009
 - :time: "23:50"
-  :day: Saturday 30th of may
   :stage: ROCKDELUX
+  :day: Saturday 30th of may
   :name: Deerhunter
+  :date: Sat May 30 23:50:00 2009
 - :time: "01:45"
-  :day: Saturday 30th of may
   :stage: PITCHFORK
+  :day: Saturday 30th of may
   :name: DJ /rupture
+  :date: Sun May 31 01:45:00 2009
 - :time: "04:00"
-  :day: Saturday 30th of may
   :stage: ATP
+  :day: Saturday 30th of may
   :name: Dj Coco
+  :date: Sun May 31 04:00:00 2009
 - :time: "03:15"
-  :day: Friday 29th of may
   :stage: PITCHFORK
+  :day: Friday 29th of may
   :name: Dj Feadz & Jackson
+  :date: Sat May 30 03:15:00 2009
 - :time: "05:00"
-  :day: Saturday 30th of may
   :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
   :name: Dj Fra
+  :date: Sun May 31 05:00:00 2009
 - :time: "04:30"
-  :day: Friday 29th of may
   :stage: RAY BAN - VICE
+  :day: Friday 29th of may
   :name: Dj Kosmos
+  :date: Sat May 30 04:30:00 2009
 - :time: "04:30"
-  :day: Saturday 30th of may
   :stage: PITCHFORK
+  :day: Saturday 30th of may
   :name: Dj Mehdi
+  :date: Sun May 31 04:30:00 2009
 - :time: "02:00"
-  :day: Sunday 31st of may
   :stage: APOLO VENUE (CLOSING PARTY)
+  :day: Sunday 31st of may
   :name: Dj Yoda
-- :time: 02:45<br />01:15
-  :day: Thursday 28th of may<br />Sunday 31st of may
-  :stage: ATP<br />LA 2 (CLOSING PARTY)
+  :date: Mon Jun  1 02:00:00 2009
+- :time: "02:45"
+  :stage: ATP
+  :day: Thursday 28th of may
   :name: Dr. Kiko
-- :time: "23:30"
-  :day: Sunday 31st of may
-  :stage: APOLO VENUE (CLOSING PARTY)
-  :name: Duchess Says
-- :time: "22:00"
-  :day: Wednesday 27th of may
-  :stage: APOLO VENUE (ACUARELA SHOWCASE)
-  :name: "D\xE4lek"
-- :time: "03:00"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: Ebony Bones
-- :time: "21:00"
-  :day: Sunday 31st of may
-  :stage: APOLO VENUE (CLOSING PARTY)
-  :name: El Gremio
-- :time: "03:00"
-  :day: Saturday 30th of may
-  :stage: ATP
-  :name: El-P
-- :time: "22:00"
-  :day: Monday 25th of may
-  :stage: SIDECAR VENUE (BCORE SHOWCASE)
-  :name: Elvira
-- :time: "18:30"
-  :day: Friday 29th of may
-  :stage: AUDITORI FORUM
-  :name: Extra Life
-- :time: "17:00"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: Extraperlo
-- :time: "00:05"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Ezra Furman & the Harpoons
-- :time: "00:30"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Fucked Up
-- :time: "01:00"
-  :day: Saturday 30th of may
-  :stage: ATP
-  :name: Gang Gang Dance
-- :time: "01:00"
-  :day: Saturday 30th of may
-  :stage: PITCHFORK
-  :name: Ghostface Killah
-- :time: "19:30"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: Girls
-- :time: "23:00"
-  :day: Saturday 23th of may
-  :stage: METRO (PASSEIG DE GRACIA)
-  :name: "G\xFAdar"
-- :time: "23:00"
-  :day: Monday 25th of may
-  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
-  :name: Half Foot Outside
-- :time: "20:15"
-  :day: Saturday 30th of may
-  :stage: ROCKDELUX
-  :name: Herman Dune
-- :time: "12:30"
-  :day: Sunday 31st of may
-  :stage: JOAN MIRO PARK
-  :name: Hola A Todo El Mundo
-- :time: "23:55"
-  :day: Friday 29th of may
-  :stage: ESTRELLA DAMM
-  :name: Jarvis Cocker
-- :time: "21:45"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Jason Lytle
-- :time: "00:30"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: Jay Reatard
-- :time: "18:00"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Jeremy Jay
-- :time: "18:45"
-  :day: Saturday 30th of may
-  :stage: ATP
-  :name: Jesu
-- :time: "20:00"
-  :day: Monday 25th of may
-  :stage: SIDECAR VENUE (BCORE SHOWCASE)
-  :name: Joan Colomo
-- :time: "21:45"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: "Joe Crep\xFAsculo y Los Destructores"
-- :time: "20:00"
-  :day: Friday 29th of may
-  :stage: AUDITORI FORUM
-  :name: Joe Henry
-- :time: "22:00"
-  :day: Sunday 31st of may
-  :stage: APOLO VENUE (CLOSING PARTY)
-  :name: John Maus
-- :time: ""
-  :day: ""
-  :stage: ""
-  :name: Juan B
-- :time: "17:45"
-  :day: Sunday 31st of may
-  :stage: JOAN MIRO PARK
-  :name: Karl Blau
-- :time: "19:15"
-  :day: Sunday 31st of may
-  :stage: JOAN MIRO PARK
-  :name: Kimya Dawson
-- :time: "19:00"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Kitty, Daisy and Lewis
-- :time: "17:00"
-  :day: Sunday 31st of may
-  :stage: JOAN MIRO PARK
-  :name: Klaus & Kinski
-- :time: "18:30"
-  :day: Thursday 28th of may
-  :stage: ROCKDELUX
-  :name: La Bien Querida
-- :time: "23:30"
-  :day: Saturday 30th of may
-  :stage: PITCHFORK
-  :name: Lemonade
-- :time: "23:30"
-  :day: Saturday 30th of may
-  :stage: ATP
-  :name: Liars
-- :time: "01:45"
-  :day: Thursday 28th of may
-  :stage: ATP
-  :name: Lightning Bolt
-- :time: "19:15"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Los Punsetes
-- :time: "19:00"
-  :day: Thursday 28th of may
-  :stage: ATP
-  :name: Magik Markers
-- :time: "18:15"
-  :day: Friday 29th of may
-  :stage: ROCKDELUX
-  :name: Magnolia Electric Co.
-- :time: "03:30"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Mahjongg
-- :time: "17:00"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Maika Makovski
-- :time: ""
-  :day: ""
-  :stage: ""
-  :name: "Marc Pi\xF1ol"
-- :time: "20:30"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: Marnie Stern
-- :time: "04:00"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: Meneo
-- :time: "00:30"
-  :day: Sunday 31st of may
-  :stage: LA 2 (CLOSING PARTY)
-  :name: Merienda Cena
-- :time: "04:30"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: Michael Mayer
-- :time: "19:45"
-  :day: Saturday 30th of may
-  :stage: AUDITORI FORUM
-  :name: Michael Nyman
-- :time: "22:00"
-  :day: Saturday 23th of may
-  :stage: METRO (UNIVERSITAT)
-  :name: Mujeres
-- :time: "22:15"
-  :day: Wednesday 27th of may
-  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
-  :name: Muletrain
-- :time: 00:20<br />21:45
-  :day: Thursday 28th of may<br />Friday 29th of may
-  :stage: ESTRELLA DAMM<br />AUDITORI FORUM
-  :name: My Bloody Valentine
-- :time: "21:15"
-  :day: Saturday 30th of may
-  :stage: ESTRELLA DAMM
-  :name: Neil Young
-- :time: "22:30"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Oneida
-- :time: "21:00"
-  :day: Monday 25th of may
-  :stage: SIDECAR VENUE (BCORE SHOWCASE)
-  :name: Oniric
-- :time: "21:00"
-  :day: Monday 25th of may
-  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
-  :name: PAL
-- :time: "23:20"
-  :day: Thursday 28th of may
-  :stage: ROCKDELUX
-  :name: Phoenix
-- :time: 19:30<br />18:30
-  :day: Saturday 30th of may<br />Sunday 31st of may
-  :stage: PITCHFORK<br />JOAN MIRO PARK
-  :name: Plants & Animals
-- :time: 01:00<br />13:30
-  :day: Thursday 28th of may<br />Saturday 30th of may
-  :stage: PITCHFORK<br />JOAN MIRO PARK
-  :name: Ponytail
-- :time: "01:00"
-  :day: Saturday 23th of may
-  :stage: METRO (UNIVERSITAT)
-  :name: QA'A
-- :time: "21:00"
-  :day: Tuesday 26th of may
-  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
-  :name: Reigning Sound
-- :time: "03:00"
-  :day: Friday 29th of may
-  :stage: ATP
-  :name: Rhythm & Sound (Mark Ernestus)
-- :time: "18:00"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Rosvita
-- :time: "01:05"
-  :day: Friday 29th of may
-  :stage: ROCKDELUX
-  :name: Saint Etienne
-- :time: "16:00"
-  :day: Sunday 31st of may
-  :stage: JOAN MIRO PARK
-  :name: "Sedai\xF3s"
-- :time: "18:15"
-  :day: Saturday 30th of may
-  :stage: PITCHFORK
-  :name: Shearwater
-- :time: "01:30"
-  :day: Friday 29th of may
-  :stage: ATP
-  :name: Shellac
-- :time: "02:30"
-  :day: Saturday 30th of may
-  :stage: ROCKDELUX
-  :name: Simian Mobile Disco
-- :time: "02:15"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: "Skateb\xE5rd"
-- :time: 19:30<br />15:45
-  :day: Friday 29th of may<br />Saturday 30th of may
-  :stage: ATP<br />JOAN MIRO PARK
-  :name: Sleepy Sun
-- :time: "01:00"
-  :day: Saturday 30th of may
-  :stage: ESTRELLA DAMM
-  :name: Sonic Youth
-- :time: "19:30"
-  :day: Thursday 28th of may
-  :stage: ESTRELLA DAMM
-  :name: Spectrum
-- :time: "20:15"
-  :day: Friday 29th of may
-  :stage: ROCKDELUX
-  :name: Spiritualized
-- :time: "03:50"
-  :day: Thursday 28th of may
-  :stage: ROCKDELUX
-  :name: Squarepusher
-- :time: "21:45"
-  :day: Sunday 31st of may
-  :stage: LA 2 (CLOSING PARTY)
-  :name: Stanley Brinks
-- :time: "22:30"
-  :day: Friday 29th of may
-  :stage: ATP
-  :name: Sunn O)))
-- :time: "22:00"
-  :day: Monday 25th of may
-  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
-  :name: Tachenko
-- :time: "20:00"
-  :day: Saturday 30th of may
-  :stage: ATP
-  :name: Th' Faith Healers
-- :time: "18:15"
-  :day: Saturday 30th of may
-  :stage: AUDITORI FORUM
-  :name: The Bad Plus
-- :time: "19:15"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: The Bats
-- :time: "23:30"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: The Bug
-- :time: "20:00"
-  :day: Tuesday 26th of may
-  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
-  :name: The Disciplines
-- :time: "00:05"
-  :day: Friday 29th of may
-  :stage: ATP
-  :name: The Drones
-- :time: "23:00"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: The Extraordinaires
-- :time: "01:45"
-  :day: Thursday 28th of may
-  :stage: RAY BAN - VICE
-  :name: The Horrors
-- :time: "23:30"
-  :day: Wednesday 27th of may
-  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
-  :name: The Intelligence
-- :time: "19:00"
-  :day: Saturday 30th of may
-  :stage: ESTRELLA DAMM
-  :name: The Jayhawks
-- :time: "22:30"
-  :day: Thursday 28th of may
-  :stage: ATP
-  :name: The Jesus Lizard
-- :time: "17:00"
-  :day: Saturday 30th of may
-  :stage: PITCHFORK
-  :name: The Lions Constellation
-- :time: "23:30"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: The Mae Shi
-- :time: "16:00"
-  :day: Saturday 30th of may
-  :stage: AUDITORI FORUM
-  :name: The New Year
-- :time: "21:00"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: The Pains Of Being Pure At Heart
-- :time: "22:00"
-  :day: Tuesday 26th of may
-  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
-  :name: The Right Ons
-- :time: "20:00"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: The Secret Society
-- :time: "01:30"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: The Soft Pack
-- :time: "20:45"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: The Tallest Man On Earth
-- :time: "20:35"
-  :day: Thursday 28th of may
-  :stage: ROCKDELUX
-  :name: The Vaselines
-- :time: "22:45"
-  :day: Friday 29th of may
-  :stage: ROCKDELUX
-  :name: Throwing Muses
+  :date: Fri May 29 02:45:00 2009
 - :time: "01:15"
-  :day: Sunday 31st of may
   :stage: LA 2 (CLOSING PARTY)
-  :name: Tim Burgess (The Charlatans)
-- :time: "20:30"
-  :day: Friday 29th of may
-  :stage: RAY BAN - VICE
-  :name: Tokyo Sex Destruction
-- :time: "17:00"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: Veracruz
-- :time: "19:30"
-  :day: Friday 29th of may
-  :stage: PITCHFORK
-  :name: Vivian Girls
-- :time: "02:15"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: Wavves
+  :day: Sunday 31st of may
+  :name: Dr. Kiko
+  :date: Mon Jun  1 01:15:00 2009
+- :time: "23:30"
+  :stage: APOLO VENUE (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: Duchess Says
+  :date: Sun May 31 23:30:00 2009
 - :time: "22:00"
-  :day: Tuesday 26th of may
-  :stage: SIDECAR VENUE (B-MUSIC SHOWCASE)
-  :name: Wio Leokadio
-- :time: "18:15"
-  :day: Thursday 28th of may
-  :stage: PITCHFORK
-  :name: Women
-- :time: "20:45"
-  :day: Thursday 28th of may
-  :stage: ATP
-  :name: Wooden Shjips
-- :time: "21:00"
-  :day: Wednesday 27th of may
-  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
-  :name: "\xDCber"
-- :time: "21:45"
-  :day: Thursday 28th of may
-  :stage: ESTRELLA DAMM
-  :name: Yo La Tengo
-- :time: "04:15"
-  :day: Saturday 30th of may
-  :stage: RAY BAN - VICE
-  :name: Zombie Zombie
-- :time: "23:00"
-  :day: Wednesday 27th of may
   :stage: APOLO VENUE (ACUARELA SHOWCASE)
+  :day: Wednesday 27th of may
+  :name: "D\xE4lek"
+  :date: Wed May 27 22:00:00 2009
+- :time: "03:00"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: Ebony Bones
+  :date: Fri May 29 03:00:00 2009
+- :time: "21:00"
+  :stage: APOLO VENUE (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: El Gremio
+  :date: Sun May 31 21:00:00 2009
+- :time: "03:00"
+  :stage: ATP
+  :day: Saturday 30th of may
+  :name: El-P
+  :date: Sun May 31 03:00:00 2009
+- :time: "22:00"
+  :stage: SIDECAR VENUE (BCORE SHOWCASE)
+  :day: Monday 25th of may
+  :name: Elvira
+  :date: Mon May 25 22:00:00 2009
+- :time: "18:30"
+  :stage: AUDITORI FORUM
+  :day: Friday 29th of may
+  :name: Extra Life
+  :date: Fri May 29 18:30:00 2009
+- :time: "17:00"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: Extraperlo
+  :date: Fri May 29 17:00:00 2009
+- :time: "00:05"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Ezra Furman & the Harpoons
+  :date: Sun May 31 00:05:00 2009
+- :time: "00:30"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Fucked Up
+  :date: Sat May 30 00:30:00 2009
+- :time: "01:00"
+  :stage: ATP
+  :day: Saturday 30th of may
+  :name: Gang Gang Dance
+  :date: Sun May 31 01:00:00 2009
+- :time: "01:00"
+  :stage: PITCHFORK
+  :day: Saturday 30th of may
+  :name: Ghostface Killah
+  :date: Sun May 31 01:00:00 2009
+- :time: "19:30"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: Girls
+  :date: Thu May 28 19:30:00 2009
+- :time: "23:00"
+  :stage: METRO (PASSEIG DE GRACIA)
+  :day: Saturday 23th of may
+  :name: "G\xFAdar"
+  :date: Sat May 23 23:00:00 2009
+- :time: "23:00"
+  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
+  :day: Monday 25th of may
+  :name: Half Foot Outside
+  :date: Mon May 25 23:00:00 2009
+- :time: "20:15"
+  :stage: ROCKDELUX
+  :day: Saturday 30th of may
+  :name: Herman Dune
+  :date: Sat May 30 20:15:00 2009
+- :time: "12:30"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: Hola A Todo El Mundo
+  :date: Sun May 31 12:30:00 2009
+- :time: "23:55"
+  :stage: ESTRELLA DAMM
+  :day: Friday 29th of may
+  :name: Jarvis Cocker
+  :date: Fri May 29 23:55:00 2009
+- :time: "21:45"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Jason Lytle
+  :date: Fri May 29 21:45:00 2009
+- :time: "00:30"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: Jay Reatard
+  :date: Fri May 29 00:30:00 2009
+- :time: "18:00"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Jeremy Jay
+  :date: Sat May 30 18:00:00 2009
+- :time: "18:45"
+  :stage: ATP
+  :day: Saturday 30th of may
+  :name: Jesu
+  :date: Sat May 30 18:45:00 2009
+- :time: "20:00"
+  :stage: SIDECAR VENUE (BCORE SHOWCASE)
+  :day: Monday 25th of may
+  :name: Joan Colomo
+  :date: Mon May 25 20:00:00 2009
+- :time: "21:45"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: "Joe Crep\xFAsculo y Los Destructores"
+  :date: Thu May 28 21:45:00 2009
+- :time: "20:00"
+  :stage: AUDITORI FORUM
+  :day: Friday 29th of may
+  :name: Joe Henry
+  :date: Fri May 29 20:00:00 2009
+- :time: "22:00"
+  :stage: APOLO VENUE (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: John Maus
+  :date: Sun May 31 22:00:00 2009
+- :time: ""
+  :stage: ""
+  :day: ""
+  :name: Juan B
+  :date: ""
+- :time: "17:45"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: Karl Blau
+  :date: Sun May 31 17:45:00 2009
+- :time: "19:15"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: Kimya Dawson
+  :date: Sun May 31 19:15:00 2009
+- :time: "19:00"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Kitty, Daisy and Lewis
+  :date: Sat May 30 19:00:00 2009
+- :time: "17:00"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: Klaus & Kinski
+  :date: Sun May 31 17:00:00 2009
+- :time: "18:30"
+  :stage: ROCKDELUX
+  :day: Thursday 28th of may
+  :name: La Bien Querida
+  :date: Thu May 28 18:30:00 2009
+- :time: "23:30"
+  :stage: PITCHFORK
+  :day: Saturday 30th of may
+  :name: Lemonade
+  :date: Sat May 30 23:30:00 2009
+- :time: "23:30"
+  :stage: ATP
+  :day: Saturday 30th of may
+  :name: Liars
+  :date: Sat May 30 23:30:00 2009
+- :time: "01:45"
+  :stage: ATP
+  :day: Thursday 28th of may
+  :name: Lightning Bolt
+  :date: Fri May 29 01:45:00 2009
+- :time: "19:15"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Los Punsetes
+  :date: Fri May 29 19:15:00 2009
+- :time: "19:00"
+  :stage: ATP
+  :day: Thursday 28th of may
+  :name: Magik Markers
+  :date: Thu May 28 19:00:00 2009
+- :time: "18:15"
+  :stage: ROCKDELUX
+  :day: Friday 29th of may
+  :name: Magnolia Electric Co.
+  :date: Fri May 29 18:15:00 2009
+- :time: "03:30"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Mahjongg
+  :date: Sat May 30 03:30:00 2009
+- :time: "17:00"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Maika Makovski
+  :date: Sat May 30 17:00:00 2009
+- :time: ""
+  :stage: ""
+  :day: ""
+  :name: "Marc Pi\xF1ol"
+  :date: ""
+- :time: "20:30"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: Marnie Stern
+  :date: Thu May 28 20:30:00 2009
+- :time: "04:00"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: Meneo
+  :date: Fri May 29 04:00:00 2009
+- :time: "00:30"
+  :stage: LA 2 (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: Merienda Cena
+  :date: Mon Jun  1 00:30:00 2009
+- :time: "04:30"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: Michael Mayer
+  :date: Sat May 30 04:30:00 2009
+- :time: "19:45"
+  :stage: AUDITORI FORUM
+  :day: Saturday 30th of may
+  :name: Michael Nyman
+  :date: Sat May 30 19:45:00 2009
+- :time: "22:00"
+  :stage: METRO (UNIVERSITAT)
+  :day: Saturday 23th of may
+  :name: Mujeres
+  :date: Sat May 23 22:00:00 2009
+- :time: "22:15"
+  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
+  :day: Wednesday 27th of may
+  :name: Muletrain
+  :date: Wed May 27 22:15:00 2009
+- :time: "00:20"
+  :stage: ESTRELLA DAMM
+  :day: Thursday 28th of may
+  :name: My Bloody Valentine
+  :date: Fri May 29 00:20:00 2009
+- :time: "21:45"
+  :stage: AUDITORI FORUM
+  :day: Friday 29th of may
+  :name: My Bloody Valentine
+  :date: Fri May 29 21:45:00 2009
+- :time: "21:15"
+  :stage: ESTRELLA DAMM
+  :day: Saturday 30th of may
+  :name: Neil Young
+  :date: Sat May 30 21:15:00 2009
+- :time: "22:30"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Oneida
+  :date: Sat May 30 22:30:00 2009
+- :time: "21:00"
+  :stage: SIDECAR VENUE (BCORE SHOWCASE)
+  :day: Monday 25th of may
+  :name: Oniric
+  :date: Mon May 25 21:00:00 2009
+- :time: "21:00"
+  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
+  :day: Monday 25th of may
+  :name: PAL
+  :date: Mon May 25 21:00:00 2009
+- :time: "23:20"
+  :stage: ROCKDELUX
+  :day: Thursday 28th of may
+  :name: Phoenix
+  :date: Thu May 28 23:20:00 2009
+- :time: "19:30"
+  :stage: PITCHFORK
+  :day: Saturday 30th of may
+  :name: Plants & Animals
+  :date: Sat May 30 19:30:00 2009
+- :time: "18:30"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: Plants & Animals
+  :date: Sun May 31 18:30:00 2009
+- :time: "01:00"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: Ponytail
+  :date: Fri May 29 01:00:00 2009
+- :time: "13:30"
+  :stage: JOAN MIRO PARK
+  :day: Saturday 30th of may
+  :name: Ponytail
+  :date: Sat May 30 13:30:00 2009
+- :time: "01:00"
+  :stage: METRO (UNIVERSITAT)
+  :day: Saturday 23th of may
+  :name: QA'A
+  :date: Sun May 24 01:00:00 2009
+- :time: "21:00"
+  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
+  :day: Tuesday 26th of may
+  :name: Reigning Sound
+  :date: Tue May 26 21:00:00 2009
+- :time: "03:00"
+  :stage: ATP
+  :day: Friday 29th of may
+  :name: Rhythm & Sound (Mark Ernestus)
+  :date: Sat May 30 03:00:00 2009
+- :time: "18:00"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Rosvita
+  :date: Fri May 29 18:00:00 2009
+- :time: "01:05"
+  :stage: ROCKDELUX
+  :day: Friday 29th of may
+  :name: Saint Etienne
+  :date: Sat May 30 01:05:00 2009
+- :time: "16:00"
+  :stage: JOAN MIRO PARK
+  :day: Sunday 31st of may
+  :name: "Sedai\xF3s"
+  :date: Sun May 31 16:00:00 2009
+- :time: "18:15"
+  :stage: PITCHFORK
+  :day: Saturday 30th of may
+  :name: Shearwater
+  :date: Sat May 30 18:15:00 2009
+- :time: "01:30"
+  :stage: ATP
+  :day: Friday 29th of may
+  :name: Shellac
+  :date: Sat May 30 01:30:00 2009
+- :time: "02:30"
+  :stage: ROCKDELUX
+  :day: Saturday 30th of may
+  :name: Simian Mobile Disco
+  :date: Sun May 31 02:30:00 2009
+- :time: "02:15"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: "Skateb\xE5rd"
+  :date: Sat May 30 02:15:00 2009
+- :time: "19:30"
+  :stage: ATP
+  :day: Friday 29th of may
+  :name: Sleepy Sun
+  :date: Fri May 29 19:30:00 2009
+- :time: "15:45"
+  :stage: JOAN MIRO PARK
+  :day: Saturday 30th of may
+  :name: Sleepy Sun
+  :date: Sat May 30 15:45:00 2009
+- :time: "01:00"
+  :stage: ESTRELLA DAMM
+  :day: Saturday 30th of may
+  :name: Sonic Youth
+  :date: Sun May 31 01:00:00 2009
+- :time: "19:30"
+  :stage: ESTRELLA DAMM
+  :day: Thursday 28th of may
+  :name: Spectrum
+  :date: Thu May 28 19:30:00 2009
+- :time: "20:15"
+  :stage: ROCKDELUX
+  :day: Friday 29th of may
+  :name: Spiritualized
+  :date: Fri May 29 20:15:00 2009
+- :time: "03:50"
+  :stage: ROCKDELUX
+  :day: Thursday 28th of may
+  :name: Squarepusher
+  :date: Fri May 29 03:50:00 2009
+- :time: "21:45"
+  :stage: LA 2 (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: Stanley Brinks
+  :date: Sun May 31 21:45:00 2009
+- :time: "22:30"
+  :stage: ATP
+  :day: Friday 29th of may
+  :name: Sunn O)))
+  :date: Fri May 29 22:30:00 2009
+- :time: "22:00"
+  :stage: APOLO VENUE (LIMBO STARR SHOWCASE)
+  :day: Monday 25th of may
+  :name: Tachenko
+  :date: Mon May 25 22:00:00 2009
+- :time: "20:00"
+  :stage: ATP
+  :day: Saturday 30th of may
+  :name: Th' Faith Healers
+  :date: Sat May 30 20:00:00 2009
+- :time: "18:15"
+  :stage: AUDITORI FORUM
+  :day: Saturday 30th of may
+  :name: The Bad Plus
+  :date: Sat May 30 18:15:00 2009
+- :time: "19:15"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: The Bats
+  :date: Thu May 28 19:15:00 2009
+- :time: "23:30"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: The Bug
+  :date: Thu May 28 23:30:00 2009
+- :time: "20:00"
+  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
+  :day: Tuesday 26th of may
+  :name: The Disciplines
+  :date: Tue May 26 20:00:00 2009
+- :time: "00:05"
+  :stage: ATP
+  :day: Friday 29th of may
+  :name: The Drones
+  :date: Sat May 30 00:05:00 2009
+- :time: "23:00"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: The Extraordinaires
+  :date: Fri May 29 23:00:00 2009
+- :time: "01:45"
+  :stage: RAY BAN - VICE
+  :day: Thursday 28th of may
+  :name: The Horrors
+  :date: Fri May 29 01:45:00 2009
+- :time: "23:30"
+  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
+  :day: Wednesday 27th of may
+  :name: The Intelligence
+  :date: Wed May 27 23:30:00 2009
+- :time: "19:00"
+  :stage: ESTRELLA DAMM
+  :day: Saturday 30th of may
+  :name: The Jayhawks
+  :date: Sat May 30 19:00:00 2009
+- :time: "22:30"
+  :stage: ATP
+  :day: Thursday 28th of may
+  :name: The Jesus Lizard
+  :date: Thu May 28 22:30:00 2009
+- :time: "17:00"
+  :stage: PITCHFORK
+  :day: Saturday 30th of may
+  :name: The Lions Constellation
+  :date: Sat May 30 17:00:00 2009
+- :time: "23:30"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: The Mae Shi
+  :date: Fri May 29 23:30:00 2009
+- :time: "16:00"
+  :stage: AUDITORI FORUM
+  :day: Saturday 30th of may
+  :name: The New Year
+  :date: Sat May 30 16:00:00 2009
+- :time: "21:00"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: The Pains Of Being Pure At Heart
+  :date: Fri May 29 21:00:00 2009
+- :time: "22:00"
+  :stage: APOLO VENUE (HEART OF GOLD SHOWCASE)
+  :day: Tuesday 26th of may
+  :name: The Right Ons
+  :date: Tue May 26 22:00:00 2009
+- :time: "20:00"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: The Secret Society
+  :date: Sat May 30 20:00:00 2009
+- :time: "01:30"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: The Soft Pack
+  :date: Sun May 31 01:30:00 2009
+- :time: "20:45"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: The Tallest Man On Earth
+  :date: Thu May 28 20:45:00 2009
+- :time: "20:35"
+  :stage: ROCKDELUX
+  :day: Thursday 28th of may
+  :name: The Vaselines
+  :date: Thu May 28 20:35:00 2009
+- :time: "22:45"
+  :stage: ROCKDELUX
+  :day: Friday 29th of may
+  :name: Throwing Muses
+  :date: Fri May 29 22:45:00 2009
+- :time: "01:15"
+  :stage: LA 2 (CLOSING PARTY)
+  :day: Sunday 31st of may
+  :name: Tim Burgess (The Charlatans)
+  :date: Mon Jun  1 01:15:00 2009
+- :time: "20:30"
+  :stage: RAY BAN - VICE
+  :day: Friday 29th of may
+  :name: Tokyo Sex Destruction
+  :date: Fri May 29 20:30:00 2009
+- :time: "17:00"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: Veracruz
+  :date: Thu May 28 17:00:00 2009
+- :time: "19:30"
+  :stage: PITCHFORK
+  :day: Friday 29th of may
+  :name: Vivian Girls
+  :date: Fri May 29 19:30:00 2009
+- :time: "02:15"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: Wavves
+  :date: Fri May 29 02:15:00 2009
+- :time: "22:00"
+  :stage: SIDECAR VENUE (B-MUSIC SHOWCASE)
+  :day: Tuesday 26th of may
+  :name: Wio Leokadio
+  :date: Tue May 26 22:00:00 2009
+- :time: "18:15"
+  :stage: PITCHFORK
+  :day: Thursday 28th of may
+  :name: Women
+  :date: Thu May 28 18:15:00 2009
+- :time: "20:45"
+  :stage: ATP
+  :day: Thursday 28th of may
+  :name: Wooden Shjips
+  :date: Thu May 28 20:45:00 2009
+- :time: "21:00"
+  :stage: SIDECAR VENUE (HOLY COBRA SOCIETY SHOWCASE)
+  :day: Wednesday 27th of may
+  :name: "\xDCber"
+  :date: Wed May 27 21:00:00 2009
+- :time: "21:45"
+  :stage: ESTRELLA DAMM
+  :day: Thursday 28th of may
+  :name: Yo La Tengo
+  :date: Thu May 28 21:45:00 2009
+- :time: "04:15"
+  :stage: RAY BAN - VICE
+  :day: Saturday 30th of may
+  :name: Zombie Zombie
+  :date: Sun May 31 04:15:00 2009
+- :time: "23:00"
+  :stage: APOLO VENUE (ACUARELA SHOWCASE)
+  :day: Wednesday 27th of may
   :name: Zu
+  :date: Wed May 27 23:00:00 2009
