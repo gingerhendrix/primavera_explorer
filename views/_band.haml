@@ -1,22 +1,21 @@
-%li.band{ :id => b.element_id, :onclick => "UI.expand(this)", :class => "band" }
-  %span.name= b.display_name  
-  - if b.lastfm_info
-    %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
-    %div.info
-      %div.stats
-        %span.listeners= "Listeners: " + b.lastfm_info.listeners.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-        %span.playcount= "Playcount: " + b.lastfm_info.playcount.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
-      %div.tags
-        - b.lastfm_tags.top_tags.each do |tag|
-          %span.tag= tag['name']                  
-      %div.timetable
-        %span.label Stage
-        %span.stage= b.timetable_entry.stage
-        %span.label Day
-        %span.day= b.timetable_entry.day
-        %span.label Time
-        %span.time= b.timetable_entry.time
-      %span.bio= b.lastfm_info.bio
-  - else
-    %div.info
-      %span.no_info= "Sorry, I don't know anything about " + b.name
+%span.name= b.display_name  
+- if b.lastfm_info
+  %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
+  %div.info
+    %div.stats
+      %span.listeners= "Listeners: " + b.lastfm_info.listeners.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+      %span.playcount= "Playcount: " + b.lastfm_info.playcount.to_s.gsub(/(\d)(?=(\d\d\d)+(?!\d))/, "\\1,")
+    %div.tags
+      - b.lastfm_tags.top_tags.each do |tag|
+        %span.tag= tag['name']                  
+    %div.timetable
+      %span.label Stage
+      %span.stage= b.timetable_entry.stage
+      %span.label Day
+      %span.day= b.timetable_entry.day
+      %span.label Time
+      %span.time= b.timetable_entry.time
+    %span.bio= b.lastfm_info.bio
+- else
+  %div.info
+    %span.no_info= "Sorry, I don't know anything about " + b.name

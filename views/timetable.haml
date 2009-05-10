@@ -8,7 +8,7 @@
     %script= "base2.JavaScript.bind(window);"
     %script{ :src => "timetable.js" }
     %script{ :src => 'http://gandrew.com/mint/?js' }
-    %script{ :src => "bandsData.js" }
+    %script{ :src => "timetableData.js" }
   %body
     %div#timetable
       - @timetable.days.each do |day|
@@ -17,7 +17,9 @@
           - @timetable.stages_for_day(day).each do |stage|
             %div.stage
               %h3= stage
-              %ul.bands
-                - @timetable.bands_for_day_and_stage(day, stage).each do |band|
-                  = haml :_band, :locals => {:b => band}
+              %ul.timetable
+                - @timetable.entries_for_day_and_stage(day, stage).each do |entry|
+                  - band = entry.band
+                  %li.entry{ :id => entry.element_id, :class => "entry" }
+                    = haml :_band, :locals => {:b => band, :id => entry.element_id}
     = haml :_analytics

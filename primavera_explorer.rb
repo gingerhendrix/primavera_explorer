@@ -21,8 +21,6 @@ get '/timetable' do
   Band.load_all(db)
   @timetable = PrimaveraTimetable.new
   @timetable.load_from_db(db)
-  @bands = @timetable.bands
-  
   haml :timetable
 end
 
@@ -33,6 +31,14 @@ get '/bandsData.js' do
   @timetable.load_from_db(db)
   @bands = @timetable.bands
   "var bandsData = " + @bands.map(&:to_json).to_json + ";\n"
+end
+
+get '/timetableData.js' do
+  db = Database.new File.dirname(__FILE__) + '/db'
+  Band.load_all(db)
+  @timetable = PrimaveraTimetable.new
+  @timetable.load_from_db(db)
+  "var timetableData = " + @timetable.to_json_hash.to_json + ";\n"
 end
 
 get '/timetable.js' do

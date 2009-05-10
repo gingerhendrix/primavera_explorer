@@ -77,12 +77,25 @@ class PrimaveraTimetable
     stages
   end
   
-  def bands_for_day_and_stage(day, stage)
+  def entries_for_day_and_stage(day, stage)
     entries = @entries.select do |entry|
       entry.day == day && entry.stage == stage
     end  
-    entries.map(&:band)    
   end
+  
+  def bands_for_day_and_stage(day, stage)
+    entries_for_day_and_stage(day, stage).map(&:band)    
+  end
+  
+  def to_json_hash
+     { :days => days.map { |day|
+                   {:name => day, :stages => stages_for_day(day).map {  |stage|
+                                      { :name => stage, :entries => entries_for_day_and_stage(day, stage).map(&:to_json_hash) }
+                                   }
+                   }
+        }
+      }
+  end   
   
   
   class TimetableEntry
@@ -133,6 +146,19 @@ class PrimaveraTimetable
        rescue
        
        end
+    end
+    
+    def element_id 
+      "entry_#{day}_#{stage}_#{time}".gsub(/[^\w]/, "_")
+    end
+    
+    def to_json_hash
+      {:name => @name,
+       :stage => @stage,
+       :day => @day,
+       :time => @time,
+       :date => date ? date.ctime : "",
+       :element_id => element_id}
     end
         
     def to_h

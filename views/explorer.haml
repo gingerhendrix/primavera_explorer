@@ -39,6 +39,7 @@
     %div#bands
       %ul
         - @bands.each do |b| 
-          = haml :_band, :locals => { :b => b } 
+          %li.band{ :id => b.element_id, :onclick => "UI.expand(this)", :class => "band" }
+            = haml :_band, :locals => { :b => b } 
     %div#hidden_bands
     = haml :_analytics
