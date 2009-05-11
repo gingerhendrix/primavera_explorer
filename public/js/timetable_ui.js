@@ -16,20 +16,30 @@ var UI = new (function (){
   
   this.init = function(){
     var self = this;
+    new TimetableScroller();
+    
     timetableData.days.forEach(function(day){
      day.stages.forEach(function(stage){
        stage.entries.forEach(function(entry, idx){
           var el = $("#"+entry.element_id);
+          if(idx==0){
+            var filler = document.createElement("li")
+            filler.setAttribute("class", "filler");
+            var fillerWidth = getTime(entry) * scale;
+            $(filler).css("width", fillerWidth + "px");
+            el.before(filler);                       
+          }
+
           el.click(self.expand);
           
-          var time = getTime(entry);
+        /*  var time = getTime(entry);
           if(time < 0){
             console.log("WARNING: no time for %o", entry);
             el.css("display", "none");
             return;
           }
           var left = start + (time*scale);
-          
+         */ 
           if((idx+1) < stage.entries.length){
             var duration = getDuration(entry, stage.entries[idx+1]);
           }else{
@@ -37,8 +47,8 @@ var UI = new (function (){
           }
           var width = (duration*scale) - 10;
           
-          el.css("position", "absolute");
-          el.css("left", left + "px");          
+  //        el.css("position", "absolute");
+  //        el.css("left", left + "px");          
           el.css("width", width + "px");          
        });
      });
@@ -64,3 +74,18 @@ var UI = new (function (){
   }
 
 })();
+
+function TimetableScroller(){
+
+  this.init = function(){
+    console.log("New TimetableScroller");
+    $(window).scroll(function(e){
+       
+        $("#labels").css('margin-top', "-" + $(document).scrollTop() + "px");
+        
+        $("#timetable").css('margin-top', "-" + $(document).scrollTop() + "px"); 
+        $("#timetable").css('margin-left', "-" + $(document).scrollLeft() + "px");
+    });
+  }
+  this.init();
+}

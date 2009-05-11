@@ -1,4 +1,4 @@
-%span.name= b.display_name  
+%a.name{ :title => b.timetable_entry.time + " " + b.display_name }= b.display_name  
 - if b.lastfm_info
   %img{ :src => b.lastfm_info.image, :width=>126, :height=>101}
   %div.info
