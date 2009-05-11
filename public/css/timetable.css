@@ -1,6 +1,6 @@
 
 body{
-  width: 5000px
+  width: 5000px;
 }
 
 ul.timetable {
@@ -59,4 +59,8 @@ div.stage{
 
 div.day{
  clear: left;  
+}
+
+li.entry.expand .info{
+  display: block;
 }

@@ -81,6 +81,7 @@ class PrimaveraTimetable
     entries = @entries.select do |entry|
       entry.day == day && entry.stage == stage
     end  
+    entries.sort {|e1, e2| e1.date <=> e2.date rescue 0 }
   end
   
   def bands_for_day_and_stage(day, stage)
