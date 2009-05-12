@@ -2,7 +2,7 @@
 var UI = new (function (){
   var start = 300;
   var startTime = 13;//Decimal hours eg. 13.5 == 13:30
-  var scale = 50;
+  var scale = 100;
 
   var expanded;
   
@@ -80,25 +80,27 @@ var UI = new (function (){
 function DaySelector(){
   var self = this;
 
-  this.selectDay = function(day){
+  this.selectDay = function(dayname){
+    var id = dayname.replace(/[\W]/g, "_")
+    var day = $("#"+id);
+    console.log("select %s, %s, %o", dayname, id, day);
     $(".day.selected").removeClass("selected");
     $(day).addClass("selected");
   }
 
   this.emitHTML = function(container){
-    var days = $('div#timetable div.day');
+    var days =  timetableData.days
     console.log("Emit HTML");
     var label  = document.createElement("span")
     label.setAttribute("class", "label");
     $(label).text("Day");
     $(container).append(label);
-    days.each(function(){
-      var day = this;
-      var title = $(day).children("h2").text();
+    days.forEach(function(day){
+      var title = day.name
       console.log("day %o",  day);
       var option = document.createElement("span")
       option.setAttribute("class", "option");
-      $(option).click(function(){ self.selectDay(day); });
+      $(option).click(function(){ self.selectDay(day.name); });
       $(option).text(title)
       container.append(option)
       container.append(" ")

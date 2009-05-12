@@ -15,9 +15,9 @@ body{
   position: fixed;
   left: 190px;
   top: 0;
-  height: 170px;
+  height: 235px;
   background-color: transparent;
-  background-image: url('../img/header_background.png');
+  background-image: url('../img/header_background-235.png');
   background-repeat: repeat-x;
   background-position: bottom;
   z-index: 2;  
@@ -57,9 +57,15 @@ div#times .time{
   margin-left: 10px;
 }
 
+div#timetable_header{
+  position: fixed;
+  top: 170px;
+  left: 190px;
+}
+
 div#timetable{
   overflow: hidden;
-  margin-top: 170px;
+  margin-top: 220px;
   margin-left: 190px;
 }
 
@@ -67,20 +73,24 @@ ul.timetable {
   width: 160px;
   float: left;
   margin: 0px;
+  margin-top: 5px;
   padding: 0px;
-  margin-right: 10px;
+  margin-right: 5px;
   overflow: hidden;
 }
 
 li.filler {
   width: 300px;
   list-style: none;
+  background-color: #eeffcc;
 }
 
 li.entry{
-  border: 1px solid #ccc;
   height: 100px;
   list-style: none;
+  background-color: #ddffbb;
+  border: 1px solid #fff;
+  overflow: none;
 }
 
 li.entry .name{
@@ -98,15 +108,20 @@ li.entry img{
 }
 
 h2.day{
+  position: fixed;
+  top: 170px;
   margin: 0; 
   height: 20px;
   font-size: 13pt;
   padding: 0px;
   width: 300px;
+  z-index: 3;
 }
 
 h3.stage {
-  width: 155px;
+  position: fixed;
+  top: 190px;
+  width: 150px;
   height: 18px;
   font-size: 11pt;
   line-height: 13pt;
@@ -116,7 +131,8 @@ h3.stage {
   padding-top: 2px;
   padding-bottom: 2px;
   color: #ffffff;
-  background-color: #000000;
+  background-color: #6688e0;
+  z-index: 3;
 }
 
 
