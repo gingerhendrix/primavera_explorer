@@ -11,7 +11,9 @@
     %script{ :src => "timetableData.js" }
   %body
     %div#container
-      %div#dummy "Blah Blah Blah"
+    %div#times 
+      - 24.times do |i|
+        %div.time= "#{(i+12)%24}:00"
     %div#labels
       - @timetable.days.each do |day|
         %h2.day= day
