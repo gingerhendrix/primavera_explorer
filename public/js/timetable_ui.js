@@ -83,6 +83,8 @@ function TimetableScroller(){
        
         $("#labels").css('margin-top', "-" + $(document).scrollTop() + "px");
         
+        $('#times').css('margin-left', "-" + $(document).scrollLeft() + "px");
+        
         $("#timetable").css('margin-top', "-" + $(document).scrollTop() + "px"); 
         $("#timetable").css('margin-left', "-" + $(document).scrollLeft() + "px");
     });
