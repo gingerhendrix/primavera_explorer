@@ -1,8 +1,8 @@
 
 var UI = new (function (){
   var start = 300;
-  var startTime = 12;//Decimal hours eg. 13.5 == 13:30
-  var scale = 300;
+  var startTime = 13;//Decimal hours eg. 13.5 == 13:30
+  var scale = 50;
 
   var expanded;
   
@@ -27,8 +27,8 @@ var UI = new (function (){
           if(idx==0){
             var filler = document.createElement("li")
             filler.setAttribute("class", "filler");
-            var fillerWidth = getTime(entry) * scale;
-            $(filler).css("width", fillerWidth + "px");
+            var fillerHeight = getTime(entry) * scale;
+            $(filler).css("height", fillerHeight + "px");
             el.before(filler);                       
           }
 
@@ -47,11 +47,11 @@ var UI = new (function (){
           }else{
             duration = 1;
           }
-          var width = (duration*scale) - 10;
+          var height = (duration*scale) - 10;
           
   //        el.css("position", "absolute");
   //        el.css("left", left + "px");          
-          el.css("width", width + "px");          
+          el.css("height", height + "px");          
        });
      });
     });

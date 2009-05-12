@@ -26,5 +26,6 @@
                 - @timetable.entries_for_day_and_stage(day, stage).each do |entry|
                   - band = entry.band
                   %li.entry{ :id => entry.element_id, :class => "entry" }
+                    %span.time= entry.time
                     = haml :_band, :locals => {:b => band, :id => entry.element_id}
     = haml :_analytics

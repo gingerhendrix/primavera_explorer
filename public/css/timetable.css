@@ -25,11 +25,11 @@ div#times .time{
 }
 
 div#timetable{
-  width: 12000px;
+  overflow: hidden;
 }
 
 ul.timetable {
-  width: 300px;
+  width: 160px;
   float: left;
   margin: 0px;
   padding: 0px;
@@ -38,29 +38,19 @@ ul.timetable {
 }
 
 li.filler {
-  display: none;
+  width: 300px;
+  list-style: none;
 }
 
 li.entry{
   border: 1px solid #ccc;
   height: 100px;
-  width: 300px;
   list-style: none;
-  overflow: hidden;
 }
 
 li.entry .name{
-  height: 18px;
   display: block;
-  width: 100%;
-  background-color: #aaa;
   font-size: 11pt;
-  line-height: 13pt;
-  margin: 0;
-  margin-bottom: 5px;
-  padding-left: 5px;
-  padding-top: 2px;
-  padding-bottom: 2px;
   color: #000;
   cursor: pointer;
 }
@@ -81,7 +71,7 @@ h2.day{
 }
 
 h3.stage {
-  width: 285px;
+  width: 155px;
   height: 18px;
   font-size: 11pt;
   line-height: 13pt;
