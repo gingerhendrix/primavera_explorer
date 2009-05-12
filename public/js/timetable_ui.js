@@ -88,6 +88,10 @@ function DaySelector(){
   this.emitHTML = function(container){
     var days = $('div#timetable div.day');
     console.log("Emit HTML");
+    var label  = document.createElement("span")
+    label.setAttribute("class", "label");
+    $(label).text("Day");
+    $(container).append(label);
     days.each(function(){
       var day = this;
       var title = $(day).children("h2").text();
@@ -97,6 +101,7 @@ function DaySelector(){
       $(option).click(function(){ self.selectDay(day); });
       $(option).text(title)
       container.append(option)
+      container.append(" ")
     });
   }
 
