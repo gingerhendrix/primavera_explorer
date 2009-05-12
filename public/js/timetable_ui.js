@@ -16,7 +16,7 @@ var UI = new (function (){
   
   this.init = function(){
     var self = this;
-    new TimetableScroller();
+   // new TimetableScroller();
     
     timetableData.days.forEach(function(day){
      day.stages.forEach(function(stage){

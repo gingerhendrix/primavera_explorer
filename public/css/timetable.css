@@ -3,12 +3,8 @@ body{
 
 }
 
-div#container{
-  width: 8000px;
-  height: 2000px;
-}
-
 div#times{
+  display: none;
   position: fixed;
   z-index: 2;
   left: 300px;
@@ -24,45 +20,29 @@ div#times .time{
   margin-left: 10px;
 }
 
-div#labels{
-  position: fixed;
-  left: 0px;
-  top: 50px;
-  width: 300px;
-  overflow: none;
-  background-color: #ffffff;
-  z-index: 2;
-}
-
 div#timetable{
-  position: fixed;
-  left: 300px;
-  top: 50px;
-  overflow: none;
-  z-index: 1;
+  width: 12000px;
 }
 
 ul.timetable {
-  width: 7200px;
+  width: 300px;
+  float: left;
   margin: 0px;
   padding: 0px;
+  margin-right: 10px;
   overflow: hidden;
 }
 
 li.filler {
-  float: left;
-  list-style: none;
-  height: 18px;
-  margin-right: 10px;
+  display: none;
 }
 
 li.entry{
-  height: auto;
-  width: 285px;
+  border: 1px solid #ccc;
+  height: 100px;
+  width: 300px;
   list-style: none;
   overflow: hidden;
-  float: left;
-  margin-right: 10px;
 }
 
 li.entry .name{
@@ -89,10 +69,11 @@ li.entry img{
 }
 
 h2.day{
+  margin: 0; 
   height: 20px;
   font-size: 13pt;
-  margin: 0;
   padding: 0px;
+  width: 300px;
 }
 
 h3.stage {
@@ -109,13 +90,14 @@ h3.stage {
   background-color: #000000;
 }
 
-div.stage{
-  clear: left;  
-}
 
 div.day{
- clear: left;  
-  margin-top: 20px;
+  float: left;
+  overflow: hidden;
+}
+
+div.stage{
+  float: left;
   overflow: hidden;
 }
 

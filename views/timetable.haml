@@ -14,16 +14,13 @@
     %div#times 
       - 24.times do |i|
         %div.time= "#{(i+12)%24}:00"
-    %div#labels
-      - @timetable.days.each do |day|
-        %h2.day= day
-        - @timetable.stages_for_day(day).each do |stage|
-          %h3.stage= stage
     %div#timetable
       - @timetable.days.each do |day|
         %div.day
+          %h2.day= day
           - @timetable.stages_for_day(day).each do |stage|
             %div.stage
+              %h3.stage= stage
               %ul.timetable
                 - @timetable.entries_for_day_and_stage(day, stage).each do |entry|
                   - band = entry.band
