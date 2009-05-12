@@ -17,6 +17,8 @@ var UI = new (function (){
   this.init = function(){
     var self = this;
    // new TimetableScroller();
+   var daySelector = new DaySelector();
+   daySelector.emitHTML($("div#daySelector"));
     
     timetableData.days.forEach(function(day){
      day.stages.forEach(function(stage){
@@ -75,19 +77,27 @@ var UI = new (function (){
 
 })();
 
-function TimetableScroller(){
+function DaySelector(){
+  var self = this;
 
-  this.init = function(){
-    console.log("New TimetableScroller");
-    $(window).scroll(function(e){
-       
-        $("#labels").css('margin-top', "-" + $(document).scrollTop() + "px");
-        
-        $('#times').css('margin-left', "-" + $(document).scrollLeft() + "px");
-        
-        $("#timetable").css('margin-top', "-" + $(document).scrollTop() + "px"); 
-        $("#timetable").css('margin-left', "-" + $(document).scrollLeft() + "px");
+  this.selectDay = function(day){
+    $(".day.selected").removeClass("selected");
+    $(day).addClass("selected");
+  }
+
+  this.emitHTML = function(container){
+    var days = $('div#timetable div.day');
+    console.log("Emit HTML");
+    days.each(function(){
+      var day = this;
+      var title = $(day).children("h2").text();
+      console.log("day %o",  day);
+      var option = document.createElement("span")
+      option.setAttribute("class", "option");
+      $(option).click(function(){ self.selectDay(day); });
+      $(option).text(title)
+      container.append(option)
     });
   }
-  this.init();
+
 }

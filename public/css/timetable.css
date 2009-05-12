@@ -3,6 +3,10 @@ body{
 
 }
 
+div#controls{
+  height: 100px;
+}
+
 div#times{
   display: none;
   position: fixed;
@@ -94,6 +98,11 @@ h3.stage {
 div.day{
   float: left;
   overflow: hidden;
+  display: none;
+}
+
+div.day.selected{
+  display: block;
 }
 
 div.stage{

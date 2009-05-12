@@ -10,7 +10,8 @@
     %script{ :src => 'http://gandrew.com/mint/?js' }
     %script{ :src => "timetableData.js" }
   %body
-    %div#container
+    %div#controls 
+      %div#daySelector
     %div#times 
       - 24.times do |i|
         %div.time= "#{(i+12)%24}:00"
