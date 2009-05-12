@@ -57,7 +57,7 @@ class PrimaveraTimetable
   def days
     days = []
     @entries.each do |entry|
-      if !days.include? entry.day
+      if !entry.day.empty? && !days.include?(entry.day)
         days.push entry.day
       end 
     end
