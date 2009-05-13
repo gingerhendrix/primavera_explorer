@@ -1,7 +1,7 @@
 
 var UI = new (function (){
   var start = 300;
-  var startTime = 13;//Decimal hours eg. 13.5 == 13:30
+  var startTime = 12;//Decimal hours eg. 13.5 == 13:30
   var scale = 100;
 
   var expanded;
@@ -20,14 +20,16 @@ var UI = new (function (){
    var daySelector = new DaySelector();
    daySelector.emitHTML($("div#daySelector"));
     
-    timetableData.days.forEach(function(day){
+   timetableData.days.forEach(function(day){
+     var startOffset = getDayStart(day); //Time from startTime to first band
+     console.log("Day " + day + " " + startOffset);
      day.stages.forEach(function(stage){
        stage.entries.forEach(function(entry, idx){
           var el = $("#"+entry.element_id);
           if(idx==0){
             var filler = document.createElement("li")
             filler.setAttribute("class", "filler");
-            var fillerHeight = getTime(entry) * scale;
+            var fillerHeight = (getTime(entry) - startOffset) * scale;
             $(filler).css("height", fillerHeight + "px");
             el.before(filler);                       
           }
@@ -56,6 +58,17 @@ var UI = new (function (){
      });
     });
   }  
+  
+  function getDayStart(day){
+    var start = -1
+    day.stages.forEach(function(stage){
+      var stageStart = getTime(stage.entries[0]);
+      if ( start == -1 || stageStart < start ){
+        start = stageStart;
+      }
+    });
+    return start;
+  }
   
   function getTime(entry){
     var time = entry.time;
