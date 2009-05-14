@@ -47,7 +47,6 @@ div#times{
   left: 300px;
   top: 0px;
   height: 50px;
-  width: 7450px;
 }
 
 div#times .time{
@@ -109,14 +108,31 @@ li.entry img{
 
 h2.day{
   position: fixed;
-  top: 170px;
+  top: 160px;
   margin: 0; 
-  height: 20px;
   font-size: 13pt;
   padding: 0px;
-  width: 300px;
   z-index: 3;
+  text-align: center;
+  width: 300px;
 }
+
+span.day_link{
+  font-family: "Times New Roman", times, serif;
+  font-size: 16pt;
+}
+
+h2.day span.day_link.next{
+  position: absolute;
+  right: 0;
+}
+
+h2.day span.day_link.prev{
+  position: absolute;
+  left: 0;
+}
+
+
 
 h3.stage {
   position: fixed;

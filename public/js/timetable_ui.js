@@ -92,31 +92,54 @@ var UI = new (function (){
 
 function DaySelector(){
   var self = this;
+  
+  function dayToEl(day){
+    return $('#'+day.name.replace(/[\W]/g, "_"));
+  }
 
-  this.selectDay = function(dayname){
-    var id = dayname.replace(/[\W]/g, "_")
-    var day = $("#"+id);
-    console.log("select %s, %s, %o", dayname, id, day);
+  this.selectDay = function(day){
+    var dayEl = dayToEl(day);
     $(".day.selected").removeClass("selected");
-    $(day).addClass("selected");
+    $(dayEl).addClass("selected");
   }
 
   this.emitHTML = function(container){
     var days =  timetableData.days
-    console.log("Emit HTML");
     var label  = document.createElement("span")
     label.setAttribute("class", "label");
     $(label).text("Day");
     $(container).append(label);
     days.forEach(function(day){
       var title = day.name
-      console.log("day %o",  day);
       var option = document.createElement("span")
       option.setAttribute("class", "option");
-      $(option).click(function(){ self.selectDay(day.name); });
+      $(option).click(function(){ self.selectDay(day); });
       $(option).text(title)
       container.append(option)
       container.append(" ")
+    });
+    this.createMenu();
+  }
+
+  this.createMenu = function(){
+    var days =  timetableData.days;
+    days.forEach(function(day, i){
+      var makeLink = function(day, text, clazz){
+        var span = document.createElement("span");
+        $(span).addClass("day_link");
+        $(span).addClass(clazz);        
+        $(span).click(function(){ self.selectDay(day) });
+        $(span).text(text);
+        return span;
+      }
+      if(i>0){
+        var prevLink = makeLink(days[i-1],"<", "prev");
+        $("h2.day", dayToEl(day)).prepend(prevLink);
+      }
+      if((i+1)<days.length){
+        var nextLink = makeLink(days[i+1],">", "next");
+        $("h2.day", dayToEl(day)).append(nextLink);
+      }      
     });
   }
 
