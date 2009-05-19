@@ -5,6 +5,7 @@ var UI = new (function (){
   var scale = 100;
 
   var expanded;
+  this.daySelector;
   
   this.expand = function(){
     var el = this;
@@ -17,8 +18,8 @@ var UI = new (function (){
   this.init = function(){
     var self = this;
    // new TimetableScroller();
-   var daySelector = new DaySelector();
-   daySelector.emitHTML($("div#daySelector"));
+   this.daySelector = new DaySelector();
+   this.daySelector.emitHTML($("div#daySelector"));
     
    timetableData.days.forEach(function(day){
      var startOffset = getDayStart(day); //Time from startTime to first band
