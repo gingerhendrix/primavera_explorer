@@ -105,22 +105,9 @@ function DaySelector(){
   }
 
   this.emitHTML = function(container){
-    var days =  timetableData.days
-    var label  = document.createElement("span")
-    label.setAttribute("class", "label");
-    $(label).text("Day");
-    $(container).append(label);
-    days.forEach(function(day){
-      var title = day.name
-      var option = document.createElement("span")
-      option.setAttribute("class", "option");
-      $(option).click(function(){ self.selectDay(day); });
-      $(option).text(title)
-      container.append(option)
-      container.append(" ")
-    });
     this.createMenu();
   }
+  
 
   this.createMenu = function(){
     var days =  timetableData.days;
