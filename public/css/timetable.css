@@ -214,3 +214,14 @@ li.entry.expand .info .tags{
 li.entry.expand .info .tags .tag{
 	text-decoration: underline;
 }
+
+li.entry.expand .info .timetable{
+	display: none;
+}
+
+li.entry.expand .info .bio{
+  clear: left;
+  font-size: 10pt;
+	padding-top: 0.5em;
+	padding-bottom: 2em;
+}
