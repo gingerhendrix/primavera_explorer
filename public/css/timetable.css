@@ -27,7 +27,7 @@ h1{
   background-image: url('../img/header_background-235.png');
   background-repeat: repeat-x;
   background-position: bottom;
-  z-index: 2;  
+  z-index: 3;  
   overflow: hidden;
   width: 100%;
 }
@@ -76,13 +76,15 @@ ul.timetable {
   margin-top: 5px;
   padding: 0px;
   margin-right: 5px;
-  overflow: hidden;
+  overflow: visible;
+  z-index: 1;
 }
 
 li.filler {
-  width: 300px;
+  width: 158px;
   list-style: none;
   background-color: #eeffcc;
+  border: 1px solid #fff;
 }
 
 li.entry{
@@ -90,7 +92,7 @@ li.entry{
   list-style: none;
   background-color: #ddffbb;
   border: 1px solid #fff;
-  overflow: none;
+  overflow: visible;
   padding-left: 2px;
 }
 
@@ -162,7 +164,7 @@ h3.stage {
 
 div.day{
   float: left;
-  overflow: hidden;
+  overflow: visible;
   display: none;
 }
 
@@ -172,9 +174,18 @@ div.day.selected{
 
 div.stage{
   float: left;
-  overflow: hidden;
+  overflow: visible;
+}
+
+li.entry.expand{
+  overflow: visible;
 }
 
 li.entry.expand .info{
   display: block;
+  width: 300px;
+  background-color: #ffffff;
+  height: auto;
+  z-index: 2;
+  position: relative;
 }
