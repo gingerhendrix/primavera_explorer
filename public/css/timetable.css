@@ -181,6 +181,17 @@ li.entry.expand{
   overflow: visible;
 }
 
+li.entry.expand .name{
+	width: 300px;
+	background-color: #fff;
+	font-size: 14pt;
+	z-index: 2;
+	position: relative;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	padding-left: 5px;
+}
+
 li.entry.expand .info{
   display: block;
   width: 300px;
@@ -188,4 +199,18 @@ li.entry.expand .info{
   height: auto;
   z-index: 2;
   position: relative;
+  padding-left: 5px;
+}
+
+li.entry.expand .info .stats{
+	font-size: 9pt;
+	margin-bottom: 0.5em;
+}
+
+li.entry.expand .info .tags{
+	font-size: 9pt;
+}
+
+li.entry.expand .info .tags .tag{
+	text-decoration: underline;
 }
