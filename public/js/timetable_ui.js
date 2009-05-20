@@ -7,18 +7,13 @@ var UI = new (function (){
   var expanded;
   this.daySelector;
   
-  this.expand = function(el, entry, entryIdx){
-  //  tracker.trackArtistSelect($(el).attr("id"));
-    if(expanded && expanded != el) { 
-      $(expanded).removeClass("expand");
-    }
-    if($(el).hasClass("expand")){
+  this.expand = function(el){
+    $(el).addClass("expand");
+    expanded = el;
+  }
+  
+  this.unexpand = function(el){
       $(el).removeClass("expand");
-    }else{
-      $(el).addClass("expand");
-      expanded = el;
-    }
-    
   }
   
   this.init = function(){
@@ -40,9 +35,9 @@ var UI = new (function (){
             $(filler).css("height", fillerHeight + "px");
             el.before(filler);                       
           }
-
-          el.click(function(){ self.expand(el, entry, idx); } );
-          
+          var nameEl = el.find("a.name");
+          nameEl.mouseenter(function(){ self.expand(el); } );
+          nameEl.mouseleave(function(){ self.unexpand(el); } );
         /*  var time = getTime(entry);
           if(time < 0){
             console.log("WARNING: no time for %o", entry);
