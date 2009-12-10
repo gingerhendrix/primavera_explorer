@@ -12,7 +12,7 @@
   %body
     %img{ :src => "img/primavera_logo.png", :width => "170", :height => "240", :id => "primavera_logo" }
     %div#header
-      %h1 Mushub Primavera Explorer
+      %h1 Mushub Primavera Explorer 2010
       %div#controls
         %div.sort 
           %span.label sort
@@ -49,13 +49,6 @@
                 %div.tags
                   - b.lastfm_tags.top_tags.each do |tag|
                     %span.tag= tag['name']                  
-                %div.timetable
-                  %span.label Stage
-                  %span.stage= b.timetable_entry.stage
-                  %span.label Day
-                  %span.day= b.timetable_entry.day
-                  %span.label Time
-                  %span.time= b.timetable_entry.time
                 %span.bio= b.lastfm_info.bio
             - else
               %div.info

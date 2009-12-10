@@ -2,13 +2,19 @@
 body{
   font-size: 10pt;
   font-family: arial;
-  color: #333;
+  color: #fff;
+  background-color: #000;
 } 
+
+a{
+  color: #6666ff;
+}
 
 #primavera_logo{
   position: fixed;
   left: 0;
   top: 0;
+  visibility: hidden;
 }
 
 #header {
@@ -16,10 +22,11 @@ body{
   left: 190px;
   top: 0;
   height: 170px;
-  background-color: transparent;
-  background-image: url('../img/header_background.png');
+  background-color: black;
+/*  background-image: url('../img/header_background.png');
   background-repeat: repeat-x;
   background-position: bottom;
+*/
   z-index: 2;  
   overflow: hidden;
   width: 100%;
@@ -59,10 +66,12 @@ body{
 
 #controls .option.selected{
   font-weight: bold;
+  color: #DC1508;
 }
 
 #controls .option.selectedOver{
   font-weight: bold;
+   color: #DC1508;
 }
 
 
@@ -122,25 +131,28 @@ li.band.unselected{
 
 li.band{
   list-style: none;
-  padding-top: 30px;
+  margin-top: 30px;
   height: 300px;
   overflow: hidden;
   margin-left: 20px;
   width: 595px;
+  background-color: #202020;
 }
 
 li.band .name{
   display: block;
   width: 100%;
-  background-color: #aaa;
-  font-size: 11pt;
+  background-color: #fff;
+  font-size: 12pt;
   line-height: 13pt;
-  margin-bottom: 5px;
   padding-left: 5px;
   padding-top: 2px;
   padding-bottom: 2px;
   color: #000;
   cursor: pointer;
+  font-variant: small-caps;
+  font-weight: bold;
+  font-family: courier;
 }
 
 li.band img{
@@ -195,17 +207,17 @@ li.band .bio{
 
 #tagcloud .tag.size0{
   font-size: 11pt;
-  color: #000;
+  color: #909090;
 }
 
 #tagcloud .tag.size1{
   font-size: 10.5pt;
-  color: #181818;
+   color: #888888;
 }
 
 #tagcloud .tag.size2{
   font-size: 10pt;
-  color: #303030;
+  color: #606060;
 }
 
 #tagcloud .tag.size3{
@@ -215,18 +227,21 @@ li.band .bio{
 
 #tagcloud .tag.size4{
   font-size: 9pt;
-  color: #606060;
+  
+  color: #303030;
 }
 
 #tagcloud .tag.size5{
   font-size: 8.5pt;
-  color: #888888;
+ 
+  color: #181818;
 }
 
 
 #tagcloud .tag.size6{
   font-size: 8pt;
-  color: #909090;
+
+  color: #000;
 }
 
 
@@ -244,7 +259,7 @@ li.band .bio{
 }
 
 #bands.list li.band{
-  padding-top: 5px;
+  margin-top: 5px;
   height: auto;
 }
 
@@ -256,7 +271,7 @@ li.band .bio{
 }
 
 #bands.compact li.band{
-  padding-top: 5px;
+  margin-top: 5px;
   height: auto;
   width: 285px;
 }
@@ -286,7 +301,7 @@ li.band .bio{
 }
 
 #bands.compact li.band.expand{
-  padding-top: 5px;
+  margin-top: 5px;
   height: auto;
   padding-bottom: 10px;
 }
