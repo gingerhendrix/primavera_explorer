@@ -10,9 +10,11 @@
     %script{ :src => 'http://gandrew.com/mint/?js' }
     %script{ :src => "bandsData.js" }
   %body
-    %img{ :src => "img/primavera_logo.png", :width => "170", :height => "240", :id => "primavera_logo" }
+    %div#primavera_logo
+      %img{ :src => "img/primavera_logo10.png", :width => "224", :height => "104",  }
+      %a{ :href=> 'http://primavera09.mushub.com/'}
+        &raquo; primavera explorer '09
     %div#header
-      %h1 Mushub Primavera Explorer 2010
       %div#controls
         %div.sort 
           %span.label sort

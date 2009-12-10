@@ -11,15 +11,26 @@ a{
 }
 
 #primavera_logo{
-  position: fixed;
-  left: 0;
-  top: 0;
-  visibility: hidden;
+  margin-left: 20px;
+  margin-top: 5px;
+  top: 30px;
+}
+
+#primavera_logo img{
+  display: block;
+}
+
+#primavera_logo a{
+  color: #FF4040;
+  text-decoration: none;
+  margin-top: 30px;
+
+  display: block;
 }
 
 #header {
   position: fixed;
-  left: 190px;
+  left: 264px;
   top: 0;
   height: 170px;
   background-color: black;
@@ -34,13 +45,14 @@ a{
 
 #bands{
   position: absolute;
-  left: 170px;
+  left: 20px;
   top: 160px;
 }
 
 #controls{
-  width: 300px;
+  width: 280px;
   float: left;
+  margin-top: 40px;
 }
 
 #controls .stage, #controls .day{
@@ -51,11 +63,12 @@ a{
   display: block;
   width: 55px;
   float: left;
+  font-weight: bold;
 }
 
 #controls .options {
   float: left;
-  width: 240px;
+  width: 220px;
 }
 
 #controls .option{
@@ -66,12 +79,12 @@ a{
 
 #controls .option.selected{
   font-weight: bold;
-  color: #DC1508;
+  color: #FF4040;
 }
 
 #controls .option.selectedOver{
   font-weight: bold;
-   color: #DC1508;
+   color: #FF4040;
 }
 
 
@@ -88,6 +101,7 @@ a{
 .tagcloud{
   width: 600px;
   float: left;
+  margin-top: 40px;
 }
 
 #tagcloud{
@@ -292,6 +306,10 @@ li.band .bio{
   height: 300px;
 }
 
+#bands.compact li.band.expand .name{
+  height: auto;
+}
+
 #bands.list li.band.expand .info{
   display: block;
 }
@@ -304,11 +322,6 @@ li.band .bio{
   margin-top: 5px;
   height: auto;
   padding-bottom: 10px;
-}
-
-#bands.compact li.band.expand .name{
-  height: 18px;
-  overflow: hidden;
 }
 
 #bands.compact li.band.expand .info{
