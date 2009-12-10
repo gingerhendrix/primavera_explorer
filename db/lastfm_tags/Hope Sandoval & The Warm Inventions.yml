@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "100"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "84"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "65"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "62"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "56"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "15"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "13"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "10"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "10"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "8"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "8"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "8"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "7"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "7"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "7"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "5"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "5"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "4"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "4"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "4"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "3"
+- name: Mazzy Star
+  url: http://www.last.fm/tag/mazzy%20star
+  count: "3"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "3"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "2"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "2"
+- name: hope sandoval
+  url: http://www.last.fm/tag/hope%20sandoval
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "2"
+- name: highly underrated
+  url: http://www.last.fm/tag/highly%20underrated
+  count: "2"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "2"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "2"
+- name: velvet folk
+  url: http://www.last.fm/tag/velvet%20folk
+  count: "2"
+- name: Sigh and swoon in equal measure
+  url: http://www.last.fm/tag/sigh%20and%20swoon%20in%20equal%20measure
+  count: "2"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "1"
+- name: quiet
+  url: http://www.last.fm/tag/quiet
+  count: "1"
+- name: alt
+  url: http://www.last.fm/tag/alt
+  count: "1"
+- name: Rough Trade
+  url: http://www.last.fm/tag/rough%20trade
+  count: "1"
+- name: ambience
+  url: http://www.last.fm/tag/ambience
+  count: "1"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "1"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "1"
+- name: dream-pop
+  url: http://www.last.fm/tag/dream-pop
+  count: "1"
+- name: atmospheric rock
+  url: http://www.last.fm/tag/atmospheric%20rock
+  count: "1"
+- name: twinkling starry skies
+  url: http://www.last.fm/tag/twinkling%20starry%20skies
+  count: "1"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "1"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "1"
+- name: self-loathing sounds
+  url: http://www.last.fm/tag/self-loathing%20sounds
+  count: "1"
+- name: slow
+  url: http://www.last.fm/tag/slow
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: heiner blum
+  url: http://www.last.fm/tag/heiner%20blum
+  count: "1"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "1"
+- name: Merf loves
+  url: http://www.last.fm/tag/merf%20loves
+  count: "0"
+- name: bjarte like
+  url: http://www.last.fm/tag/bjarte%20like
+  count: "0"
+- name: Girls Rocking Out With Their Cocks Out
+  url: http://www.last.fm/tag/girls%20rocking%20out%20with%20their%20cocks%20out
+  count: "0"
+- name: sgr1
+  url: http://www.last.fm/tag/sgr1
+  count: "0"
+- name: Americana-folk-siso vrouwen
+  url: http://www.last.fm/tag/americana-folk-siso%20vrouwen
+  count: "0"
+- name: amason
+  url: http://www.last.fm/tag/amason
+  count: "0"
+- name: lemon zest
+  url: http://www.last.fm/tag/lemon%20zest
+  count: "0"
+- name: cool chick voice
+  url: http://www.last.fm/tag/cool%20chick%20voice
+  count: "0"
+- name: wish to see live
+  url: http://www.last.fm/tag/wish%20to%20see%20live
+  count: "0"
+- name: rami nostalgia
+  url: http://www.last.fm/tag/rami%20nostalgia
+  count: "0"
+- name: for girl moments
+  url: http://www.last.fm/tag/for%20girl%20moments
+  count: "0"
+- name: for sleeping
+  url: http://www.last.fm/tag/for%20sleeping
+  count: "0"
+- name: husk
+  url: http://www.last.fm/tag/husk
+  count: "0"
+- name: kick ass ladies
+  url: http://www.last.fm/tag/kick%20ass%20ladies
+  count: "0"
+- name: vulnerable
+  url: http://www.last.fm/tag/vulnerable
+  count: "0"
+- name: sing me to sleep
+  url: http://www.last.fm/tag/sing%20me%20to%20sleep
+  count: "0"
+- name: 4ad and mo
+  url: http://www.last.fm/tag/4ad%20and%20mo
+  count: "0"
+- name: must see live
+  url: http://www.last.fm/tag/must%20see%20live
+  count: "0"
+- name: noah
+  url: http://www.last.fm/tag/noah
+  count: "0"
+- name: The Artists
+  url: http://www.last.fm/tag/the%20artists
+  count: "0"
+- name: rco
+  url: http://www.last.fm/tag/rco
+  count: "0"
+- name: schoon
+  url: http://www.last.fm/tag/schoon
+  count: "0"
+- name: Lull
+  url: http://www.last.fm/tag/lull
+  count: "0"
+- name: kaka rock
+  url: http://www.last.fm/tag/kaka%20rock
+  count: "0"
+- name: cantoras
+  url: http://www.last.fm/tag/cantoras
+  count: "0"
+- name: perfect female vocalist
+  url: http://www.last.fm/tag/perfect%20female%20vocalist
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: sexy sexy sexy
+  url: http://www.last.fm/tag/sexy%20sexy%20sexy
+  count: "0"
+- name: ksfv
+  url: http://www.last.fm/tag/ksfv
+  count: "0"
+- name: General shit I like
+  url: http://www.last.fm/tag/general%20shit%20i%20like
+  count: "0"
+- name: Lemonade
+  url: http://www.last.fm/tag/lemonade
+  count: "0"
+- name: day dreaming
+  url: http://www.last.fm/tag/day%20dreaming
+  count: "0"
+- name: Sounds like sun
+  url: http://www.last.fm/tag/sounds%20like%20sun
+  count: "0"
+- name: tias
+  url: http://www.last.fm/tag/tias
+  count: "0"
+- name: discovered through last fm
+  url: http://www.last.fm/tag/discovered%20through%20last%20fm
+  count: "0"
+- name: friday april 21st
+  url: http://www.last.fm/tag/friday%20april%2021st
+  count: "0"
+- name: ferry to dublin
+  url: http://www.last.fm/tag/ferry%20to%20dublin
+  count: "0"
+- name: sweeteclek
+  url: http://www.last.fm/tag/sweeteclek
+  count: "0"
+"@attr": 
+  artist: Hope Sandoval & The Warm Inventions

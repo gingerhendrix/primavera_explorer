@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "100"
+- name: reggae
+  url: http://www.last.fm/tag/reggae
+  count: "91"
+- name: roots reggae
+  url: http://www.last.fm/tag/roots%20reggae
+  count: "27"
+- name: roots
+  url: http://www.last.fm/tag/roots
+  count: "24"
+- name: ska
+  url: http://www.last.fm/tag/ska
+  count: "17"
+- name: jamaica
+  url: http://www.last.fm/tag/jamaica
+  count: "7"
+- name: jamaican
+  url: http://www.last.fm/tag/jamaican
+  count: "5"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "3"
+- name: rocksteady
+  url: http://www.last.fm/tag/rocksteady
+  count: "2"
+- name: dub reggae
+  url: http://www.last.fm/tag/dub%20reggae
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: crazy
+  url: http://www.last.fm/tag/crazy
+  count: "1"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "1"
+- name: reggae-dub-ska
+  url: http://www.last.fm/tag/reggae-dub-ska
+  count: "1"
+- name: dub-u
+  url: http://www.last.fm/tag/dub-u
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "0"
+- name: dub-u-dub
+  url: http://www.last.fm/tag/dub-u-dub
+  count: "0"
+- name: Bob Marley
+  url: http://www.last.fm/tag/bob%20marley
+  count: "0"
+- name: Lee Perry and The Upsetters
+  url: http://www.last.fm/tag/lee%20perry%20and%20the%20upsetters
+  count: "0"
+- name: jungle
+  url: http://www.last.fm/tag/jungle
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: skinhead reggae
+  url: http://www.last.fm/tag/skinhead%20reggae
+  count: "0"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: reggae dub
+  url: http://www.last.fm/tag/reggae%20dub
+  count: "0"
+- name: marijuana
+  url: http://www.last.fm/tag/marijuana
+  count: "0"
+- name: Rasta
+  url: http://www.last.fm/tag/rasta
+  count: "0"
+- name: dub reggae roots
+  url: http://www.last.fm/tag/dub%20reggae%20roots
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: legend
+  url: http://www.last.fm/tag/legend
+  count: "0"
+- name: on-u-sound
+  url: http://www.last.fm/tag/on-u-sound
+  count: "0"
+- name: mastoura
+  url: http://www.last.fm/tag/mastoura
+  count: "0"
+- name: On-U Sound
+  url: http://www.last.fm/tag/on-u%20sound
+  count: "0"
+- name: world
+  url: http://www.last.fm/tag/world
+  count: "0"
+- name: On-U
+  url: http://www.last.fm/tag/on-u
+  count: "0"
+- name: roots and culture
+  url: http://www.last.fm/tag/roots%20and%20culture
+  count: "0"
+- name: caribbean
+  url: http://www.last.fm/tag/caribbean
+  count: "0"
+- name: womad 2008
+  url: http://www.last.fm/tag/womad%202008
+  count: "0"
+- name: All
+  url: http://www.last.fm/tag/all
+  count: "0"
+- name: soulful
+  url: http://www.last.fm/tag/soulful
+  count: "0"
+- name: AFRICOSMIC
+  url: http://www.last.fm/tag/africosmic
+  count: "0"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "0"
+- name: 1970s
+  url: http://www.last.fm/tag/1970s
+  count: "0"
+- name: Lee Perry
+  url: http://www.last.fm/tag/lee%20perry
+  count: "0"
+- name: dub poetry
+  url: http://www.last.fm/tag/dub%20poetry
+  count: "0"
+- name: Roskilde 2007
+  url: http://www.last.fm/tag/roskilde%202007
+  count: "0"
+- name: raggae
+  url: http://www.last.fm/tag/raggae
+  count: "0"
+- name: weed
+  url: http://www.last.fm/tag/weed
+  count: "0"
+- name: Upsetters
+  url: http://www.last.fm/tag/upsetters
+  count: "0"
+- name: Dubwise
+  url: http://www.last.fm/tag/dubwise
+  count: "0"
+- name: loved
+  url: http://www.last.fm/tag/loved
+  count: "0"
+- name: scratch
+  url: http://www.last.fm/tag/scratch
+  count: "0"
+- name: peter tosh
+  url: http://www.last.fm/tag/peter%20tosh
+  count: "0"
+- name: reggae and dub
+  url: http://www.last.fm/tag/reggae%20and%20dub
+  count: "0"
+- name: heavy dub
+  url: http://www.last.fm/tag/heavy%20dub
+  count: "0"
+- name: roots dub
+  url: http://www.last.fm/tag/roots%20dub
+  count: "0"
+- name: classic dub
+  url: http://www.last.fm/tag/classic%20dub
+  count: "0"
+- name: shaman
+  url: http://www.last.fm/tag/shaman
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: Drum and bass
+  url: http://www.last.fm/tag/drum%20and%20bass
+  count: "0"
+- name: classics
+  url: http://www.last.fm/tag/classics
+  count: "0"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: tseuq dub
+  url: http://www.last.fm/tag/tseuq%20dub
+  count: "0"
+- name: pancaribbean
+  url: http://www.last.fm/tag/pancaribbean
+  count: "0"
+- name: qewret
+  url: http://www.last.fm/tag/qewret
+  count: "0"
+- name: omghienoo
+  url: http://www.last.fm/tag/omghienoo
+  count: "0"
+- name: deepsoul
+  url: http://www.last.fm/tag/deepsoul
+  count: "0"
+- name: tseuqone
+  url: http://www.last.fm/tag/tseuqone
+  count: "0"
+- name: u-roy
+  url: http://www.last.fm/tag/u-roy
+  count: "0"
+- name: Ankes picks
+  url: http://www.last.fm/tag/ankes%20picks
+  count: "0"
+- name: Intergalactic PanAfrican SpaceNegroes
+  url: http://www.last.fm/tag/intergalactic%20panafrican%20spacenegroes
+  count: "0"
+- name: buryblue
+  url: http://www.last.fm/tag/buryblue
+  count: "0"
+- name: sunny side up
+  url: http://www.last.fm/tag/sunny%20side%20up
+  count: "0"
+- name: peanut
+  url: http://www.last.fm/tag/peanut
+  count: "0"
+- name: ppk collie
+  url: http://www.last.fm/tag/ppk%20collie
+  count: "0"
+- name: pligaa
+  url: http://www.last.fm/tag/pligaa
+  count: "0"
+- name: Which Music I Like Part One Roots Rock Reggae
+  url: http://www.last.fm/tag/which%20music%20i%20like%20part%20one%20roots%20rock%20reggae
+  count: "0"
+- name: Horace Andy
+  url: http://www.last.fm/tag/horace%20andy
+  count: "0"
+- name: amtlich
+  url: http://www.last.fm/tag/amtlich
+  count: "0"
+- name: saw you in the flesh
+  url: http://www.last.fm/tag/saw%20you%20in%20the%20flesh
+  count: "0"
+- name: TRES TRES BON
+  url: http://www.last.fm/tag/tres%20tres%20bon
+  count: "0"
+- name: fira
+  url: http://www.last.fm/tag/fira
+  count: "0"
+- name: yes I
+  url: http://www.last.fm/tag/yes%20i
+  count: "0"
+- name: scratch perry
+  url: http://www.last.fm/tag/scratch%20perry
+  count: "0"
+- name: group of people who are
+  url: http://www.last.fm/tag/group%20of%20people%20who%20are
+  count: "0"
+- name: The day that Thatcher dies
+  url: http://www.last.fm/tag/the%20day%20that%20thatcher%20dies
+  count: "0"
+- name: future collective
+  url: http://www.last.fm/tag/future%20collective
+  count: "0"
+- name: ska and rocksteady
+  url: http://www.last.fm/tag/ska%20and%20rocksteady
+  count: "0"
+- name: freeside dub
+  url: http://www.last.fm/tag/freeside%20dub
+  count: "0"
+- name: just listen to this
+  url: http://www.last.fm/tag/just%20listen%20to%20this
+  count: "0"
+- name: Perry
+  url: http://www.last.fm/tag/perry
+  count: "0"
+- name: radioliam
+  url: http://www.last.fm/tag/radioliam
+  count: "0"
+- name: tubby is king
+  url: http://www.last.fm/tag/tubby%20is%20king
+  count: "0"
+- name: superburning
+  url: http://www.last.fm/tag/superburning
+  count: "0"
+- name: black ark
+  url: http://www.last.fm/tag/black%20ark
+  count: "0"
+"@attr": 
+  artist: Lee "Scratch" Perry

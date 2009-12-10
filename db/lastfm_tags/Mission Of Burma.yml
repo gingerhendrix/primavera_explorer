@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "100"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "34"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "27"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "24"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "17"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "11"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "10"
+- name: boston
+  url: http://www.last.fm/tag/boston
+  count: "7"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "6"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "2"
+- name: Massachusetts
+  url: http://www.last.fm/tag/massachusetts
+  count: "2"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "1"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "1"
+- name: american underground
+  url: http://www.last.fm/tag/american%20underground
+  count: "1"
+- name: American Punk
+  url: http://www.last.fm/tag/american%20punk
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: our band could be your life
+  url: http://www.last.fm/tag/our%20band%20could%20be%20your%20life
+  count: "1"
+- name: mission of burma
+  url: http://www.last.fm/tag/mission%20of%20burma
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: 80s alternative
+  url: http://www.last.fm/tag/80s%20alternative
+  count: "0"
+- name: Seminal
+  url: http://www.last.fm/tag/seminal
+  count: "0"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "0"
+- name: urgent
+  url: http://www.last.fm/tag/urgent
+  count: "0"
+- name: Left of the Dial
+  url: http://www.last.fm/tag/left%20of%20the%20dial
+  count: "0"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "0"
+- name: Visceral
+  url: http://www.last.fm/tag/visceral
+  count: "0"
+- name: hardcore punk
+  url: http://www.last.fm/tag/hardcore%20punk
+  count: "0"
+- name: matador
+  url: http://www.last.fm/tag/matador
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: complex
+  url: http://www.last.fm/tag/complex
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: coolness
+  url: http://www.last.fm/tag/coolness
+  count: "0"
+- name: cathartic
+  url: http://www.last.fm/tag/cathartic
+  count: "0"
+- name: Fiery
+  url: http://www.last.fm/tag/fiery
+  count: "0"
+- name: aggressive
+  url: http://www.last.fm/tag/aggressive
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: sophisticated
+  url: http://www.last.fm/tag/sophisticated
+  count: "0"
+- name: new england
+  url: http://www.last.fm/tag/new%20england
+  count: "0"
+- name: Volatile
+  url: http://www.last.fm/tag/volatile
+  count: "0"
+- name: influential
+  url: http://www.last.fm/tag/influential
+  count: "0"
+- name: noisy
+  url: http://www.last.fm/tag/noisy
+  count: "0"
+- name: Eargasm
+  url: http://www.last.fm/tag/eargasm
+  count: "0"
+- name: Acerbic
+  url: http://www.last.fm/tag/acerbic
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: earnest
+  url: http://www.last.fm/tag/earnest
+  count: "0"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: tense-anxious
+  url: http://www.last.fm/tag/tense-anxious
+  count: "0"
+- name: Passionate
+  url: http://www.last.fm/tag/passionate
+  count: "0"
+- name: Cerebral
+  url: http://www.last.fm/tag/cerebral
+  count: "0"
+- name: bitter
+  url: http://www.last.fm/tag/bitter
+  count: "0"
+- name: do you feel lucky post-punk
+  url: http://www.last.fm/tag/do%20you%20feel%20lucky%20post-punk
+  count: "0"
+- name: ahead of their time
+  url: http://www.last.fm/tag/ahead%20of%20their%20time
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "0"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "0"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "0"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: classic alternative
+  url: http://www.last.fm/tag/classic%20alternative
+  count: "0"
+- name: tape loops
+  url: http://www.last.fm/tag/tape%20loops
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: Boston indie
+  url: http://www.last.fm/tag/boston%20indie
+  count: "0"
+- name: Bands I have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: Punk-Rock
+  url: http://www.last.fm/tag/punk-rock
+  count: "0"
+- name: dr small jukebox
+  url: http://www.last.fm/tag/dr%20small%20jukebox
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "0"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "0"
+- name: art-punk
+  url: http://www.last.fm/tag/art-punk
+  count: "0"
+- name: glam rock
+  url: http://www.last.fm/tag/glam%20rock
+  count: "0"
+- name: proto-punk
+  url: http://www.last.fm/tag/proto-punk
+  count: "0"
+- name: krautrock
+  url: http://www.last.fm/tag/krautrock
+  count: "0"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: doom metal
+  url: http://www.last.fm/tag/doom%20metal
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: bands to check out
+  url: http://www.last.fm/tag/bands%20to%20check%20out
+  count: "0"
+- name: new artists
+  url: http://www.last.fm/tag/new%20artists
+  count: "0"
+"@attr": 
+  artist: Mission of Burma

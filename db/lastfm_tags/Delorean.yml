@@ -1,0 +1,298 @@
+--- 
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "80"
+- name: spanish
+  url: http://www.last.fm/tag/spanish
+  count: "62"
+- name: disco punk
+  url: http://www.last.fm/tag/disco%20punk
+  count: "42"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "29"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "16"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "14"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "13"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "11"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "11"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "9"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "8"
+- name: basque
+  url: http://www.last.fm/tag/basque
+  count: "6"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "6"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "6"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: Delorean
+  url: http://www.last.fm/tag/delorean
+  count: "4"
+- name: from basque country
+  url: http://www.last.fm/tag/from%20basque%20country
+  count: "4"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "4"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: a bit like fox thomas
+  url: http://www.last.fm/tag/a%20bit%20like%20fox%20thomas
+  count: "3"
+- name: glo-fi
+  url: http://www.last.fm/tag/glo-fi
+  count: "3"
+- name: lo que debe escuchar
+  url: http://www.last.fm/tag/lo%20que%20debe%20escuchar
+  count: "3"
+- name: spain
+  url: http://www.last.fm/tag/spain
+  count: "3"
+- name: electrodance
+  url: http://www.last.fm/tag/electrodance
+  count: "1"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "1"
+- name: snythpop
+  url: http://www.last.fm/tag/snythpop
+  count: "1"
+- name: summercase
+  url: http://www.last.fm/tag/summercase
+  count: "1"
+- name: Euskadi
+  url: http://www.last.fm/tag/euskadi
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: Spanish Underground
+  url: http://www.last.fm/tag/spanish%20underground
+  count: "1"
+- name: Discore
+  url: http://www.last.fm/tag/discore
+  count: "1"
+- name: Made in Spain
+  url: http://www.last.fm/tag/made%20in%20spain
+  count: "1"
+- name: schmitz indie
+  url: http://www.last.fm/tag/schmitz%20indie
+  count: "1"
+- name: "electr\xC3\xB3nica"
+  url: http://www.last.fm/tag/electr%C3%B3nica
+  count: "1"
+- name: basque rock
+  url: http://www.last.fm/tag/basque%20rock
+  count: "1"
+- name: need to hear
+  url: http://www.last.fm/tag/need%20to%20hear
+  count: "1"
+- name: knarkpop
+  url: http://www.last.fm/tag/knarkpop
+  count: "1"
+- name: Ideal when writing your final dissertation
+  url: http://www.last.fm/tag/ideal%20when%20writing%20your%20final%20dissertation
+  count: "1"
+- name: delorean is not dolorean
+  url: http://www.last.fm/tag/delorean%20is%20not%20dolorean
+  count: "1"
+- name: gipuzcoa
+  url: http://www.last.fm/tag/gipuzcoa
+  count: "1"
+- name: spanish electronic rock
+  url: http://www.last.fm/tag/spanish%20electronic%20rock
+  count: "1"
+- name: discovered in 09
+  url: http://www.last.fm/tag/discovered%20in%2009
+  count: "1"
+- name: spanish dance rock
+  url: http://www.last.fm/tag/spanish%20dance%20rock
+  count: "1"
+- name: reinlauschen
+  url: http://www.last.fm/tag/reinlauschen
+  count: "1"
+- name: GruposElectronica
+  url: http://www.last.fm/tag/gruposelectronica
+  count: "1"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "1"
+- name: electrosonic 08
+  url: http://www.last.fm/tag/electrosonic%2008
+  count: "1"
+- name: Pais Vasco
+  url: http://www.last.fm/tag/pais%20vasco
+  count: "1"
+- name: post-punk-funk
+  url: http://www.last.fm/tag/post-punk-funk
+  count: "1"
+- name: spanish pop indie
+  url: http://www.last.fm/tag/spanish%20pop%20indie
+  count: "1"
+- name: bcore
+  url: http://www.last.fm/tag/bcore
+  count: "1"
+- name: schmitz wellen
+  url: http://www.last.fm/tag/schmitz%20wellen
+  count: "1"
+- name: Jordi
+  url: http://www.last.fm/tag/jordi
+  count: "1"
+- name: dreamwave
+  url: http://www.last.fm/tag/dreamwave
+  count: "1"
+- name: nu rave
+  url: http://www.last.fm/tag/nu%20rave
+  count: "1"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "1"
+- name: new stuff
+  url: http://www.last.fm/tag/new%20stuff
+  count: "1"
+- name: electronic rock
+  url: http://www.last.fm/tag/electronic%20rock
+  count: "1"
+- name: euro
+  url: http://www.last.fm/tag/euro
+  count: "1"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "1"
+- name: "espa\xC3\xB1a"
+  url: http://www.last.fm/tag/espa%C3%B1a
+  count: "1"
+- name: space
+  url: http://www.last.fm/tag/space
+  count: "1"
+- name: synth
+  url: http://www.last.fm/tag/synth
+  count: "1"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "1"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "1"
+- name: night
+  url: http://www.last.fm/tag/night
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: casio-punk
+  url: http://www.last.fm/tag/casio-punk
+  count: "1"
+- name: christian metal
+  url: http://www.last.fm/tag/christian%20metal
+  count: "1"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "1"
+- name: Indietronic
+  url: http://www.last.fm/tag/indietronic
+  count: "1"
+- name: dancepunk
+  url: http://www.last.fm/tag/dancepunk
+  count: "1"
+- name: white metal
+  url: http://www.last.fm/tag/white%20metal
+  count: "1"
+- name: balearic
+  url: http://www.last.fm/tag/balearic
+  count: "1"
+- name: 80s rock
+  url: http://www.last.fm/tag/80s%20rock
+  count: "1"
+- name: Bands So Far I Really Really Liked
+  url: http://www.last.fm/tag/bands%20so%20far%20i%20really%20really%20liked
+  count: "1"
+- name: the knife
+  url: http://www.last.fm/tag/the%20knife
+  count: "1"
+- name: Discopunk
+  url: http://www.last.fm/tag/discopunk
+  count: "1"
+- name: tanzen
+  url: http://www.last.fm/tag/tanzen
+  count: "1"
+- name: european
+  url: http://www.last.fm/tag/european
+  count: "1"
+- name: in love
+  url: http://www.last.fm/tag/in%20love
+  count: "1"
+- name: Sythpop
+  url: http://www.last.fm/tag/sythpop
+  count: "1"
+- name: spanish indie pop
+  url: http://www.last.fm/tag/spanish%20indie%20pop
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: dizsi
+  url: http://www.last.fm/tag/dizsi
+  count: "0"
+- name: "espa\xC3\xB1ol"
+  url: http://www.last.fm/tag/espa%C3%B1ol
+  count: "0"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "0"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "0"
+"@attr": 
+  artist: Delorean

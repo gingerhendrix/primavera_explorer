@@ -18,6 +18,7 @@ class Band
       @lastfm_info = LastfmInfo.new name
       @lastfm_tags = LastfmTags.new name
     end
+      @timetable_entry = TimetableEntry.new name
   end
   
   def self.new_from_hash(info)
@@ -80,6 +81,7 @@ class Band
     else
       @bands = []
     end 
+    return @bands
   end
     
   def self.save_all(db)

@@ -36,6 +36,10 @@ body{
   float: left;
 }
 
+#controls .stage, #controls .day{
+  display: none;
+}
+
 #controls .label, .tagcloud .label{
   display: block;
   width: 55px;

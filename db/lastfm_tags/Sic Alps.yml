@@ -1,0 +1,256 @@
+--- 
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "94"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "82"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "79"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "50"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "35"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "23"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "20"
+- name: san francisco
+  url: http://www.last.fm/tag/san%20francisco
+  count: "14"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "14"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "11"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "8"
+- name: fuzzy glory
+  url: http://www.last.fm/tag/fuzzy%20glory
+  count: "8"
+- name: church steps
+  url: http://www.last.fm/tag/church%20steps
+  count: "8"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "8"
+- name: fuzzbitch
+  url: http://www.last.fm/tag/fuzzbitch
+  count: "5"
+- name: rad-o-rama
+  url: http://www.last.fm/tag/rad-o-rama
+  count: "5"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "5"
+- name: sf
+  url: http://www.last.fm/tag/sf
+  count: "5"
+- name: Emotional Hardcore
+  url: http://www.last.fm/tag/emotional%20hardcore
+  count: "5"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "5"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "5"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "2"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "2"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "2"
+- name: sweet california
+  url: http://www.last.fm/tag/sweet%20california
+  count: "2"
+- name: Desperate To See Live
+  url: http://www.last.fm/tag/desperate%20to%20see%20live
+  count: "2"
+- name: punk with pop sensibility
+  url: http://www.last.fm/tag/punk%20with%20pop%20sensibility
+  count: "2"
+- name: tinhospitals
+  url: http://www.last.fm/tag/tinhospitals
+  count: "2"
+- name: lo-fi noise rock
+  url: http://www.last.fm/tag/lo-fi%20noise%20rock
+  count: "2"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "2"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "2"
+- name: so good bro
+  url: http://www.last.fm/tag/so%20good%20bro
+  count: "2"
+- name: pohodio
+  url: http://www.last.fm/tag/pohodio
+  count: "2"
+- name: death of psychoacoustic monkey
+  url: http://www.last.fm/tag/death%20of%20psychoacoustic%20monkey
+  count: "2"
+- name: masochistic love
+  url: http://www.last.fm/tag/masochistic%20love
+  count: "2"
+- name: gore kutherrie
+  url: http://www.last.fm/tag/gore%20kutherrie
+  count: "2"
+- name: Noise-fi
+  url: http://www.last.fm/tag/noise-fi
+  count: "2"
+- name: reification
+  url: http://www.last.fm/tag/reification
+  count: "2"
+- name: accccccumulate
+  url: http://www.last.fm/tag/accccccumulate
+  count: "2"
+- name: get it eat it
+  url: http://www.last.fm/tag/get%20it%20eat%20it
+  count: "2"
+- name: dishwashercore
+  url: http://www.last.fm/tag/dishwashercore
+  count: "2"
+- name: never have good speakers mattered less
+  url: http://www.last.fm/tag/never%20have%20good%20speakers%20mattered%20less
+  count: "2"
+- name: ljubav i shum
+  url: http://www.last.fm/tag/ljubav%20i%20shum
+  count: "2"
+- name: roughtradetops
+  url: http://www.last.fm/tag/roughtradetops
+  count: "2"
+- name: psyh
+  url: http://www.last.fm/tag/psyh
+  count: "2"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "2"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+  count: "2"
+- name: cathartic
+  url: http://www.last.fm/tag/cathartic
+  count: "2"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "2"
+- name: magic
+  url: http://www.last.fm/tag/magic
+  count: "2"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "2"
+- name: Freewheeling
+  url: http://www.last.fm/tag/freewheeling
+  count: "2"
+- name: noise-folk
+  url: http://www.last.fm/tag/noise-folk
+  count: "2"
+- name: sweetness
+  url: http://www.last.fm/tag/sweetness
+  count: "2"
+- name: psichedelia
+  url: http://www.last.fm/tag/psichedelia
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: garage pop
+  url: http://www.last.fm/tag/garage%20pop
+  count: "2"
+- name: terrible
+  url: http://www.last.fm/tag/terrible
+  count: "2"
+- name: locals
+  url: http://www.last.fm/tag/locals
+  count: "2"
+- name: new weird
+  url: http://www.last.fm/tag/new%20weird
+  count: "2"
+- name: no-fi
+  url: http://www.last.fm/tag/no-fi
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: shitgaze
+  url: http://www.last.fm/tag/shitgaze
+  count: "0"
+- name: hospitals
+  url: http://www.last.fm/tag/hospitals
+  count: "0"
+- name: foufou
+  url: http://www.last.fm/tag/foufou
+  count: "0"
+- name: "200901"
+  url: http://www.last.fm/tag/200901
+  count: "0"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "0"
+- name: "check it out: via lastfm"
+  url: http://www.last.fm/tag/check%20it%20out%3A%20via%20lastfm
+  count: "0"
+- name: "rock: noise"
+  url: http://www.last.fm/tag/rock%3A%20noise
+  count: "0"
+- name: dingue
+  url: http://www.last.fm/tag/dingue
+  count: "0"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "0"
+- name: lets set fire to the suburbs
+  url: http://www.last.fm/tag/lets%20set%20fire%20to%20the%20suburbs
+  count: "0"
+- name: sic alps
+  url: http://www.last.fm/tag/sic%20alps
+  count: "0"
+- name: Bay Area
+  url: http://www.last.fm/tag/bay%20area
+  count: "0"
+- name: everything is falling
+  url: http://www.last.fm/tag/everything%20is%20falling
+  count: "0"
+"@attr": 
+  artist: Sic Alps

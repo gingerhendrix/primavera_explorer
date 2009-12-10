@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: J-rock
+  url: http://www.last.fm/tag/j-rock
+  count: "83"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "68"
+- name: Scottish
+  url: http://www.last.fm/tag/scottish
+  count: "59"
+- name: visual kei
+  url: http://www.last.fm/tag/visual%20kei
+  count: "56"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "48"
+- name: japanese
+  url: http://www.last.fm/tag/japanese
+  count: "34"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "31"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "31"
+- name: jrock
+  url: http://www.last.fm/tag/jrock
+  count: "31"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "30"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "24"
+- name: scotland
+  url: http://www.last.fm/tag/scotland
+  count: "19"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "19"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "18"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "16"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "15"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "12"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "10"
+- name: glasgow
+  url: http://www.last.fm/tag/glasgow
+  count: "10"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "10"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "10"
+- name: Bis
+  url: http://www.last.fm/tag/bis
+  count: "10"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "9"
+- name: Teen-C
+  url: http://www.last.fm/tag/teen-c
+  count: "7"
+- name: japanese rock
+  url: http://www.last.fm/tag/japanese%20rock
+  count: "7"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "6"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "6"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "6"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "6"
+- name: punk pop
+  url: http://www.last.fm/tag/punk%20pop
+  count: "6"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "6"
+- name: PS Company
+  url: http://www.last.fm/tag/ps%20company
+  count: "4"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "4"
+- name: chemikal underground
+  url: http://www.last.fm/tag/chemikal%20underground
+  count: "4"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "4"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "4"
+- name: oshare kei
+  url: http://www.last.fm/tag/oshare%20kei
+  count: "4"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "4"
+- name: Japanese music
+  url: http://www.last.fm/tag/japanese%20music
+  count: "4"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "4"
+- name: seika
+  url: http://www.last.fm/tag/seika
+  count: "3"
+- name: John Peel
+  url: http://www.last.fm/tag/john%20peel
+  count: "3"
+- name: Europop
+  url: http://www.last.fm/tag/europop
+  count: "3"
+- name: teen-c kids
+  url: http://www.last.fm/tag/teen-c%20kids
+  count: "3"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "3"
+- name: riot grrrl
+  url: http://www.last.fm/tag/riot%20grrrl
+  count: "3"
+- name: eurodisco
+  url: http://www.last.fm/tag/eurodisco
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: Glasgow Bands
+  url: http://www.last.fm/tag/glasgow%20bands
+  count: "3"
+- name: tsukasa
+  url: http://www.last.fm/tag/tsukasa
+  count: "3"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "3"
+- name: japan
+  url: http://www.last.fm/tag/japan
+  count: "3"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "3"
+- name: video game music
+  url: http://www.last.fm/tag/video%20game%20music
+  count: "3"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "3"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "3"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "3"
+- name: the world wont listen
+  url: http://www.last.fm/tag/the%20world%20wont%20listen
+  count: "1"
+- name: faux 80s
+  url: http://www.last.fm/tag/faux%2080s
+  count: "1"
+- name: chemikalunderground
+  url: http://www.last.fm/tag/chemikalunderground
+  count: "1"
+- name: believe in stule
+  url: http://www.last.fm/tag/believe%20in%20stule
+  count: "1"
+- name: 4ad and mo
+  url: http://www.last.fm/tag/4ad%20and%20mo
+  count: "1"
+- name: Indies J-Rock
+  url: http://www.last.fm/tag/indies%20j-rock
+  count: "1"
+- name: pump up the bass
+  url: http://www.last.fm/tag/pump%20up%20the%20bass
+  count: "1"
+- name: scots
+  url: http://www.last.fm/tag/scots
+  count: "1"
+- name: super pop
+  url: http://www.last.fm/tag/super%20pop
+  count: "1"
+- name: for
+  url: http://www.last.fm/tag/for
+  count: "1"
+- name: more like visual gay
+  url: http://www.last.fm/tag/more%20like%20visual%20gay
+  count: "1"
+- name: alt rock fem
+  url: http://www.last.fm/tag/alt%20rock%20fem
+  count: "1"
+- name: fave vocalists
+  url: http://www.last.fm/tag/fave%20vocalists
+  count: "1"
+- name: Please Consider
+  url: http://www.last.fm/tag/please%20consider
+  count: "1"
+- name: japan sucks
+  url: http://www.last.fm/tag/japan%20sucks
+  count: "1"
+- name: dance or something similar
+  url: http://www.last.fm/tag/dance%20or%20something%20similar
+  count: "1"
+- name: move like visual gay
+  url: http://www.last.fm/tag/move%20like%20visual%20gay
+  count: "1"
+- name: Pure pop badness and goodness
+  url: http://www.last.fm/tag/pure%20pop%20badness%20and%20goodness
+  count: "1"
+- name: Girls that kick ass
+  url: http://www.last.fm/tag/girls%20that%20kick%20ass
+  count: "1"
+- name: believe in style
+  url: http://www.last.fm/tag/believe%20in%20style
+  count: "1"
+- name: shunsuka
+  url: http://www.last.fm/tag/shunsuka
+  count: "1"
+- name: still awesome
+  url: http://www.last.fm/tag/still%20awesome
+  count: "1"
+- name: im a slut
+  url: http://www.last.fm/tag/im%20a%20slut
+  count: "1"
+- name: scotch pop
+  url: http://www.last.fm/tag/scotch%20pop
+  count: "1"
+- name: Stuff I likes
+  url: http://www.last.fm/tag/stuff%20i%20likes
+  count: "1"
+- name: are
+  url: http://www.last.fm/tag/are
+  count: "1"
+- name: Indie music
+  url: http://www.last.fm/tag/indie%20music
+  count: "1"
+- name: popstar
+  url: http://www.last.fm/tag/popstar
+  count: "1"
+- name: awesome live
+  url: http://www.last.fm/tag/awesome%20live
+  count: "1"
+- name: cool rock
+  url: http://www.last.fm/tag/cool%20rock
+  count: "1"
+- name: Grrls rock too
+  url: http://www.last.fm/tag/grrls%20rock%20too
+  count: "1"
+- name: star
+  url: http://www.last.fm/tag/star
+  count: "1"
+- name: Tuesday
+  url: http://www.last.fm/tag/tuesday
+  count: "1"
+- name: yelling
+  url: http://www.last.fm/tag/yelling
+  count: "1"
+- name: electro pop punk rock
+  url: http://www.last.fm/tag/electro%20pop%20punk%20rock
+  count: "1"
+- name: Briternative
+  url: http://www.last.fm/tag/briternative
+  count: "1"
+- name: Male Singers
+  url: http://www.last.fm/tag/male%20singers
+  count: "1"
+- name: woxy
+  url: http://www.last.fm/tag/woxy
+  count: "1"
+- name: too cool
+  url: http://www.last.fm/tag/too%20cool
+  count: "1"
+- name: pop genius
+  url: http://www.last.fm/tag/pop%20genius
+  count: "1"
+- name: monkeys
+  url: http://www.last.fm/tag/monkeys
+  count: "1"
+"@attr": 
+  artist: Bis

@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "64"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "57"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "51"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "40"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "19"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "14"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "8"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "8"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "6"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: Animal Collective
+  url: http://www.last.fm/tag/animal%20collective
+  count: "3"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "3"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "3"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "3"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "2"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "2"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: psych folk
+  url: http://www.last.fm/tag/psych%20folk
+  count: "2"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "1"
+- name: panda bear
+  url: http://www.last.fm/tag/panda%20bear
+  count: "1"
+- name: avant-folk
+  url: http://www.last.fm/tag/avant-folk
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: acid folk
+  url: http://www.last.fm/tag/acid%20folk
+  count: "1"
+- name: paw tracks
+  url: http://www.last.fm/tag/paw%20tracks
+  count: "1"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "1"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: cookie monster
+  url: http://www.last.fm/tag/cookie%20monster
+  count: "0"
+- name: avant
+  url: http://www.last.fm/tag/avant
+  count: "0"
+- name: Beach Boys
+  url: http://www.last.fm/tag/beach%20boys
+  count: "0"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "0"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "0"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "0"
+- name: Baltimore
+  url: http://www.last.fm/tag/baltimore
+  count: "0"
+- name: maryland
+  url: http://www.last.fm/tag/maryland
+  count: "0"
+- name: happy
+  url: http://www.last.fm/tag/happy
+  count: "0"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "0"
+- name: bearcore
+  url: http://www.last.fm/tag/bearcore
+  count: "0"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "0"
+- name: psych-rock
+  url: http://www.last.fm/tag/psych-rock
+  count: "0"
+- name: animals
+  url: http://www.last.fm/tag/animals
+  count: "0"
+- name: moon music
+  url: http://www.last.fm/tag/moon%20music
+  count: "0"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: best of 2007
+  url: http://www.last.fm/tag/best%20of%202007
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: Good Stuff
+  url: http://www.last.fm/tag/good%20stuff
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: neo-folk
+  url: http://www.last.fm/tag/neo-folk
+  count: "0"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "0"
+- name: Portugal
+  url: http://www.last.fm/tag/portugal
+  count: "0"
+- name: sunshine folk
+  url: http://www.last.fm/tag/sunshine%20folk
+  count: "0"
+- name: samples
+  url: http://www.last.fm/tag/samples
+  count: "0"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "0"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "0"
+- name: face
+  url: http://www.last.fm/tag/face
+  count: "0"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: pretty
+  url: http://www.last.fm/tag/pretty
+  count: "0"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: misc
+  url: http://www.last.fm/tag/misc
+  count: "0"
+- name: reverb
+  url: http://www.last.fm/tag/reverb
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "0"
+- name: what they worse live
+  url: http://www.last.fm/tag/what%20they%20worse%20live
+  count: "0"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "0"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "0"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "0"
+- name: Scottish
+  url: http://www.last.fm/tag/scottish
+  count: "0"
+- name: romantic
+  url: http://www.last.fm/tag/romantic
+  count: "0"
+- name: sunshine
+  url: http://www.last.fm/tag/sunshine
+  count: "0"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "0"
+- name: neo psychedelia
+  url: http://www.last.fm/tag/neo%20psychedelia
+  count: "0"
+- name: loops
+  url: http://www.last.fm/tag/loops
+  count: "0"
+- name: new weird american
+  url: http://www.last.fm/tag/new%20weird%20american
+  count: "0"
+- name: pet sounds
+  url: http://www.last.fm/tag/pet%20sounds
+  count: "0"
+- name: hippie
+  url: http://www.last.fm/tag/hippie
+  count: "0"
+- name: Animal Collective Related
+  url: http://www.last.fm/tag/animal%20collective%20related
+  count: "0"
+- name: fav
+  url: http://www.last.fm/tag/fav
+  count: "0"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "0"
+- name: hippie hippie
+  url: http://www.last.fm/tag/hippie%20hippie
+  count: "0"
+"@attr": 
+  artist: Panda Bear

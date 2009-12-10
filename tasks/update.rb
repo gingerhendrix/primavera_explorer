@@ -4,20 +4,20 @@ namespace :update do
   desc "Update info from last.fm"  
   task :lastfm_info do
     db = Database.new File.dirname(__FILE__) + '/../db'
-    Band.load_all(db)
-    timetable = PrimaveraTimetable.new
-    timetable.load_from_db(db)
-    bands = timetable.bands
+    bands = Band.load_all(db)
+    #timetable = PrimaveraTimetable.new
+    #timetable.load_from_db(db)
+    #bands = timetable.bands
     bands.each_index do |i|
       band = bands[i]
       if !band.lastfm_info.load_from_db(db)
-        puts "Updating band #{i} of #{bands.count} - #{band.name}\n"
+        puts "Updating band #{i} of #{bands.length} - #{band.name}\n"
         band.lastfm_info.load_from_web
         band.lastfm_info.save(db)
         puts "Sleeping...\n"
         sleep(2)
       else
-        puts "Skipping band #{i} of #{bands.count} - #{band.name}\n"
+        puts "Skipping band #{i} of #{bands.length} - #{band.name}\n"
       end
     end
   end
@@ -25,20 +25,20 @@ namespace :update do
   desc "Update tags from last.fm"
   task :lastfm_tags do
     db = Database.new File.dirname(__FILE__) + '/../db'
-    Band.load_all(db)
-    timetable = PrimaveraTimetable.new
-    timetable.load_from_db(db)
-    bands = timetable.bands
+    bands = Band.load_all(db)
+    #timetable = PrimaveraTimetable.new
+    #timetable.load_from_db(db)
+    #bands = timetable.bands
     bands.each_index do |i|
       band = bands[i]
       if !band.lastfm_tags.load_from_db(db)
-        puts "Updating band #{i} of #{bands.count} - #{band.name}\n"
+        puts "Updating band #{i} of #{bands.length} - #{band.name}\n"
         band.lastfm_tags.load_from_web
         band.lastfm_tags.save(db)
         puts "Sleeping...\n"
         sleep(2)
       else
-        puts "Skipping band #{i} of #{bands.count} - #{band.name}\n"
+        puts "Skipping band #{i} of #{bands.length} - #{band.name}\n"
       end
     end
   end
@@ -52,12 +52,13 @@ namespace :update do
   
   desc "Add bands to the list from bandlist.txt"
   task :add_all do
+    db = Database.new(File.dirname(__FILE__) + "/../db");
     bandsTxt = File.read("bandlist.txt")
     bands = bandsTxt.split(',')
     bands.each do |band|
-      band = Band.add band.strip
+      band = Band.add Band.new(band.strip)
     end
-    Band.save_all
+    Band.save_all(db)
   end
   
   desc "Update from primavera timetable" 

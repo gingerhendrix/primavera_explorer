@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "68"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "39"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "33"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "30"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "21"
+- name: chapel hill
+  url: http://www.last.fm/tag/chapel%20hill
+  count: "15"
+- name: Merge
+  url: http://www.last.fm/tag/merge
+  count: "13"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "11"
+- name: North Carolina
+  url: http://www.last.fm/tag/north%20carolina
+  count: "11"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "7"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "7"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "4"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "4"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "3"
+- name: matador
+  url: http://www.last.fm/tag/matador
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "2"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "2"
+- name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+  count: "2"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "2"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "2"
+- name: Playful
+  url: http://www.last.fm/tag/playful
+  count: "2"
+- name: Visceral
+  url: http://www.last.fm/tag/visceral
+  count: "2"
+- name: Angst-Ridden
+  url: http://www.last.fm/tag/angst-ridden
+  count: "2"
+- name: Innocent
+  url: http://www.last.fm/tag/innocent
+  count: "2"
+- name: yearning
+  url: http://www.last.fm/tag/yearning
+  count: "2"
+- name: literate
+  url: http://www.last.fm/tag/literate
+  count: "2"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "2"
+- name: Pop-punk
+  url: http://www.last.fm/tag/pop-punk
+  count: "2"
+- name: whimsical
+  url: http://www.last.fm/tag/whimsical
+  count: "2"
+- name: cathartic
+  url: http://www.last.fm/tag/cathartic
+  count: "2"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "2"
+- name: amiable/good-natured
+  url: http://www.last.fm/tag/amiable%252Fgood-natured
+  count: "2"
+- name: witty
+  url: http://www.last.fm/tag/witty
+  count: "2"
+- name: brooding
+  url: http://www.last.fm/tag/brooding
+  count: "2"
+- name: earnest
+  url: http://www.last.fm/tag/earnest
+  count: "2"
+- name: superchunk
+  url: http://www.last.fm/tag/superchunk
+  count: "2"
+- name: Exuberant
+  url: http://www.last.fm/tag/exuberant
+  count: "2"
+- name: Bands I have seen live
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20live
+  count: "2"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "2"
+- name: Boisterous
+  url: http://www.last.fm/tag/boisterous
+  count: "2"
+- name: Rambunctious
+  url: http://www.last.fm/tag/rambunctious
+  count: "2"
+- name: Rousing
+  url: http://www.last.fm/tag/rousing
+  count: "2"
+- name: poignant
+  url: http://www.last.fm/tag/poignant
+  count: "1"
+- name: alternative pop/rock
+  url: http://www.last.fm/tag/alternative%2Bpop%252Frock
+  count: "1"
+- name: wistful
+  url: http://www.last.fm/tag/wistful
+  count: "1"
+- name: Cerebral
+  url: http://www.last.fm/tag/cerebral
+  count: "1"
+- name: Sentimental
+  url: http://www.last.fm/tag/sentimental
+  count: "1"
+- name: Local
+  url: http://www.last.fm/tag/local
+  count: "1"
+- name: Passionate
+  url: http://www.last.fm/tag/passionate
+  count: "1"
+- name: heartache
+  url: http://www.last.fm/tag/heartache
+  count: "1"
+- name: triangle
+  url: http://www.last.fm/tag/triangle
+  count: "1"
+- name: autumnal
+  url: http://www.last.fm/tag/autumnal
+  count: "1"
+- name: stylish
+  url: http://www.last.fm/tag/stylish
+  count: "1"
+- name: us
+  url: http://www.last.fm/tag/us
+  count: "1"
+- name: late night
+  url: http://www.last.fm/tag/late%20night
+  count: "1"
+- name: cheerful
+  url: http://www.last.fm/tag/cheerful
+  count: "1"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "1"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: rock like you cant help it
+  url: http://www.last.fm/tag/rock%20like%20you%20cant%20help%20it
+  count: "0"
+- name: grupazos
+  url: http://www.last.fm/tag/grupazos
+  count: "0"
+- name: smart pop songs
+  url: http://www.last.fm/tag/smart%20pop%20songs
+  count: "0"
+- name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+  count: "0"
+- name: Tony gonna do what Tony wanna do
+  url: http://www.last.fm/tag/tony%20gonna%20do%20what%20tony%20wanna%20do
+  count: "0"
+- name: vu live en 1996
+  url: http://www.last.fm/tag/vu%20live%20en%201996
+  count: "0"
+- name: eu vi
+  url: http://www.last.fm/tag/eu%20vi
+  count: "0"
+- name: fuck yes songs
+  url: http://www.last.fm/tag/fuck%20yes%20songs
+  count: "0"
+- name: when we were younger and our hair was shorter
+  url: http://www.last.fm/tag/when%20we%20were%20younger%20and%20our%20hair%20was%20shorter
+  count: "0"
+- name: Matador Records
+  url: http://www.last.fm/tag/matador%20records
+  count: "0"
+- name: seen alive
+  url: http://www.last.fm/tag/seen%20alive
+  count: "0"
+- name: pop guitar
+  url: http://www.last.fm/tag/pop%20guitar
+  count: "0"
+- name: Marquee
+  url: http://www.last.fm/tag/marquee
+  count: "0"
+- name: myStuff
+  url: http://www.last.fm/tag/mystuff
+  count: "0"
+- name: bands I need to check out
+  url: http://www.last.fm/tag/bands%20i%20need%20to%20check%20out
+  count: "0"
+- name: Normal Day
+  url: http://www.last.fm/tag/normal%20day
+  count: "0"
+- name: Magill
+  url: http://www.last.fm/tag/magill
+  count: "0"
+- name: fredfre radio
+  url: http://www.last.fm/tag/fredfre%20radio
+  count: "0"
+- name: pppa
+  url: http://www.last.fm/tag/pppa
+  count: "0"
+- name: what an f-ing ending
+  url: http://www.last.fm/tag/what%20an%20f-ing%20ending
+  count: "0"
+- name: sometimes
+  url: http://www.last.fm/tag/sometimes
+  count: "0"
+- name: found
+  url: http://www.last.fm/tag/found
+  count: "0"
+- name: Hanging Out
+  url: http://www.last.fm/tag/hanging%20out
+  count: "0"
+- name: Amiable/ Good-Natured
+  url: http://www.last.fm/tag/amiable%252F%2Bgood-natured
+  count: "0"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "0"
+- name: bands i wish i had seen live in a smaller venue
+  url: http://www.last.fm/tag/bands%20i%20wish%20i%20had%20seen%20live%20in%20a%20smaller%20venue
+  count: "0"
+- name: all-time top 25 artist
+  url: http://www.last.fm/tag/all-time%20top%2025%20artist
+  count: "0"
+- name: Tense/Anxious
+  url: http://www.last.fm/tag/tense%252Fanxious
+  count: "0"
+- name: tense-anxious
+  url: http://www.last.fm/tag/tense-anxious
+  count: "0"
+- name: uhm
+  url: http://www.last.fm/tag/uhm
+  count: "0"
+- name: 90s indie
+  url: http://www.last.fm/tag/90s%20indie
+  count: "0"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "0"
+- name: save 2009
+  url: http://www.last.fm/tag/save%202009
+  count: "0"
+- name: post amoeba
+  url: http://www.last.fm/tag/post%20amoeba
+  count: "0"
+- name: tagged
+  url: http://www.last.fm/tag/tagged
+  count: "0"
+- name: new music to discover
+  url: http://www.last.fm/tag/new%20music%20to%20discover
+  count: "0"
+"@attr": 
+  artist: Superchunk

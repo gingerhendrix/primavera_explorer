@@ -1,0 +1,102 @@
+--- 
+name: Ganglians
+stats: 
+  playcount: "135321"
+  listeners: "12420"
+tags: 
+  tag: 
+  - name: psychedelic
+    url: http://www.last.fm/tag/psychedelic
+  - name: lo-fi
+    url: http://www.last.fm/tag/lo-fi
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: noise
+    url: http://www.last.fm/tag/noise
+  - name: psychedelic pop
+    url: http://www.last.fm/tag/psychedelic%20pop
+similar: 
+  artist: 
+  - name: Real Estate
+    url: http://www.last.fm/music/Real+Estate
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/30656913.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/30656913.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/30656913.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/30656913.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/30656913/Real+Estate+rockaway+beach.jpg
+  - name: The Fresh & Onlys
+    url: http://www.last.fm/music/The%2BFresh%2B%2526%2BOnlys
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/33457347.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/33457347.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/33457347.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/33457347.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/33457347/The+Fresh++Onlys+l_7f9b5de393ca474184bba6e4cdc2.jpg
+  - name: Ducktails
+    url: http://www.last.fm/music/Ducktails
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/23584263.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/23584263.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/23584263.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/23584263.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/23584263/Ducktails+l_660a0fa9b1664843a2b5a0deb7d6.jpg
+  - name: Best Coast
+    url: http://www.last.fm/music/Best+Coast
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/37245899.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/37245899.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/37245899.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/37245899.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/37245899/Best+Coast+l_a08cfe4957e2be76bc24b6055a43.jpg
+  - name: Kurt Vile
+    url: http://www.last.fm/music/Kurt+Vile
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/33827501.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/33827501.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/33827501.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/33827501.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/33827501/Kurt+Vile+kurt_vile.jpg
+url: http://www.last.fm/music/Ganglians
+mbid: ""
+bio: 
+  published: Tue, 6 Oct 2009 22:22:28 +0000
+  summary: It's a chorus of voices, a lot of reverb echo, some electronics of the messed up cheap variety, or toy pianos. It's far away...a little underwater. A lot of noise and yelling, a garage a thon, sounds recorded live in that way that most live stuff doesn't come close to. From Sacramento, CA
+  content: It's a chorus of voices, a lot of reverb echo, some electronics of the messed up cheap variety, or toy pianos. It's far away...a little underwater. A lot of noise and yelling, a garage a thon, sounds recorded live in that way that most live stuff doesn't come close to. From Sacramento, CA
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/29191167.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/29191167.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/29191167.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/29191167.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/29191167/Ganglians+psychodelic.jpg

@@ -1,0 +1,301 @@
+--- 
+tag: 
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "70"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "51"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "42"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "36"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "18"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "14"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "13"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "12"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "9"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "7"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "7"
+- name: Vancouver
+  url: http://www.last.fm/tag/vancouver
+  count: "6"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "4"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "4"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "4"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "3"
+- name: japunk
+  url: http://www.last.fm/tag/japunk
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: new american noise
+  url: http://www.last.fm/tag/new%20american%20noise
+  count: "2"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "2"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "2"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "2"
+- name: duo
+  url: http://www.last.fm/tag/duo
+  count: "2"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "2"
+- name: angst
+  url: http://www.last.fm/tag/angst
+  count: "2"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "2"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "2"
+- name: sexy bitches
+  url: http://www.last.fm/tag/sexy%20bitches
+  count: "1"
+- name: canadien
+  url: http://www.last.fm/tag/canadien
+  count: "1"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "1"
+- name: hot garbage
+  url: http://www.last.fm/tag/hot%20garbage
+  count: "1"
+- name: dezember
+  url: http://www.last.fm/tag/dezember
+  count: "1"
+- name: North American
+  url: http://www.last.fm/tag/north%20american
+  count: "1"
+- name: wait this shit isnt fucking garage rock goddamn
+  url: http://www.last.fm/tag/wait%20this%20shit%20isnt%20fucking%20garage%20rock%20goddamn
+  count: "1"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "1"
+- name: beach punk
+  url: http://www.last.fm/tag/beach%20punk
+  count: "1"
+- name: North American Indie
+  url: http://www.last.fm/tag/north%20american%20indie
+  count: "1"
+- name: shitgaze
+  url: http://www.last.fm/tag/shitgaze
+  count: "1"
+- name: insanely awesome
+  url: http://www.last.fm/tag/insanely%20awesome
+  count: "1"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "1"
+- name: garge rock
+  url: http://www.last.fm/tag/garge%20rock
+  count: "1"
+- name: going to be big
+  url: http://www.last.fm/tag/going%20to%20be%20big
+  count: "1"
+- name: experimental shoegaze
+  url: http://www.last.fm/tag/experimental%20shoegaze
+  count: "1"
+- name: old Hot Rod Circuit sounding
+  url: http://www.last.fm/tag/old%20hot%20rod%20circuit%20sounding
+  count: "1"
+- name: milan hauser
+  url: http://www.last.fm/tag/milan%20hauser
+  count: "1"
+- name: not fucking shoegaze you idiots
+  url: http://www.last.fm/tag/not%20fucking%20shoegaze%20you%20idiots
+  count: "1"
+- name: beachpunk
+  url: http://www.last.fm/tag/beachpunk
+  count: "1"
+- name: Pitchfork Festival 2009
+  url: http://www.last.fm/tag/pitchfork%20festival%202009
+  count: "1"
+- name: Jitpop
+  url: http://www.last.fm/tag/jitpop
+  count: "1"
+- name: nbt connected
+  url: http://www.last.fm/tag/nbt%20connected
+  count: "1"
+- name: north american noise rock
+  url: http://www.last.fm/tag/north%20american%20noise%20rock
+  count: "1"
+- name: please hype this
+  url: http://www.last.fm/tag/please%20hype%20this
+  count: "1"
+- name: canadian noise rock
+  url: http://www.last.fm/tag/canadian%20noise%20rock
+  count: "1"
+- name: 0plays
+  url: http://www.last.fm/tag/0plays
+  count: "1"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "1"
+- name: does shoe glaze make shoes shinier or taste better
+  url: http://www.last.fm/tag/does%20shoe%20glaze%20make%20shoes%20shinier%20or%20taste%20better
+  count: "1"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "1"
+- name: great
+  url: http://www.last.fm/tag/great
+  count: "1"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "1"
+- name: Next big things
+  url: http://www.last.fm/tag/next%20big%20things
+  count: "1"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "1"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "1"
+- name: canadian indie
+  url: http://www.last.fm/tag/canadian%20indie
+  count: "1"
+- name: Maybe
+  url: http://www.last.fm/tag/maybe
+  count: "1"
+- name: wow
+  url: http://www.last.fm/tag/wow
+  count: "1"
+- name: must check out
+  url: http://www.last.fm/tag/must%20check%20out
+  count: "1"
+- name: guitar and drums
+  url: http://www.last.fm/tag/guitar%20and%20drums
+  count: "1"
+- name: north america
+  url: http://www.last.fm/tag/north%20america
+  count: "1"
+- name: post indie
+  url: http://www.last.fm/tag/post%20indie
+  count: "1"
+- name: to hear
+  url: http://www.last.fm/tag/to%20hear
+  count: "1"
+- name: power duo
+  url: http://www.last.fm/tag/power%20duo
+  count: "1"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "1"
+- name: new album
+  url: http://www.last.fm/tag/new%20album
+  count: "1"
+- name: Grosse Merde
+  url: http://www.last.fm/tag/grosse%20merde
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: surf punk
+  url: http://www.last.fm/tag/surf%20punk
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: Canuck
+  url: http://www.last.fm/tag/canuck
+  count: "0"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "0"
+- name: music ernesto should listen too
+  url: http://www.last.fm/tag/music%20ernesto%20should%20listen%20too
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: music lura should listen to
+  url: http://www.last.fm/tag/music%20lura%20should%20listen%20to
+  count: "0"
+- name: Tantalised me in real time
+  url: http://www.last.fm/tag/tantalised%20me%20in%20real%20time
+  count: "0"
+- name: pitchfork music festival 2009
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202009
+  count: "0"
+- name: hipster trash
+  url: http://www.last.fm/tag/hipster%20trash
+  count: "0"
+- name: Maybe Wave
+  url: http://www.last.fm/tag/maybe%20wave
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: terrible
+  url: http://www.last.fm/tag/terrible
+  count: "0"
+- name: Local
+  url: http://www.last.fm/tag/local
+  count: "0"
+- name: new stuff
+  url: http://www.last.fm/tag/new%20stuff
+  count: "0"
+- name: messyheads
+  url: http://www.last.fm/tag/messyheads
+  count: "0"
+"@attr": 
+  artist: Japandroids

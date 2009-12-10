@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "82"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "63"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "55"
+- name: Leeds
+  url: http://www.last.fm/tag/leeds
+  count: "33"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "20"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "17"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "14"
+- name: falsetto
+  url: http://www.last.fm/tag/falsetto
+  count: "11"
+- name: LMS Artist
+  url: http://www.last.fm/tag/lms%20artist
+  count: "11"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "9"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "7"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "7"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "6"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "6"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "4"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "4"
+- name: opera pop
+  url: http://www.last.fm/tag/opera%20pop
+  count: "4"
+- name: Indie Opera
+  url: http://www.last.fm/tag/indie%20opera
+  count: "4"
+- name: art pop
+  url: http://www.last.fm/tag/art%20pop
+  count: "3"
+- name: Eat Your Own Ears
+  url: http://www.last.fm/tag/eat%20your%20own%20ears
+  count: "3"
+- name: domino
+  url: http://www.last.fm/tag/domino
+  count: "3"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "3"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "3"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "3"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "3"
+- name: summer sundae 2008
+  url: http://www.last.fm/tag/summer%20sundae%202008
+  count: "3"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "3"
+- name: music to check out
+  url: http://www.last.fm/tag/music%20to%20check%20out
+  count: "3"
+- name: Yorkshire
+  url: http://www.last.fm/tag/yorkshire
+  count: "3"
+- name: Latitude
+  url: http://www.last.fm/tag/latitude
+  count: "3"
+- name: doo-wop
+  url: http://www.last.fm/tag/doo-wop
+  count: "3"
+- name: strange
+  url: http://www.last.fm/tag/strange
+  count: "3"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "1"
+- name: to-listen
+  url: http://www.last.fm/tag/to-listen
+  count: "1"
+- name: The day that Thatcher dies
+  url: http://www.last.fm/tag/the%20day%20that%20thatcher%20dies
+  count: "1"
+- name: "2007"
+  url: http://www.last.fm/tag/2007
+  count: "1"
+- name: cool voice
+  url: http://www.last.fm/tag/cool%20voice
+  count: "1"
+- name: more of this please
+  url: http://www.last.fm/tag/more%20of%20this%20please
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: november
+  url: http://www.last.fm/tag/november
+  count: "1"
+- name: albums i want
+  url: http://www.last.fm/tag/albums%20i%20want
+  count: "1"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "1"
+- name: west yorkshire
+  url: http://www.last.fm/tag/west%20yorkshire
+  count: "1"
+- name: plan
+  url: http://www.last.fm/tag/plan
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: summer sundae
+  url: http://www.last.fm/tag/summer%20sundae
+  count: "1"
+- name: London Calling
+  url: http://www.last.fm/tag/london%20calling
+  count: "1"
+- name: best in 09
+  url: http://www.last.fm/tag/best%20in%2009
+  count: "1"
+- name: field day 2009 beetroot
+  url: http://www.last.fm/tag/field%20day%202009%20beetroot
+  count: "1"
+- name: readers-digest-trend
+  url: http://www.last.fm/tag/readers-digest-trend
+  count: "1"
+- name: a sugarcube and lysergic acid diethylamide
+  url: http://www.last.fm/tag/a%20sugarcube%20and%20lysergic%20acid%20diethylamide
+  count: "1"
+- name: the stuff everyone calls indie
+  url: http://www.last.fm/tag/the%20stuff%20everyone%20calls%20indie
+  count: "1"
+- name: experimentar
+  url: http://www.last.fm/tag/experimentar
+  count: "1"
+- name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+  count: "1"
+- name: wibbly vocals
+  url: http://www.last.fm/tag/wibbly%20vocals
+  count: "1"
+- name: sounds like television
+  url: http://www.last.fm/tag/sounds%20like%20television
+  count: "1"
+- name: drink a toast to never
+  url: http://www.last.fm/tag/drink%20a%20toast%20to%20never
+  count: "1"
+- name: accelerator 2008
+  url: http://www.last.fm/tag/accelerator%202008
+  count: "1"
+- name: Reading Festival 2008
+  url: http://www.last.fm/tag/reading%20festival%202008
+  count: "1"
+- name: great escape 2008
+  url: http://www.last.fm/tag/great%20escape%202008
+  count: "1"
+- name: stroke me like a pony
+  url: http://www.last.fm/tag/stroke%20me%20like%20a%20pony
+  count: "1"
+- name: needs listening indie
+  url: http://www.last.fm/tag/needs%20listening%20indie
+  count: "1"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "1"
+- name: cats love their fleas
+  url: http://www.last.fm/tag/cats%20love%20their%20fleas
+  count: "1"
+- name: uk goodness
+  url: http://www.last.fm/tag/uk%20goodness
+  count: "1"
+- name: greenman festival
+  url: http://www.last.fm/tag/greenman%20festival
+  count: "1"
+- name: wireless
+  url: http://www.last.fm/tag/wireless
+  count: "1"
+- name: summer sundae 2007
+  url: http://www.last.fm/tag/summer%20sundae%202007
+  count: "1"
+- name: shemale vocalists
+  url: http://www.last.fm/tag/shemale%20vocalists
+  count: "1"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "1"
+- name: Light Rock
+  url: http://www.last.fm/tag/light%20rock
+  count: "1"
+- name: everything
+  url: http://www.last.fm/tag/everything
+  count: "1"
+- name: kickass
+  url: http://www.last.fm/tag/kickass
+  count: "1"
+- name: clever
+  url: http://www.last.fm/tag/clever
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "1"
+- name: intelligent
+  url: http://www.last.fm/tag/intelligent
+  count: "1"
+- name: gorgeous
+  url: http://www.last.fm/tag/gorgeous
+  count: "1"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: waltz
+  url: http://www.last.fm/tag/waltz
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: cabaret
+  url: http://www.last.fm/tag/cabaret
+  count: "1"
+- name: feelgood
+  url: http://www.last.fm/tag/feelgood
+  count: "1"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "1"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "1"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "1"
+- name: Artistic
+  url: http://www.last.fm/tag/artistic
+  count: "1"
+- name: Antony and the Johnsons
+  url: http://www.last.fm/tag/antony%20and%20the%20johnsons
+  count: "1"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "1"
+- name: alternative indie
+  url: http://www.last.fm/tag/alternative%20indie
+  count: "1"
+- name: Weird stuff
+  url: http://www.last.fm/tag/weird%20stuff
+  count: "1"
+"@attr": 
+  artist: Wild Beasts

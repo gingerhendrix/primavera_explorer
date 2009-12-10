@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "85"
+- name: italian
+  url: http://www.last.fm/tag/italian
+  count: "44"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "42"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "24"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "14"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "9"
+- name: Electrotrash
+  url: http://www.last.fm/tag/electrotrash
+  count: "8"
+- name: dirty electro
+  url: http://www.last.fm/tag/dirty%20electro
+  count: "7"
+- name: fidget house
+  url: http://www.last.fm/tag/fidget%20house
+  count: "7"
+- name: electro house
+  url: http://www.last.fm/tag/electro%20house
+  count: "6"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "6"
+- name: Italy
+  url: http://www.last.fm/tag/italy
+  count: "4"
+- name: club bangers
+  url: http://www.last.fm/tag/club%20bangers
+  count: "4"
+- name: the bloody beetroots
+  url: http://www.last.fm/tag/the%20bloody%20beetroots
+  count: "3"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "3"
+- name: electro-house
+  url: http://www.last.fm/tag/electro-house
+  count: "3"
+- name: BLOG HOUSE
+  url: http://www.last.fm/tag/blog%20house
+  count: "3"
+- name: dirty
+  url: http://www.last.fm/tag/dirty
+  count: "3"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "2"
+- name: goddamn lovely electro
+  url: http://www.last.fm/tag/goddamn%20lovely%20electro
+  count: "2"
+- name: electrohouse
+  url: http://www.last.fm/tag/electrohouse
+  count: "2"
+- name: Doom Electro
+  url: http://www.last.fm/tag/doom%20electro
+  count: "2"
+- name: trashelectro
+  url: http://www.last.fm/tag/trashelectro
+  count: "2"
+- name: Fidget
+  url: http://www.last.fm/tag/fidget
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: the next big thing
+  url: http://www.last.fm/tag/the%20next%20big%20thing
+  count: "1"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "1"
+- name: hype
+  url: http://www.last.fm/tag/hype
+  count: "1"
+- name: bloody beetroots
+  url: http://www.last.fm/tag/bloody%20beetroots
+  count: "1"
+- name: live so good that it could be masturbatory material
+  url: http://www.last.fm/tag/live%20so%20good%20that%20it%20could%20be%20masturbatory%20material
+  count: "1"
+- name: emo house
+  url: http://www.last.fm/tag/emo%20house
+  count: "1"
+- name: funk-punk-tropicale
+  url: http://www.last.fm/tag/funk-punk-tropicale
+  count: "1"
+- name: dimmac
+  url: http://www.last.fm/tag/dimmac
+  count: "0"
+- name: mainstreetbar
+  url: http://www.last.fm/tag/mainstreetbar
+  count: "0"
+- name: pendiente
+  url: http://www.last.fm/tag/pendiente
+  count: "0"
+- name: dry guillotine
+  url: http://www.last.fm/tag/dry%20guillotine
+  count: "0"
+- name: elettronica di consumo
+  url: http://www.last.fm/tag/elettronica%20di%20consumo
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: wielmozny pan lubi
+  url: http://www.last.fm/tag/wielmozny%20pan%20lubi
+  count: "0"
+- name: frak
+  url: http://www.last.fm/tag/frak
+  count: "0"
+- name: Extra Electro Sounds
+  url: http://www.last.fm/tag/extra%20electro%20sounds
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: abgefahren
+  url: http://www.last.fm/tag/abgefahren
+  count: "0"
+- name: off-kilter
+  url: http://www.last.fm/tag/off-kilter
+  count: "0"
+- name: 07 favorites
+  url: http://www.last.fm/tag/07%20favorites
+  count: "0"
+- name: damned good
+  url: http://www.last.fm/tag/damned%20good
+  count: "0"
+- name: feierei
+  url: http://www.last.fm/tag/feierei
+  count: "0"
+- name: eurosonic-noorderslag 2008
+  url: http://www.last.fm/tag/eurosonic-noorderslag%202008
+  count: "0"
+- name: grime dance
+  url: http://www.last.fm/tag/grime%20dance
+  count: "0"
+- name: pjeskie
+  url: http://www.last.fm/tag/pjeskie
+  count: "0"
+- name: behind the mask
+  url: http://www.last.fm/tag/behind%20the%20mask
+  count: "0"
+- name: hyper songs
+  url: http://www.last.fm/tag/hyper%20songs
+  count: "0"
+- name: bartelive
+  url: http://www.last.fm/tag/bartelive
+  count: "0"
+- name: nllr
+  url: http://www.last.fm/tag/nllr
+  count: "0"
+- name: dim mak
+  url: http://www.last.fm/tag/dim%20mak
+  count: "0"
+- name: alphaerick
+  url: http://www.last.fm/tag/alphaerick
+  count: "0"
+- name: Hove 08
+  url: http://www.last.fm/tag/hove%2008
+  count: "0"
+- name: doedselectro
+  url: http://www.last.fm/tag/doedselectro
+  count: "0"
+- name: "yes"
+  url: http://www.last.fm/tag/yes
+  count: "0"
+- name: Arvika 2009
+  url: http://www.last.fm/tag/arvika%202009
+  count: "0"
+- name: fucking bitchin
+  url: http://www.last.fm/tag/fucking%20bitchin
+  count: "0"
+- name: wannahavefun
+  url: http://www.last.fm/tag/wannahavefun
+  count: "0"
+- name: dance sucker
+  url: http://www.last.fm/tag/dance%20sucker
+  count: "0"
+- name: hmmm interesting
+  url: http://www.last.fm/tag/hmmm%20interesting
+  count: "0"
+- name: drueberfahrn
+  url: http://www.last.fm/tag/drueberfahrn
+  count: "0"
+- name: wonk
+  url: http://www.last.fm/tag/wonk
+  count: "0"
+- name: Check out more
+  url: http://www.last.fm/tag/check%20out%20more
+  count: "0"
+- name: PP09
+  url: http://www.last.fm/tag/pp09
+  count: "0"
+- name: shifting
+  url: http://www.last.fm/tag/shifting
+  count: "0"
+- name: beetroots
+  url: http://www.last.fm/tag/beetroots
+  count: "0"
+- name: not electro
+  url: http://www.last.fm/tag/not%20electro
+  count: "0"
+- name: dance music duo
+  url: http://www.last.fm/tag/dance%20music%20duo
+  count: "0"
+- name: transmusicales 2007
+  url: http://www.last.fm/tag/transmusicales%202007
+  count: "0"
+- name: maximal
+  url: http://www.last.fm/tag/maximal
+  count: "0"
+- name: wobble
+  url: http://www.last.fm/tag/wobble
+  count: "0"
+- name: flumroc
+  url: http://www.last.fm/tag/flumroc
+  count: "0"
+- name: wixa
+  url: http://www.last.fm/tag/wixa
+  count: "0"
+- name: awsm
+  url: http://www.last.fm/tag/awsm
+  count: "0"
+- name: fies
+  url: http://www.last.fm/tag/fies
+  count: "0"
+- name: neo-electro
+  url: http://www.last.fm/tag/neo-electro
+  count: "0"
+- name: Like
+  url: http://www.last.fm/tag/like
+  count: "0"
+- name: merdasonica
+  url: http://www.last.fm/tag/merdasonica
+  count: "0"
+- name: electro punk
+  url: http://www.last.fm/tag/electro%20punk
+  count: "0"
+- name: electropunk
+  url: http://www.last.fm/tag/electropunk
+  count: "0"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "0"
+- name: duos
+  url: http://www.last.fm/tag/duos
+  count: "0"
+- name: hardstyle
+  url: http://www.last.fm/tag/hardstyle
+  count: "0"
+- name: France Ferdinand
+  url: http://www.last.fm/tag/france%20ferdinand
+  count: "0"
+- name: Altar of the Metal Gods
+  url: http://www.last.fm/tag/altar%20of%20the%20metal%20gods
+  count: "0"
+- name: Indietronic
+  url: http://www.last.fm/tag/indietronic
+  count: "0"
+- name: the best
+  url: http://www.last.fm/tag/the%20best
+  count: "0"
+- name: evil theme song
+  url: http://www.last.fm/tag/evil%20theme%20song
+  count: "0"
+- name: Elettronica
+  url: http://www.last.fm/tag/elettronica
+  count: "0"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "0"
+- name: big beat
+  url: http://www.last.fm/tag/big%20beat
+  count: "0"
+- name: bands i have seen
+  url: http://www.last.fm/tag/bands%20i%20have%20seen
+  count: "0"
+- name: 8-bit
+  url: http://www.last.fm/tag/8-bit
+  count: "0"
+- name: crazy
+  url: http://www.last.fm/tag/crazy
+  count: "0"
+- name: Telectrono
+  url: http://www.last.fm/tag/telectrono
+  count: "0"
+"@attr": 
+  artist: The Bloody Beetroots

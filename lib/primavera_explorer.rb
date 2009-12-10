@@ -1,10 +1,10 @@
 
-$: << File.dirname(__FILE__)
-
-require 'rubygems'
+require 'activesupport'
 require 'yaml'
 require 'hpricot'
 require 'open-uri'
+
+$: << File.dirname(__FILE__)
 
 require 'vendor/gems/scrobbler2/lib/scrobbler2.rb'
 
@@ -16,6 +16,7 @@ require 'primavera_explorer/database.rb'
 require 'primavera_explorer/band.rb'
 require 'primavera_explorer/lastfm_info.rb'
 require 'primavera_explorer/lastfm_tags.rb'
+require 'primavera_explorer/timetable_entry.rb'
 require 'primavera_explorer/primavera_timetable.rb'
 require 'primavera_explorer/json.rb'
 

@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: Elephant 6
+  url: http://www.last.fm/tag/elephant%206
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "58"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "47"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "45"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "37"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "23"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "10"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "10"
+- name: athens
+  url: http://www.last.fm/tag/athens
+  count: "8"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "6"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "4"
+- name: Elephant 6 Collective
+  url: http://www.last.fm/tag/elephant%206%20collective
+  count: "4"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "3"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "3"
+- name: cabaret
+  url: http://www.last.fm/tag/cabaret
+  count: "2"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "2"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "2"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "1"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "1"
+- name: georgia
+  url: http://www.last.fm/tag/georgia
+  count: "1"
+- name: cloud recordings
+  url: http://www.last.fm/tag/cloud%20recordings
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "1"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "1"
+- name: modern psychedelica
+  url: http://www.last.fm/tag/modern%20psychedelica
+  count: "0"
+- name: e-radio
+  url: http://www.last.fm/tag/e-radio
+  count: "0"
+- name: piekne
+  url: http://www.last.fm/tag/piekne
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: penile implants
+  url: http://www.last.fm/tag/penile%20implants
+  count: "0"
+- name: I Just discovered Beulah
+  url: http://www.last.fm/tag/i%20just%20discovered%20beulah
+  count: "0"
+- name: baroque and chamber pop
+  url: http://www.last.fm/tag/baroque%20and%20chamber%20pop
+  count: "0"
+- name: songs on my sunny day
+  url: http://www.last.fm/tag/songs%20on%20my%20sunny%20day
+  count: "0"
+- name: Who is that
+  url: http://www.last.fm/tag/who%20is%20that
+  count: "0"
+- name: sextet
+  url: http://www.last.fm/tag/sextet
+  count: "0"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "0"
+- name: dream pop music
+  url: http://www.last.fm/tag/dream%20pop%20music
+  count: "0"
+- name: beach boys extension
+  url: http://www.last.fm/tag/beach%20boys%20extension
+  count: "0"
+- name: Atmosfera
+  url: http://www.last.fm/tag/atmosfera
+  count: "0"
+- name: Indie as FUCK
+  url: http://www.last.fm/tag/indie%20as%20fuck
+  count: "0"
+- name: psychedelic hippy lo-fi elephant 6 indie rock
+  url: http://www.last.fm/tag/psychedelic%20hippy%20lo-fi%20elephant%206%20indie%20rock
+  count: "0"
+- name: josta59 radio
+  url: http://www.last.fm/tag/josta59%20radio
+  count: "0"
+- name: artists to check out
+  url: http://www.last.fm/tag/artists%20to%20check%20out
+  count: "0"
+- name: raspberry dreams
+  url: http://www.last.fm/tag/raspberry%20dreams
+  count: "0"
+- name: olivia tremor control
+  url: http://www.last.fm/tag/olivia%20tremor%20control
+  count: "0"
+- name: Band I want to hear more of
+  url: http://www.last.fm/tag/band%20i%20want%20to%20hear%20more%20of
+  count: "0"
+- name: Navigator Dave
+  url: http://www.last.fm/tag/navigator%20dave
+  count: "0"
+- name: Biggady biggady bong
+  url: http://www.last.fm/tag/biggady%20biggady%20bong
+  count: "0"
+- name: Psy-Fi Radio
+  url: http://www.last.fm/tag/psy-fi%20radio
+  count: "0"
+- name: ryan radio
+  url: http://www.last.fm/tag/ryan%20radio
+  count: "0"
+- name: music to get stoned to
+  url: http://www.last.fm/tag/music%20to%20get%20stoned%20to
+  count: "0"
+- name: add to personal radio
+  url: http://www.last.fm/tag/add%20to%20personal%20radio
+  count: "0"
+- name: The Elephant 6 Recording Collective
+  url: http://www.last.fm/tag/the%20elephant%206%20recording%20collective
+  count: "0"
+- name: things I should try
+  url: http://www.last.fm/tag/things%20i%20should%20try
+  count: "0"
+- name: the discovery channel
+  url: http://www.last.fm/tag/the%20discovery%20channel
+  count: "0"
+- name: live show
+  url: http://www.last.fm/tag/live%20show
+  count: "0"
+- name: Lucas Tag
+  url: http://www.last.fm/tag/lucas%20tag
+  count: "0"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "0"
+- name: diwadlo
+  url: http://www.last.fm/tag/diwadlo
+  count: "0"
+- name: neo-psychedelic royalty
+  url: http://www.last.fm/tag/neo-psychedelic%20royalty
+  count: "0"
+- name: I like bands with hand claps
+  url: http://www.last.fm/tag/i%20like%20bands%20with%20hand%20claps
+  count: "0"
+- name: ZEVL
+  url: http://www.last.fm/tag/zevl
+  count: "0"
+- name: not lo-fi
+  url: http://www.last.fm/tag/not%20lo-fi
+  count: "0"
+- name: candy butcher
+  url: http://www.last.fm/tag/candy%20butcher
+  count: "0"
+- name: klimaciaste
+  url: http://www.last.fm/tag/klimaciaste
+  count: "0"
+- name: acid symphony
+  url: http://www.last.fm/tag/acid%20symphony
+  count: "0"
+- name: Elephant 6 E6
+  url: http://www.last.fm/tag/elephant%206%20e6
+  count: "0"
+- name: born in 1970s
+  url: http://www.last.fm/tag/born%20in%201970s
+  count: "0"
+- name: float away on unbrellas in dreams
+  url: http://www.last.fm/tag/float%20away%20on%20unbrellas%20in%20dreams
+  count: "0"
+- name: slodio
+  url: http://www.last.fm/tag/slodio
+  count: "0"
+- name: elephant 6 and friends
+  url: http://www.last.fm/tag/elephant%206%20and%20friends
+  count: "0"
+- name: flash-trash
+  url: http://www.last.fm/tag/flash-trash
+  count: "0"
+- name: bar sinister
+  url: http://www.last.fm/tag/bar%20sinister
+  count: "0"
+- name: i dont feel that I need to explain my art to you Warren
+  url: http://www.last.fm/tag/i%20dont%20feel%20that%20i%20need%20to%20explain%20my%20art%20to%20you%20warren
+  count: "0"
+- name: smoking weed makes this sound better
+  url: http://www.last.fm/tag/smoking%20weed%20makes%20this%20sound%20better
+  count: "0"
+- name: We all just want to be big rockstars
+  url: http://www.last.fm/tag/we%20all%20just%20want%20to%20be%20big%20rockstars
+  count: "0"
+- name: broken elevator music
+  url: http://www.last.fm/tag/broken%20elevator%20music
+  count: "0"
+- name: weird stew
+  url: http://www.last.fm/tag/weird%20stew
+  count: "0"
+- name: sorryDevTest
+  url: http://www.last.fm/tag/sorrydevtest
+  count: "0"
+- name: so effin happy and free
+  url: http://www.last.fm/tag/so%20effin%20happy%20and%20free
+  count: "0"
+- name: ruben songs
+  url: http://www.last.fm/tag/ruben%20songs
+  count: "0"
+- name: eeeeeeeeeeeeee6
+  url: http://www.last.fm/tag/eeeeeeeeeeeeee6
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: nastrojowo
+  url: http://www.last.fm/tag/nastrojowo
+  count: "0"
+- name: OT friends
+  url: http://www.last.fm/tag/ot%20friends
+  count: "0"
+- name: friends of athens
+  url: http://www.last.fm/tag/friends%20of%20athens
+  count: "0"
+- name: the pillow
+  url: http://www.last.fm/tag/the%20pillow
+  count: "0"
+- name: eyeballmusic226
+  url: http://www.last.fm/tag/eyeballmusic226
+  count: "0"
+- name: z pazurkiem
+  url: http://www.last.fm/tag/z%20pazurkiem
+  count: "0"
+- name: zmierzcha
+  url: http://www.last.fm/tag/zmierzcha
+  count: "0"
+- name: banda zjebow
+  url: http://www.last.fm/tag/banda%20zjebow
+  count: "0"
+- name: oniryczne
+  url: http://www.last.fm/tag/oniryczne
+  count: "0"
+- name: drugs
+  url: http://www.last.fm/tag/drugs
+  count: "0"
+- name: Psychedelia
+  url: http://www.last.fm/tag/psychedelia
+  count: "0"
+- name: Retro
+  url: http://www.last.fm/tag/retro
+  count: "0"
+"@attr": 
+  artist: Circulatory System

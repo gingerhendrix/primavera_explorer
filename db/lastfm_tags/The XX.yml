@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "82"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "65"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "57"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "22"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "15"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "14"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "14"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "11"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "9"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "7"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "6"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "6"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "3"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "3"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "3"
+- name: minimal post-punk
+  url: http://www.last.fm/tag/minimal%20post-punk
+  count: "2"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "2"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: female and male vocalists
+  url: http://www.last.fm/tag/female%20and%20male%20vocalists
+  count: "2"
+- name: good listening with coffee
+  url: http://www.last.fm/tag/good%20listening%20with%20coffee
+  count: "2"
+- name: you need to hear this
+  url: http://www.last.fm/tag/you%20need%20to%20hear%20this
+  count: "2"
+- name: "2009"
+  url: http://www.last.fm/tag/2009
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "1"
+- name: nugaze
+  url: http://www.last.fm/tag/nugaze
+  count: "1"
+- name: this is pure sex
+  url: http://www.last.fm/tag/this%20is%20pure%20sex
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: relaxed
+  url: http://www.last.fm/tag/relaxed
+  count: "1"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "1"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "1"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "1"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "1"
+- name: goth
+  url: http://www.last.fm/tag/goth
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+  count: "1"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "1"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "1"
+- name: Electrogaze
+  url: http://www.last.fm/tag/electrogaze
+  count: "1"
+- name: melancholic pop
+  url: http://www.last.fm/tag/melancholic%20pop
+  count: "1"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "1"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "1"
+- name: boys and girls singing together
+  url: http://www.last.fm/tag/boys%20and%20girls%20singing%20together
+  count: "1"
+- name: slow
+  url: http://www.last.fm/tag/slow
+  count: "1"
+- name: female guitarists
+  url: http://www.last.fm/tag/female%20guitarists
+  count: "1"
+- name: United Kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+  count: "1"
+- name: All the cool kids listen to this
+  url: http://www.last.fm/tag/all%20the%20cool%20kids%20listen%20to%20this
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: "yes"
+  url: http://www.last.fm/tag/yes
+  count: "0"
+- name: night listening
+  url: http://www.last.fm/tag/night%20listening
+  count: "0"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "0"
+- name: minimal indie
+  url: http://www.last.fm/tag/minimal%20indie
+  count: "0"
+- name: sexy as fuck
+  url: http://www.last.fm/tag/sexy%20as%20fuck
+  count: "0"
+- name: rock my world
+  url: http://www.last.fm/tag/rock%20my%20world
+  count: "0"
+- name: Dream Dance
+  url: http://www.last.fm/tag/dream%20dance
+  count: "0"
+- name: kate nash
+  url: http://www.last.fm/tag/kate%20nash
+  count: "0"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "0"
+- name: <3
+  url: http://www.last.fm/tag/%3C3
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: heartbreaking beautiful
+  url: http://www.last.fm/tag/heartbreaking%20beautiful
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "0"
+- name: mesmerizing
+  url: http://www.last.fm/tag/mesmerizing
+  count: "0"
+- name: UK indie 00s
+  url: http://www.last.fm/tag/uk%20indie%2000s
+  count: "0"
+- name: slow indie
+  url: http://www.last.fm/tag/slow%20indie
+  count: "0"
+- name: documentos-tv
+  url: http://www.last.fm/tag/documentos-tv
+  count: "0"
+- name: Golden greats of feel-good depression
+  url: http://www.last.fm/tag/golden%20greats%20of%20feel-good%20depression
+  count: "0"
+- name: GUTE Musik
+  url: http://www.last.fm/tag/gute%20musik
+  count: "0"
+- name: Shystie
+  url: http://www.last.fm/tag/shystie
+  count: "0"
+- name: male-female vocalists
+  url: http://www.last.fm/tag/male-female%20vocalists
+  count: "0"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "0"
+- name: candir
+  url: http://www.last.fm/tag/candir
+  count: "0"
+- name: kewl name
+  url: http://www.last.fm/tag/kewl%20name
+  count: "0"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "0"
+- name: true-indie
+  url: http://www.last.fm/tag/true-indie
+  count: "0"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "0"
+- name: quiet voices
+  url: http://www.last.fm/tag/quiet%20voices
+  count: "0"
+- name: leite ucal fresquinho
+  url: http://www.last.fm/tag/leite%20ucal%20fresquinho
+  count: "0"
+- name: seductive
+  url: http://www.last.fm/tag/seductive
+  count: "0"
+- name: elliott
+  url: http://www.last.fm/tag/elliott
+  count: "0"
+- name: indie - uk
+  url: http://www.last.fm/tag/indie%20-%20uk
+  count: "0"
+- name: indie electro
+  url: http://www.last.fm/tag/indie%20electro
+  count: "0"
+- name: new stuff I like
+  url: http://www.last.fm/tag/new%20stuff%20i%20like
+  count: "0"
+- name: very sexy
+  url: http://www.last.fm/tag/very%20sexy
+  count: "0"
+- name: amazing voice
+  url: http://www.last.fm/tag/amazing%20voice
+  count: "0"
+"@attr": 
+  artist: The xx

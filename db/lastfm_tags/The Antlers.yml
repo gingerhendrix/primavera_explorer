@@ -1,0 +1,277 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "81"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "65"
+- name: Fuzz-Folk
+  url: http://www.last.fm/tag/fuzz-folk
+  count: "35"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "31"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "24"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "15"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "13"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "11"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "11"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "10"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "9"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "9"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "8"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "7"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "5"
+- name: Slow-coustic
+  url: http://www.last.fm/tag/slow-coustic
+  count: "5"
+- name: sadcore
+  url: http://www.last.fm/tag/sadcore
+  count: "4"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "3"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "3"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "3"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "2"
+- name: hipster
+  url: http://www.last.fm/tag/hipster
+  count: "2"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "2"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "2"
+- name: soft rock
+  url: http://www.last.fm/tag/soft%20rock
+  count: "2"
+- name: int
+  url: http://www.last.fm/tag/int
+  count: "1"
+- name: makes me swoon
+  url: http://www.last.fm/tag/makes%20me%20swoon
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: recovery
+  url: http://www.last.fm/tag/recovery
+  count: "1"
+- name: ALMOST saw live
+  url: http://www.last.fm/tag/almost%20saw%20live
+  count: "1"
+- name: monolith
+  url: http://www.last.fm/tag/monolith
+  count: "1"
+- name: listen to
+  url: http://www.last.fm/tag/listen%20to
+  count: "1"
+- name: look into
+  url: http://www.last.fm/tag/look%20into
+  count: "1"
+- name: indie-folk
+  url: http://www.last.fm/tag/indie-folk
+  count: "1"
+- name: i know this person in real life
+  url: http://www.last.fm/tag/i%20know%20this%20person%20in%20real%20life
+  count: "1"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "1"
+- name: vorgemerkt
+  url: http://www.last.fm/tag/vorgemerkt
+  count: "1"
+- name: music to stare out of windows to
+  url: http://www.last.fm/tag/music%20to%20stare%20out%20of%20windows%20to
+  count: "1"
+- name: luisterpaal
+  url: http://www.last.fm/tag/luisterpaal
+  count: "1"
+- name: big crush 2009
+  url: http://www.last.fm/tag/big%20crush%202009
+  count: "1"
+- name: vamos a conquistar polonia sobre caballos enfurecidos mientras cae un chaparron de aupa
+  url: http://www.last.fm/tag/vamos%20a%20conquistar%20polonia%20sobre%20caballos%20enfurecidos%20mientras%20cae%20un%20chaparron%20de%20aupa
+  count: "1"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "1"
+- name: the antlers
+  url: http://www.last.fm/tag/the%20antlers
+  count: "1"
+- name: really really want to see you live
+  url: http://www.last.fm/tag/really%20really%20want%20to%20see%20you%20live
+  count: "1"
+- name: BEARROCK
+  url: http://www.last.fm/tag/bearrock
+  count: "1"
+- name: lastfmdiscover
+  url: http://www.last.fm/tag/lastfmdiscover
+  count: "1"
+- name: excellent in every way
+  url: http://www.last.fm/tag/excellent%20in%20every%20way
+  count: "1"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "1"
+- name: zoo core
+  url: http://www.last.fm/tag/zoo%20core
+  count: "1"
+- name: pitchfork music festival 2009
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202009
+  count: "1"
+- name: pitchfork 2009
+  url: http://www.last.fm/tag/pitchfork%202009
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: sad
+  url: http://www.last.fm/tag/sad
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+  count: "1"
+- name: cinematic
+  url: http://www.last.fm/tag/cinematic
+  count: "1"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "1"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "1"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "1"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "1"
+- name: hipster trash
+  url: http://www.last.fm/tag/hipster%20trash
+  count: "1"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "1"
+- name: largeheartedboy
+  url: http://www.last.fm/tag/largeheartedboy
+  count: "1"
+- name: truth
+  url: http://www.last.fm/tag/truth
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "1"
+- name: friends
+  url: http://www.last.fm/tag/friends
+  count: "1"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "1"
+- name: fantastic
+  url: http://www.last.fm/tag/fantastic
+  count: "1"
+- name: repeat
+  url: http://www.last.fm/tag/repeat
+  count: "1"
+- name: addictive
+  url: http://www.last.fm/tag/addictive
+  count: "1"
+- name: folk pop
+  url: http://www.last.fm/tag/folk%20pop
+  count: "1"
+- name: everything
+  url: http://www.last.fm/tag/everything
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Curious
+  url: http://www.last.fm/tag/curious
+  count: "0"
+- name: want to explore more
+  url: http://www.last.fm/tag/want%20to%20explore%20more
+  count: "0"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "0"
+- name: indie emo
+  url: http://www.last.fm/tag/indie%20emo
+  count: "0"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "0"
+"@attr": 
+  artist: The Antlers
