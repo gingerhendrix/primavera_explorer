@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "69"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "62"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "57"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "46"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "16"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "12"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "9"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "8"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "6"
+- name: Middle Eastern-psych-snap-gospel
+  url: http://www.last.fm/tag/middle%20eastern-psych-snap-gospel
+  count: "4"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "4"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "4"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "4"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "3"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "3"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "2"
+- name: world
+  url: http://www.last.fm/tag/world
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: psych folk
+  url: http://www.last.fm/tag/psych%20folk
+  count: "1"
+- name: post folk core
+  url: http://www.last.fm/tag/post%20folk%20core
+  count: "1"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: retro rock
+  url: http://www.last.fm/tag/retro%20rock
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: moon music
+  url: http://www.last.fm/tag/moon%20music
+  count: "1"
+- name: lowlands 2008
+  url: http://www.last.fm/tag/lowlands%202008
+  count: "1"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "1"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "1"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "1"
+- name: World Music
+  url: http://www.last.fm/tag/world%20music
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: Psychedelic Art Rock
+  url: http://www.last.fm/tag/psychedelic%20art%20rock
+  count: "0"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "0"
+- name: visual
+  url: http://www.last.fm/tag/visual
+  count: "0"
+- name: stuff I should be able to inject directly into my blood
+  url: http://www.last.fm/tag/stuff%20i%20should%20be%20able%20to%20inject%20directly%20into%20my%20blood
+  count: "0"
+- name: crazy futuristic freak folk
+  url: http://www.last.fm/tag/crazy%20futuristic%20freak%20folk
+  count: "0"
+- name: enya with bounce
+  url: http://www.last.fm/tag/enya%20with%20bounce
+  count: "0"
+- name: would kill to see live
+  url: http://www.last.fm/tag/would%20kill%20to%20see%20live
+  count: "0"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "0"
+- name: eurockeennes 2008
+  url: http://www.last.fm/tag/eurockeennes%202008
+  count: "0"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "0"
+- name: haldern 2008
+  url: http://www.last.fm/tag/haldern%202008
+  count: "0"
+- name: hippie
+  url: http://www.last.fm/tag/hippie
+  count: "0"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "0"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: new stuff
+  url: http://www.last.fm/tag/new%20stuff
+  count: "0"
+- name: Would sacrifice my right arm to see these people live
+  url: http://www.last.fm/tag/would%20sacrifice%20my%20right%20arm%20to%20see%20these%20people%20live
+  count: "0"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "0"
+- name: Middle Eastern
+  url: http://www.last.fm/tag/middle%20eastern
+  count: "0"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "0"
+- name: glastonbury2008
+  url: http://www.last.fm/tag/glastonbury2008
+  count: "0"
+- name: native americana
+  url: http://www.last.fm/tag/native%20americana
+  count: "0"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: bonnaroo 2009
+  url: http://www.last.fm/tag/bonnaroo%202009
+  count: "0"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "0"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: Recommended
+  url: http://www.last.fm/tag/recommended
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: showtunes
+  url: http://www.last.fm/tag/showtunes
+  count: "0"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "0"
+- name: neo-folk
+  url: http://www.last.fm/tag/neo-folk
+  count: "0"
+- name: "2008"
+  url: http://www.last.fm/tag/2008
+  count: "0"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "0"
+- name: seen live lizm
+  url: http://www.last.fm/tag/seen%20live%20lizm
+  count: "0"
+- name: aw jeeze
+  url: http://www.last.fm/tag/aw%20jeeze
+  count: "0"
+- name: test it
+  url: http://www.last.fm/tag/test%20it
+  count: "0"
+- name: tomakeando
+  url: http://www.last.fm/tag/tomakeando
+  count: "0"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "0"
+- name: I was there
+  url: http://www.last.fm/tag/i%20was%20there
+  count: "0"
+- name: lollapalooza
+  url: http://www.last.fm/tag/lollapalooza
+  count: "0"
+- name: I like to listen to this in the morning
+  url: http://www.last.fm/tag/i%20like%20to%20listen%20to%20this%20in%20the%20morning
+  count: "0"
+- name: pagan campfire
+  url: http://www.last.fm/tag/pagan%20campfire
+  count: "0"
+- name: seen live in 2008
+  url: http://www.last.fm/tag/seen%20live%20in%202008
+  count: "0"
+- name: hippie scum
+  url: http://www.last.fm/tag/hippie%20scum
+  count: "0"
+- name: dream material
+  url: http://www.last.fm/tag/dream%20material
+  count: "0"
+- name: seen live 2008
+  url: http://www.last.fm/tag/seen%20live%202008
+  count: "0"
+- name: I would love to see live
+  url: http://www.last.fm/tag/i%20would%20love%20to%20see%20live
+  count: "0"
+- name: cant live without them faves
+  url: http://www.last.fm/tag/cant%20live%20without%20them%20faves
+  count: "0"
+"@attr": 
+  artist: Yeasayer

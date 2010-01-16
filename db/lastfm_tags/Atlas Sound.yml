@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "95"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "70"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "67"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "51"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "26"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "10"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "10"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "8"
+- name: ambient pop
+  url: http://www.last.fm/tag/ambient%20pop
+  count: "8"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "7"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "5"
+- name: deerhunter
+  url: http://www.last.fm/tag/deerhunter
+  count: "4"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "4"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: atlanta
+  url: http://www.last.fm/tag/atlanta
+  count: "3"
+- name: kranky
+  url: http://www.last.fm/tag/kranky
+  count: "3"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "3"
+- name: bradford cox
+  url: http://www.last.fm/tag/bradford%20cox
+  count: "3"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "2"
+- name: 4ad
+  url: http://www.last.fm/tag/4ad
+  count: "2"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: chillwave
+  url: http://www.last.fm/tag/chillwave
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: georgia
+  url: http://www.last.fm/tag/georgia
+  count: "1"
+- name: Atlas Sound
+  url: http://www.last.fm/tag/atlas%20sound
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: I like to listen to this in the morning
+  url: http://www.last.fm/tag/i%20like%20to%20listen%20to%20this%20in%20the%20morning
+  count: "1"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: best of 2007
+  url: http://www.last.fm/tag/best%20of%202007
+  count: "0"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "0"
+- name: gayamaphone
+  url: http://www.last.fm/tag/gayamaphone
+  count: "0"
+- name: newgaze
+  url: http://www.last.fm/tag/newgaze
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: shoegazing
+  url: http://www.last.fm/tag/shoegazing
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: shoegazing rocks
+  url: http://www.last.fm/tag/shoegazing%20rocks
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: psychodelic
+  url: http://www.last.fm/tag/psychodelic
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: fricking awesome
+  url: http://www.last.fm/tag/fricking%20awesome
+  count: "0"
+- name: blow your mind
+  url: http://www.last.fm/tag/blow%20your%20mind
+  count: "0"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "0"
+- name: emotronic
+  url: http://www.last.fm/tag/emotronic
+  count: "0"
+- name: deerhunter related
+  url: http://www.last.fm/tag/deerhunter%20related
+  count: "0"
+- name: incredibly awesome
+  url: http://www.last.fm/tag/incredibly%20awesome
+  count: "0"
+- name: Indie as FUCK
+  url: http://www.last.fm/tag/indie%20as%20fuck
+  count: "0"
+- name: ghostrock
+  url: http://www.last.fm/tag/ghostrock
+  count: "0"
+- name: must listen to
+  url: http://www.last.fm/tag/must%20listen%20to
+  count: "0"
+- name: stupid stupid stupid stupid stupid stupid stupid
+  url: http://www.last.fm/tag/stupid%20stupid%20stupid%20stupid%20stupid%20stupid%20stupid
+  count: "0"
+- name: ambientowo
+  url: http://www.last.fm/tag/ambientowo
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: electronic-lounge
+  url: http://www.last.fm/tag/electronic-lounge
+  count: "0"
+- name: overwhelming underdogs
+  url: http://www.last.fm/tag/overwhelming%20underdogs
+  count: "0"
+- name: eksperymentalnie
+  url: http://www.last.fm/tag/eksperymentalnie
+  count: "0"
+- name: totally saw live
+  url: http://www.last.fm/tag/totally%20saw%20live
+  count: "0"
+- name: electronica madness
+  url: http://www.last.fm/tag/electronica%20madness
+  count: "0"
+- name: EEUU
+  url: http://www.last.fm/tag/eeuu
+  count: "0"
+- name: free spirited
+  url: http://www.last.fm/tag/free%20spirited
+  count: "0"
+- name: electro-ish
+  url: http://www.last.fm/tag/electro-ish
+  count: "0"
+- name: weirdo-pop
+  url: http://www.last.fm/tag/weirdo-pop
+  count: "0"
+- name: conyon
+  url: http://www.last.fm/tag/conyon
+  count: "0"
+- name: luv luv luv
+  url: http://www.last.fm/tag/luv%20luv%20luv
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: ver
+  url: http://www.last.fm/tag/ver
+  count: "0"
+- name: Pitchfork approved
+  url: http://www.last.fm/tag/pitchfork%20approved
+  count: "0"
+- name: taurus
+  url: http://www.last.fm/tag/taurus
+  count: "0"
+- name: artists i've seen live
+  url: http://www.last.fm/tag/artists%20i%27ve%20seen%20live
+  count: "0"
+- name: do androids dream of electric sheep
+  url: http://www.last.fm/tag/do%20androids%20dream%20of%20electric%20sheep
+  count: "0"
+- name: estan loquitos estos romanos
+  url: http://www.last.fm/tag/estan%20loquitos%20estos%20romanos
+  count: "0"
+- name: nu stuff 4
+  url: http://www.last.fm/tag/nu%20stuff%204
+  count: "0"
+- name: lons
+  url: http://www.last.fm/tag/lons
+  count: "0"
+- name: ambient punk
+  url: http://www.last.fm/tag/ambient%20punk
+  count: "0"
+- name: dash
+  url: http://www.last.fm/tag/dash
+  count: "0"
+- name: nu-bluz
+  url: http://www.last.fm/tag/nu-bluz
+  count: "0"
+- name: earthen arches
+  url: http://www.last.fm/tag/earthen%20arches
+  count: "0"
+- name: punk finales 80s
+  url: http://www.last.fm/tag/punk%20finales%2080s
+  count: "0"
+- name: new - look into
+  url: http://www.last.fm/tag/new%20-%20look%20into
+  count: "0"
+- name: Nu-Bluz Funky Grooves in the E-Lounge
+  url: http://www.last.fm/tag/nu-bluz%20funky%20grooves%20in%20the%20e-lounge
+  count: "0"
+- name: lindo bradford
+  url: http://www.last.fm/tag/lindo%20bradford
+  count: "0"
+- name: funfunfun2009
+  url: http://www.last.fm/tag/funfunfun2009
+  count: "0"
+- name: seen live x1
+  url: http://www.last.fm/tag/seen%20live%20x1
+  count: "0"
+- name: experimental aesthetics
+  url: http://www.last.fm/tag/experimental%20aesthetics
+  count: "0"
+- name: readers-digest-trend
+  url: http://www.last.fm/tag/readers-digest-trend
+  count: "0"
+- name: masochistic homoautoerotica
+  url: http://www.last.fm/tag/masochistic%20homoautoerotica
+  count: "0"
+- name: selfsurprises new bands
+  url: http://www.last.fm/tag/selfsurprises%20new%20bands
+  count: "0"
+"@attr": 
+  artist: Atlas Sound

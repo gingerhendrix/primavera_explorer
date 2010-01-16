@@ -1,0 +1,105 @@
+--- 
+name: Polvo
+stats: 
+  playcount: "785965"
+  listeners: "47361"
+tags: 
+  tag: 
+  - name: math rock
+    url: http://www.last.fm/tag/math%20rock
+  - name: indie rock
+    url: http://www.last.fm/tag/indie%20rock
+  - name: post-rock
+    url: http://www.last.fm/tag/post-rock
+  - name: experimental
+    url: http://www.last.fm/tag/experimental
+  - name: indie
+    url: http://www.last.fm/tag/indie
+similar: 
+  artist: 
+  - name: Unwound
+    url: http://www.last.fm/music/Unwound
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/227140.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/227140.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/227140.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/227140.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/227140/Unwound.jpg
+  - name: June of 44
+    url: http://www.last.fm/music/June+of+44
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/4938845.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/4938845.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/4938845.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/4938845.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/4938845/June+of+44+juneof44.jpg
+  - name: Rodan
+    url: http://www.last.fm/music/Rodan
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/160834.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/160834.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/160834.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/160834.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/160834/Rodan.jpg
+  - name: Shipping News
+    url: http://www.last.fm/music/Shipping+News
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/51933.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/51933.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/51933.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/51933.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/51933/Shipping+News.jpg
+  - name: Chavez
+    url: http://www.last.fm/music/Chavez
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/23273553.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/23273553.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/23273553.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/23273553.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/23273553/Chavez+just+chillaxing+w.jpg
+url: http://www.last.fm/music/Polvo
+mbid: a57e5515-555a-42d6-a92a-465deac3fdd1
+bio: 
+  published: Mon, 17 Aug 2009 21:51:41 +0000
+  summary: Polvo is an influential indie noise rock band of the 1990s from Chapel Hill, North Carolina, USA. The band was fronted by guitarists/vocalists Ash Bowie and Dave Brylawski. Eddie Watkins played drums, and Steve Popson played bass guitar.  The band reformed in 2008 with Brian Quast assuming drum duties.  Polvo are considered by some to be one of the key proponents of a genre which came to be known as math rock, although in interviews the band disavowed that categorization.
+  content: |-
+    Polvo is an influential indie noise rock band of the 1990s from Chapel Hill, North Carolina, USA. The band was fronted by guitarists/vocalists Ash Bowie and Dave Brylawski. Eddie Watkins played drums, and Steve Popson played bass guitar.  The band reformed in 2008 with Brian Quast assuming drum duties.
+     
+     Polvo are considered by some to be one of the key proponents of a genre which came to be known as math rock, although in interviews the band disavowed that categorization. Their sound was defined by complex and dissonant guitar harmonies and driving rhythm, complementing cryptic, often surrealist lyrics. Their sound was so unpredictable and angular that the band's guitarists were often accused of failing to play with correctly tuned guitars. Polvo's songs and artwork frequently featured Asian/&quot;exotic&quot; themes and references. The band's name means &quot;dust&quot; in Spanish.
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/138958.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/138958.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/138958.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/138958.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/_/138958/Polvo.jpg

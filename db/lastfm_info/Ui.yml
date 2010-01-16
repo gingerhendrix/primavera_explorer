@@ -1,0 +1,102 @@
+--- 
+name: UI
+stats: 
+  playcount: "83440"
+  listeners: "8761"
+tags: 
+  tag: 
+  - name: post-rock
+    url: http://www.last.fm/tag/post-rock
+  - name: experimental
+    url: http://www.last.fm/tag/experimental
+  - name: instrumental
+    url: http://www.last.fm/tag/instrumental
+  - name: post rock
+    url: http://www.last.fm/tag/post%20rock
+  - name: math rock
+    url: http://www.last.fm/tag/math%20rock
+similar: 
+  artist: 
+  - name: Isotope 217
+    url: http://www.last.fm/music/Isotope+217
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/240066.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/240066.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/240066.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/240066.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/240066/Isotope+217.jpg
+  - name: Trans Am
+    url: http://www.last.fm/music/Trans+Am
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/15527453.gif
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/15527453.gif
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/15527453.gif
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/15527453.gif
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/15527453/Trans+Am+pr14.gif
+  - name: Dianogah
+    url: http://www.last.fm/music/Dianogah
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/21071389.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/21071389.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/21071389.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/21071389.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/21071389/Dianogah.jpg
+  - name: Brokeback
+    url: http://www.last.fm/music/Brokeback
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/205706.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/205706.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/205706.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/205706.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/205706/Brokeback.jpg
+  - name: Tortoise
+    url: http://www.last.fm/music/Tortoise
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/298071.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/298071.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/298071.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/298071.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/298071/Tortoise.jpg
+url: http://www.last.fm/music/UI
+mbid: 0a62679b-9f99-4bf5-9481-80669e776ca8
+bio: 
+  published: Tue, 30 Jun 2009 23:31:26 +0000
+  summary: Ui (pronounced ooo-eee) was an American post-rock band based in New York City, which started in 1990 and ended mid-2000s. The group was started by Sasha Frere-Jones and Clem Waldmann, with Wilbo Wright joining the group in 1993. What set Ui apart from other post-rock groups was their emphasis on bass instead of guitar (Ui had two bass players). But besides their emphasis on bass, Ui also expanded their sound with supporting instruments; such as banjo, synthesizers, tuba and timpani (the group also had a high reliance on samplers and other studio equipment to flesh out their sound further).
+  content: Ui (pronounced ooo-eee) was an American post-rock band based in New York City, which started in 1990 and ended mid-2000s. The group was started by Sasha Frere-Jones and Clem Waldmann, with Wilbo Wright joining the group in 1993. What set Ui apart from other post-rock groups was their emphasis on bass instead of guitar (Ui had two bass players). But besides their emphasis on bass, Ui also expanded their sound with supporting instruments; such as banjo, synthesizers, tuba and timpani (the group also had a high reliance on samplers and other studio equipment to flesh out their sound further).
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/292537.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/292537.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/292537.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/292537.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/_/292537/UI.jpg

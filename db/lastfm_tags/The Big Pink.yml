@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "78"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "76"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "53"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "32"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "28"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "19"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "15"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "12"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "10"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "7"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "7"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: synth
+  url: http://www.last.fm/tag/synth
+  count: "4"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "4"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "4"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "3"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "3"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "3"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "3"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "2"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "2"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "2"
+- name: the best 2009
+  url: http://www.last.fm/tag/the%20best%202009
+  count: "2"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: sem comentarios
+  url: http://www.last.fm/tag/sem%20comentarios
+  count: "1"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "1"
+- name: The Big Pink
+  url: http://www.last.fm/tag/the%20big%20pink
+  count: "1"
+- name: spacerock
+  url: http://www.last.fm/tag/spacerock
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: crushing
+  url: http://www.last.fm/tag/crushing
+  count: "1"
+- name: blah
+  url: http://www.last.fm/tag/blah
+  count: "1"
+- name: nugaze
+  url: http://www.last.fm/tag/nugaze
+  count: "1"
+- name: Britrock
+  url: http://www.last.fm/tag/britrock
+  count: "1"
+- name: electro rock
+  url: http://www.last.fm/tag/electro%20rock
+  count: "1"
+- name: amor a primeira ouvida
+  url: http://www.last.fm/tag/amor%20a%20primeira%20ouvida
+  count: "1"
+- name: newgaze
+  url: http://www.last.fm/tag/newgaze
+  count: "1"
+- name: I love
+  url: http://www.last.fm/tag/i%20love
+  count: "1"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "1"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: britannique
+  url: http://www.last.fm/tag/britannique
+  count: "0"
+- name: decent covers
+  url: http://www.last.fm/tag/decent%20covers
+  count: "0"
+- name: I was listening to this artist waaaaay before you because I try out new music BEFORE its hyped by the media
+  url: http://www.last.fm/tag/i%20was%20listening%20to%20this%20artist%20waaaaay%20before%20you%20because%20i%20try%20out%20new%20music%20before%20its%20hyped%20by%20the%20media
+  count: "0"
+- name: schlau machen
+  url: http://www.last.fm/tag/schlau%20machen
+  count: "0"
+- name: sounds 90ish
+  url: http://www.last.fm/tag/sounds%2090ish
+  count: "0"
+- name: indie nerd
+  url: http://www.last.fm/tag/indie%20nerd
+  count: "0"
+- name: you need to hear this
+  url: http://www.last.fm/tag/you%20need%20to%20hear%20this
+  count: "0"
+- name: seen thrice
+  url: http://www.last.fm/tag/seen%20thrice
+  count: "0"
+- name: JMFH
+  url: http://www.last.fm/tag/jmfh
+  count: "0"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "0"
+- name: Jiggy
+  url: http://www.last.fm/tag/jiggy
+  count: "0"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "0"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "0"
+- name: electronic shoegaze
+  url: http://www.last.fm/tag/electronic%20shoegaze
+  count: "0"
+- name: Ostoslista
+  url: http://www.last.fm/tag/ostoslista
+  count: "0"
+- name: albums i want
+  url: http://www.last.fm/tag/albums%20i%20want
+  count: "0"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "0"
+- name: Electrogaze
+  url: http://www.last.fm/tag/electrogaze
+  count: "0"
+- name: seen live more than once
+  url: http://www.last.fm/tag/seen%20live%20more%20than%20once
+  count: "0"
+- name: lembro de alguem importate um amor
+  url: http://www.last.fm/tag/lembro%20de%20alguem%20importate%20um%20amor
+  count: "0"
+- name: I want to see this band live before I die
+  url: http://www.last.fm/tag/i%20want%20to%20see%20this%20band%20live%20before%20i%20die
+  count: "0"
+- name: brandnu nugaze
+  url: http://www.last.fm/tag/brandnu%20nugaze
+  count: "0"
+- name: Less than 400000
+  url: http://www.last.fm/tag/less%20than%20400000
+  count: "0"
+- name: "to check out: sept09"
+  url: http://www.last.fm/tag/to%20check%20out%3A%20sept09
+  count: "0"
+- name: nu stuff 8
+  url: http://www.last.fm/tag/nu%20stuff%208
+  count: "0"
+- name: PP09
+  url: http://www.last.fm/tag/pp09
+  count: "0"
+- name: pukkelpop09
+  url: http://www.last.fm/tag/pukkelpop09
+  count: "0"
+- name: Glastonbury Festival 2009
+  url: http://www.last.fm/tag/glastonbury%20festival%202009
+  count: "0"
+- name: dizsi
+  url: http://www.last.fm/tag/dizsi
+  count: "0"
+- name: experimentar
+  url: http://www.last.fm/tag/experimentar
+  count: "0"
+- name: electro and roll
+  url: http://www.last.fm/tag/electro%20and%20roll
+  count: "0"
+- name: reading 2009
+  url: http://www.last.fm/tag/reading%202009
+  count: "0"
+- name: shoe gays
+  url: http://www.last.fm/tag/shoe%20gays
+  count: "0"
+- name: od pastejaxD
+  url: http://www.last.fm/tag/od%20pastejaxd
+  count: "0"
+- name: atmospheric ambivalence
+  url: http://www.last.fm/tag/atmospheric%20ambivalence
+  count: "0"
+- name: bbc sound of 2009
+  url: http://www.last.fm/tag/bbc%20sound%20of%202009
+  count: "0"
+- name: gorgepop
+  url: http://www.last.fm/tag/gorgepop
+  count: "0"
+- name: slow synth
+  url: http://www.last.fm/tag/slow%20synth
+  count: "0"
+- name: leeds 2009
+  url: http://www.last.fm/tag/leeds%202009
+  count: "0"
+- name: live 2009
+  url: http://www.last.fm/tag/live%202009
+  count: "0"
+- name: shitlist
+  url: http://www.last.fm/tag/shitlist
+  count: "0"
+- name: needs listening indie
+  url: http://www.last.fm/tag/needs%20listening%20indie
+  count: "0"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "0"
+- name: the new thing
+  url: http://www.last.fm/tag/the%20new%20thing
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: United Kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+  count: "0"
+- name: Experimental pop
+  url: http://www.last.fm/tag/experimental%20pop
+  count: "0"
+- name: Best new music
+  url: http://www.last.fm/tag/best%20new%20music
+  count: "0"
+- name: britain
+  url: http://www.last.fm/tag/britain
+  count: "0"
+- name: My favourite
+  url: http://www.last.fm/tag/my%20favourite
+  count: "0"
+- name: 4ad
+  url: http://www.last.fm/tag/4ad
+  count: "0"
+- name: duos
+  url: http://www.last.fm/tag/duos
+  count: "0"
+- name: upbeat
+  url: http://www.last.fm/tag/upbeat
+  count: "0"
+"@attr": 
+  artist: The Big Pink

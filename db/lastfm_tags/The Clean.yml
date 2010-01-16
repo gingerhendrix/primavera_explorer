@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: New Zealand
+  url: http://www.last.fm/tag/new%20zealand
+  count: "100"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "76"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "57"
+- name: flying nun
+  url: http://www.last.fm/tag/flying%20nun
+  count: "48"
+- name: Kiwi
+  url: http://www.last.fm/tag/kiwi
+  count: "27"
+- name: Dunedin
+  url: http://www.last.fm/tag/dunedin
+  count: "14"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "14"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "14"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "14"
+- name: nz
+  url: http://www.last.fm/tag/nz
+  count: "12"
+- name: dunedin sound
+  url: http://www.last.fm/tag/dunedin%20sound
+  count: "12"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "10"
+- name: New Zealand Rock
+  url: http://www.last.fm/tag/new%20zealand%20rock
+  count: "10"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "8"
+- name: we are messy and we like it
+  url: http://www.last.fm/tag/we%20are%20messy%20and%20we%20like%20it
+  count: "6"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "6"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "6"
+- name: college rock
+  url: http://www.last.fm/tag/college%20rock
+  count: "6"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "6"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "4"
+- name: The Clean
+  url: http://www.last.fm/tag/the%20clean
+  count: "4"
+- name: cathartic
+  url: http://www.last.fm/tag/cathartic
+  count: "4"
+- name: somber
+  url: http://www.last.fm/tag/somber
+  count: "4"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "4"
+- name: Wry
+  url: http://www.last.fm/tag/wry
+  count: "4"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "4"
+- name: Golden greats of feel-good depression
+  url: http://www.last.fm/tag/golden%20greats%20of%20feel-good%20depression
+  count: "4"
+- name: Detached
+  url: http://www.last.fm/tag/detached
+  count: "4"
+- name: Restrained
+  url: http://www.last.fm/tag/restrained
+  count: "4"
+- name: kiwi rock
+  url: http://www.last.fm/tag/kiwi%20rock
+  count: "4"
+- name: NZ Music
+  url: http://www.last.fm/tag/nz%20music
+  count: "4"
+- name: sparse
+  url: http://www.last.fm/tag/sparse
+  count: "4"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "4"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "4"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "4"
+- name: brooding
+  url: http://www.last.fm/tag/brooding
+  count: "4"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "4"
+- name: workforce1
+  url: http://www.last.fm/tag/workforce1
+  count: "2"
+- name: au plus nz
+  url: http://www.last.fm/tag/au%20plus%20nz
+  count: "2"
+- name: Fox
+  url: http://www.last.fm/tag/fox
+  count: "2"
+- name: jangly guitar music
+  url: http://www.last.fm/tag/jangly%20guitar%20music
+  count: "2"
+- name: digg
+  url: http://www.last.fm/tag/digg
+  count: "2"
+- name: like punk but better
+  url: http://www.last.fm/tag/like%20punk%20but%20better
+  count: "2"
+- name: to be investigated
+  url: http://www.last.fm/tag/to%20be%20investigated
+  count: "2"
+- name: kiwi pop
+  url: http://www.last.fm/tag/kiwi%20pop
+  count: "2"
+- name: antipody
+  url: http://www.last.fm/tag/antipody
+  count: "2"
+- name: New Zealand music
+  url: http://www.last.fm/tag/new%20zealand%20music
+  count: "2"
+- name: bad ass
+  url: http://www.last.fm/tag/bad%20ass
+  count: "2"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "2"
+- name: The 2nd best band from New Zeeland
+  url: http://www.last.fm/tag/the%202nd%20best%20band%20from%20new%20zeeland
+  count: "2"
+- name: lainagier
+  url: http://www.last.fm/tag/lainagier
+  count: "2"
+- name: guiter pop
+  url: http://www.last.fm/tag/guiter%20pop
+  count: "2"
+- name: southern hemisphere
+  url: http://www.last.fm/tag/southern%20hemisphere
+  count: "2"
+- name: Tense/Anxious
+  url: http://www.last.fm/tag/tense%252Fanxious
+  count: "2"
+- name: Visceral
+  url: http://www.last.fm/tag/visceral
+  count: "2"
+- name: nz nindie
+  url: http://www.last.fm/tag/nz%20nindie
+  count: "2"
+- name: dr small jukebox
+  url: http://www.last.fm/tag/dr%20small%20jukebox
+  count: "2"
+- name: flying nun bands
+  url: http://www.last.fm/tag/flying%20nun%20bands
+  count: "2"
+- name: new zealand bands
+  url: http://www.last.fm/tag/new%20zealand%20bands
+  count: "2"
+- name: angular momentum
+  url: http://www.last.fm/tag/angular%20momentum
+  count: "2"
+- name: rocky plus
+  url: http://www.last.fm/tag/rocky%20plus
+  count: "2"
+- name: mixt
+  url: http://www.last.fm/tag/mixt
+  count: "2"
+- name: New Zealand jingle jangle
+  url: http://www.last.fm/tag/new%20zealand%20jingle%20jangle
+  count: "2"
+- name: yes yes yes
+  url: http://www.last.fm/tag/yes%20yes%20yes
+  count: "2"
+- name: laid-back/mellow
+  url: http://www.last.fm/tag/laid-back%252Fmellow
+  count: "2"
+- name: Jared should listen to this more later
+  url: http://www.last.fm/tag/jared%20should%20listen%20to%20this%20more%20later
+  count: "2"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "2"
+- name: music to chase squirrels by
+  url: http://www.last.fm/tag/music%20to%20chase%20squirrels%20by
+  count: "2"
+- name: homestead
+  url: http://www.last.fm/tag/homestead
+  count: "2"
+- name: flying nuns and their antipodean chums
+  url: http://www.last.fm/tag/flying%20nuns%20and%20their%20antipodean%20chums
+  count: "2"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "2"
+- name: Sam Loves Music
+  url: http://www.last.fm/tag/sam%20loves%20music
+  count: "2"
+- name: ylkkis
+  url: http://www.last.fm/tag/ylkkis
+  count: "2"
+- name: flying nun records
+  url: http://www.last.fm/tag/flying%20nun%20records
+  count: "2"
+- name: prog-epic
+  url: http://www.last.fm/tag/prog-epic
+  count: "2"
+- name: Rambunctious
+  url: http://www.last.fm/tag/rambunctious
+  count: "2"
+- name: jangle pop
+  url: http://www.last.fm/tag/jangle%20pop
+  count: "2"
+- name: British Punk
+  url: http://www.last.fm/tag/british%20punk
+  count: "2"
+- name: manic
+  url: http://www.last.fm/tag/manic
+  count: "2"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "2"
+- name: One
+  url: http://www.last.fm/tag/one
+  count: "2"
+- name: underrated
+  url: http://www.last.fm/tag/underrated
+  count: "2"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "2"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "2"
+- name: Favorite Bands
+  url: http://www.last.fm/tag/favorite%20bands
+  count: "2"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "2"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "2"
+- name: witty
+  url: http://www.last.fm/tag/witty
+  count: "2"
+- name: nocturnal
+  url: http://www.last.fm/tag/nocturnal
+  count: "2"
+- name: prog
+  url: http://www.last.fm/tag/prog
+  count: "2"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "2"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "2"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "2"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "2"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "2"
+- name: Rough Trade
+  url: http://www.last.fm/tag/rough%20trade
+  count: "2"
+- name: sometimes
+  url: http://www.last.fm/tag/sometimes
+  count: "2"
+- name: amiable/good-natured
+  url: http://www.last.fm/tag/amiable%252Fgood-natured
+  count: "2"
+"@attr": 
+  artist: The Clean

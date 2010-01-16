@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "91"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "76"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "63"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "34"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "17"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "13"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "7"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "7"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "6"
+- name: ambient noise
+  url: http://www.last.fm/tag/ambient%20noise
+  count: "5"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "5"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "3"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "3"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "2"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: tribal
+  url: http://www.last.fm/tag/tribal
+  count: "1"
+- name: minimalism
+  url: http://www.last.fm/tag/minimalism
+  count: "1"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "1"
+- name: experimental electronica
+  url: http://www.last.fm/tag/experimental%20electronica
+  count: "1"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "1"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "1"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: fuck buttons
+  url: http://www.last.fm/tag/fuck%20buttons
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "0"
+- name: noise drone
+  url: http://www.last.fm/tag/noise%20drone
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "0"
+- name: harsh noise
+  url: http://www.last.fm/tag/harsh%20noise
+  count: "0"
+- name: scary
+  url: http://www.last.fm/tag/scary
+  count: "0"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "0"
+- name: hipster noise
+  url: http://www.last.fm/tag/hipster%20noise
+  count: "0"
+- name: post noize
+  url: http://www.last.fm/tag/post%20noize
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: indie psych
+  url: http://www.last.fm/tag/indie%20psych
+  count: "0"
+- name: Distorted
+  url: http://www.last.fm/tag/distorted
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: drugs
+  url: http://www.last.fm/tag/drugs
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: lowlands2008
+  url: http://www.last.fm/tag/lowlands2008
+  count: "0"
+- name: hipster
+  url: http://www.last.fm/tag/hipster
+  count: "0"
+- name: minimal techno
+  url: http://www.last.fm/tag/minimal%20techno
+  count: "0"
+- name: Rhythmic Noise
+  url: http://www.last.fm/tag/rhythmic%20noise
+  count: "0"
+- name: indie noise
+  url: http://www.last.fm/tag/indie%20noise
+  count: "0"
+- name: summer sundae 2008
+  url: http://www.last.fm/tag/summer%20sundae%202008
+  count: "0"
+- name: duo
+  url: http://www.last.fm/tag/duo
+  count: "0"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "0"
+- name: drone-noise
+  url: http://www.last.fm/tag/drone-noise
+  count: "0"
+- name: you noise ay scream as the wounds fester in the newsun
+  url: http://www.last.fm/tag/you%20noise%20ay%20scream%20as%20the%20wounds%20fester%20in%20the%20newsun
+  count: "0"
+- name: Elettronica
+  url: http://www.last.fm/tag/elettronica
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "0"
+- name: to check
+  url: http://www.last.fm/tag/to%20check
+  count: "0"
+- name: f
+  url: http://www.last.fm/tag/f
+  count: "0"
+- name: study
+  url: http://www.last.fm/tag/study
+  count: "0"
+- name: Electronic Noise
+  url: http://www.last.fm/tag/electronic%20noise
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: not noise
+  url: http://www.last.fm/tag/not%20noise
+  count: "0"
+- name: seen live 2 times
+  url: http://www.last.fm/tag/seen%20live%202%20times
+  count: "0"
+- name: a-m-a-z-i-n-g
+  url: http://www.last.fm/tag/a-m-a-z-i-n-g
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: cum
+  url: http://www.last.fm/tag/cum
+  count: "0"
+- name: moreelctrothananything
+  url: http://www.last.fm/tag/moreelctrothananything
+  count: "0"
+- name: nu rave
+  url: http://www.last.fm/tag/nu%20rave
+  count: "0"
+- name: govno
+  url: http://www.last.fm/tag/govno
+  count: "0"
+- name: so gail
+  url: http://www.last.fm/tag/so%20gail
+  count: "0"
+- name: postminimalism
+  url: http://www.last.fm/tag/postminimalism
+  count: "0"
+- name: Experimental Sound
+  url: http://www.last.fm/tag/experimental%20sound
+  count: "0"
+- name: bands with awesome names
+  url: http://www.last.fm/tag/bands%20with%20awesome%20names
+  count: "0"
+- name: i dont throw parties but if i did
+  url: http://www.last.fm/tag/i%20dont%20throw%20parties%20but%20if%20i%20did
+  count: "0"
+- name: watched live
+  url: http://www.last.fm/tag/watched%20live
+  count: "0"
+- name: hab ich schon live gesehen
+  url: http://www.last.fm/tag/hab%20ich%20schon%20live%20gesehen
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: slooooow
+  url: http://www.last.fm/tag/slooooow
+  count: "0"
+- name: needs listening postrock
+  url: http://www.last.fm/tag/needs%20listening%20postrock
+  count: "0"
+- name: atp vs pitchfork
+  url: http://www.last.fm/tag/atp%20vs%20pitchfork
+  count: "0"
+- name: dbrittish
+  url: http://www.last.fm/tag/dbrittish
+  count: "0"
+- name: BrightTomorrow
+  url: http://www.last.fm/tag/brighttomorrow
+  count: "0"
+- name: primavera sound 2008
+  url: http://www.last.fm/tag/primavera%20sound%202008
+  count: "0"
+- name: vu live en 2008
+  url: http://www.last.fm/tag/vu%20live%20en%202008
+  count: "0"
+- name: lookintolater
+  url: http://www.last.fm/tag/lookintolater
+  count: "0"
+- name: buddamat
+  url: http://www.last.fm/tag/buddamat
+  count: "0"
+"@attr": 
+  artist: Fuck Buttons

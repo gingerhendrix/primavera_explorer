@@ -1,0 +1,102 @@
+--- 
+name: Cold Cave
+stats: 
+  playcount: "346892"
+  listeners: "15610"
+tags: 
+  tag: 
+  - name: electronic
+    url: http://www.last.fm/tag/electronic
+  - name: cold wave
+    url: http://www.last.fm/tag/cold%20wave
+  - name: no wave
+    url: http://www.last.fm/tag/no%20wave
+  - name: experimental
+    url: http://www.last.fm/tag/experimental
+  - name: darkwave
+    url: http://www.last.fm/tag/darkwave
+similar: 
+  artist: 
+  - name: Former Ghosts
+    url: http://www.last.fm/music/Former+Ghosts
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/36402033.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/36402033.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/36402033.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/36402033.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/36402033/Former+Ghosts+jamie++freddy.jpg
+  - name: Oneohtrix Point Never
+    url: http://www.last.fm/music/Oneohtrix+Point+Never
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/31410475.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/31410475.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/31410475.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/31410475.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/31410475/Oneohtrix+Point+Never+opn1.jpg
+  - name: TV Ghost
+    url: http://www.last.fm/music/TV+Ghost
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/13486041.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/13486041.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/13486041.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/13486041.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/13486041/TV+Ghost+tvghost.jpg
+  - name: HEALTH
+    url: http://www.last.fm/music/HEALTH
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/11148725.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/11148725.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/11148725.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/11148725.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/11148725/HEALTH+664.jpg
+  - name: Neon Indian
+    url: http://www.last.fm/music/Neon+Indian
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/37779745.png
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/37779745.png
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/37779745.png
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/37779745.png
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/37779745/Neon+Indian+neon.png
+url: http://www.last.fm/music/Cold+Cave
+mbid: ""
+bio: 
+  published: Fri, 9 Oct 2009 19:32:39 +0000
+  summary: Cold Cave is an electronic music project led by its sole member Wesley Eisold (formerly of Some Girls, American Nightmare/Give Up the Ghost, and XO Skeletons).
+  content: Cold Cave is an electronic music project led by its sole member Wesley Eisold (formerly of Some Girls, American Nightmare/Give Up the Ghost, and XO Skeletons).
+streamable: "0"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/35330367.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/35330367.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/35330367.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/35330367.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/_/35330367/Cold+Cave+coldcavelive.jpg

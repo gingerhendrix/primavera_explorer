@@ -1,0 +1,214 @@
+--- 
+tag: 
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "68"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "28"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "22"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "20"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "17"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "17"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "14"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "11"
+- name: electro post rock
+  url: http://www.last.fm/tag/electro%20post%20rock
+  count: "11"
+- name: ui
+  url: http://www.last.fm/tag/ui
+  count: "8"
+- name: southern records
+  url: http://www.last.fm/tag/southern%20records
+  count: "8"
+- name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+  count: "8"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "8"
+- name: mathematical
+  url: http://www.last.fm/tag/mathematical
+  count: "5"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "5"
+- name: to listen to
+  url: http://www.last.fm/tag/to%20listen%20to
+  count: "5"
+- name: Chez Jez
+  url: http://www.last.fm/tag/chez%20jez
+  count: "5"
+- name: Funk Rock
+  url: http://www.last.fm/tag/funk%20rock
+  count: "5"
+- name: Hear
+  url: http://www.last.fm/tag/hear
+  count: "5"
+- name: No Words Necessary
+  url: http://www.last.fm/tag/no%20words%20necessary
+  count: "5"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "5"
+- name: non the artists
+  url: http://www.last.fm/tag/non%20the%20artists
+  count: "5"
+- name: Experimental post-rock
+  url: http://www.last.fm/tag/experimental%20post-rock
+  count: "5"
+- name: myStuff
+  url: http://www.last.fm/tag/mystuff
+  count: "5"
+- name: guitar music
+  url: http://www.last.fm/tag/guitar%20music
+  count: "5"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "5"
+- name: weirdo noise
+  url: http://www.last.fm/tag/weirdo%20noise
+  count: "5"
+- name: gitarli mitarli
+  url: http://www.last.fm/tag/gitarli%20mitarli
+  count: "2"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "2"
+- name: A ecouter
+  url: http://www.last.fm/tag/a%20ecouter
+  count: "2"
+- name: Jazz favorites
+  url: http://www.last.fm/tag/jazz%20favorites
+  count: "2"
+- name: experimental post rock
+  url: http://www.last.fm/tag/experimental%20post%20rock
+  count: "2"
+- name: winter pix
+  url: http://www.last.fm/tag/winter%20pix
+  count: "2"
+- name: hernya
+  url: http://www.last.fm/tag/hernya
+  count: "2"
+- name: s y s l o v o
+  url: http://www.last.fm/tag/s%20y%20s%20l%20o%20v%20o
+  count: "2"
+- name: NJOK
+  url: http://www.last.fm/tag/njok
+  count: "2"
+- name: wprb
+  url: http://www.last.fm/tag/wprb
+  count: "2"
+- name: funky post-rock
+  url: http://www.last.fm/tag/funky%20post-rock
+  count: "2"
+- name: robertitus global
+  url: http://www.last.fm/tag/robertitus%20global
+  count: "2"
+- name: rhff
+  url: http://www.last.fm/tag/rhff
+  count: "2"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "2"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "2"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "2"
+- name: radiohead
+  url: http://www.last.fm/tag/radiohead
+  count: "2"
+- name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+  count: "2"
+- name: dnb
+  url: http://www.last.fm/tag/dnb
+  count: "2"
+- name: Kraut Rock
+  url: http://www.last.fm/tag/kraut%20rock
+  count: "2"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "2"
+- name: belle and sebastian
+  url: http://www.last.fm/tag/belle%20and%20sebastian
+  count: "2"
+- name: us
+  url: http://www.last.fm/tag/us
+  count: "2"
+- name: instrumental post rock
+  url: http://www.last.fm/tag/instrumental%20post%20rock
+  count: "2"
+- name: instrumental post-rock
+  url: http://www.last.fm/tag/instrumental%20post-rock
+  count: "2"
+- name: Leftfield
+  url: http://www.last.fm/tag/leftfield
+  count: "2"
+- name: Only the best
+  url: http://www.last.fm/tag/only%20the%20best
+  count: "2"
+- name: autechre
+  url: http://www.last.fm/tag/autechre
+  count: "2"
+- name: wow
+  url: http://www.last.fm/tag/wow
+  count: "2"
+- name: post-rock/experimental
+  url: http://www.last.fm/tag/post-rock%252Fexperimental
+  count: "2"
+- name: try
+  url: http://www.last.fm/tag/try
+  count: "2"
+- name: electro rock
+  url: http://www.last.fm/tag/electro%20rock
+  count: "2"
+- name: tight
+  url: http://www.last.fm/tag/tight
+  count: "2"
+- name: paved Wiener
+  url: http://www.last.fm/tag/paved%20wiener
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: "1"
+  url: http://www.last.fm/tag/1
+  count: "0"
+- name: indirilecek
+  url: http://www.last.fm/tag/indirilecek
+  count: "0"
+- name: un
+  url: http://www.last.fm/tag/un
+  count: "0"
+- name: "musical research center: artists that i should listen to"
+  url: http://www.last.fm/tag/musical%20research%20center%3A%20artists%20that%20i%20should%20listen%20to
+  count: "0"
+- name: -next
+  url: http://www.last.fm/tag/-next
+  count: "0"
+"@attr": 
+  artist: UI

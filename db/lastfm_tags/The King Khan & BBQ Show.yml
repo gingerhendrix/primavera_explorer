@@ -1,0 +1,235 @@
+--- 
+tag: 
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "100"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "50"
+- name: trash blues
+  url: http://www.last.fm/tag/trash%20blues
+  count: "38"
+- name: Montreal garage
+  url: http://www.last.fm/tag/montreal%20garage
+  count: "23"
+- name: sleazerock
+  url: http://www.last.fm/tag/sleazerock
+  count: "20"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "8"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "8"
+- name: quebec
+  url: http://www.last.fm/tag/quebec
+  count: "5"
+- name: in the red records
+  url: http://www.last.fm/tag/in%20the%20red%20records
+  count: "5"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "5"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "5"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "5"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "5"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "5"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: rock heavy
+  url: http://www.last.fm/tag/rock%20heavy
+  count: "2"
+- name: punk blues
+  url: http://www.last.fm/tag/punk%20blues
+  count: "2"
+- name: Horror Surf
+  url: http://www.last.fm/tag/horror%20surf
+  count: "2"
+- name: mark sultan
+  url: http://www.last.fm/tag/mark%20sultan
+  count: "2"
+- name: hospital bombs
+  url: http://www.last.fm/tag/hospital%20bombs
+  count: "2"
+- name: power duo
+  url: http://www.last.fm/tag/power%20duo
+  count: "2"
+- name: Quebec sound
+  url: http://www.last.fm/tag/quebec%20sound
+  count: "2"
+- name: Hazelwood
+  url: http://www.last.fm/tag/hazelwood
+  count: "2"
+- name: gang punk
+  url: http://www.last.fm/tag/gang%20punk
+  count: "2"
+- name: garage revival
+  url: http://www.last.fm/tag/garage%20revival
+  count: "2"
+- name: sleazy freak
+  url: http://www.last.fm/tag/sleazy%20freak
+  count: "2"
+- name: king khan
+  url: http://www.last.fm/tag/king%20khan
+  count: "2"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "2"
+- name: sleazy music to make poser punk faces to while singing along
+  url: http://www.last.fm/tag/sleazy%20music%20to%20make%20poser%20punk%20faces%20to%20while%20singing%20along
+  count: "2"
+- name: bong loaders
+  url: http://www.last.fm/tag/bong%20loaders
+  count: "2"
+- name: maybe classic
+  url: http://www.last.fm/tag/maybe%20classic
+  count: "2"
+- name: damaged pop
+  url: http://www.last.fm/tag/damaged%20pop
+  count: "2"
+- name: mannequin men are at the altar
+  url: http://www.last.fm/tag/mannequin%20men%20are%20at%20the%20altar
+  count: "2"
+- name: rad-o-rama
+  url: http://www.last.fm/tag/rad-o-rama
+  count: "2"
+- name: lucky sleaze
+  url: http://www.last.fm/tag/lucky%20sleaze
+  count: "2"
+- name: king kahn and bbq show
+  url: http://www.last.fm/tag/king%20kahn%20and%20bbq%20show
+  count: "2"
+- name: base hit
+  url: http://www.last.fm/tag/base%20hit
+  count: "2"
+- name: woweewowow
+  url: http://www.last.fm/tag/woweewowow
+  count: "2"
+- name: viva lux
+  url: http://www.last.fm/tag/viva%20lux
+  count: "2"
+- name: trashy trash trash
+  url: http://www.last.fm/tag/trashy%20trash%20trash
+  count: "2"
+- name: Rock 'n' Roll
+  url: http://www.last.fm/tag/rock%20%27n%27%20roll
+  count: "2"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "2"
+- name: trashy blues-rock-boogie
+  url: http://www.last.fm/tag/trashy%20blues-rock-boogie
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: Trash
+  url: http://www.last.fm/tag/trash
+  count: "2"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "2"
+- name: Shit Hot
+  url: http://www.last.fm/tag/shit%20hot
+  count: "2"
+- name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+  count: "2"
+- name: fav
+  url: http://www.last.fm/tag/fav
+  count: "2"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "2"
+- name: Retro
+  url: http://www.last.fm/tag/retro
+  count: "2"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "2"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "2"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "2"
+- name: sleaze
+  url: http://www.last.fm/tag/sleaze
+  count: "2"
+- name: doo wop
+  url: http://www.last.fm/tag/doo%20wop
+  count: "2"
+- name: album i own
+  url: http://www.last.fm/tag/album%20i%20own
+  count: "2"
+- name: rocknroll
+  url: http://www.last.fm/tag/rocknroll
+  count: "2"
+- name: todays real rock and roll
+  url: http://www.last.fm/tag/todays%20real%20rock%20and%20roll
+  count: "2"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "2"
+- name: garage rock n roll
+  url: http://www.last.fm/tag/garage%20rock%20n%20roll
+  count: "2"
+- name: garage blues
+  url: http://www.last.fm/tag/garage%20blues
+  count: "2"
+- name: Rock-ish
+  url: http://www.last.fm/tag/rock-ish
+  count: "2"
+- name: psychedelic punk
+  url: http://www.last.fm/tag/psychedelic%20punk
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: saw them live
+  url: http://www.last.fm/tag/saw%20them%20live
+  count: "0"
+- name: primavera sound 2010
+  url: http://www.last.fm/tag/primavera%20sound%202010
+  count: "0"
+- name: encountered
+  url: http://www.last.fm/tag/encountered
+  count: "0"
+- name: BBQ edmonton
+  url: http://www.last.fm/tag/bbq%20edmonton
+  count: "0"
+- name: OBF09
+  url: http://www.last.fm/tag/obf09
+  count: "0"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "0"
+- name: funfunfun2009
+  url: http://www.last.fm/tag/funfunfun2009
+  count: "0"
+- name: vonderful
+  url: http://www.last.fm/tag/vonderful
+  count: "0"
+- name: look into
+  url: http://www.last.fm/tag/look%20into
+  count: "0"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "0"
+- name: Dotty seen live
+  url: http://www.last.fm/tag/dotty%20seen%20live
+  count: "0"
+- name: me dance me build fort
+  url: http://www.last.fm/tag/me%20dance%20me%20build%20fort
+  count: "0"
+"@attr": 
+  artist: The King Khan & BBQ Show

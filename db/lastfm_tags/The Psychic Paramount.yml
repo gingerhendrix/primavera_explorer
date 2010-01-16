@@ -1,0 +1,229 @@
+--- 
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "92"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "80"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "64"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "48"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "28"
+- name: Neo-psychedelic freakout
+  url: http://www.last.fm/tag/neo-psychedelic%20freakout
+  count: "16"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "12"
+- name: colors of noise
+  url: http://www.last.fm/tag/colors%20of%20noise
+  count: "12"
+- name: avant prog
+  url: http://www.last.fm/tag/avant%20prog
+  count: "12"
+- name: heavy psych
+  url: http://www.last.fm/tag/heavy%20psych
+  count: "8"
+- name: Acid Rock
+  url: http://www.last.fm/tag/acid%20rock
+  count: "8"
+- name: stormy
+  url: http://www.last.fm/tag/stormy
+  count: "8"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "8"
+- name: bands and artists seen live
+  url: http://www.last.fm/tag/bands%20and%20artists%20seen%20live
+  count: "8"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "8"
+- name: cavernous
+  url: http://www.last.fm/tag/cavernous
+  count: "4"
+- name: maximal
+  url: http://www.last.fm/tag/maximal
+  count: "4"
+- name: space noise
+  url: http://www.last.fm/tag/space%20noise
+  count: "4"
+- name: disasterous creative
+  url: http://www.last.fm/tag/disasterous%20creative
+  count: "4"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "4"
+- name: expressive bombers
+  url: http://www.last.fm/tag/expressive%20bombers
+  count: "4"
+- name: psychedelic avantgarde
+  url: http://www.last.fm/tag/psychedelic%20avantgarde
+  count: "4"
+- name: mid-fi
+  url: http://www.last.fm/tag/mid-fi
+  count: "4"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "4"
+- name: estan loquitos estos romanos
+  url: http://www.last.fm/tag/estan%20loquitos%20estos%20romanos
+  count: "4"
+- name: Better Windshield Radio
+  url: http://www.last.fm/tag/better%20windshield%20radio
+  count: "4"
+- name: from here to eternity
+  url: http://www.last.fm/tag/from%20here%20to%20eternity
+  count: "4"
+- name: lyttil
+  url: http://www.last.fm/tag/lyttil
+  count: "4"
+- name: j08
+  url: http://www.last.fm/tag/j08
+  count: "4"
+- name: ferraille
+  url: http://www.last.fm/tag/ferraille
+  count: "4"
+- name: this band should be huge
+  url: http://www.last.fm/tag/this%20band%20should%20be%20huge
+  count: "4"
+- name: will zu sehen
+  url: http://www.last.fm/tag/will%20zu%20sehen
+  count: "4"
+- name: process-oriented
+  url: http://www.last.fm/tag/process-oriented
+  count: "4"
+- name: stereoactive
+  url: http://www.last.fm/tag/stereoactive
+  count: "4"
+- name: studio-as-instrument
+  url: http://www.last.fm/tag/studio-as-instrument
+  count: "4"
+- name: Krautrock-inspired
+  url: http://www.last.fm/tag/krautrock-inspired
+  count: "4"
+- name: zashibis
+  url: http://www.last.fm/tag/zashibis
+  count: "4"
+- name: hevy psych
+  url: http://www.last.fm/tag/hevy%20psych
+  count: "4"
+- name: Progressive
+  url: http://www.last.fm/tag/progressive
+  count: "4"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: creative
+  url: http://www.last.fm/tag/creative
+  count: "4"
+- name: complex
+  url: http://www.last.fm/tag/complex
+  count: "4"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "4"
+- name: Favorite Bands
+  url: http://www.last.fm/tag/favorite%20bands
+  count: "4"
+- name: Jam
+  url: http://www.last.fm/tag/jam
+  count: "4"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: postmodern
+  url: http://www.last.fm/tag/postmodern
+  count: "4"
+- name: post
+  url: http://www.last.fm/tag/post
+  count: "4"
+- name: Druggy
+  url: http://www.last.fm/tag/druggy
+  count: "4"
+- name: tribal
+  url: http://www.last.fm/tag/tribal
+  count: "4"
+- name: free rock
+  url: http://www.last.fm/tag/free%20rock
+  count: "4"
+- name: delay
+  url: http://www.last.fm/tag/delay
+  count: "4"
+- name: restless
+  url: http://www.last.fm/tag/restless
+  count: "4"
+- name: pure awesomeness
+  url: http://www.last.fm/tag/pure%20awesomeness
+  count: "4"
+- name: Analog
+  url: http://www.last.fm/tag/analog
+  count: "4"
+- name: New Love
+  url: http://www.last.fm/tag/new%20love
+  count: "4"
+- name: psych rock
+  url: http://www.last.fm/tag/psych%20rock
+  count: "4"
+- name: Fearless
+  url: http://www.last.fm/tag/fearless
+  count: "4"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: stuff to check out
+  url: http://www.last.fm/tag/stuff%20to%20check%20out
+  count: "0"
+- name: Que
+  url: http://www.last.fm/tag/que
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: art of its own
+  url: http://www.last.fm/tag/art%20of%20its%20own
+  count: "0"
+- name: want to hear
+  url: http://www.last.fm/tag/want%20to%20hear
+  count: "0"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "0"
+- name: Nota bene
+  url: http://www.last.fm/tag/nota%20bene
+  count: "0"
+- name: unappreciated
+  url: http://www.last.fm/tag/unappreciated
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: PostEverything
+  url: http://www.last.fm/tag/posteverything
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+"@attr": 
+  artist: The Psychic Paramount

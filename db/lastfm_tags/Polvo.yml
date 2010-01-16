@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "54"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "36"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "33"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "28"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "14"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "14"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "12"
+- name: chapel hill
+  url: http://www.last.fm/tag/chapel%20hill
+  count: "10"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "10"
+- name: North Carolina
+  url: http://www.last.fm/tag/north%20carolina
+  count: "7"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "6"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "4"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: Merge
+  url: http://www.last.fm/tag/merge
+  count: "3"
+- name: math
+  url: http://www.last.fm/tag/math
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: touch and go
+  url: http://www.last.fm/tag/touch%20and%20go
+  count: "2"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "2"
+- name: Math-rock
+  url: http://www.last.fm/tag/math-rock
+  count: "2"
+- name: proto-punk
+  url: http://www.last.fm/tag/proto-punk
+  count: "2"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: Merge Records
+  url: http://www.last.fm/tag/merge%20records
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "1"
+- name: Explosions ATP
+  url: http://www.last.fm/tag/explosions%20atp
+  count: "1"
+- name: guitar-driven
+  url: http://www.last.fm/tag/guitar-driven
+  count: "1"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: outofmind
+  url: http://www.last.fm/tag/outofmind
+  count: "1"
+- name: NC
+  url: http://www.last.fm/tag/nc
+  count: "1"
+- name: overly clever 90s
+  url: http://www.last.fm/tag/overly%20clever%2090s
+  count: "1"
+- name: america
+  url: http://www.last.fm/tag/america
+  count: "1"
+- name: absurd and obscure tunings
+  url: http://www.last.fm/tag/absurd%20and%20obscure%20tunings
+  count: "1"
+- name: kicked shit amp madness
+  url: http://www.last.fm/tag/kicked%20shit%20amp%20madness
+  count: "1"
+- name: polvo
+  url: http://www.last.fm/tag/polvo
+  count: "1"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: ATP Explosions
+  url: http://www.last.fm/tag/atp%20explosions
+  count: "1"
+- name: my favorite people
+  url: http://www.last.fm/tag/my%20favorite%20people
+  count: "0"
+- name: toetensen
+  url: http://www.last.fm/tag/toetensen
+  count: "0"
+- name: "rock: math"
+  url: http://www.last.fm/tag/rock%3A%20math
+  count: "0"
+- name: nuevos
+  url: http://www.last.fm/tag/nuevos
+  count: "0"
+- name: tu-daunloud-list
+  url: http://www.last.fm/tag/tu-daunloud-list
+  count: "0"
+- name: o lecker tags
+  url: http://www.last.fm/tag/o%20lecker%20tags
+  count: "0"
+- name: The List
+  url: http://www.last.fm/tag/the%20list
+  count: "0"
+- name: alltomorrowsparties
+  url: http://www.last.fm/tag/alltomorrowsparties
+  count: "0"
+- name: music to chase squirrels by
+  url: http://www.last.fm/tag/music%20to%20chase%20squirrels%20by
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: SAGO
+  url: http://www.last.fm/tag/sago
+  count: "0"
+- name: liked a bit more 10 years ago
+  url: http://www.last.fm/tag/liked%20a%20bit%20more%2010%20years%20ago
+  count: "0"
+- name: nice 2 meet you
+  url: http://www.last.fm/tag/nice%202%20meet%20you
+  count: "0"
+- name: doido
+  url: http://www.last.fm/tag/doido
+  count: "0"
+- name: north carolina math rock
+  url: http://www.last.fm/tag/north%20carolina%20math%20rock
+  count: "0"
+- name: sadguitarmusic
+  url: http://www.last.fm/tag/sadguitarmusic
+  count: "0"
+- name: myStuff
+  url: http://www.last.fm/tag/mystuff
+  count: "0"
+- name: Falls Somewhere Within The Rock Genre
+  url: http://www.last.fm/tag/falls%20somewhere%20within%20the%20rock%20genre
+  count: "0"
+- name: to discover
+  url: http://www.last.fm/tag/to%20discover
+  count: "0"
+- name: this is it
+  url: http://www.last.fm/tag/this%20is%20it
+  count: "0"
+- name: to explore
+  url: http://www.last.fm/tag/to%20explore
+  count: "0"
+- name: Magill
+  url: http://www.last.fm/tag/magill
+  count: "0"
+- name: song writting
+  url: http://www.last.fm/tag/song%20writting
+  count: "0"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "0"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "0"
+- name: mark prindle approves
+  url: http://www.last.fm/tag/mark%20prindle%20approves
+  count: "0"
+- name: sapient
+  url: http://www.last.fm/tag/sapient
+  count: "0"
+- name: rahrahrah
+  url: http://www.last.fm/tag/rahrahrah
+  count: "0"
+- name: do sprawdzenia
+  url: http://www.last.fm/tag/do%20sprawdzenia
+  count: "0"
+- name: Live in NC
+  url: http://www.last.fm/tag/live%20in%20nc
+  count: "0"
+- name: north cakalacky
+  url: http://www.last.fm/tag/north%20cakalacky
+  count: "0"
+- name: ryan radio
+  url: http://www.last.fm/tag/ryan%20radio
+  count: "0"
+- name: bilo
+  url: http://www.last.fm/tag/bilo
+  count: "0"
+- name: atprr
+  url: http://www.last.fm/tag/atprr
+  count: "0"
+- name: gezellige gitaar-pop
+  url: http://www.last.fm/tag/gezellige%20gitaar-pop
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: indie stew
+  url: http://www.last.fm/tag/indie%20stew
+  count: "0"
+- name: timeless faves
+  url: http://www.last.fm/tag/timeless%20faves
+  count: "0"
+- name: Try More
+  url: http://www.last.fm/tag/try%20more
+  count: "0"
+- name: najbolje
+  url: http://www.last.fm/tag/najbolje
+  count: "0"
+- name: new world fair
+  url: http://www.last.fm/tag/new%20world%20fair
+  count: "0"
+- name: vu live en 2008
+  url: http://www.last.fm/tag/vu%20live%20en%202008
+  count: "0"
+- name: protuotrov za gitarske geekove
+  url: http://www.last.fm/tag/protuotrov%20za%20gitarske%20geekove
+  count: "0"
+- name: inne liszaj radio
+  url: http://www.last.fm/tag/inne%20liszaj%20radio
+  count: "0"
+- name: angry young man music
+  url: http://www.last.fm/tag/angry%20young%20man%20music
+  count: "0"
+- name: til minnis
+  url: http://www.last.fm/tag/til%20minnis
+  count: "0"
+- name: when we were younger and our hair was shorter
+  url: http://www.last.fm/tag/when%20we%20were%20younger%20and%20our%20hair%20was%20shorter
+  count: "0"
+- name: Bands I Wish I Had Seen Live
+  url: http://www.last.fm/tag/bands%20i%20wish%20i%20had%20seen%20live
+  count: "0"
+- name: when we were older and our hair was longer
+  url: http://www.last.fm/tag/when%20we%20were%20older%20and%20our%20hair%20was%20longer
+  count: "0"
+- name: Old School Stew
+  url: http://www.last.fm/tag/old%20school%20stew
+  count: "0"
+- name: My Math Rock
+  url: http://www.last.fm/tag/my%20math%20rock
+  count: "0"
+- name: lons
+  url: http://www.last.fm/tag/lons
+  count: "0"
+- name: oh man soooooo avant-garde
+  url: http://www.last.fm/tag/oh%20man%20soooooo%20avant-garde
+  count: "0"
+"@attr": 
+  artist: Polvo

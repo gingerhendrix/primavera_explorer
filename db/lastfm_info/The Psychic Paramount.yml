@@ -1,0 +1,102 @@
+--- 
+name: The Psychic Paramount
+stats: 
+  playcount: "40687"
+  listeners: "4022"
+tags: 
+  tag: 
+  - name: experimental
+    url: http://www.last.fm/tag/experimental
+  - name: psychedelic
+    url: http://www.last.fm/tag/psychedelic
+  - name: noise rock
+    url: http://www.last.fm/tag/noise%20rock
+  - name: noise
+    url: http://www.last.fm/tag/noise
+  - name: post-rock
+    url: http://www.last.fm/tag/post-rock
+similar: 
+  artist: 
+  - name: Laddio Bolocko
+    url: http://www.last.fm/music/Laddio+Bolocko
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/110225.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/110225.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/110225.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/110225.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/110225/Laddio+Bolocko.jpg
+  - name: High Rise
+    url: http://www.last.fm/music/High+Rise
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/405363.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/405363.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/405363.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/405363.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/405363/High+Rise.jpg
+  - name: Psychic Ills
+    url: http://www.last.fm/music/Psychic+Ills
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/393688.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/393688.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/393688.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/393688.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/393688/Psychic+Ills.jpg
+  - name: Religious Knives
+    url: http://www.last.fm/music/Religious+Knives
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/26211059.png
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/26211059.png
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/26211059.png
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/26211059.png
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/26211059/Religious+Knives+3.png
+  - name: Raccoo-oo-oon
+    url: http://www.last.fm/music/Raccoo-oo-oon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/2127243.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/2127243.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/2127243.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/2127243.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/2127243/Raccoooooon.jpg
+url: http://www.last.fm/music/The+Psychic+Paramount
+mbid: 5f9a7c33-f744-4749-beb1-4e8ed69edd37
+bio: 
+  published: Wed, 27 Jun 2007 01:57:55 +0000
+  summary: The Psychic Paramount are a trio from Brooklyn consisting of Drew St. Ivany (guitar), Ben Armstrong (bass) and Jeff Conaway (drums).
+  content: The Psychic Paramount are a trio from Brooklyn consisting of Drew St. Ivany (guitar), Ben Armstrong (bass) and Jeff Conaway (drums).
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/38008.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/38008.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/38008.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/38008.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/_/38008/The+Psychic+Paramount.jpg

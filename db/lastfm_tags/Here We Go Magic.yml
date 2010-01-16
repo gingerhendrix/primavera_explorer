@@ -1,0 +1,235 @@
+--- 
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "72"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "60"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "46"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "30"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "19"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "18"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "15"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "10"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "9"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "9"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "9"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "9"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "7"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "6"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "6"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "4"
+- name: roughtradetops
+  url: http://www.last.fm/tag/roughtradetops
+  count: "4"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "4"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "4"
+- name: electro-pepere
+  url: http://www.last.fm/tag/electro-pepere
+  count: "4"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "4"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "4"
+- name: ambient rock
+  url: http://www.last.fm/tag/ambient%20rock
+  count: "4"
+- name: avant-garde or experimental
+  url: http://www.last.fm/tag/avant-garde%20or%20experimental
+  count: "4"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "3"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: brooklyn shall rule
+  url: http://www.last.fm/tag/brooklyn%20shall%20rule
+  count: "3"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "3"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "3"
+- name: Indie - Us
+  url: http://www.last.fm/tag/indie%20-%20us
+  count: "1"
+- name: primavera sound 2010
+  url: http://www.last.fm/tag/primavera%20sound%202010
+  count: "1"
+- name: ttmd
+  url: http://www.last.fm/tag/ttmd
+  count: "1"
+- name: mesmerizing
+  url: http://www.last.fm/tag/mesmerizing
+  count: "1"
+- name: chillwave
+  url: http://www.last.fm/tag/chillwave
+  count: "1"
+- name: Electro Folk
+  url: http://www.last.fm/tag/electro%20folk
+  count: "1"
+- name: music to drown to
+  url: http://www.last.fm/tag/music%20to%20drown%20to
+  count: "1"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "1"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "1"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "1"
+- name: live tonight sold out
+  url: http://www.last.fm/tag/live%20tonight%20sold%20out
+  count: "1"
+- name: meerkat
+  url: http://www.last.fm/tag/meerkat
+  count: "1"
+- name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+  count: "1"
+- name: Acts Id love to know better but so far have been too lazy to give a real try
+  url: http://www.last.fm/tag/acts%20id%20love%20to%20know%20better%20but%20so%20far%20have%20been%20too%20lazy%20to%20give%20a%20real%20try
+  count: "1"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "1"
+- name: African Influences
+  url: http://www.last.fm/tag/african%20influences
+  count: "1"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "1"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "1"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "1"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "1"
+- name: sweetness
+  url: http://www.last.fm/tag/sweetness
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: new - look into
+  url: http://www.last.fm/tag/new%20-%20look%20into
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: here we go magic
+  url: http://www.last.fm/tag/here%20we%20go%20magic
+  count: "0"
+- name: brooklyn 00s
+  url: http://www.last.fm/tag/brooklyn%2000s
+  count: "0"
+- name: chce to
+  url: http://www.last.fm/tag/chce%20to
+  count: "0"
+- name: messyheads
+  url: http://www.last.fm/tag/messyheads
+  count: "0"
+- name: greenpoint
+  url: http://www.last.fm/tag/greenpoint
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: misc
+  url: http://www.last.fm/tag/misc
+  count: "0"
+- name: What I like
+  url: http://www.last.fm/tag/what%20i%20like
+  count: "0"
+- name: terrible
+  url: http://www.last.fm/tag/terrible
+  count: "0"
+- name: h
+  url: http://www.last.fm/tag/h
+  count: "0"
+"@attr": 
+  artist: Here We Go Magic

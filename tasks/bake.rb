@@ -12,10 +12,10 @@ namespace :bake do
 
   task :html do
     db = Database.new File.dirname(__FILE__) + '/../db'
-    Band.load_all(db)
-    @timetable = PrimaveraTimetable.new
-    @timetable.load_from_db(db)
-    @bands = @timetable.bands
+    @bands = Band.load_all(db)
+    #@timetable = PrimaveraTimetable.new
+    #@timetable.load_from_db(db)
+    #@bands = @timetable.bands
 
     template = File.read(File.dirname(__FILE__) + '/../views/explorer.haml')
 
@@ -26,10 +26,10 @@ namespace :bake do
   
   task :data_js do
     db = Database.new File.dirname(__FILE__) + '/../db'
-    Band.load_all(db)
-    @timetable = PrimaveraTimetable.new
-    @timetable.load_from_db(db)
-    @bands = @timetable.bands 
+    @bands = Band.load_all(db)
+    #@timetable = PrimaveraTimetable.new
+    #@timetable.load_from_db(db)
+    #@bands = @timetable.bands 
     
     File.open(File.dirname(__FILE__) + '/../public/bandsData.js', "w") { |io| 
       io.write("var bandsData = " + @bands.map(&:to_json).to_json + ";\n")

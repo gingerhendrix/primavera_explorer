@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "82"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "60"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "38"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "26"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "13"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "12"
+- name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+  count: "8"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "8"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "6"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "4"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "2"
+- name: drums
+  url: http://www.last.fm/tag/drums
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "2"
+- name: Lowlands 2009
+  url: http://www.last.fm/tag/lowlands%202009
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: Haldern2009
+  url: http://www.last.fm/tag/haldern2009
+  count: "1"
+- name: the smell
+  url: http://www.last.fm/tag/the%20smell
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "1"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "1"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: Artists I listen to when I feel minimalistic and naughty
+  url: http://www.last.fm/tag/artists%20i%20listen%20to%20when%20i%20feel%20minimalistic%20and%20naughty
+  count: "0"
+- name: Maybe Wave
+  url: http://www.last.fm/tag/maybe%20wave
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: post
+  url: http://www.last.fm/tag/post
+  count: "0"
+- name: no core
+  url: http://www.last.fm/tag/no%20core
+  count: "0"
+- name: Best American New Band Names from The Best American Nonrequired Reading 2008
+  url: http://www.last.fm/tag/best%20american%20new%20band%20names%20from%20the%20best%20american%20nonrequired%20reading%202008
+  count: "0"
+- name: noiserock
+  url: http://www.last.fm/tag/noiserock
+  count: "0"
+- name: fuck knows what
+  url: http://www.last.fm/tag/fuck%20knows%20what
+  count: "0"
+- name: hipster dance party
+  url: http://www.last.fm/tag/hipster%20dance%20party
+  count: "0"
+- name: look like noodles
+  url: http://www.last.fm/tag/look%20like%20noodles
+  count: "0"
+- name: nocore
+  url: http://www.last.fm/tag/nocore
+  count: "0"
+- name: buzzes like a fridge
+  url: http://www.last.fm/tag/buzzes%20like%20a%20fridge
+  count: "0"
+- name: new no wave
+  url: http://www.last.fm/tag/new%20no%20wave
+  count: "0"
+- name: prda
+  url: http://www.last.fm/tag/prda
+  count: "0"
+- name: seen live 2 times
+  url: http://www.last.fm/tag/seen%20live%202%20times
+  count: "0"
+- name: music to analyze the dancefloor
+  url: http://www.last.fm/tag/music%20to%20analyze%20the%20dancefloor
+  count: "0"
+- name: massive fucking drums
+  url: http://www.last.fm/tag/massive%20fucking%20drums
+  count: "0"
+- name: Space-Punk
+  url: http://www.last.fm/tag/space-punk
+  count: "0"
+- name: LA psychedelic
+  url: http://www.last.fm/tag/la%20psychedelic
+  count: "0"
+- name: noise explosion
+  url: http://www.last.fm/tag/noise%20explosion
+  count: "0"
+- name: Ritual
+  url: http://www.last.fm/tag/ritual
+  count: "0"
+- name: experimental noise rock
+  url: http://www.last.fm/tag/experimental%20noise%20rock
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: check later
+  url: http://www.last.fm/tag/check%20later
+  count: "0"
+- name: i wish i were in this band
+  url: http://www.last.fm/tag/i%20wish%20i%20were%20in%20this%20band
+  count: "0"
+- name: noisecore
+  url: http://www.last.fm/tag/noisecore
+  count: "0"
+- name: dockville 2009
+  url: http://www.last.fm/tag/dockville%202009
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: aeriform noise
+  url: http://www.last.fm/tag/aeriform%20noise
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: violett
+  url: http://www.last.fm/tag/violett
+  count: "0"
+- name: boring
+  url: http://www.last.fm/tag/boring
+  count: "0"
+- name: sounds like velociraptors
+  url: http://www.last.fm/tag/sounds%20like%20velociraptors
+  count: "0"
+- name: BAND I NEED TO CHECK
+  url: http://www.last.fm/tag/band%20i%20need%20to%20check
+  count: "0"
+- name: haldernpop 2009
+  url: http://www.last.fm/tag/haldernpop%202009
+  count: "0"
+- name: seen live - pukkelpop 2009
+  url: http://www.last.fm/tag/seen%20live%20-%20pukkelpop%202009
+  count: "0"
+- name: rock:loserdrugsdrumssex
+  url: http://www.last.fm/tag/rock%3Aloserdrugsdrumssex
+  count: "0"
+- name: top 5 live
+  url: http://www.last.fm/tag/top%205%20live
+  count: "0"
+- name: sxsw 2008
+  url: http://www.last.fm/tag/sxsw%202008
+  count: "0"
+- name: when I get a womb
+  url: http://www.last.fm/tag/when%20i%20get%20a%20womb
+  count: "0"
+- name: dobry rozperdol
+  url: http://www.last.fm/tag/dobry%20rozperdol
+  count: "0"
+- name: vu live en 2008
+  url: http://www.last.fm/tag/vu%20live%20en%202008
+  count: "0"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "0"
+- name: benjamin jared miller
+  url: http://www.last.fm/tag/benjamin%20jared%20miller
+  count: "0"
+- name: jake duzsik
+  url: http://www.last.fm/tag/jake%20duzsik
+  count: "0"
+- name: john famiglietti
+  url: http://www.last.fm/tag/john%20famiglietti
+  count: "0"
+- name: cerebral vasodilation
+  url: http://www.last.fm/tag/cerebral%20vasodilation
+  count: "0"
+- name: post no wave
+  url: http://www.last.fm/tag/post%20no%20wave
+  count: "0"
+- name: amazing concert
+  url: http://www.last.fm/tag/amazing%20concert
+  count: "0"
+- name: FunFunFunFest 09
+  url: http://www.last.fm/tag/funfunfunfest%2009
+  count: "0"
+- name: Crystal Castles
+  url: http://www.last.fm/tag/crystal%20castles
+  count: "0"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "0"
+- name: beobachten
+  url: http://www.last.fm/tag/beobachten
+  count: "0"
+- name: seen live again
+  url: http://www.last.fm/tag/seen%20live%20again
+  count: "0"
+- name: creepy teepee
+  url: http://www.last.fm/tag/creepy%20teepee
+  count: "0"
+- name: more albums
+  url: http://www.last.fm/tag/more%20albums
+  count: "0"
+- name: witnessed
+  url: http://www.last.fm/tag/witnessed
+  count: "0"
+- name: albums ive heard from 2007
+  url: http://www.last.fm/tag/albums%20ive%20heard%20from%202007
+  count: "0"
+- name: danceable noise
+  url: http://www.last.fm/tag/danceable%20noise
+  count: "0"
+- name: astral rock
+  url: http://www.last.fm/tag/astral%20rock
+  count: "0"
+- name: SXSW2007
+  url: http://www.last.fm/tag/sxsw2007
+  count: "0"
+- name: i will have sex to this
+  url: http://www.last.fm/tag/i%20will%20have%20sex%20to%20this
+  count: "0"
+- name: would like to see
+  url: http://www.last.fm/tag/would%20like%20to%20see
+  count: "0"
+- name: Not Nickelback
+  url: http://www.last.fm/tag/not%20nickelback
+  count: "0"
+- name: cityslang
+  url: http://www.last.fm/tag/cityslang
+  count: "0"
+- name: dockville
+  url: http://www.last.fm/tag/dockville
+  count: "0"
+"@attr": 
+  artist: HEALTH

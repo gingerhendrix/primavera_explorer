@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "71"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "52"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "43"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "37"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "23"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "21"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "18"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "17"
+- name: los angeles
+  url: http://www.last.fm/tag/los%20angeles
+  count: "11"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "8"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "5"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "5"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: the smell
+  url: http://www.last.fm/tag/the%20smell
+  count: "4"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "4"
+- name: shitgaze
+  url: http://www.last.fm/tag/shitgaze
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: LA
+  url: http://www.last.fm/tag/la
+  count: "2"
+- name: skate punk
+  url: http://www.last.fm/tag/skate%20punk
+  count: "2"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "2"
+- name: noise punk
+  url: http://www.last.fm/tag/noise%20punk
+  count: "2"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "2"
+- name: Punkgaze
+  url: http://www.last.fm/tag/punkgaze
+  count: "1"
+- name: upset the rhythm
+  url: http://www.last.fm/tag/upset%20the%20rhythm
+  count: "1"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "1"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "1"
+- name: Vegan
+  url: http://www.last.fm/tag/vegan
+  count: "1"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: ppm
+  url: http://www.last.fm/tag/ppm
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: sweet california
+  url: http://www.last.fm/tag/sweet%20california
+  count: "1"
+- name: duo
+  url: http://www.last.fm/tag/duo
+  count: "1"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "1"
+- name: lowlands 2008
+  url: http://www.last.fm/tag/lowlands%202008
+  count: "1"
+- name: No age
+  url: http://www.last.fm/tag/no%20age
+  count: "1"
+- name: skategaze
+  url: http://www.last.fm/tag/skategaze
+  count: "1"
+- name: LA Music Scene
+  url: http://www.last.fm/tag/la%20music%20scene
+  count: "1"
+- name: roskilde 2008
+  url: http://www.last.fm/tag/roskilde%202008
+  count: "1"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "1"
+- name: now wave
+  url: http://www.last.fm/tag/now%20wave
+  count: "1"
+- name: Dreampunk
+  url: http://www.last.fm/tag/dreampunk
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "0"
+- name: indie rock kurz vorm blinddarmdurchbruch
+  url: http://www.last.fm/tag/indie%20rock%20kurz%20vorm%20blinddarmdurchbruch
+  count: "0"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "0"
+- name: exciting
+  url: http://www.last.fm/tag/exciting
+  count: "0"
+- name: its JIU Jitsu not jew jitsu
+  url: http://www.last.fm/tag/its%20jiu%20jitsu%20not%20jew%20jitsu
+  count: "0"
+- name: newgaze
+  url: http://www.last.fm/tag/newgaze
+  count: "0"
+- name: readers-digest-trend
+  url: http://www.last.fm/tag/readers-digest-trend
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "0"
+- name: Nu-Bluz Funky Grooves in the E-Lounge
+  url: http://www.last.fm/tag/nu-bluz%20funky%20grooves%20in%20the%20e-lounge
+  count: "0"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "0"
+- name: atp vs pitchfork
+  url: http://www.last.fm/tag/atp%20vs%20pitchfork
+  count: "0"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "0"
+- name: diy
+  url: http://www.last.fm/tag/diy
+  count: "0"
+- name: nu-bluz
+  url: http://www.last.fm/tag/nu-bluz
+  count: "0"
+- name: Coachella 2009
+  url: http://www.last.fm/tag/coachella%202009
+  count: "0"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "0"
+- name: drone-punk
+  url: http://www.last.fm/tag/drone-punk
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: post-indie
+  url: http://www.last.fm/tag/post-indie
+  count: "0"
+- name: Adventures in Modern Music 2007
+  url: http://www.last.fm/tag/adventures%20in%20modern%20music%202007
+  count: "0"
+- name: pitchfork festival 2008
+  url: http://www.last.fm/tag/pitchfork%20festival%202008
+  count: "0"
+- name: Lo-Fi Punk
+  url: http://www.last.fm/tag/lo-fi%20punk
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: destructive duos
+  url: http://www.last.fm/tag/destructive%20duos
+  count: "0"
+- name: nu gaze
+  url: http://www.last.fm/tag/nu%20gaze
+  count: "0"
+- name: nocore
+  url: http://www.last.fm/tag/nocore
+  count: "0"
+- name: lowlands2008
+  url: http://www.last.fm/tag/lowlands2008
+  count: "0"
+- name: wondrous soundbeads for our delicate ears
+  url: http://www.last.fm/tag/wondrous%20soundbeads%20for%20our%20delicate%20ears
+  count: "0"
+- name: noise punk rock
+  url: http://www.last.fm/tag/noise%20punk%20rock
+  count: "0"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "0"
+- name: dream punk
+  url: http://www.last.fm/tag/dream%20punk
+  count: "0"
+- name: vu live en 2008
+  url: http://www.last.fm/tag/vu%20live%20en%202008
+  count: "0"
+- name: seen live in stl
+  url: http://www.last.fm/tag/seen%20live%20in%20stl
+  count: "0"
+- name: Lovely people
+  url: http://www.last.fm/tag/lovely%20people
+  count: "0"
+- name: hauntology
+  url: http://www.last.fm/tag/hauntology
+  count: "0"
+- name: avant punk
+  url: http://www.last.fm/tag/avant%20punk
+  count: "0"
+- name: lo-fi noise rock
+  url: http://www.last.fm/tag/lo-fi%20noise%20rock
+  count: "0"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "0"
+- name: drowned in sound
+  url: http://www.last.fm/tag/drowned%20in%20sound
+  count: "0"
+- name: no core
+  url: http://www.last.fm/tag/no%20core
+  count: "0"
+- name: dezember
+  url: http://www.last.fm/tag/dezember
+  count: "0"
+- name: better than wonder bread
+  url: http://www.last.fm/tag/better%20than%20wonder%20bread
+  count: "0"
+- name: no estan mal no
+  url: http://www.last.fm/tag/no%20estan%20mal%20no
+  count: "0"
+- name: albums ive heard from 2007
+  url: http://www.last.fm/tag/albums%20ive%20heard%20from%202007
+  count: "0"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "0"
+- name: ver
+  url: http://www.last.fm/tag/ver
+  count: "0"
+- name: sxsw 2007
+  url: http://www.last.fm/tag/sxsw%202007
+  count: "0"
+- name: feedback noise
+  url: http://www.last.fm/tag/feedback%20noise
+  count: "0"
+- name: hella DIY
+  url: http://www.last.fm/tag/hella%20diy
+  count: "0"
+- name: noisegaze
+  url: http://www.last.fm/tag/noisegaze
+  count: "0"
+- name: totally saw live
+  url: http://www.last.fm/tag/totally%20saw%20live
+  count: "0"
+- name: brought to you by southern records
+  url: http://www.last.fm/tag/brought%20to%20you%20by%20southern%20records
+  count: "0"
+"@attr": 
+  artist: No Age

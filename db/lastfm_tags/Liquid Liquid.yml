@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "100"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "75"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "48"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "37"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "23"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "13"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "10"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "9"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "9"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "9"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "6"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "6"
+- name: punk-funk
+  url: http://www.last.fm/tag/punk-funk
+  count: "4"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "4"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "3"
+- name: disco-punk
+  url: http://www.last.fm/tag/disco-punk
+  count: "3"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: dfa
+  url: http://www.last.fm/tag/dfa
+  count: "2"
+- name: post-disco
+  url: http://www.last.fm/tag/post-disco
+  count: "2"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "2"
+- name: funk-punk
+  url: http://www.last.fm/tag/funk-punk
+  count: "2"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "1"
+- name: groove
+  url: http://www.last.fm/tag/groove
+  count: "1"
+- name: schwabinger schicksen
+  url: http://www.last.fm/tag/schwabinger%20schicksen
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: Downtown 81
+  url: http://www.last.fm/tag/downtown%2081
+  count: "0"
+- name: WBMX
+  url: http://www.last.fm/tag/wbmx
+  count: "0"
+- name: zmin
+  url: http://www.last.fm/tag/zmin
+  count: "0"
+- name: liquid liquid
+  url: http://www.last.fm/tag/liquid%20liquid
+  count: "0"
+- name: intervenzione divina
+  url: http://www.last.fm/tag/intervenzione%20divina
+  count: "0"
+- name: Storstadsdans
+  url: http://www.last.fm/tag/storstadsdans
+  count: "0"
+- name: j07
+  url: http://www.last.fm/tag/j07
+  count: "0"
+- name: genius pies
+  url: http://www.last.fm/tag/genius%20pies
+  count: "0"
+- name: falling out of the sky and into my lap
+  url: http://www.last.fm/tag/falling%20out%20of%20the%20sky%20and%20into%20my%20lap
+  count: "0"
+- name: exrerimental
+  url: http://www.last.fm/tag/exrerimental
+  count: "0"
+- name: kokoro mayikibo
+  url: http://www.last.fm/tag/kokoro%20mayikibo
+  count: "0"
+- name: jackin
+  url: http://www.last.fm/tag/jackin
+  count: "0"
+- name: And I hate that my feet are dancing so much
+  url: http://www.last.fm/tag/and%20i%20hate%20that%20my%20feet%20are%20dancing%20so%20much
+  count: "0"
+- name: postpunknewwave
+  url: http://www.last.fm/tag/postpunknewwave
+  count: "0"
+- name: Hear
+  url: http://www.last.fm/tag/hear
+  count: "0"
+- name: Proper Funk
+  url: http://www.last.fm/tag/proper%20funk
+  count: "0"
+- name: cold funk
+  url: http://www.last.fm/tag/cold%20funk
+  count: "0"
+- name: bailable mal
+  url: http://www.last.fm/tag/bailable%20mal
+  count: "0"
+- name: flumroc
+  url: http://www.last.fm/tag/flumroc
+  count: "0"
+- name: D2
+  url: http://www.last.fm/tag/d2
+  count: "0"
+- name: dum dum dum
+  url: http://www.last.fm/tag/dum%20dum%20dum
+  count: "0"
+- name: 25th Hour
+  url: http://www.last.fm/tag/25th%20hour
+  count: "0"
+- name: schmitz wellen
+  url: http://www.last.fm/tag/schmitz%20wellen
+  count: "0"
+- name: urbanelectric
+  url: http://www.last.fm/tag/urbanelectric
+  count: "0"
+- name: me dance me build fort
+  url: http://www.last.fm/tag/me%20dance%20me%20build%20fort
+  count: "0"
+- name: Curso de Armonica
+  url: http://www.last.fm/tag/curso%20de%20armonica
+  count: "0"
+- name: art scene
+  url: http://www.last.fm/tag/art%20scene
+  count: "0"
+- name: new york underground
+  url: http://www.last.fm/tag/new%20york%20underground
+  count: "0"
+- name: punk espacial
+  url: http://www.last.fm/tag/punk%20espacial
+  count: "0"
+- name: marmarealistic pillow of cloud
+  url: http://www.last.fm/tag/marmarealistic%20pillow%20of%20cloud
+  count: "0"
+- name: audioase
+  url: http://www.last.fm/tag/audioase
+  count: "0"
+- name: chicagohouse
+  url: http://www.last.fm/tag/chicagohouse
+  count: "0"
+- name: gotta be cool and dance
+  url: http://www.last.fm/tag/gotta%20be%20cool%20and%20dance
+  count: "0"
+- name: investigation pending
+  url: http://www.last.fm/tag/investigation%20pending
+  count: "0"
+- name: no wave cool shit
+  url: http://www.last.fm/tag/no%20wave%20cool%20shit
+  count: "0"
+- name: Experitronic Elemental
+  url: http://www.last.fm/tag/experitronic%20elemental
+  count: "0"
+- name: Frantic Funk dipped in Oldschool
+  url: http://www.last.fm/tag/frantic%20funk%20dipped%20in%20oldschool
+  count: "0"
+- name: subtle tete-a-tete in a zoo accompanied by a dying white rhino in constant motion
+  url: http://www.last.fm/tag/subtle%20tete-a-tete%20in%20a%20zoo%20accompanied%20by%20a%20dying%20white%20rhino%20in%20constant%20motion
+  count: "0"
+- name: listen to more from this band
+  url: http://www.last.fm/tag/listen%20to%20more%20from%20this%20band
+  count: "0"
+- name: italo disco in disguise
+  url: http://www.last.fm/tag/italo%20disco%20in%20disguise
+  count: "0"
+- name: junglebrothers
+  url: http://www.last.fm/tag/junglebrothers
+  count: "0"
+- name: girlillhouseyou
+  url: http://www.last.fm/tag/girlillhouseyou
+  count: "0"
+- name: blanq funq
+  url: http://www.last.fm/tag/blanq%20funq
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: underground institution
+  url: http://www.last.fm/tag/underground%20institution
+  count: "0"
+- name: need to pecho
+  url: http://www.last.fm/tag/need%20to%20pecho
+  count: "0"
+- name: psychoalgie
+  url: http://www.last.fm/tag/psychoalgie
+  count: "0"
+- name: bands i like more than i like YOU
+  url: http://www.last.fm/tag/bands%20i%20like%20more%20than%20i%20like%20you
+  count: "0"
+- name: yelps
+  url: http://www.last.fm/tag/yelps
+  count: "0"
+- name: wicked y abstract
+  url: http://www.last.fm/tag/wicked%20y%20abstract
+  count: "0"
+- name: Cunning like the Fox
+  url: http://www.last.fm/tag/cunning%20like%20the%20fox
+  count: "0"
+- name: "sitrc: double double"
+  url: http://www.last.fm/tag/sitrc%3A%20double%20double
+  count: "0"
+- name: Please see him Jeffrey Hes a good man and thorough
+  url: http://www.last.fm/tag/please%20see%20him%20jeffrey%20hes%20a%20good%20man%20and%20thorough
+  count: "0"
+- name: danceteria
+  url: http://www.last.fm/tag/danceteria
+  count: "0"
+- name: DownTempo-JazzRap
+  url: http://www.last.fm/tag/downtempo-jazzrap
+  count: "0"
+- name: BAND I NEED TO CHECK
+  url: http://www.last.fm/tag/band%20i%20need%20to%20check
+  count: "0"
+- name: liszaj radio
+  url: http://www.last.fm/tag/liszaj%20radio
+  count: "0"
+- name: studies
+  url: http://www.last.fm/tag/studies
+  count: "0"
+- name: transliteracy
+  url: http://www.last.fm/tag/transliteracy
+  count: "0"
+- name: darkwave liszaj radio
+  url: http://www.last.fm/tag/darkwave%20liszaj%20radio
+  count: "0"
+- name: o07
+  url: http://www.last.fm/tag/o07
+  count: "0"
+- name: wahs and guitars
+  url: http://www.last.fm/tag/wahs%20and%20guitars
+  count: "0"
+- name: kocham lubie szanuje
+  url: http://www.last.fm/tag/kocham%20lubie%20szanuje
+  count: "0"
+- name: uusiaaltovaasi
+  url: http://www.last.fm/tag/uusiaaltovaasi
+  count: "0"
+"@attr": 
+  artist: Liquid Liquid
