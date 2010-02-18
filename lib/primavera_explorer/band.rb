@@ -52,6 +52,7 @@ class Band
   
   def to_json
     {:id => element_id,
+     :name => @name,
      :timetable => @timetable_entry ? @timetable_entry.to_json : nil ,
      :tags => @lastfm_tags.to_json,
      :info => @lastfm_info.to_json }

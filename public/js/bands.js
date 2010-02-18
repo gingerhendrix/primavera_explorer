@@ -4,7 +4,7 @@ $(document.body).ready(function(){
   tracker = new Tracker(pageTracker);
   bands = new Bands(bandsData);
   UI.viewCompact();
-  UI.sort('listeners');
+  UI.sort('alpha');
   window.setTimeout(function(){
     bands.makeTagMap();
     UI.writeControls();
