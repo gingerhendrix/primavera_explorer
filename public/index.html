@@ -1,0 +1,1987 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <meta charset='UTF-8' />
+    <link href='css/bands.css' rel='stylesheet' />
+    <script src='js/jquery.js'></script>
+    <script src='http://base2.googlecode.com/svn/version/1.0/base2-p.js'></script>
+    <script>base2.JavaScript.bind(window);</script>
+    <script src='ui.js'></script>
+    <script src='http://gandrew.com/mint/?js'></script>
+    <script src='bandsData.js'></script>
+  </head>
+  <body>
+    <div id='header'>
+      <div id='primavera_logo'>
+        <img height='104' src='img/primavera_logo10.png' width='224' />
+        <a href='http://primavera09.mushub.com/'>
+          &raquo; primavera explorer '09
+        </a>
+      </div>
+      <div id='controls'>
+        <div class='sort'>
+          <span class='label'>sort</span>
+          <div class='options'>
+            <span class='sort option alpha' onclick="UI.sort('alpha')">alpha</span>
+            <span class='sort option playcount' onclick="UI.sort('playcount')">playcount</span>
+            <span class='sort option listeners' onclick="UI.sort('listeners')">listeners</span>
+          </div>
+        </div>
+        <div class='view'>
+          <span class='label'>view</span>
+          <div class='options'>
+            <span class='view option compact' onclick='UI.viewCompact()'>compact</span>
+            <span class='view option list' onclick='UI.viewList()'>expanded</span>
+            <span class='view option full' onclick='UI.viewFull()'>full</span>
+          </div>
+        </div>
+        <div class='day'>
+          <span class='label'>day</span>
+          <div class='options' id='day_options'></div>
+        </div>
+        <div class='stage'>
+          <span class='label'>stage</span>
+          <div class='options' id='stage_options'></div>
+        </div>
+      </div>
+      <div class='tagcloud'>
+        <span class='label'>tags</span>
+        <div id='tagcloud'></div>
+      </div>
+    </div>
+    <div id='bands'>
+      <ul>
+        <li class='band' id='artist_A_Sunny_Day_In_Glasgow' onclick='UI.expand(this)'>
+          <span class='name'>A Sunny Day In Glasgow</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/39131929.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 70,314</span>
+              <span class='playcount'>Playcount: 969,348</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>dream pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>electronic</span>
+            </div>
+            <span class='bio'>A Sunny Day in Glasgow began as a collaboration between friends Ben Daniels and Ever Nalens, both of whom had recently returned to Philadelphia after several years in the UK. The band name came from Nalens, who had been living in Glasgow, and Daniels kept it after Nalens left the project. In 2006, Daniels asked his twin sisters, Robin and Lauren, to start singing on the songs they had been working on.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Apse' onclick='UI.expand(this)'>
+          <span class='name'>Apse</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/34115683.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 13,653</span>
+              <span class='playcount'>Playcount: 194,253</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>ambient</span>
+              <span class='tag'>post rock</span>
+              <span class='tag'>atmospheric</span>
+            </div>
+            <span class='bio'>Apse was formed in 1999 in Newtown, Connecticut as a three-piece while the members were still in high school. The group made purely instrumental ambient rock until about 2003, when reverberant lead vocals by Bobby became a regular part of the band’s songs.  The lineup expanded over the years and by 2005, Apse was signed to Spain’s Acuarela Discos to record and release its culminating self-titled EP.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Atlas_Sound' onclick='UI.expand(this)'>
+          <span class='name'>Atlas Sound</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/22849221.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 122,184</span>
+              <span class='playcount'>Playcount: 3,205,812</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>ambient</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>electronic</span>
+            </div>
+            <span class='bio'>Atlas Sound is the name of a musical solo project of <a href="http://www.last.fm/music/Bradford+Cox" class="bbcode_artist">Bradford Cox</a>, the lead singer of Atlanta five-piece <a href="http://www.last.fm/music/Deerhunter" class="bbcode_artist">Deerhunter</a>. Cox was born in Athens, Georgia in 1982. The singer has released an album entitled <a title="Atlas Sound - Let the Blind Lead Those Who Can See but Cannot Feel" href="http://www.last.fm/music/Atlas+Sound/Let+the+Blind+Lead+Those+Who+Can+See+but+Cannot+Feel" class="bbcode_album">Let the Blind Lead Those Who Can See but Cannot Feel</a> on indie-label <a href="http://www.last.fm/label/Kranky/" class="bbcode_label">Kranky</a> to favorable reviews. In explaining his reasoning for a solo project, Cox has stated, &quot;It's just that I have ideas that I can't make work with a five piece rock band...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Beach_House' onclick='UI.expand(this)'>
+          <span class='name'>Beach House</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/40680753.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 202,153</span>
+              <span class='playcount'>Playcount: 6,418,455</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>dream pop</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>Dreamy</span>
+            </div>
+            <span class='bio'><a href="http://www.myspace.com/BeachHouseMusic" rel="nofollow">Beach House</a> is a dream pop group which formed in 2005 in Baltimore, Maryland, United States. The group consists of Victoria Legrand (vocals, organ) and Alex Scally (guitar, keyboards). Legrand is the niece of <a href="http://www.last.fm/tag/french" class="bbcode_tag" rel="tag">french</a> composer <a href="http://www.last.fm/music/Michel+Legrand" class="bbcode_artist">Michel Legrand</a>. The group has released three albums: 2006's &quot;Beach House&quot;, 2008's &quot;Devotion&quot; and &quot;Teen Dream&quot; in early 2010.  Within a year of formation, the group charmed <a href="http://www.last.fm/tag/indie" class="bbcode_tag" rel="tag">indie</a> music enthusiasts across the blogosphere with their languid songcraft, while the eerie warmth of &quot;Apple Orchard&quot; landed on <a href="http://www.pitchforkmedia.com" rel="nofollow">Pitchfork's</a> Infinite Mixtape MP3 series in August <a href="http://www.last.fm/tag/2006" class="bbcode_tag" rel="tag">2006</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Beak_' onclick='UI.expand(this)'>
+          <span class='name'>Beak></span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/39606663.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 5,191</span>
+              <span class='playcount'>Playcount: 80,459</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>krautrock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>ambient</span>
+            </div>
+            <span class='bio'>Beak&gt; is the new project of Geoff Barrow (of legendary <a href="http://www.last.fm/music/Portishead" class="bbcode_artist">Portishead</a>) with fellow Bristol musicians Billy Fuller and Matt Williams. Their self-titled debut was released October 19 in the UK on Barrow's own Invada, and Ipecac will release it the next day in the U.S.   In contrast to Barrows extreme perfectionism when creating Portisheads music, Beak&gt;'s album was written in just 12 days.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Ben_Frost' onclick='UI.expand(this)'>
+          <span class='name'>Ben Frost</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/611694.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 23,329</span>
+              <span class='playcount'>Playcount: 317,161</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>ambient</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>drone</span>
+              <span class='tag'>electronic</span>
+            </div>
+            <span class='bio'>There are two artists who go by the name, “Ben Frost”  1) Ben Frost - Born 1980 Melbourne Australia, lives Reykjavík Iceland  The music Ben Frost is about contrast; influenced as much by Classical Minimalism as by Punk Rock and Metal, Frost’s throbbing guitar-based textures emerge from nothing and slowly coalesce into huge, forbidding forms that often eschew conventional structures in favor of the inevitable unfoldings of vast mechanical systems.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Best_Coast' onclick='UI.expand(this)'>
+          <span class='name'>Best Coast</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/33397819.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 16,091</span>
+              <span class='playcount'>Playcount: 303,911</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>garage pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>beach rock</span>
+              <span class='tag'>female vocalists</span>
+            </div>
+            <span class='bio'>Beach blanket lo-fi pop from Bethany Cosentino, (ex-<a href="http://www.last.fm/music/Pocahaunted" class="bbcode_artist">Pocahaunted</a>.) Inspired by Bethany’s longing for Los Angeles while spending her days in NY attending Eugene Lang College, Best Coast sprung forth during her first days back in California. She says we can expect &quot;songs about summer and the sun and the ocean and being a lazy creep,&quot; with &quot;drums, beach boys bass lines, and other amazing things&quot; added by her friend Bobb Bruno.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Bigott' onclick='UI.expand(this)'>
+          <span class='name'>Bigott</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28042589.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 1,139</span>
+              <span class='playcount'>Playcount: 29,356</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>barbacas</span>
+              <span class='tag'>spanish indie pop</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie pop</span>
+            </div>
+            <span class='bio'>Bigott is Bigott. Everybody like him. A kind of Spanish Tom Waits without a piano and with a Do It Yourself feeling right in his veins with rock, folk, psychedelic. Great, great, great.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Bis' onclick='UI.expand(this)'>
+          <span class='name'>Bis</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/3176635.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 47,099</span>
+              <span class='playcount'>Playcount: 665,398</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>J-rock</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>Scottish</span>
+            </div>
+            <span class='bio'>
+              There is more than one artist with this name:
+               1. bis, a Scottish <a href="http://www.last.fm/tag/electro%20pop" class="bbcode_tag" rel="tag">electro pop</a>/twee band popular in the 1990s
+               2. <a href="http://www.last.fm/music/%EF%BD%82%EF%BD%89%EF%BD%93" class="bbcode_artist">ｂｉｓ</a>, a Japanese <a href="http://www.last.fm/tag/pop-punk" class="bbcode_tag" rel="tag">pop-punk</a> band.
+               3. BiS, a Russian rock band 
+               4. bis!, a Dutch band
+               5. BiS, a Russian pop duo.  - Formed in 1994, bis (written all in lowercase and taken from a previous bandname &quot;Black Iron Skyline&quot;) were a Scottish band featuring Steven Clark (Sci-fi Steven) (vocals, guitar), John Clark (John Disco) (vocals, bass), and Amanda MacKinnon (<a href="http://www.last.fm/music/Manda+Rin" class="bbcode_artist">Manda Rin</a>) (vocals, keyboards).
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Biscuit' onclick='UI.expand(this)'>
+          <span class='name'>Biscuit</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/36395567.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 451</span>
+              <span class='playcount'>Playcount: 2,595</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>rapcore</span>
+              <span class='tag'>power pop</span>
+              <span class='tag'>Nu-metal</span>
+              <span class='tag'>Disco</span>
+              <span class='tag'>melbourne</span>
+            </div>
+            <span class='bio'>
+              There are at least two artists named Biscuit:  1.  Biscuit was the stage (and nickname) for former singer of the Texas punk rock band <a href="http://www.last.fm/music/Big+Boys" class="bbcode_artist">Big Boys</a> Randy Turner.  He died in August 18th, 2005 of cirrhosis of the liver.    2. A rapcore/some kind of metal band from Melbourne, Australia. They had released 3 EPs and changed their name to <a href="http://www.last.fm/music/Another+Race" class="bbcode_artist">Another Race</a>.
+               Official website: <a href="http://members.tripod.com/~biscuitpage/" rel="nofollow">http://members.tripod.com/~biscuitpage/</a>
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Black_Lips' onclick='UI.expand(this)'>
+          <span class='name'>Black Lips</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/21078933.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 59,227</span>
+              <span class='playcount'>Playcount: 1,671,830</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>Garage Punk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>garage</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>The Black Lips are a self-described &quot;flower punk&quot; band from Atlanta, Georgia.  While still teenagers, they formed in 2000 after guitarist Cole Alexander and bassist Jared Swilley left the <a href="http://www.last.fm/music/Renegades" class="bbcode_artist">Renegades</a>, and guitarist Ben Eberbaugh left the <a href="http://www.last.fm/music/Reruns" class="bbcode_artist">Reruns</a>. Drummer Joe Bradley joined a few months later. They released their first 7&quot; in late 2001/early 2002 on their own Die Slaughterhaus label.  Just days before a tour was to begin in December 2002, Ben Eberbaugh was driving a car that was struck by a drunk driver going the wrong way on a highway.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Black_Math_Horseman' onclick='UI.expand(this)'>
+          <span class='name'>Black Math Horseman</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27596929.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 4,906</span>
+              <span class='playcount'>Playcount: 60,070</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>Progressive metal</span>
+              <span class='tag'>Progressive rock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>Doom</span>
+            </div>
+            <span class='bio'>Black Math Horseman is a female fronted mellow atmospheric <a href="http://www.last.fm/tag/doom%20metal" class="bbcode_tag" rel="tag">doom metal</a> outfit that consists of bass guitarist and vocalist Sera Timms, drummer Sasha Popovic, and guitarists Bryan Tulao and Ian Barry.  Formed in 2006 in Los Angeles, they were signed to Brooklyn label <a href="http://www.last.fm/label/Tee+Pee+Records/" class="bbcode_label">Tee Pee Records</a> in January of 2009. The following April, just after a playing the 2009 South by Southwest, Tee Pee released their debut album, <a title="Black Math Horseman - Wyllt" href="http://www.last.fm/music/Black+Math+Horseman/Wyllt" class="bbcode_album">Wyllt</a>, which was produced and engineered by <a href="http://www.last.fm/music/Scott+Reeder" class="bbcode_artist">Scott Reeder</a>, one-time bassist for <a href="http://www.last.fm/tag/stoner%20rock" class="bbcode_tag" rel="tag">stoner rock</a> pioneers <a href="http://www.last.fm/music/Kyuss" class="bbcode_artist">Kyuss</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Boy_8_Bit' onclick='UI.expand(this)'>
+          <span class='name'>Boy 8-Bit</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/6592181.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 15,527</span>
+              <span class='playcount'>Playcount: 116,555</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electro</span>
+              <span class='tag'>8-bit</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>fidget house</span>
+              <span class='tag'>8 bit</span>
+            </div>
+            <span class='bio'>Boy 8-bit; a young and upcoming producer famous for his infectious &quot;bleep&quot; electro-styled tracks inspired by the computer games of old.    Boy 8-Bit's name hails from the days of old. Using an Amiga computer to produce in his youth, he dealt in 8-bit samples and hence the name.  Although still relatively unknown, his EP &quot;The Suspense Is Killing Me&quot; received great critical acclaim on the underground Electro/Synth circuit.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Broken_Social_Scene' onclick='UI.expand(this)'>
+          <span class='name'>Broken Social Scene</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/41865593.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 805,892</span>
+              <span class='playcount'>Playcount: 27,992,895</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>Canadian</span>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>Broken Social Scene is a Canadian <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> group formed in 1999 in Toronto, Canada.  The band's core members are <a href="http://www.last.fm/music/Kevin+Drew" class="bbcode_artist">Kevin Drew</a> and <a href="http://www.last.fm/music/Brendan+Canning" class="bbcode_artist">Brendan Canning</a>. This duo recorded and released the band's <a href="http://www.last.fm/tag/ambient" class="bbcode_tag" rel="tag">ambient</a> debut album, <a title="Broken Social Scene - Feel Good Lost" href="http://www.last.fm/music/Broken+Social+Scene/Feel+Good+Lost" class="bbcode_album">Feel Good Lost</a>, in 2001, with contributions by <a href="http://www.last.fm/music/Justin+Peroff" class="bbcode_artist">Justin Peroff</a>, <a href="http://www.last.fm/music/Charles+Spearin" class="bbcode_artist">Charles Spearin</a> and <a href="http://www.last.fm/music/Bill+Priddle" class="bbcode_artist">Bill Priddle</a>. However, when they played shows to support the album, Drew and Canning found it difficult to put together an entertaining show based on Feel Good Lost, which was an almost entirely <a href="http://www.last.fm/tag/instrumental" class="bbcode_tag" rel="tag">instrumental</a> album.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Built_To_Spill' onclick='UI.expand(this)'>
+          <span class='name'>Built To Spill</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/8240379.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 477,466</span>
+              <span class='playcount'>Playcount: 10,922,450</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>indie pop</span>
+            </div>
+            <span class='bio'>Built to Spill is an <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> band based in Boise, Idaho, United States. The band is best known for its catchy guitar hooks and the unique voice of frontman <a href="http://www.last.fm/music/Doug+Martsch" class="bbcode_artist">Doug Martsch</a>.  Former <a href="http://www.last.fm/music/Treepeople" class="bbcode_artist">Treepeople</a> frontman Doug Martsch formed Built to Spill in 1992 with Brett Netson and Ralf Youtz as the band's original members. In an interview with Spin magazine, Martsch stated that he intended to change the band's lineup for every album, with Martsch being the only permanent member.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Camaron__La_Leyenda_Del_Tiempo' onclick='UI.expand(this)'>
+          <span class='name'>Camaron, La Leyenda Del Tiempo</span>
+          <img height='101' src='#' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners:</span>
+              <span class='playcount'>Playcount:</span>
+            </div>
+            <div class='tags'>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Circulatory_System' onclick='UI.expand(this)'>
+          <span class='name'>Circulatory System</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27998653.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 43,869</span>
+              <span class='playcount'>Playcount: 755,466</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Elephant 6</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>Lo-Fi</span>
+            </div>
+            <span class='bio'>Circulatory System, founded by Will Cullen Hart, John Fernandes, and Peter Erchick after the 1999 break-up of <a href="http://www.last.fm/music/The+Olivia+Tremor+Control" class="bbcode_artist">The Olivia Tremor Control</a>, make dense, psychedelic noise pop rife with harmony.  Other contributors include Heather McIntosh of <a href="http://www.last.fm/music/The+Instruments" class="bbcode_artist">The Instruments</a>, Hannah Jones of <a href="http://www.last.fm/music/The+New+Sound+Of+Numbers" class="bbcode_artist">The New Sound Of Numbers</a>, and Derek Almstead of <a href="http://www.last.fm/music/M+Coast" class="bbcode_artist">M Coast</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_CocoRosie' onclick='UI.expand(this)'>
+          <span class='name'>CocoRosie</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/303785.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 474,145</span>
+              <span class='playcount'>Playcount: 16,379,625</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>freak folk</span>
+            </div>
+            <span class='bio'>CocoRosie began in Paris, France and formed by Sierra Casady (Rosie) and Bianca Casady (Coco) in 2003. Sierra and Bianca Casady are North American half-Cherokee sisters. Sierra, the older of the two, was born in Iowa, and Bianca was born in Hawaii. Their mother nicknamed them Rosie and Coco, respectively, from which their musical act takes its name.   In 2003, Bianca was growing restless and decided it was time for a change. She left her apartment in Brooklyn to travel the world. Unexpectedly, she showed up at Sierra's apartment in Paris.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Cohete' onclick='UI.expand(this)'>
+          <span class='name'>Cohete</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28483445.gif' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 1,195</span>
+              <span class='playcount'>Playcount: 18,064</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>pop</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>Retro</span>
+              <span class='tag'>punk</span>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Cold_Cave' onclick='UI.expand(this)'>
+          <span class='name'>Cold Cave</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/35330367.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 15,610</span>
+              <span class='playcount'>Playcount: 346,892</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>cold wave</span>
+              <span class='tag'>no wave</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>darkwave</span>
+            </div>
+            <span class='bio'>Cold Cave is an electronic music project led by its sole member Wesley Eisold (formerly of Some Girls, American Nightmare/Give Up the Ghost, and XO Skeletons).</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Condo_Fucks' onclick='UI.expand(this)'>
+          <span class='name'>Condo Fucks</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28353285.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 9,197</span>
+              <span class='playcount'>Playcount: 106,237</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>garage</span>
+              <span class='tag'>indie</span>
+            </div>
+            <span class='bio'>Condo Fucks are a legendary rock trio from New London, CT. The band consists of Georgia Condo (drums), Kid Condo (guitar) and James McNew (bass). The group released four albums on the Matador label in the 1990s, but these albums are now extremely rare. The group reunited in 2009, much to the jubilation of their many fans in the Tri-State Area, to release an all-covers album entitled Fuckbook.   It is also worth noting that Condo Fucks is actually Yo La Tengo under a different name.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Crocodiles' onclick='UI.expand(this)'>
+          <span class='name'>Crocodiles</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/31174639.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 20,281</span>
+              <span class='playcount'>Playcount: 230,118</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>noise pop</span>
+            </div>
+            <span class='bio'>Crocodiles is the name of more than one musical group. (For the group from New Zealand, see <a href="http://www.last.fm/music/The+Crocodiles" class="bbcode_artist">The Crocodiles</a>.)  1) Crocodiles are a two-piece from San Diego, USA formed in 2008 playing lo-fi new wave, featuring former members of <a href="http://www.last.fm/music/The+Plot+to+Blow+Up+the+Eiffel+Tower" class="bbcode_artist">The Plot to Blow Up the Eiffel Tower</a>.  So far they have released a 7&quot; on Zoo Music, and have two forthcoming split 7&quot;s with a number of artists plus an LP entitled 'Summer of Hate'.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Delorean' onclick='UI.expand(this)'>
+          <span class='name'>Delorean</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28993117.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 48,241</span>
+              <span class='playcount'>Playcount: 490,805</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>spanish</span>
+              <span class='tag'>disco punk</span>
+              <span class='tag'>indie electronic</span>
+            </div>
+            <span class='bio'>
+              There is more than one artist with this name.  1. A melancholic pop group from Zarutz, Spain.
+               2. An art/space rock group from Memphis, TN that was active from 1998-2000.  1. Zarautz, Spain, located in the Basque Country, has always been a place of soft, quiet and melancolic pop music, but there's also place for the danceable and dark pop made by punks that Delorean offer here in their second album and first one in bcore disc.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Diplo' onclick='UI.expand(this)'>
+          <span class='name'>Diplo</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/148073.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 168,317</span>
+              <span class='playcount'>Playcount: 1,876,509</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>Hip-Hop</span>
+              <span class='tag'>trip-hop</span>
+              <span class='tag'>ninja tune</span>
+              <span class='tag'>electronica</span>
+            </div>
+            <span class='bio'>Diplo, Diplodocus, Wes Gully, and Wes Diplo are all pseudonyms of Wesley Pentz, a Philadelphia-based producer and DJ since 2003. Together with DJ <a href="http://www.last.fm/music/Low+Budget" class="bbcode_artist">Low Budget</a> he runs <a href="http://www.last.fm/music/Hollertronix" class="bbcode_artist">Hollertronix</a>, a party and music collective. In addition to his solo career, he has worked with Sri-Lankan/Tamil singer and artist <a href="http://www.last.fm/music/M.I.A." class="bbcode_artist">M.I.A.</a>. The two were also romantically involved. Pentz's alias, short for Diplodocus, derives from his childhood fascination with dinosaurs.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Dr__Dog' onclick='UI.expand(this)'>
+          <span class='name'>Dr. Dog</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/7656855.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 138,276</span>
+              <span class='playcount'>Playcount: 2,679,707</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>indie pop</span>
+            </div>
+            <span class='bio'>Dr. Dog is a <a href="http://www.last.fm/tag/psychedelic%20rock" class="bbcode_tag" rel="tag">psychedelic rock</a> group from Philadelphia, Pennsylvania which formed in 1999. The current lineup consists of Scott &quot;Taxi&quot; McMicken (vocals, guitar), Toby &quot;Tables&quot; Leaman (bass),  Zach &quot;Text&quot; Miller (keyboards, guitar), Frank  &quot;Thanks&quot; McElroy (guitar) and Juston &quot;Trouble&quot; Stens (drums).  &quot;There's a little <a href="http://www.last.fm/tag/folk" class="bbcode_tag" rel="tag">folk</a>, <a href="http://www.last.fm/tag/blues" class="bbcode_tag" rel="tag">blues</a>, <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a>, <a href="http://www.last.fm/tag/soul" class="bbcode_tag" rel="tag">soul</a>, <a href="http://www.last.fm/tag/bluegrass" class="bbcode_tag" rel="tag">bluegrass</a>--and a whole lot of down-home harmonizing. It conjures images of old friends sitting on a porch swapping instruments and just letting the tape recorder run.&quot; - Doug Wallen</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Dum_Dum_Girls' onclick='UI.expand(this)'>
+          <span class='name'>Dum Dum Girls</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/30974183.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 6,136</span>
+              <span class='playcount'>Playcount: 69,978</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>noise pop</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>female vocalists</span>
+            </div>
+            <span class='bio'>The sound of the Dum Dum Girls, actually consisting of only girl Dee Dee (aka Kristen Gundred of <a href="http://www.last.fm/music/Grand+Ole+Party">Grand Ole Party</a>), is categorized as &quot;blissed out buzzsaw&quot;. Headquarter-ing in Los Angeles, Dum Dum Girls have a similar sound to the Vivian Girls, among other stereotypical comparisons to female fronted lofi bands.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Emilio_Jos__' onclick='UI.expand(this)'>
+          <span class='name'>Emilio José</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/29458759.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 800</span>
+              <span class='playcount'>Playcount: 13,572</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>spain</span>
+              <span class='tag'>galiza</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>latin</span>
+              <span class='tag'>pop</span>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Endless_Boogie' onclick='UI.expand(this)'>
+          <span class='name'>Endless Boogie</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/157340.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 2,055</span>
+              <span class='playcount'>Playcount: 20,078</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>blues</span>
+              <span class='tag'>Psychedelic Rock</span>
+              <span class='tag'>Kraut Rock</span>
+              <span class='tag'>endless boogie</span>
+            </div>
+            <span class='bio'>Meet Endless Boogie, the best-kept secret in New York's rock scene. The band's sound is a meltdown of metal, psychedelic and classic rock with a heavy dose of riffage, a kick-ass beat and super-cryptic lyrics. It's thunderous and mellow at once. To put it another way, it goes well with beer.  They have the best name (taken from <a href="http://www.last.fm/music/John+Lee+Hooker" class="bbcode_artist">John Lee Hooker</a>'s 1971 album), the best onstage vibe and the best head-nodding jams.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Fake_Blood' onclick='UI.expand(this)'>
+          <span class='name'>Fake Blood</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28191723.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 38,696</span>
+              <span class='playcount'>Playcount: 381,519</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electro</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>fidget house</span>
+              <span class='tag'>dance</span>
+              <span class='tag'>House</span>
+            </div>
+            <span class='bio'>
+              There are three different artists under the name Fake Blood.  1)
+               Fake Blood is an alias used by <a href="http://www.last.fm/music/DJ+Touch%C3%A9" class="bbcode_artist">DJ Touch&eacute;</a>, also half of <a href="http://www.last.fm/music/The+Black+Ghosts" class="bbcode_artist">The Black Ghosts</a> (which Touché has remixed under the Fake Blood alias). His original productions included two major club hits, &quot;Mars&quot; and &quot;Blood Splashing (Fake Blood Theme)&quot;.  In 2009, He released the &quot;Fix Your Accent&quot; EP, including the original tracks &quot;The Dozens&quot;, &quot;I Think I Like It&quot;, and &quot;Fix Your Accent&quot;.  He has done remixes for <a href="http://www.last.fm/music/Dan+Le+Sac" class="bbcode_artist">Dan Le Sac</a>, <a href="http://www.last.fm/music/Armand+van+Helden" class="bbcode_artist">Armand van Helden</a>, <a href="http://www.last.fm/music/The%2BCount%2B%2526%2BSinden" class="bbcode_artist">The Count &amp; Sinden</a>, <a href="http://www.last.fm/music/UNKLE" class="bbcode_artist">UNKLE</a> and others.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Florence___The_Machine' onclick='UI.expand(this)'>
+          <span class='name'>Florence + The Machine</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/35507737.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 364,671</span>
+              <span class='playcount'>Playcount: 11,635,901</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>british</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>indie pop</span>
+            </div>
+            <span class='bio'>Florence + The Machine formed in 2007 in London, England. The band is the recording name of singer/songwriter <a href="http://www.last.fm/music/Florence+Welch" class="bbcode_artist">Florence Welch</a> &amp; a collaboration of other artists who provide backing music for her voice; Florence Welch is the band's only constant member. The current touring lineup of the band is Florence Welch (vocals), Robert Ackroyd (guitar), Isabella Summers (keyboards), Tom Monger (harp), Christopher Lloyd Hayden (drums).</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Fuck_Buttons' onclick='UI.expand(this)'>
+          <span class='name'>Fuck Buttons</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5274262.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 119,962</span>
+              <span class='playcount'>Playcount: 1,512,708</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>noise</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>drone</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>post-rock</span>
+            </div>
+            <span class='bio'>Fuck Buttons is a two-piece electronic group based in London, England.  Formed in late 2004 and signed to the ATP label, releasing the &quot;Bright Tomorrow&quot; b/w &quot;Little Bloody Shoulder&quot; 7&quot; single during the fall of 2007. They released their first album, Street Horrrsing, in 2008 and received widespread acclaim. A single, &quot;Colours Move&quot;, followed later that year.  Their second album 'Tarot Sport' was released in October 2009.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Ganglians' onclick='UI.expand(this)'>
+          <span class='name'>Ganglians</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/29191167.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 12,420</span>
+              <span class='playcount'>Playcount: 135,321</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>psychedelic pop</span>
+            </div>
+            <span class='bio'>It's a chorus of voices, a lot of reverb echo, some electronics of the messed up cheap variety, or toy pianos. It's far away...a little underwater. A lot of noise and yelling, a garage a thon, sounds recorded live in that way that most live stuff doesn't come close to. From Sacramento, CA</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Gary_Numan' onclick='UI.expand(this)'>
+          <span class='name'>Gary Numan</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/25496493.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 245,780</span>
+              <span class='playcount'>Playcount: 3,040,476</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>new wave</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>80s</span>
+              <span class='tag'>synthpop</span>
+              <span class='tag'>industrial</span>
+            </div>
+            <span class='bio'>One of the founding fathers of synth pop, Gary Numan's influence extends far beyond his lone American hit, “<a title="Gary Numan &ndash; Cars" href="http://www.last.fm/music/Gary+Numan/_/Cars" class="bbcode_track">Cars</a>,” which still stands as one of the defining <a href="http://www.last.fm/tag/new%20wave" class="bbcode_tag" rel="tag">new wave</a> singles. That seminal track helped usher in the <a href="http://www.last.fm/tag/synthpop" class="bbcode_tag" rel="tag">synthpop</a> era on both sides of the Atlantic, especially his native England, where he was a genuine pop star and consistent hitmaker during the early ’80s. Even after new wave had petered out, Numan’s impact continued to make itself felt; his dark, paranoid vision...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Grizzly_Bear' onclick='UI.expand(this)'>
+          <span class='name'>Grizzly Bear</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5670236.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 475,915</span>
+              <span class='playcount'>Playcount: 15,707,926</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>freak folk</span>
+            </div>
+            <span class='bio'>Grizzly Bear is a four-piece <a href="http://www.last.fm/tag/indie%20pop" class="bbcode_tag" rel="tag">indie pop</a> band from Brooklyn, New York. Their music utilizes melody and ambiance in conjunction with hazy-eyed choruses, whistles, piano, banjo, and several woodwind instruments.  Grizzly Bear was originally the solo project of Edward Droste (vocals/guitar), who recorded his debut album <a title="Grizzly Bear - Horn Of Plenty" href="http://www.last.fm/music/Grizzly+Bear/Horn+Of+Plenty" class="bbcode_album">Horn Of Plenty</a> at home.  The record was originally meant for his friends, but it eventually circulated and got a proper release in 2004, this time with the help of Christopher Bear (drums/vocals).  A re-release with a bonus disc of remixes was issued in 2005.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Half_Foot_Outside' onclick='UI.expand(this)'>
+          <span class='name'>Half Foot Outside</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/114200.gif' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 2,956</span>
+              <span class='playcount'>Playcount: 33,650</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>spanish</span>
+              <span class='tag'>hardcore</span>
+              <span class='tag'>Noise-pop</span>
+            </div>
+            <span class='bio'>Five records are a true career, an artistical progression completely consolidated. And that's the case of Half Foot Outside, with albums released since 1998 in various record labels. They started back in 1995 in Pamplona, their debut being called &quot;So called...&quot;, a punk-rock record close to the most melodic and poppy sound of the bands at the time. Their musical spectrum grew faster and was reflected in the roughness of &quot;Paint red&quot;, a record full of complex and brilliant structures and melodies.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_HEALTH' onclick='UI.expand(this)'>
+          <span class='name'>HEALTH</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/11148725.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 84,792</span>
+              <span class='playcount'>Playcount: 1,547,366</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>indie</span>
+            </div>
+            <span class='bio'>There are two bands with the name Health:   1. HEALTH is a <a href="http://www.last.fm/tag/noise%20rock" class="bbcode_tag" rel="tag">noise rock</a> band consisting of four members including Benjamin Jared Miller, Jake Duzsik, John Famiglietti, and Jupiter Keyes. All are from different cities including Seattle, San Diego, and their current home base, Los Angeles.  HEALTH released HEALTH in 2007, //DISCO in 2008, and GET COLOR in September 2009.  HEALTH plan to tour continuously doing what the love and do best, make eccentric and original music.  Jake met Jupiter in college. John met Jake in a guitar store. Jared was drawn to the fold by way of Internet courtship.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Here_We_Go_Magic' onclick='UI.expand(this)'>
+          <span class='name'>Here We Go Magic</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27665561.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 24,066</span>
+              <span class='playcount'>Playcount: 418,913</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>psychedelic pop</span>
+            </div>
+            <span class='bio'>
+              Developed over a two-month period of stream-of-consciousness recording in Greenpoint, Brooklyn, Luke’s self-titled debut under his new moniker Here We Go Magic is a remarkable departure from his signature singer-songwriter material. Luke recorded the album at home using analog synths, a cassette 4-track, and his trusty SM-57 mic, coloring the sound with warmth and creating textures you want to wrap yourself in.
+               -From &quot;Tell All Your Friends&quot;
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Hope_Sandoval___The_Warm_Inventions' onclick='UI.expand(this)'>
+          <span class='name'>Hope Sandoval & The Warm Inventions</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/18142361.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 65,544</span>
+              <span class='playcount'>Playcount: 865,906</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>dream pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>singer-songwriter</span>
+            </div>
+            <span class='bio'>Hope Sandoval (born 1966) is an American singer-songwriter who was lead singer for <a href="http://www.last.fm/music/Mazzy+Star" class="bbcode_artist">Mazzy Star</a> and later Hope Sandoval &amp; the Warm Inventions.  Hope formed The Warm Inventions and released their first album called &quot;Bavarian Fruit Bread&quot;, in 2001. This album sounds, again, little different in terms of theme, voice, and instrumentation than that of her work with Mazzy Star. However, with a larger band behind her, and more time under her creative belt, Hope's voice has matured on these songs.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Japandroids' onclick='UI.expand(this)'>
+          <span class='name'>Japandroids</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/301665.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 39,672</span>
+              <span class='playcount'>Playcount: 660,602</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>Canadian</span>
+              <span class='tag'>shoegaze</span>
+            </div>
+            <span class='bio'>Japandroids (JPNDRDS) are a two piece band from Vancouver, BC. This 'band' started in 2006 as a creative outlet for the post-teenage  angst of Brian King and David Prowse. Originally intended to be a trio, the boys decided to forgo the logistical nightmare of having a 'lead singer' and do it themselves. As a consequence, Japandroids were/are/will be 1 guitar, 1 set of drums, and 2 vocalizers. They call it garage rock. They don't care what you call it, as long as it's not minimal. Japandroids are maximal - a two piece band trying to sound like a five piece band.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Jeffrey_Lewis___The_Junkyard' onclick='UI.expand(this)'>
+          <span class='name'>Jeffrey Lewis & The Junkyard</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27367511.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 5,555</span>
+              <span class='playcount'>Playcount: 115,912</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>anti-folk</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>singer-songwriter</span>
+              <span class='tag'>antifolk</span>
+            </div>
+            <span class='bio'>The latest project from anti-folk troubador <a href="http://www.last.fm/music/Jeffrey+Lewis" class="bbcode_artist">Jeffrey Lewis</a></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Joker_featuring_Nomad' onclick='UI.expand(this)'>
+          <span class='name'>Joker featuring Nomad</span>
+          <img height='101' src='#' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners:</span>
+              <span class='playcount'>Playcount:</span>
+            </div>
+            <div class='tags'>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Junip' onclick='UI.expand(this)'>
+          <span class='name'>Junip</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/2613218.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 22,189</span>
+              <span class='playcount'>Playcount: 121,764</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>acoustic</span>
+              <span class='tag'>swedish</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>folk</span>
+            </div>
+            <span class='bio'>Trio from Gothenburg. A bit unfocused since the members (e.g. <a href="http://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez" class="bbcode_artist">Jos&eacute; Gonz&aacute;lez</a>) have a lot of projects going on, but hopefully new material will be released soon.  Their homepage is <a href="http://www.junip.net/" rel="nofollow">http://www.junip.net/</a>.  images on flickr tagged with 'junip': <a href="http://flickr.com/photos/tags/junip/" rel="nofollow">http://flickr.com/photos/tags/junip/</a></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Lee__Scratch__Perry' onclick='UI.expand(this)'>
+          <span class='name'>Lee "Scratch" Perry</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/290556.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 175,946</span>
+              <span class='playcount'>Playcount: 1,780,723</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>dub</span>
+              <span class='tag'>reggae</span>
+              <span class='tag'>roots reggae</span>
+              <span class='tag'>roots</span>
+              <span class='tag'>ska</span>
+            </div>
+            <span class='bio'>Lee &quot;Scratch&quot; Perry (born Rainford Hugh Perry, on March 20, 1936, in Kendal, Jamaica) is one of the most influential people in the development of reggae and dub music in Jamaica.  Perry began his career in the late 1950s working with Clement Coxsone Dodd's sound system. He eventually performed a variety of important tasks at Studio One as well as recording about 30 songs, but the pair eventually stopped working together due to personality and financial conflicts.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Les_Savy_Fav' onclick='UI.expand(this)'>
+          <span class='name'>Les Savy Fav</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/388181.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 174,942</span>
+              <span class='playcount'>Playcount: 3,844,399</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>math rock</span>
+            </div>
+            <span class='bio'>Les Savy Fav is an indie rock band which formed in Providence, Rhode Island, United States in 1995, where the members were attending the Rhode Island School of Design. The band moved to Brooklyn, New York shortly after graduating. The band consists of Tim Harrington (vocals), Seth Jabour (guitar), Andrew Reuland (guitar), Syd Butler (bass) and Harrison Haynes (drums).  Over the course of 5 albums (the last of which is called &quot;Let's Stay Friends&quot;, and the one before that, Inches...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Lidia_Damunt' onclick='UI.expand(this)'>
+          <span class='name'>Lidia Damunt</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28358675.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 1,602</span>
+              <span class='playcount'>Playcount: 32,598</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>singer-songwriter</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>country</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Liquid_Liquid' onclick='UI.expand(this)'>
+          <span class='name'>Liquid Liquid</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5946252.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 46,920</span>
+              <span class='playcount'>Playcount: 360,841</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>no wave</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>funk</span>
+              <span class='tag'>electronic</span>
+            </div>
+            <span class='bio'>Liquid Liquid was a New York City post-punk band that was active from 1980 to 1983. Their track &quot;Cavern&quot;, from the Optimo EP, recorded by Don Hunerberg was sampled (actually played by the Sugar Hill house band) on <a href="http://www.last.fm/music/Grandmaster+Flash" class="bbcode_artist">Grandmaster Flash</a> and Melle Mel's &quot;White Lines (Don't Do It)&quot;. Since the band’s inception in 1980, the sounds of Liquid Liquid have haunted the clubs. The original records were pressed in very limited quantities on the 99 label, and can now fetch high prices. Though the pressings were small the impact the music has made is lasting and far reaching.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Low_performing__The_Great_Destroyer_' onclick='UI.expand(this)'>
+          <span class='name'>Low performing "The Great Destroyer"</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/31639449.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 252,143</span>
+              <span class='playcount'>Playcount: 5,852,148</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>slowcore</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>Low is an <a href="http://www.last.fm/tag/american" class="bbcode_tag" rel="tag">american</a> <a href="http://www.last.fm/tag/slowcore" class="bbcode_tag" rel="tag">slowcore</a> group from Duluth, Minnesota. The group was formed in 1993, by <a href="http://www.last.fm/music/Alan+Sparhawk" class="bbcode_artist">Alan Sparhawk</a> (guitar and vocals), <a href="http://www.last.fm/music/Mimi+Parker" class="bbcode_artist">Mimi Parker</a> (drums and vocals) and original bassist <a href="http://www.last.fm/music/John+Nichols" class="bbcode_artist">John Nichols</a> (bass guitar). <a href="http://www.last.fm/music/Zak+Sally" class="bbcode_artist">Zak Sally</a> replaced Nichols after Low's first album and tour. In 2005, Sally quit the band; <a href="http://www.last.fm/music/Matt+Livingston" class="bbcode_artist">Matt Livingston</a> replaced him shortly thereafter.  In 2008 <span title="Unknown artist" class="bbcode_unknown">Steve Garrington</span> took over on bass creating the current lineup of Sparhawk, Parker and Garrington.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Major_Lazer' onclick='UI.expand(this)'>
+          <span class='name'>Major Lazer</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28822813.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 65,764</span>
+              <span class='playcount'>Playcount: 1,068,469</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>dancehall</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>reggae</span>
+              <span class='tag'>dub</span>
+              <span class='tag'>electro</span>
+            </div>
+            <span class='bio'><a href="http://www.last.fm/music/Diplo" class="bbcode_artist">Diplo</a> and <a href="http://www.last.fm/music/Switch" class="bbcode_artist">Switch</a> certainly live the life.  Hugely successful DJs/producers in their own right, last year they joined forces and headed to Jamaica to explore their Rasta roots.  The locals were a bit dubious about their <a href="http://www.last.fm/tag/dancehall" class="bbcode_tag" rel="tag">dancehall</a> credentials--Diplo, being a skinny white kid from Philly, and Switch, being a baldy, beardy ginge from Birmingham--but the pair proved their worth in the studio and have recorded with artists like <a href="http://www.last.fm/music/Elephant+Man" class="bbcode_artist">Elephant Man</a>, <a href="http://www.last.fm/music/Gyptian" class="bbcode_artist">Gyptian</a>, and <a href="http://www.last.fm/music/T.O.K." class="bbcode_artist">T.O.K.</a>  <a href="http://www.majorlazer.com/" rel="nofollow">http://www.majorlazer.com/</a></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Marc_Almond' onclick='UI.expand(this)'>
+          <span class='name'>Marc Almond</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/12006599.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 65,549</span>
+              <span class='playcount'>Playcount: 646,290</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>new wave</span>
+              <span class='tag'>80s</span>
+              <span class='tag'>pop</span>
+              <span class='tag'>new romantic</span>
+              <span class='tag'>cabaret</span>
+            </div>
+            <span class='bio'>Marc Almond (born Peter Mark Sinclair Almond on 9 July 1957 in Southport, Lancashire, (now in the county of Merseyside, England) is a popular English singer, songwriter and recording artist, who originally found fame as half of the seminal <a href="http://www.last.fm/tag/synthpop" class="bbcode_tag" rel="tag">synthpop</a>/<a href="http://www.last.fm/tag/new%20wave" class="bbcode_tag" rel="tag">new wave</a> duo <a href="http://www.last.fm/music/Soft+Cell" class="bbcode_artist">Soft Cell</a>.  Marc Almond has had a long and varied career spanning almost 30 years. During this time, after a career with Soft Cell and <a href="http://www.last.fm/music/Marc+and+the+Mambas" class="bbcode_artist">Marc and the Mambas</a>, he has collaborated with an extremely wide range of artists including <a href="http://www.last.fm/music/Antony+and+the+Johnsons" class="bbcode_artist">Antony and the Johnsons</a>, <a href="http://www.last.fm/music/Jools+Holland" class="bbcode_artist">Jools Holland</a>, <a href="http://www.last.fm/music/+noredirect/Siouxsie+Sioux" class="bbcode_artist">Siouxsie Sioux</a>, <a href="http://www.last.fm/music/Nick+Cave" class="bbcode_artist">Nick Cave</a>, <a href="http://www.last.fm/music/P." class="bbcode_artist">P.</a></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Matt___Kim' onclick='UI.expand(this)'>
+          <span class='name'>Matt & Kim</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/12266819.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 170,756</span>
+              <span class='playcount'>Playcount: 4,227,556</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>dance</span>
+            </div>
+            <span class='bio'>Matt &amp; Kim are the destructive punk dance duo from Brooklyn, New York consisting of Matt Johnson (vocals, keyboards) and Kim Schifino (drums, vocals). They released their debut album, the self titled MATT &amp; KIM (iheartcomix) in October 2006 and their sophomore album, GRAND (Fader) on January 20, 2009, the day Obama became President. Their primal rhythms and raw performances have gained them a substantial worldwide following and a massive online presence through social networking and media sites like YouTube and MySpace.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Mission_Of_Burma' onclick='UI.expand(this)'>
+          <span class='name'>Mission Of Burma</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/83819.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 133,494</span>
+              <span class='playcount'>Playcount: 1,911,149</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>Mission of Burma is an American <a href="http://www.last.fm/tag/post-punk" class="bbcode_tag" rel="tag">post-punk</a> band formed in Boston, Massachusetts in 1979. The band was formed by Roger Miller (guitar), Clint Conley (bass), Peter Prescott (drums) and Martin Swope (tape manipulator/sound engineer). Miller, Conley and Prescott share singing and songwriting duties. Like many of their post-punk contemporaries, Mission of Burma's efforts are largely concerned with extending punk's original vocabulary without losing its essential rebellious spirit.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Moderat' onclick='UI.expand(this)'>
+          <span class='name'>Moderat</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/24546193.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 40,864</span>
+              <span class='playcount'>Playcount: 1,636,877</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>idm</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>techno</span>
+              <span class='tag'>glitch</span>
+              <span class='tag'>BPitch Control</span>
+            </div>
+            <span class='bio'>Moderat are <a href="http://www.last.fm/music/Modeselektor" class="bbcode_artist">Modeselektor</a> and <a href="http://www.last.fm/music/Apparat" class="bbcode_artist">Apparat</a>.  <a href="http://www.last.fm/music/Moderat" class="bbcode_artist">Moderat</a>'s formation began back in 2002 in Berlin, Germany when Sascha Ring (aka <a href="http://www.last.fm/music/Apparat" class="bbcode_artist">Apparat</a>) and Gernot Bronsert and Sebastian Szary (aka <a href="http://www.last.fm/music/Modeselektor" class="bbcode_artist">Modeselektor</a>) recorded an EP for the record label <a href="http://www.last.fm/label/Bpitch+Control/" class="bbcode_label">Bpitch Control</a> (&quot;<a title="Moderat - Auf Kosten der Gesundheit" href="http://www.last.fm/music/Moderat/Auf+Kosten+der+Gesundheit" class="bbcode_album">Auf Kosten der Gesundheit</a>&quot;). When it came time to begin working on an album, <a href="http://www.last.fm/music/Moderat" class="bbcode_artist">Moderat</a> suddenly broke up.  Meanwhile <a href="http://www.last.fm/music/Modeselektor" class="bbcode_artist">Modeselektor</a> set a milestone in German music history with their sophomore album, <a title="Moderat - Happy Birthday!" href="http://www.last.fm/music/Moderat/Happy+Birthday%21" class="bbcode_album">Happy Birthday!</a>, including musicians such as <a href="http://www.last.fm/music/Puppetmastaz" class="bbcode_artist">Puppetmastaz</a>, <a href="http://www.last.fm/music/+noredirect/Maximo+Park" class="bbcode_artist">Maximo Park</a> and <a href="http://www.last.fm/music/Thom+Yorke" class="bbcode_artist">Thom Yorke</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Monotonix' onclick='UI.expand(this)'>
+          <span class='name'>Monotonix</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/20248487.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 5,670</span>
+              <span class='playcount'>Playcount: 71,555</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>Israel</span>
+              <span class='tag'>freak rock</span>
+              <span class='tag'>hard rock</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>Monotonix are a 3-piece of vocals, guitar and drums hailing from Tel-Aviv, Israel.  Monotonix have performed across the world and their performances are very energetic, verging on performance art. From lighting drums on fire, to hanging from ceiling fixtures, often heavily crowd-involved, no performance in the same city is like the last.  On their American tour, Monotonix opened for the <a href="http://www.last.fm/music/Silver+Jews" class="bbcode_artist">Silver Jews</a> on the west coast playing to thousands of people in cities like San Francisco and Los Angeles.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Mujeres' onclick='UI.expand(this)'>
+          <span class='name'>Mujeres</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/17183453.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 478</span>
+              <span class='playcount'>Playcount: 6,185</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>garage</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>Garage Punk</span>
+              <span class='tag'>pop</span>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Nana_Grizol' onclick='UI.expand(this)'>
+          <span class='name'>Nana Grizol</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/7196617.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 9,421</span>
+              <span class='playcount'>Playcount: 320,680</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>folk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>folk punk</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>athens</span>
+            </div>
+            <span class='bio'>&quot;Less of a band than an exuberant orbit of bright weird planets circling the joyful kinesis of main-songster Theo Hilton, Nana Grizol's debut album &quot;Love It Love It&quot; sees release on Orange Twin on May 13, 2008. Recorded in their hometown of Athens Georgia directly after a month-long tour of DIY spaces across the States, this record finds the band brimming with energy and rightly well-honed where live performance is concerned; &quot;Love It Love It&quot; sacrifices none of the band's beloved, sweat-stained essence.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_No_Age' onclick='UI.expand(this)'>
+          <span class='name'>No Age</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/24625141.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 126,982</span>
+              <span class='playcount'>Playcount: 3,091,127</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+            </div>
+            <span class='bio'>No Age is a <a href="http://www.last.fm/tag/noise%20rock" class="bbcode_tag" rel="tag">noise rock</a> band from Los Angeles, California which formed in December, 2005. The band consists of Randy Randall (guitar) and Dean Spunt (vocals, drums). The band has so far released two albums, 2007's &quot;Weirdo Rippers&quot; (a compilation of early material) and 2008's &quot;Nouns&quot;. In mid-2008, the band released the single &quot;Eraser&quot;, which has since become the band's best known song.  Dean Spunt and Randy Randall, two perfectly nice fellows from the LA skate/art/punk underworld, comprise No Age...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Nueva_Vulcano' onclick='UI.expand(this)'>
+          <span class='name'>Nueva Vulcano</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/12782697.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 5,638</span>
+              <span class='playcount'>Playcount: 133,408</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-hardcore</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative rock</span>
+              <span class='tag'>barcelona</span>
+              <span class='tag'>spanish</span>
+            </div>
+            <span class='bio'>After <a href="http://www.last.fm/music/Aina" class="bbcode_artist">Aina</a> split up, Artur Estrada, his singer and guitarrist decided to make a new band with Albert Guárdia (also Drummer for <a href="http://www.last.fm/music/The+moon+men" class="bbcode_artist">The moon men</a>) and Bassist ex-<a href="http://www.last.fm/music/+noredirect/Shanty+Rd" class="bbcode_artist">Shanty Rd</a>'s Wences Aparicio. Their sound is inclassificable in any genre, some influences are <a href="http://www.last.fm/music/Los+Planetas" class="bbcode_artist">Los Planetas</a>, <a href="http://www.last.fm/music/My+Bloody+Valentine" class="bbcode_artist">My Bloody Valentine</a>, <a href="http://www.last.fm/music/H%C3%BCsker+D%C3%BC" class="bbcode_artist">H&uuml;sker D&uuml;</a> and <a href="http://www.last.fm/music/Jawbox" class="bbcode_artist">Jawbox</a>. A mi me gustan más que a un tonto un lápiz!</span>
+          </div>
+        </li>
+        <li class='band' id='artist_ODDSAC' onclick='UI.expand(this)'>
+          <span class='name'>ODDSAC</span>
+          <img height='101' src='#' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners:</span>
+              <span class='playcount'>Playcount:</span>
+            </div>
+            <div class='tags'>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Orbital' onclick='UI.expand(this)'>
+          <span class='name'>Orbital</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27606787.gif' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 470,837</span>
+              <span class='playcount'>Playcount: 6,539,538</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>techno</span>
+              <span class='tag'>ambient</span>
+              <span class='tag'>electronica</span>
+              <span class='tag'>idm</span>
+            </div>
+            <span class='bio'>&quot;Orbital&quot; is an electronic duo consisting of brothers <a href="http://www.last.fm/music/Phil+Hartnoll" class="bbcode_artist">Phil Hartnoll</a> and <a href="http://www.last.fm/music/Paul+Hartnoll" class="bbcode_artist">Paul Hartnoll</a> formed in London, England whose career originally lasted from 1989 until 2004.  Orbital took their name from Greater London's orbital motorway, the M25, which was central to the early rave scene and party network in the South East during the early days of acid house. One of the biggest names in British electronica during the 1990s, Orbital were both critically and commercially successful, being particularly known for an element of live improvisation during their shows, a rarity with techno acts.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Owen_Pallett__Final_Fantasy_' onclick='UI.expand(this)'>
+          <span class='name'>Owen Pallett (Final Fantasy)</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/41210103.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 22,279</span>
+              <span class='playcount'>Playcount: 606,124</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>singer-songwriter</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>chamber pop</span>
+              <span class='tag'>violin</span>
+              <span class='tag'>Canadian</span>
+            </div>
+            <span class='bio'>Owen Pallett (born Michael James Owen Pallett-Plowright, on September 7, 1979) is a violinist and singer from Toronto, Ontario, Canada, and winner of the inaugural Polaris Music Prize. On December 18th, 2009, Pallett announced that he would be retiring his old artist name, <a href="http://www.last.fm/music/Final+Fantasy" class="bbcode_artist">Final Fantasy</a>, and would be henceforth releasing his material under his own name. Previous albums released under the Final Fantasy name are planned to be re-packaged and re-released under the new name of Owen Pallett.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Panda_Bear' onclick='UI.expand(this)'>
+          <span class='name'>Panda Bear</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/20352417.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 250,869</span>
+              <span class='playcount'>Playcount: 4,298,673</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>freak folk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>folk</span>
+            </div>
+            <span class='bio'>Panda Bear is the moniker of Noah Lennox, a founding member of <a href="http://www.last.fm/music/Animal+Collective" class="bbcode_artist">Animal Collective</a> who is also a member of <a href="http://www.last.fm/music/Jane" class="bbcode_artist">Jane</a>.  Lennox grew up in the Roland Park section of Baltimore, Maryland. As a child, he played sports, studied piano and cello. He later sang tenor in his high school chamber choir. After graduation, he attended Boston University but dropped out in 2000 and moved to New York to dedicate his efforts towards music.  His first solo release was the self titled Panda Bear in 1999, which was released under Soccer Star Records, a label founded by fellow Animal Collective member Deakin.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Pavement' onclick='UI.expand(this)'>
+          <span class='name'>Pavement</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/4465413.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 520,553</span>
+              <span class='playcount'>Playcount: 17,631,076</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>Pavement are an American <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> band from the 1990s. Although they experienced only moderate commercial success, they achieved a significant cult following, and their music has been a major influence on many bands of the late 1990s and beyond. They are largely considered as one of the first rock bands of the current age to gain a moderately wide degree of success without the support of a major label. In effect, the band gave rise to a deluge of indie rock bands who have succeeded on that same premise.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Pet_Shop_Boys' onclick='UI.expand(this)'>
+          <span class='name'>Pet Shop Boys</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/25726329.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 627,584</span>
+              <span class='playcount'>Playcount: 12,443,076</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>80s</span>
+              <span class='tag'>pop</span>
+              <span class='tag'>synthpop</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>new wave</span>
+            </div>
+            <span class='bio'>Pet Shop Boys are a British synthpop/pop music duo, consisting of <a href="http://www.last.fm/music/Neil+Tennant" class="bbcode_artist">Neil Tennant</a> who provides main vocals, keyboards and very occasionally guitar, and Chris Lowe on keyboards and occasionally on vocals. They formed in London, UK in 1982.  The longevity of Pet Shop Boys' career is generally attributed to their ability to create melodic pop/dance music with intelligent lyrics and striking style. They are the most successful duo in pop music, particularly in Europe.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Pixies' onclick='UI.expand(this)'>
+          <span class='name'>Pixies</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/41457.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 1,129,257</span>
+              <span class='playcount'>Playcount: 39,758,514</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>alternative</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>alternative rock</span>
+              <span class='tag'>indie rock</span>
+            </div>
+            <span class='bio'>Pixies are an American <a href="http://www.last.fm/tag/alternative%20rock" class="bbcode_tag" rel="tag">alternative rock</a> band which formed in Boston, Massachusetts, United States in 1986. They consist of Charles Michael Kitridge Thompson IV (vocals, guitar; also known as &quot;<a href="http://www.last.fm/music/Black+Francis" class="bbcode_artist">Black Francis</a>&quot; and later ''<a href="http://www.last.fm/music/Frank+Black" class="bbcode_artist">Frank Black</a>''), <a href="http://www.last.fm/music/Kim+Deal" class="bbcode_artist">Kim Deal</a> (bass, vocals), <a href="http://www.last.fm/music/Joey+Santiago" class="bbcode_artist">Joey Santiago</a> (guitar) and <a href="http://www.last.fm/music/David+Lovering" class="bbcode_artist">David Lovering</a> (drums). The band officially split in 1993 and reunited in 2004. They went on hiatus in 2007, with each band member pursuing projects of their own, only to reunite in 2009, with the announcement of a new tour commencing in Europe that summer.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Polvo' onclick='UI.expand(this)'>
+          <span class='name'>Polvo</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/138958.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 47,361</span>
+              <span class='playcount'>Playcount: 785,965</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>math rock</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>indie</span>
+            </div>
+            <span class='bio'>Polvo is an influential indie noise rock band of the 1990s from Chapel Hill, North Carolina, USA. The band was fronted by guitarists/vocalists Ash Bowie and Dave Brylawski. Eddie Watkins played drums, and Steve Popson played bass guitar.  The band reformed in 2008 with Brian Quast assuming drum duties.  Polvo are considered by some to be one of the key proponents of a genre which came to be known as math rock, although in interviews the band disavowed that categorization.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Real_Estate' onclick='UI.expand(this)'>
+          <span class='name'>Real Estate</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/30656913.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 41,261</span>
+              <span class='playcount'>Playcount: 755,500</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>Surf</span>
+              <span class='tag'>Alt-country</span>
+              <span class='tag'>surf rock</span>
+            </div>
+            <span class='bio'>Real Estate is a band hailing from New Jersey, now based in Brooklyn, N.Y. The band has roots in the Garden State and they’re led by singer/guitarist Martin Courtney and feature guitarist Matthew Mondanile (the latter known to some for his work in <a href="http://www.last.fm/music/Ducktails" class="bbcode_artist">Ducktails</a>, <a href="http://www.last.fm/music/Predator+Vision" class="bbcode_artist">Predator Vision</a>, and <a href="http://www.last.fm/music/The+Parasails" class="bbcode_artist">The Parasails</a>) as well as Alex Bleeker on bass and Etienne Duguay (also of <a href="http://www.last.fm/music/Predator+Vision" class="bbcode_artist">Predator Vision</a>) on the drums.  <a href="http://www.myspace.com/realestate" rel="nofollow">http://www.myspace.com/realestate</a></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Roddy_Frame' onclick='UI.expand(this)'>
+          <span class='name'>Roddy Frame</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/126301.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 9,220</span>
+              <span class='playcount'>Playcount: 78,767</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>singer-songwriter</span>
+              <span class='tag'>Scottish</span>
+              <span class='tag'>pop</span>
+              <span class='tag'>british</span>
+              <span class='tag'>Aztec Camera</span>
+            </div>
+            <span class='bio'>Roddy Frame (born January 29, 1964 in East Kilbride, South Lanarkshire, Scotland) is the founder of the 1980s Scottish indie band, <a href="http://www.last.fm/music/Aztec+Camera" class="bbcode_artist">Aztec Camera</a>. They released their first album, <a title="Aztec Camera - High Land, Hard Rain" href="http://www.last.fm/music/Aztec+Camera/High+Land%2C+Hard+Rain" class="bbcode_album">High Land, Hard Rain</a>, when Frame was aged nineteen. It spawned the hit single <a title="Aztec Camera &ndash; Oblivious" href="http://www.last.fm/music/Aztec+Camera/_/Oblivious" class="bbcode_track">Oblivious</a>, and Aztec Camera were recognised as one of the key acts on Glasgow's <a href="http://www.last.fm/label/Postcard/" class="bbcode_label">Postcard</a> record label, along with <a href="http://www.last.fm/music/Orange+Juice" class="bbcode_artist">Orange Juice</a> and <a href="http://www.last.fm/music/Josef+K" class="bbcode_artist">Josef K</a>.  Frame later signed to <a href="http://www.last.fm/label/Rough+Trade/" class="bbcode_label">Rough Trade</a>. Aztec Camera's biggest hit was 1987's <a title="Aztec Camera &ndash; Somewhere in My Heart" href="http://www.last.fm/music/Aztec+Camera/_/Somewhere+in+My+Heart" class="bbcode_track">Somewhere in My Heart</a>, which reached number 3 in the UK singles chart and is still a staple of FM radio.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Scout_Niblett' onclick='UI.expand(this)'>
+          <span class='name'>Scout Niblett</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/3716045.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 66,714</span>
+              <span class='playcount'>Playcount: 1,144,827</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>singer-songwriter</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>folk</span>
+              <span class='tag'>indie rock</span>
+            </div>
+            <span class='bio'>Emma Louise Niblett (born 29 September 1973) is a British <a href="http://www.last.fm/tag/singer-songwriter" class="bbcode_tag" rel="tag">singer-songwriter</a>, known by the pseudonym Scout Niblett. Her music is frequently <a href="http://www.last.fm/tag/minimalist" class="bbcode_tag" rel="tag">minimalist</a> in style, many of her songs consisting merely of vocals accompanied by either drums or guitar, which she mostly plays herself. She is known for her intimate live shows and her blond wig while performing. She is currently living in the United States, where she has worked with the influential <a href="http://www.last.fm/tag/producer" class="bbcode_tag" rel="tag">producer</a> <a href="http://www.last.fm/music/Steve+Albini" class="bbcode_artist">Steve Albini</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Seefeel' onclick='UI.expand(this)'>
+          <span class='name'>Seefeel</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28034523.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 62,585</span>
+              <span class='playcount'>Playcount: 501,153</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>ambient</span>
+              <span class='tag'>idm</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>electronica</span>
+            </div>
+            <span class='bio'>Seefeel formed in 1992, when guitarist Mark Clifford and drummer Justin Fletcher met vocalist Sarah Peacock and bassist Darren Seymour. They released their first EPs on the Too Pure label in 1993. Stylistically situated at the intersection of dream pop/shoegaze and ambient electronic/IDM, their music has a distinctive sound. This might have contributed to the band getting a contract with the seminal electronic label Warp Records in 1994. Since 1996, the band has been on an open-ended hiatus. Its members, however, have continued to release new material under different aliases.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Shellac' onclick='UI.expand(this)'>
+          <span class='name'>Shellac</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/3676242.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 62,489</span>
+              <span class='playcount'>Playcount: 1,398,136</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>math rock</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+            </div>
+            <span class='bio'>Shellac (sometimes referred to as '<a href="http://www.last.fm/music/+noredirect/Shellac+Of+North+America" class="bbcode_artist">Shellac Of North America</a>') is an <a href="http://www.last.fm/tag/america" class="bbcode_tag" rel="tag">america</a>n rock music group formed in <a href="http://www.last.fm/tag/chicago" class="bbcode_tag" rel="tag">chicago</a>, <a href="http://www.last.fm/tag/illinois" class="bbcode_tag" rel="tag">illinois</a>, in 1992 by <a href="http://www.last.fm/music/Steve+Albini" class="bbcode_artist">Steve Albini</a> (guitar and vocals), <a href="http://www.last.fm/music/Bob+Weston" class="bbcode_artist">Bob Weston</a> (bass guitar vocals) and <a href="http://www.last.fm/music/Todd+Trainer" class="bbcode_artist">Todd Trainer</a> (drums). They have been classified as <a href="http://www.last.fm/tag/noise%20rock" class="bbcode_tag" rel="tag">noise rock</a> and <a href="http://www.last.fm/tag/math%20rock" class="bbcode_tag" rel="tag">math rock</a>. Albini has claimed they refer to themselves as 'Shellac of North America', &quot;when we're being pretentious.&quot;</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Sian_Alice_Group' onclick='UI.expand(this)'>
+          <span class='name'>Sian Alice Group</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5267667.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 7,088</span>
+              <span class='playcount'>Playcount: 100,829</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>dream pop</span>
+              <span class='tag'>the social registry</span>
+            </div>
+            <span class='bio'>Sian Alice Group have a talent for artfully wrought, wholly realized compositions.  Founded in the rock tradition, but adorned by the orchestral, the band unifies its members’ varied backgrounds in to a cohesive whole, underpinning it all with the ethereal beauty of Sian Ahern’s voice.  They have an instinctively experimental approach to their songwriting, and take in elements of <a href="http://www.last.fm/tag/rock" class="bbcode_tag" rel="tag">rock</a>, <a href="http://www.last.fm/tag/modern%20classical" class="bbcode_tag" rel="tag">modern classical</a>, <a href="http://www.last.fm/tag/soul" class="bbcode_tag" rel="tag">soul</a>, <a href="http://www.last.fm/tag/improvisation" class="bbcode_tag" rel="tag">improvisation</a>, <a href="http://www.last.fm/tag/free%20jazz" class="bbcode_tag" rel="tag">free jazz</a> and <a href="http://www.last.fm/tag/dance" class="bbcode_tag" rel="tag">dance</a> to create a mix that sounds both organic and completely original.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Sic_Alps' onclick='UI.expand(this)'>
+          <span class='name'>Sic Alps</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/13583395.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 16,888</span>
+              <span class='playcount'>Playcount: 231,294</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>noise pop</span>
+            </div>
+            <span class='bio'>Sic Alps are a <a href="http://www.last.fm/tag/noise%20pop" class="bbcode_tag" rel="tag">noise pop</a> group from San Francisco consisting  of Matt Hartman, Mike Donovan and Noel Von Harmonson.  Sic Alps' sound could be described as a combination of early nineties <a href="http://www.last.fm/tag/lo-fi" class="bbcode_tag" rel="tag">lo-fi</a> and Bay Area's sixties <a href="http://www.last.fm/tag/psychedelia" class="bbcode_tag" rel="tag">psychedelia</a>. Even though Sic Alps are a fairly new band, they're already notorious for their exciting and energetic live performances. They have released music on Siltbreeze, Mt. St. Mtn, 777 was 666, Animal Disguise, Skulltones, Almost Ready, Slumberland and Drag City.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Sleigh_Bells' onclick='UI.expand(this)'>
+          <span class='name'>Sleigh Bells</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/39532767.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 12,148</span>
+              <span class='playcount'>Playcount: 121,102</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>Hip-Hop</span>
+              <span class='tag'>experimental</span>
+            </div>
+            <span class='bio'>The initial meeting between Derek Miller and Alexis Krauss of Sleigh Bells sounds almost like a scene out of a movie: He was working at a Brooklyn restaurant during the summer; she, a fifth grade public school teacher, was one of his customers and by chance they started talking about music. A mere week later they were recording together and thus, Sleigh Bells were formed.  To make matters even more interesting, the two come from very different musical backgrounds, with Derek playing hardcore and Alexis being part of a pop group during her teens.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Spoon' onclick='UI.expand(this)'>
+          <span class='name'>Spoon</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/2555131.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 774,932</span>
+              <span class='playcount'>Playcount: 21,697,149</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>indie pop</span>
+            </div>
+            <span class='bio'>Spoon is an American <a href="http://www.last.fm/tag/indie" class="bbcode_tag" rel="tag">indie</a> <a href="http://www.last.fm/tag/rock" class="bbcode_tag" rel="tag">rock</a> band from Austin, Texas. The band was formed in late 1993 by lead singer/guitarist Britt Daniel and drummer Jim Eno. Current members also include: Eric Harvey (keyboard, guitar, percussion, backing vocals) and Rob Pope (bass, backing vocals - replaced Joshua Zarbo in 2007).  After releasing their debut LP <a title="Spoon - Telephono" href="http://www.last.fm/music/Spoon/Telephono" class="bbcode_album">Telephono</a> on <a href="http://www.last.fm/label/Matador/" class="bbcode_label">Matador</a> Records, the band signed with <a href="http://www.last.fm/label/Elektra/" class="bbcode_label">Elektra</a> in 1998, but the contract was dropped soon after the band released <a title="Spoon - A Series of Sneaks" href="http://www.last.fm/music/Spoon/A+Series+of+Sneaks" class="bbcode_album">A Series of Sneaks</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Standstill' onclick='UI.expand(this)'>
+          <span class='name'>Standstill</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/2868354.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 20,905</span>
+              <span class='playcount'>Playcount: 428,242</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-hardcore</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>
+              There are more than one artist with this name.  1) Standstill is a Spanish indie rock band from Barcelona. Their first two albums were hardcore, sung in English and reached some popularity in European hardcore scene. After those two records, they released an acoustic EP, and since then, they've been singing in Spanish (the last two albums). Their style has changed radically as well, and they play alternative rock now instead of hardcore.  <a href="http://www.vivalaguerra.com/" rel="nofollow">website</a>
+               <a href="http://www.myspace.com/standstill" rel="nofollow">myspace</a>
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Sunny_Day_Real_Estate' onclick='UI.expand(this)'>
+          <span class='name'>Sunny Day Real Estate</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5444433.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 185,750</span>
+              <span class='playcount'>Playcount: 3,844,674</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>emo</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>Sunny Day Real Estate is an American emo band formed in Seattle, Washington in 1992. The band helped bring the emo subgenre from an underground musical phenomenon to a wider audience. The band's lineup was Jeremy Enigk (vocals, guitars), Dan Hoerner (guitar), Nate Mendel (bass) and William Goldsmith (drums).  The core of Sunny Day Real Estate formed in 1992, originally under the name Empty Set. Empty Set consisted of Dan Hoerner (guitar, vocals), Nate Mendel (bass), and William Goldsmith (drums).</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Superchunk' onclick='UI.expand(this)'>
+          <span class='name'>Superchunk</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/11507.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 71,020</span>
+              <span class='playcount'>Playcount: 1,218,509</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>post-punk</span>
+            </div>
+            <span class='bio'>Superchunk is an <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> band which formed in 1989 in the college town of Chapel Hill, North Carolina, United States. The band consists of Mac McCaughan (vocals, guitar), Laura Ballance (bass), Jim Wilbur (guitar) and Jon Wurster (drums). McCaughan and Ballance founded the indie record label Merge Records mostly to distribute the band's material, but has since grown into one of the largest indie record labels in the United States.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Surfer_Blood' onclick='UI.expand(this)'>
+          <span class='name'>Surfer Blood</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/40274371.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 30,095</span>
+              <span class='playcount'>Playcount: 466,419</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>surf rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>Psychedelic Rock</span>
+            </div>
+            <span class='bio'>
+              Surfer Blood are a band from West Palm Beach, Florida. Their debut album, Astro Coast was released on January 19, 2010 on Kanine Records.  For more information visit:
+               <a href="http://www.myspace.com/surferblood" rel="nofollow">http://www.myspace.com/surferblood</a>
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Almighty_Defenders' onclick='UI.expand(this)'>
+          <span class='name'>The Almighty Defenders</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/35567169.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 3,729</span>
+              <span class='playcount'>Playcount: 47,950</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>gospel</span>
+              <span class='tag'>punk rock</span>
+              <span class='tag'>swamp rock</span>
+            </div>
+            <span class='bio'>Supergroup including members of the Black Lips and the King Khan &amp; BBQ show. Album out on VICE September 22nd!</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Antlers' onclick='UI.expand(this)'>
+          <span class='name'>The Antlers</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/27862867.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 75,724</span>
+              <span class='playcount'>Playcount: 1,379,084</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>slowcore</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>Fuzz-Folk</span>
+              <span class='tag'>singer-songwriter</span>
+            </div>
+            <span class='bio'>The Antlers are an indie rock band currently based in Brooklyn, New York, fronted by Peter Silberman. Initially, The Antlers was a solo project created by vocalist and guitarist Peter Silberman immediately after he had moved to Brooklyn, New York, in 2007 where he had isolated himself from family and friends. Silberman wrote the first album, &quot;In the Attic of the Universe&quot; by himself and under his own name. Afterwards, he recruited Lerner and Cicci, becoming a collaborative group. The band recorded two EPs: &quot;Cold War&quot; and &quot;New York Hospitals&quot;.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Big_Pink' onclick='UI.expand(this)'>
+          <span class='name'>The Big Pink</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/22858237.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 70,192</span>
+              <span class='playcount'>Playcount: 1,149,084</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>shoegaze</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>british</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>The Big Pink are an electro rock duo which formed in 2007 in London, England. The group consists of Robbie Furze (vocals, guitar) and Milo Cordell (keyboards, synths, vocals). They are best known for their 2009 single &quot;<a title="The Big Pink &ndash; Dominos" href="http://www.last.fm/music/The+Big+Pink/_/Dominos" class="bbcode_track">Dominos</a>&quot;, which peaked at #29 on the UK Singles Chart.  This London duo use gritty beats, droning guitars, abstract effects and dreamy vocals to create a soundscape that is arty yet tuneful. They have previously supported <a href="http://www.last.fm/music/TV+on+the+Radio" class="bbcode_artist">TV on the Radio</a>, <a href="http://www.last.fm/music/+noredirect/Florence%2B%2526%2BThe%2BMachine" class="bbcode_artist">Florence &amp; The Machine</a>, <a href="http://www.last.fm/music/Crystal+Castles" class="bbcode_artist">Crystal Castles</a> and <a href="http://www.last.fm/music/Klaxons" class="bbcode_artist">Klaxons</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Bloody_Beetroots_Death_Crew_77' onclick='UI.expand(this)'>
+          <span class='name'>The Bloody Beetroots Death Crew 77</span>
+          <img height='101' src='#' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners:</span>
+              <span class='playcount'>Playcount:</span>
+            </div>
+            <div class='tags'>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Books' onclick='UI.expand(this)'>
+          <span class='name'>The Books</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/36990359.png' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 238,889</span>
+              <span class='playcount'>Playcount: 5,884,655</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>electronica</span>
+              <span class='tag'>indietronica</span>
+            </div>
+            <span class='bio'>The story of The Books began in 2000, when Nick Zammuto and Paul de Jong met through a friend in New York City. Sharing similar interests but different backgrounds in acoustic music and found sound, Zammuto and de Jong took their sonic experiments to the studio. Eventually, with some urging by Tom Steinle of Tomlab Records, they created what would become their debut record, Thought for Food, in 2002.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Bundles' onclick='UI.expand(this)'>
+          <span class='name'>The Bundles</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/246290.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 92</span>
+              <span class='playcount'>Playcount: 626</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>5432fun</span>
+            </div>
+            <span class='bio'>In February 2001 New York performer/comic book artist Jeffrey Lewis was living in Austin, Texas for a few months and then-Moldy Peach Kimya Dawson came to visit him. During that visitation week they made up five songs with Jeffrey on guitar and Kimya on keyboards. In 2002, when Kimya had launched her solo career and was touring Germany along with the Jeffrey Lewis Band, those same five songs expanded into full band songs with the addition of Jeffrey's brother/bandmate Jack Lewis on bass and Anders Griffen (known for his work with jazz great Frank Lowe and Regina Spektor) on drums.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Charlatans' onclick='UI.expand(this)'>
+          <span class='name'>The Charlatans performing "Some Friendly"</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/3607212.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 314,053</span>
+              <span class='playcount'>Playcount: 3,496,894</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>britpop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>madchester</span>
+              <span class='tag'>british</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>
+              There are two bands with the name The Charlatans.
+               1960s: A US psychedelic rock band from San Francisco. 
+               1990s-present: A UK indie rock band from Manchester.  - - - - -   The Charlatans (known as Charlatans UK in the USA to avoid confusion with the 1960's group of the same name) were originally formed in Birmingham, England by bassist <a href="http://www.last.fm/music/Martin+Blunt" class="bbcode_artist">Martin Blunt</a>, who recruited fellow West Midlanders; Rob Collins (keyboards), Jon Brookes (drums), John Baker (also known as Day) (guitar) plus vocalist <span title="Unknown artist" class="bbcode_unknown">Baz Ketley</span>.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Clean' onclick='UI.expand(this)'>
+          <span class='name'>The Clean</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/13548577.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 19,495</span>
+              <span class='playcount'>Playcount: 485,415</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>New Zealand</span>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>flying nun</span>
+              <span class='tag'>Kiwi</span>
+            </div>
+            <span class='bio'>The Clean were an influential  band that formed in Dunedin, New Zealand in 1978, inspired by punk filtering through to the relatively isolated New Zealand, as well as the classic '60s influences. Led through a number of early rotating line-ups by brothers Hamish and David Kilgour, the band settled down to the well-known line-up with bassist Robert Scott. Early incarnations of the Clean included Peter Gutteridge, later of the Chills, Snapper and others,  and who wrote &quot;Point That Thing&quot;...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Drums' onclick='UI.expand(this)'>
+          <span class='name'>The Drums</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/29836313.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 61,757</span>
+              <span class='playcount'>Playcount: 634,616</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>surf rock</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>pop</span>
+            </div>
+            <span class='bio'>
+              There is more than one group that goes by the name The Drums.  
+               1 ) Jonathan Pierce and Jacob Graham met at summer camp when they were children and have been best friends ever since. Soon after their initial meeting, they formed <a href="http://www.last.fm/music/Goat+Explosion" class="bbcode_artist">Goat Explosion</a> and toured extensively in North America during their teenage years. Around 2003, Jonathan and Adam Kessler formed <a href="http://www.last.fm/music/Elkland" class="bbcode_artist">Elkland</a>. In the meantime, Jacob formed a band called <a href="http://www.last.fm/music/HORSE+SHOES" class="bbcode_artist">HORSE SHOES</a> (<a href="http://www.last.fm/label/Shelflife+Records/" class="bbcode_label">Shelflife Records</a>).
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Fall' onclick='UI.expand(this)'>
+          <span class='name'>The Fall</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/28153799.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 204,280</span>
+              <span class='playcount'>Playcount: 4,803,807</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>new wave</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>
+              Famously described by <a href="http://www.last.fm/music/John+Peel" class="bbcode_artist">John Peel</a> as being &quot;always different, always the same&quot;, The Fall were formed in Manchester, England in 1976 during the <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a> era although their style quickly evolved into something more idiosyncratic.
+                
+               The one permanent fixture amidst the Fall's ever-changing line-up is <a href="http://www.last.fm/music/Mark+E.+Smith" class="bbcode_artist">Mark E. Smith</a>. Smith's lyrics are free, unboxed and unpredictable, touching on an extremely wide range of subjects and places and caring little for being tied down to easily digestible messages.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Field' onclick='UI.expand(this)'>
+          <span class='name'>The Field</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/11861463.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 118,125</span>
+              <span class='playcount'>Playcount: 2,075,162</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>electronic</span>
+              <span class='tag'>minimal</span>
+              <span class='tag'>minimal techno</span>
+              <span class='tag'>techno</span>
+              <span class='tag'>ambient</span>
+            </div>
+            <span class='bio'>
+              There are 3 artists named The Field:
+               1) Swedish minimalistic techno-artist who has released material on Kompakt and Monotoni.  Real name is <a href="http://www.last.fm/music/Axel+willner" class="bbcode_artist">Axel willner</a>.
+               2) Indie band from Sheffield, England.
+               3) Norwegian jazz/pop/acoustic-band, formed in Bærum, close to Oslo. The band consists of 3 members: Carl Frederik Kontny (Guitar), Sigrid Z. Gundersen (vocal) and Jakob E. Myhre (Piano), three good friends who share the same idea of what music is all about.  About The Field (Stockholm, Sweden) 
+               The Field is a minimal techno artist, based in Stockholm, Sweden.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_King_Khan___BBQ_Show' onclick='UI.expand(this)'>
+          <span class='name'>The King Khan & BBQ Show</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/5625928.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 20,764</span>
+              <span class='playcount'>Playcount: 405,139</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>garage</span>
+              <span class='tag'>trash blues</span>
+              <span class='tag'>Montreal garage</span>
+              <span class='tag'>sleazerock</span>
+            </div>
+            <span class='bio'>The King Khan &amp; BBQ Show is a Canadian <a href="http://www.last.fm/tag/garage%20rock" class="bbcode_tag" rel="tag">garage rock</a> duo from Montreal, Quebec. The band is comprised of former <a href="http://www.last.fm/music/The+Spaceshits" class="bbcode_artist">The Spaceshits</a> bandmates <a href="http://www.last.fm/music/Mark+Sultan" class="bbcode_artist">Mark Sultan</a> and Blacksnake. Mark Sultan, under the pseudonym <a href="http://www.last.fm/music/BBQ" class="bbcode_artist">BBQ</a>, contributes vocals, guitar, tambourine, bass drum, and snare drum; while Blacksnake, currently using the pseudonym King Khan, provides lead guitar and vocals.  Both BBQ and King Khan had previously collaborated together while the two were members of the Montreal-based Spaceshits, however, following a European tour...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_New_Pornographers' onclick='UI.expand(this)'>
+          <span class='name'>The New Pornographers</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/20604695.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 401,413</span>
+              <span class='playcount'>Playcount: 14,176,429</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>Canadian</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>The New Pornographers are a Canadian <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> group formed in 1997 in <a href="http://www.last.fm/tag/vancouver">Vancouver</a>, British Columbia, Canada. Their sound is influenced by that of such <a href="http://en.wikipedia.org/wiki/Power_pop" rel="nofollow">power pop</a> bands as <a href="http://www.last.fm/music/The+Cars" class="bbcode_artist">The Cars</a> and <a href="http://www.last.fm/music/Cheap+Trick" class="bbcode_artist">Cheap Trick</a>, but they use much more sophisticated keys and chord changes. Although it was widely reported that the New Pornographers got their name from a pamphlet put out by televangelist Jimmy Swaggart condemning rock ‘n’ roll as “the new pornography,” Carl Newman has stated that he came up with the name after watching a Japanese film called The Pornographers.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Psychic_Paramount' onclick='UI.expand(this)'>
+          <span class='name'>The Psychic Paramount</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/38008.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 4,022</span>
+              <span class='playcount'>Playcount: 40,687</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>noise</span>
+              <span class='tag'>post-rock</span>
+            </div>
+            <span class='bio'>The Psychic Paramount are a trio from Brooklyn consisting of Drew St. Ivany (guitar), Ben Armstrong (bass) and Jeff Conaway (drums).</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Slits' onclick='UI.expand(this)'>
+          <span class='name'>The Slits</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/29273157.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 80,898</span>
+              <span class='playcount'>Playcount: 778,937</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>female vocalists</span>
+              <span class='tag'>riot grrrl</span>
+              <span class='tag'>dub</span>
+            </div>
+            <span class='bio'>The Slits were formed in 1976 in London, England. The original female members were vocalist  Ari Up (Ariana Foster), drummer Palmolive (Paloma Romera- who later left to join The Raincoats, guitarist Kate Korus and bassist Suzi Gutsy. Viv Albertine and Tessa Politt would later replace Kate and Suzi. Budgie (aka Pete Clarke, formerly of The Spitfire Boys and later to join Siouxsie and the Banshees was their male drummer when Palmolive left the band.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Smith_Westerns' onclick='UI.expand(this)'>
+          <span class='name'>The Smith Westerns</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/34412557.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 2,081</span>
+              <span class='playcount'>Playcount: 25,798</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>noise rock</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>chicago</span>
+            </div>
+            <span class='bio'>The Smith Westerns are from Chicago, and as far as we can tell are either named after a tourist trinket manufacturer in Tacoma or a chain of honkytonk restaurants in south England. Maybe both. Imagine being on family vacation somewhere kind of corny and sucky but running into a girl or boy who is also on family vacation in the same corny, sucky place. You guys buy each other pins from the gift shop at the foot of a rollercoaster, maybe they're little cowboy hats. You throw some skeeball.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_Wave_Pictures' onclick='UI.expand(this)'>
+          <span class='name'>The Wave Pictures</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/569279.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 26,835</span>
+              <span class='playcount'>Playcount: 591,641</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>british</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>anti-folk</span>
+            </div>
+            <span class='bio'>London based rock trio, consisting of David Tattersall, Franic Rozycki and Johnny Helm.  The first line-up of the band came together in Wymeswold, Leicestershire, United Kingdom in 1998. They recorded and self-released a string of albums before finally settling in London with the current line-up.    After the release of <a title="The Wave Pictures - Sophie" href="http://www.last.fm/music/The+Wave+Pictures/Sophie" class="bbcode_album">Sophie</a> (2006) on <a href="http://www.last.fm/label/Smoking+Gun+Records/" class="bbcode_label">Smoking Gun Records</a>, the band signed a two record deal with the London independent label <a href="http://www.last.fm/label/Moshi+Moshi/" class="bbcode_label">Moshi Moshi</a> records.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_The_XX' onclick='UI.expand(this)'>
+          <span class='name'>The XX</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/38380283.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 108,766</span>
+              <span class='playcount'>Playcount: 5,340,983</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie</span>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>british</span>
+              <span class='tag'>electronic</span>
+              <span class='tag'>dance</span>
+            </div>
+            <span class='bio'>Formed in 2005, The xx are an <a href="http://www.last.fm/tag/alternative" class="bbcode_tag" rel="tag">alternative</a> trio formed in London, England, featuring the dual lead vocals of Romy Madley Croft and Oliver Sim (who also play lead guitar and bass guitar respectively), and Jamie Smith (beats, MPC sampler). Rounding out the group was keyboardist Baria Qureshi.  Bonding over a shared love of dark, emotive 80s guitar sounds and the high-end sheen of American R&amp;B, The xx’s unique sound befits a band whose wide range of influences combine via beautiful, hushed vocal duets and a brilliantly inventive use of samples and low-end frequencies to produce stark...</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Thee_Oh_Sees' onclick='UI.expand(this)'>
+          <span class='name'>Thee Oh Sees</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/35746121.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 23,329</span>
+              <span class='playcount'>Playcount: 640,200</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>Garage Rock</span>
+              <span class='tag'>garage</span>
+              <span class='tag'>Stoner Rock</span>
+            </div>
+            <span class='bio'>
+              <a href="http://www.last.fm/music/John+Dwyer" class="bbcode_artist">John Dwyer</a> (of <a href="http://www.last.fm/music/Coachwhips" class="bbcode_artist">Coachwhips</a>, <a href="http://www.last.fm/music/+noredirect/Pink+and+Brown" class="bbcode_artist">Pink and Brown</a>, <a href="http://www.last.fm/music/Landed" class="bbcode_artist">Landed</a>, <a href="http://www.last.fm/music/Yikes" class="bbcode_artist">Yikes</a>, <a href="http://www.last.fm/music/Burmese" class="bbcode_artist">Burmese</a>, <a href="http://www.last.fm/music/The+Hospitals" class="bbcode_artist">The Hospitals</a>, <a href="http://www.last.fm/music/Sword%2B%2526%2BSandals" class="bbcode_artist">Sword &amp; Sandals</a>, <span title="Unknown artist" class="bbcode_unknown">Superpit</span>, <a href="http://www.last.fm/music/The+Drums" class="bbcode_artist">The Drums</a>, <a href="http://www.last.fm/music/The+Trawgs" class="bbcode_artist">The Trawgs</a>, <a href="http://www.last.fm/music/Zeigenbock+Kopf" class="bbcode_artist">Zeigenbock Kopf</a> and Dig That Body Up It's Alive!) is in Thee Oh Sees and he seems to be making this band the most serious project. He's done everything from <a href="http://www.last.fm/tag/noise" class="bbcode_tag" rel="tag">noise</a> to <a href="http://www.last.fm/tag/death%20metal" class="bbcode_tag" rel="tag">death metal</a> to <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a> and now this. 
+               Thee Oh Sees are no doubt the lightest of his excursions, but it also shows what may be his very essence.  It's obvious that he loves music and wants to experience it all, touch every aspect, and give it all a go.
+            </span>
+          </div>
+        </li>
+        <li class='band' id='artist_Titus_Andronicus' onclick='UI.expand(this)'>
+          <span class='name'>Titus Andronicus</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/4529160.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 52,520</span>
+              <span class='playcount'>Playcount: 683,535</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Lo-Fi</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>rock</span>
+            </div>
+            <span class='bio'>Titus Andronicus is an <a href="http://www.last.fm/tag/indie%20rock" class="bbcode_tag" rel="tag">indie rock</a> band which formed in Glen Rock, New Jersey, United States in 2005. They consist of Patrick Stickles (vocals, guitar), Ian O'Neil (guitar), Ian Graetzer (bass), Andrew Cedermark (keyboards, vocals) and Eric Harm (drums). The band takes its name from the Shakespeare play Titus Andronicus.  Their debut album, <a title="Titus Andronicus - The Airing Of Grievances" href="http://www.last.fm/music/Titus+Andronicus/The+Airing+Of+Grievances" class="bbcode_album">The Airing Of Grievances</a>, was released on the Troubleman Unlimited record label on April 14, 2008 to many positive reviews.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Tortoise' onclick='UI.expand(this)'>
+          <span class='name'>Tortoise</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/298071.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 251,009</span>
+              <span class='playcount'>Playcount: 4,962,319</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>instrumental</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>post rock</span>
+            </div>
+            <span class='bio'>Tortoise's almost entirely instrumental music defies easy categorization, and the group gained significant attention from their early career. The members have roots in Chicago's fertile music scene, playing in various indie rock and punk groups. Tortoise was among the first American indie rock bands to incorporate styles closer to <a href="http://www.last.fm/tag/krautrock" class="bbcode_tag" rel="tag">krautrock</a>, <a href="http://www.last.fm/tag/dub" class="bbcode_tag" rel="tag">dub</a>, <a href="http://www.last.fm/tag/minimalism" class="bbcode_tag" rel="tag">minimalism</a>, electronica and various jazz styles, rather than the standard rock and roll and punk that had dominated indie rock for years.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Ui' onclick='UI.expand(this)'>
+          <span class='name'>Ui</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/292537.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 8,761</span>
+              <span class='playcount'>Playcount: 83,440</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-rock</span>
+              <span class='tag'>experimental</span>
+              <span class='tag'>instrumental</span>
+              <span class='tag'>post rock</span>
+              <span class='tag'>math rock</span>
+            </div>
+            <span class='bio'>Ui (pronounced ooo-eee) was an American post-rock band based in New York City, which started in 1990 and ended mid-2000s. The group was started by Sasha Frere-Jones and Clem Waldmann, with Wilbo Wright joining the group in 1993. What set Ui apart from other post-rock groups was their emphasis on bass instead of guitar (Ui had two bass players). But besides their emphasis on bass, Ui also expanded their sound with supporting instruments; such as banjo, synthesizers, tuba and timpani (the group also had a high reliance on samplers and other studio equipment to flesh out their sound further).</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Wilco' onclick='UI.expand(this)'>
+          <span class='name'>Wilco</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/8264901.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 671,965</span>
+              <span class='playcount'>Playcount: 27,425,005</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>Alt-country</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>rock</span>
+              <span class='tag'>alternative</span>
+            </div>
+            <span class='bio'>Wilco is an <a href="http://www.last.fm/tag/american">American</a> <a href="http://www.last.fm/tag/rock" class="bbcode_tag" rel="tag">rock</a> band based in Chicago, Illinois. The band was formed in 1994 by the remaining members of <a href="http://www.last.fm/tag/alternative%20country" class="bbcode_tag" rel="tag">alternative country</a> group <a href="http://www.last.fm/music/Uncle+Tupelo" class="bbcode_artist">Uncle Tupelo</a> following singer <a href="http://www.last.fm/music/Jay+Farrar" class="bbcode_artist">Jay Farrar</a>'s departure from that group. Wilco's lineup has changed frequently, with only singer <a href="http://www.last.fm/music/Jeff+Tweedy" class="bbcode_artist">Jeff Tweedy</a> and bassist <a href="http://www.last.fm/music/John+Stirratt" class="bbcode_artist">John Stirratt</a> remaining from the original incarnation. The other current members are guitarist <a href="http://www.last.fm/music/Nels+Cline" class="bbcode_artist">Nels Cline</a>, multi-instrumentalists <a href="http://www.last.fm/music/Pat+Sansone" class="bbcode_artist">Pat Sansone</a> and <a href="http://www.last.fm/music/Mikael+Jorgensen" class="bbcode_artist">Mikael Jorgensen</a>, and drummer <a href="http://www.last.fm/music/Glenn+Kotche" class="bbcode_artist">Glenn Kotche</a>.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Wild_Beasts' onclick='UI.expand(this)'>
+          <span class='name'>Wild Beasts</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/2566314.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 56,911</span>
+              <span class='playcount'>Playcount: 988,362</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>british</span>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>Leeds</span>
+            </div>
+            <span class='bio'><a href="http://www.last.fm/music/Wild+Beasts" class="bbcode_artist">Wild Beasts</a> are a 4 piece band from Kendal, United Kingdom now based in Leeds, UK.  Their debut single, <a title="Wild Beasts &ndash; Brave Bulging Buoyant Clairvoyants" href="http://www.last.fm/music/Wild+Beasts/_/Brave+Bulging+Buoyant+Clairvoyants" class="bbcode_track">Brave Bulging Buoyant Clairvoyants</a> backed with <a title="Wild Beasts &ndash; The Old Dog" href="http://www.last.fm/music/Wild+Beasts/_/The+Old+Dog" class="bbcode_track">The Old Dog</a> was released on Bad Sneakers Records on 20th November 2006.  Their second single <a title="Wild Beasts &ndash; Through Dark Night" href="http://www.last.fm/music/Wild+Beasts/_/Through+Dark+Night" class="bbcode_track">Through Dark Night</a> backed with <a title="Wild Beasts &ndash; Please, Sir" href="http://www.last.fm/music/Wild+Beasts/_/Please%2C+Sir" class="bbcode_track">Please, Sir</a> was released 23rd April as their last single on <a href="http://www.last.fm/label/Bad+Sneakers/" class="bbcode_label">Bad Sneakers</a>.  In February 2007 the band signed to Domino Records.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Wild_Honey' onclick='UI.expand(this)'>
+          <span class='name'>Wild Honey</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/37276679.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 4,343</span>
+              <span class='playcount'>Playcount: 32,474</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>indie pop</span>
+              <span class='tag'>spanish indie pop</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>lazy recordings</span>
+              <span class='tag'>Madrid</span>
+            </div>
+            <span class='bio'></span>
+          </div>
+        </li>
+        <li class='band' id='artist_Wire' onclick='UI.expand(this)'>
+          <span class='name'>Wire</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/7564605.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 227,253</span>
+              <span class='playcount'>Playcount: 4,298,986</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>post-punk</span>
+              <span class='tag'>punk</span>
+              <span class='tag'>new wave</span>
+              <span class='tag'>alternative</span>
+              <span class='tag'>Post punk</span>
+            </div>
+            <span class='bio'>Wire is a band formed in 1976 in Watford, England and after splitting in 1980, have reformed three times. They consist of <a href="http://www.last.fm/music/Colin+Newman" class="bbcode_artist">Colin Newman</a> (vocals, guitar), <a href="http://www.last.fm/music/Graham+Lewis" class="bbcode_artist">Graham Lewis</a> (vocals, bass) and <a href="http://www.last.fm/music/Robert+Gotobed" class="bbcode_artist">Robert Gotobed</a> (drums). Founding guitarist <a href="http://www.last.fm/music/Bruce+Gilbert" class="bbcode_artist">Bruce Gilbert</a> left in 2004. In 2008, Margaret Fielder McGinnis of <a href="http://www.last.fm/music/Laika" class="bbcode_artist">Laika</a> joined the band as their touring guitarist.  <a href="http://www.last.fm/music/Wire" class="bbcode_artist">Wire</a> emerged out of the British <a href="http://www.last.fm/tag/punk" class="bbcode_tag" rel="tag">punk</a> explosion but, from the outset, maintained a distance from that scene and resisted easy categorization.</span>
+          </div>
+        </li>
+        <li class='band' id='artist_Yeasayer' onclick='UI.expand(this)'>
+          <span class='name'>Yeasayer</span>
+          <img height='101' src='http://userserve-ak.last.fm/serve/126/4295437.jpg' width='126' />
+          <div class='info'>
+            <div class='stats'>
+              <span class='listeners'>Listeners: 186,633</span>
+              <span class='playcount'>Playcount: 4,159,359</span>
+            </div>
+            <div class='tags'>
+              <span class='tag'>experimental</span>
+              <span class='tag'>psychedelic</span>
+              <span class='tag'>indie rock</span>
+              <span class='tag'>indie</span>
+              <span class='tag'>folk</span>
+            </div>
+            <span class='bio'>
+              Yeasayer (pronounced &quot;yay-sayer&quot; /'jeɪseɪ.ər/) is an experimental band based in Brooklyn, New York. Live performances sometimes include trippy, psychedelic visuals projected in the background.
+               The band members are Anand Wilder, <a href="http://www.last.fm/music/Chris+Keating" class="bbcode_artist">Chris Keating</a>, and Ira Wolf Tuton. They describe their music as &quot;Middle Eastern-psych-snap-gospel&quot;.  Yeasayer recently revealed in an interview with Pitchfork that they had finished their sophomore album and it would be released on February 9, 2010. On October 30th, 2009 Yeasayer revealed details for the first single release from &quot;Odd Blood&quot; entitled &quot;Ambling Alp&quot;.
+            </span>
+          </div>
+        </li>
+      </ul>
+    </div>
+    <div id='hidden_bands'></div>
+    <script>
+      var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+      document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script>
+    <script>
+      try {
+        var pageTracker = _gat._getTracker("UA-8143307-1");
+        pageTracker._trackPageview();
+      } catch(err) {
+        if(console && console.log){
+          console.log("GA Error %o", err);
+        }
+      }
+    </script>
+  </body>
+</html>
