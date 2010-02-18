@@ -1,0 +1,118 @@
+--- 
+tag: 
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "72"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "38"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "38"
+- name: the social registry
+  url: http://www.last.fm/tag/the%20social%20registry
+  count: "22"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "11"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "11"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "11"
+- name: powerful
+  url: http://www.last.fm/tag/powerful
+  count: "11"
+- name: chamber jazz
+  url: http://www.last.fm/tag/chamber%20jazz
+  count: "5"
+- name: morning
+  url: http://www.last.fm/tag/morning
+  count: "5"
+- name: future pop
+  url: http://www.last.fm/tag/future%20pop
+  count: "5"
+- name: imaginative
+  url: http://www.last.fm/tag/imaginative
+  count: "5"
+- name: sleepytime
+  url: http://www.last.fm/tag/sleepytime
+  count: "5"
+- name: listen to
+  url: http://www.last.fm/tag/listen%20to
+  count: "5"
+- name: potential
+  url: http://www.last.fm/tag/potential
+  count: "5"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "5"
+- name: uk 00s
+  url: http://www.last.fm/tag/uk%2000s
+  count: "5"
+- name: field day 2009 beetroot
+  url: http://www.last.fm/tag/field%20day%202009%20beetroot
+  count: "5"
+- name: played at not for resale
+  url: http://www.last.fm/tag/played%20at%20not%20for%20resale
+  count: "5"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "5"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "5"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "5"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "5"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "5"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "5"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "5"
+- name: spring
+  url: http://www.last.fm/tag/spring
+  count: "5"
+- name: smooth
+  url: http://www.last.fm/tag/smooth
+  count: "5"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "5"
+- name: eclectic
+  url: http://www.last.fm/tag/eclectic
+  count: "5"
+- name: vocals
+  url: http://www.last.fm/tag/vocals
+  count: "5"
+- name: emotional
+  url: http://www.last.fm/tag/emotional
+  count: "5"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "0"
+- name: must hear
+  url: http://www.last.fm/tag/must%20hear
+  count: "0"
+- name: dwars
+  url: http://www.last.fm/tag/dwars
+  count: "0"
+- name: New band of the day
+  url: http://www.last.fm/tag/new%20band%20of%20the%20day
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+"@attr": 
+  artist: Sian Alice Group

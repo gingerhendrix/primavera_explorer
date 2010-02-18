@@ -1,0 +1,10 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "100"
+"@attr": 
+  artist: The Bundles

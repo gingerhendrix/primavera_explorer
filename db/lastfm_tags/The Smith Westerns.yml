@@ -1,0 +1,40 @@
+--- 
+tag: 
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "100"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "100"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "50"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "50"
+- name: chicago
+  url: http://www.last.fm/tag/chicago
+  count: "50"
+- name: raw
+  url: http://www.last.fm/tag/raw
+  count: "50"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "50"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "50"
+- name: party rock
+  url: http://www.last.fm/tag/party%20rock
+  count: "50"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "50"
+- name: retardo-rock
+  url: http://www.last.fm/tag/retardo-rock
+  count: "50"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+"@attr": 
+  artist: The Smith Westerns

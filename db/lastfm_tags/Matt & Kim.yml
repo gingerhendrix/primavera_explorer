@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "88"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "59"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "46"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "42"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "12"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "12"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "12"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "11"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "9"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "8"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "7"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "7"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "7"
+- name: powerpop
+  url: http://www.last.fm/tag/powerpop
+  count: "4"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "4"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "4"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "4"
+- name: catchy
+  url: http://www.last.fm/tag/catchy
+  count: "4"
+- name: happy
+  url: http://www.last.fm/tag/happy
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "4"
+- name: bouncy
+  url: http://www.last.fm/tag/bouncy
+  count: "3"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "3"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "3"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "2"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "2"
+- name: happy pop
+  url: http://www.last.fm/tag/happy%20pop
+  count: "2"
+- name: dance my head off
+  url: http://www.last.fm/tag/dance%20my%20head%20off
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: investigate
+  url: http://www.last.fm/tag/investigate
+  count: "2"
+- name: Girl-Boy Duet
+  url: http://www.last.fm/tag/girl-boy%20duet
+  count: "2"
+- name: dance party
+  url: http://www.last.fm/tag/dance%20party
+  count: "2"
+- name: happygoodfunandhandclaps
+  url: http://www.last.fm/tag/happygoodfunandhandclaps
+  count: "2"
+- name: music i secretly dance to
+  url: http://www.last.fm/tag/music%20i%20secretly%20dance%20to
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: super fun
+  url: http://www.last.fm/tag/super%20fun
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: if this were a pokemon i would catch it
+  url: http://www.last.fm/tag/if%20this%20were%20a%20pokemon%20i%20would%20catch%20it
+  count: "1"
+- name: music to wake to
+  url: http://www.last.fm/tag/music%20to%20wake%20to
+  count: "1"
+- name: good times
+  url: http://www.last.fm/tag/good%20times
+  count: "1"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "1"
+- name: keyboard
+  url: http://www.last.fm/tag/keyboard
+  count: "1"
+- name: duo
+  url: http://www.last.fm/tag/duo
+  count: "1"
+- name: female and male vocalists
+  url: http://www.last.fm/tag/female%20and%20male%20vocalists
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: makes me feel good
+  url: http://www.last.fm/tag/makes%20me%20feel%20good
+  count: "1"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "1"
+- name: male and female
+  url: http://www.last.fm/tag/male%20and%20female
+  count: "1"
+- name: loved live
+  url: http://www.last.fm/tag/loved%20live
+  count: "1"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "1"
+- name: makes me happy
+  url: http://www.last.fm/tag/makes%20me%20happy
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: potential
+  url: http://www.last.fm/tag/potential
+  count: "1"
+- name: funny pop
+  url: http://www.last.fm/tag/funny%20pop
+  count: "1"
+- name: indie rock/pop
+  url: http://www.last.fm/tag/indie%2Brock%252Fpop
+  count: "1"
+- name: kitchen dance
+  url: http://www.last.fm/tag/kitchen%20dance
+  count: "1"
+- name: dancey
+  url: http://www.last.fm/tag/dancey
+  count: "1"
+- name: bands that i like more than i like you
+  url: http://www.last.fm/tag/bands%20that%20i%20like%20more%20than%20i%20like%20you
+  count: "1"
+- name: good ones
+  url: http://www.last.fm/tag/good%20ones
+  count: "1"
+- name: m
+  url: http://www.last.fm/tag/m
+  count: "1"
+- name: nice and relaxing
+  url: http://www.last.fm/tag/nice%20and%20relaxing
+  count: "1"
+- name: I love Matt and Kim more than they love each other
+  url: http://www.last.fm/tag/i%20love%20matt%20and%20kim%20more%20than%20they%20love%20each%20other
+  count: "1"
+- name: goober
+  url: http://www.last.fm/tag/goober
+  count: "1"
+- name: sickeningly cute
+  url: http://www.last.fm/tag/sickeningly%20cute
+  count: "1"
+- name: new york has my heart
+  url: http://www.last.fm/tag/new%20york%20has%20my%20heart
+  count: "1"
+- name: morning calm
+  url: http://www.last.fm/tag/morning%20calm
+  count: "1"
+- name: easy to love
+  url: http://www.last.fm/tag/easy%20to%20love
+  count: "1"
+- name: female drummer
+  url: http://www.last.fm/tag/female%20drummer
+  count: "1"
+- name: pukkelpop 2007
+  url: http://www.last.fm/tag/pukkelpop%202007
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: brooklyn does not love you
+  url: http://www.last.fm/tag/brooklyn%20does%20not%20love%20you
+  count: "1"
+- name: leapsandcoachella2010
+  url: http://www.last.fm/tag/leapsandcoachella2010
+  count: "1"
+- name: pitchfork music festival 2009
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202009
+  count: "1"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "1"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "1"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: pitchfork 2009
+  url: http://www.last.fm/tag/pitchfork%202009
+  count: "0"
+- name: summah
+  url: http://www.last.fm/tag/summah
+  count: "0"
+- name: i want to sing along
+  url: http://www.last.fm/tag/i%20want%20to%20sing%20along
+  count: "0"
+- name: this is the music i want to dance to
+  url: http://www.last.fm/tag/this%20is%20the%20music%20i%20want%20to%20dance%20to
+  count: "0"
+- name: summer 07
+  url: http://www.last.fm/tag/summer%2007
+  count: "0"
+- name: i wanna
+  url: http://www.last.fm/tag/i%20wanna
+  count: "0"
+- name: yk faves
+  url: http://www.last.fm/tag/yk%20faves
+  count: "0"
+- name: brofist radio
+  url: http://www.last.fm/tag/brofist%20radio
+  count: "0"
+- name: Bands I have seen in el-concerto
+  url: http://www.last.fm/tag/bands%20i%20have%20seen%20in%20el-concerto
+  count: "0"
+- name: noise fun
+  url: http://www.last.fm/tag/noise%20fun
+  count: "0"
+- name: live in 07
+  url: http://www.last.fm/tag/live%20in%2007
+  count: "0"
+- name: indie nerds
+  url: http://www.last.fm/tag/indie%20nerds
+  count: "0"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "0"
+- name: indiewave
+  url: http://www.last.fm/tag/indiewave
+  count: "0"
+- name: livemay2009
+  url: http://www.last.fm/tag/livemay2009
+  count: "0"
+- name: happy summer days
+  url: http://www.last.fm/tag/happy%20summer%20days
+  count: "0"
+- name: sunshine and clouds
+  url: http://www.last.fm/tag/sunshine%20and%20clouds
+  count: "0"
+"@attr": 
+  artist: Matt & Kim

@@ -13,7 +13,8 @@ a{
 #primavera_logo{
   margin-left: 20px;
   margin-top: 5px;
-  top: 30px;
+  margin-right: 20px;
+  float: left;
 }
 
 #primavera_logo img{
@@ -30,7 +31,7 @@ a{
 
 #header {
   position: fixed;
-  left: 264px;
+  left: 0px;
   top: 0;
   height: 170px;
   background-color: black;
@@ -221,41 +222,41 @@ li.band .bio{
 
 #tagcloud .tag.size0{
   font-size: 11pt;
-  color: #909090;
+  color: #C0C0C0;
 }
 
 #tagcloud .tag.size1{
   font-size: 10.5pt;
-   color: #888888;
+   color: #A0A0A0;
 }
 
 #tagcloud .tag.size2{
   font-size: 10pt;
-  color: #606060;
+  color: #808080;
 }
 
 #tagcloud .tag.size3{
   font-size: 9.5pt;
-  color: #484848;
+  color: #606060;
 }
 
 #tagcloud .tag.size4{
   font-size: 9pt;
   
-  color: #303030;
+  color: #484848;
 }
 
 #tagcloud .tag.size5{
   font-size: 8.5pt;
  
-  color: #181818;
+  color: #303030;
 }
 
 
 #tagcloud .tag.size6{
   font-size: 8pt;
 
-  color: #000;
+  color: #181818;
 }
 
 

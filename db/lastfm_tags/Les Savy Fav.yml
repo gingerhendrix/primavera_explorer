@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "91"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "88"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "34"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "34"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "19"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "13"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "11"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "11"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "10"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "9"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "7"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "7"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "6"
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "6"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "5"
+- name: Les Savy Fav
+  url: http://www.last.fm/tag/les%20savy%20fav
+  count: "4"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "3"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "3"
+- name: dance punk
+  url: http://www.last.fm/tag/dance%20punk
+  count: "3"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "3"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: dance-punk
+  url: http://www.last.fm/tag/dance-punk
+  count: "2"
+- name: NYC
+  url: http://www.last.fm/tag/nyc
+  count: "2"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "2"
+- name: French Kiss
+  url: http://www.last.fm/tag/french%20kiss
+  count: "2"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "2"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "1"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "1"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "1"
+- name: rhode island
+  url: http://www.last.fm/tag/rhode%20island
+  count: "1"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "1"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "1"
+- name: primavera 2008
+  url: http://www.last.fm/tag/primavera%202008
+  count: "1"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "1"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "1"
+- name: good shit
+  url: http://www.last.fm/tag/good%20shit
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "1"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "1"
+- name: Brash
+  url: http://www.last.fm/tag/brash
+  count: "1"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: indie post-punk
+  url: http://www.last.fm/tag/indie%20post-punk
+  count: "0"
+- name: Yay
+  url: http://www.last.fm/tag/yay
+  count: "0"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: providence
+  url: http://www.last.fm/tag/providence
+  count: "0"
+- name: Sentimental
+  url: http://www.last.fm/tag/sentimental
+  count: "0"
+- name: tense-anxious
+  url: http://www.last.fm/tag/tense-anxious
+  count: "0"
+- name: postpunk
+  url: http://www.last.fm/tag/postpunk
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: noise-rock
+  url: http://www.last.fm/tag/noise-rock
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "0"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "0"
+- name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: Volatile
+  url: http://www.last.fm/tag/volatile
+  count: "0"
+- name: i love it
+  url: http://www.last.fm/tag/i%20love%20it
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: dance party
+  url: http://www.last.fm/tag/dance%20party
+  count: "0"
+- name: Playful
+  url: http://www.last.fm/tag/playful
+  count: "0"
+- name: sett live
+  url: http://www.last.fm/tag/sett%20live
+  count: "0"
+- name: intense
+  url: http://www.last.fm/tag/intense
+  count: "0"
+- name: tunes
+  url: http://www.last.fm/tag/tunes
+  count: "0"
+- name: Fiery
+  url: http://www.last.fm/tag/fiery
+  count: "0"
+- name: man beating a goat
+  url: http://www.last.fm/tag/man%20beating%20a%20goat
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: D2
+  url: http://www.last.fm/tag/d2
+  count: "0"
+- name: yeaah
+  url: http://www.last.fm/tag/yeaah
+  count: "0"
+- name: cool rockyroll stuff
+  url: http://www.last.fm/tag/cool%20rockyroll%20stuff
+  count: "0"
+- name: cherangelo
+  url: http://www.last.fm/tag/cherangelo
+  count: "0"
+- name: uutta
+  url: http://www.last.fm/tag/uutta
+  count: "0"
+- name: music id fuck to
+  url: http://www.last.fm/tag/music%20id%20fuck%20to
+  count: "0"
+- name: proper mint
+  url: http://www.last.fm/tag/proper%20mint
+  count: "0"
+- name: artsticles
+  url: http://www.last.fm/tag/artsticles
+  count: "0"
+- name: frenchkiss
+  url: http://www.last.fm/tag/frenchkiss
+  count: "0"
+- name: chiller
+  url: http://www.last.fm/tag/chiller
+  count: "0"
+- name: za one glupe dane kada mi sve ide na 6n6 mjesto
+  url: http://www.last.fm/tag/za%20one%20glupe%20dane%20kada%20mi%20sve%20ide%20na%206n6%20mjesto
+  count: "0"
+- name: radio schmadio
+  url: http://www.last.fm/tag/radio%20schmadio
+  count: "0"
+- name: the sweat descend
+  url: http://www.last.fm/tag/the%20sweat%20descend
+  count: "0"
+"@attr": 
+  artist: Les Savy Fav

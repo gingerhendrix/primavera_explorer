@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "98"
+- name: minimal techno
+  url: http://www.last.fm/tag/minimal%20techno
+  count: "86"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "71"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "66"
+- name: swedish
+  url: http://www.last.fm/tag/swedish
+  count: "32"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "30"
+- name: Kompakt
+  url: http://www.last.fm/tag/kompakt
+  count: "24"
+- name: Ambient Techno
+  url: http://www.last.fm/tag/ambient%20techno
+  count: "9"
+- name: Sweden
+  url: http://www.last.fm/tag/sweden
+  count: "8"
+- name: microhouse
+  url: http://www.last.fm/tag/microhouse
+  count: "8"
+- name: trance
+  url: http://www.last.fm/tag/trance
+  count: "6"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "5"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "4"
+- name: minimal house
+  url: http://www.last.fm/tag/minimal%20house
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "4"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "4"
+- name: glitch
+  url: http://www.last.fm/tag/glitch
+  count: "3"
+- name: best of 2007
+  url: http://www.last.fm/tag/best%20of%202007
+  count: "2"
+- name: minimalism
+  url: http://www.last.fm/tag/minimalism
+  count: "2"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "2"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "2"
+- name: tech house
+  url: http://www.last.fm/tag/tech%20house
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "2"
+- name: pop ambient
+  url: http://www.last.fm/tag/pop%20ambient
+  count: "2"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "2"
+- name: poptronica
+  url: http://www.last.fm/tag/poptronica
+  count: "2"
+- name: maschinenmusik
+  url: http://www.last.fm/tag/maschinenmusik
+  count: "1"
+- name: The Field
+  url: http://www.last.fm/tag/the%20field
+  count: "1"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "1"
+- name: mutek
+  url: http://www.last.fm/tag/mutek
+  count: "1"
+- name: farangstar
+  url: http://www.last.fm/tag/farangstar
+  count: "1"
+- name: nu-prog
+  url: http://www.last.fm/tag/nu-prog
+  count: "1"
+- name: Chunda Chunda Esponjoso
+  url: http://www.last.fm/tag/chunda%20chunda%20esponjoso
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: swedish electronics
+  url: http://www.last.fm/tag/swedish%20electronics
+  count: "1"
+- name: chill out
+  url: http://www.last.fm/tag/chill%20out
+  count: "1"
+- name: swedish minimal
+  url: http://www.last.fm/tag/swedish%20minimal
+  count: "1"
+- name: Substrato
+  url: http://www.last.fm/tag/substrato
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: merak
+  url: http://www.last.fm/tag/merak
+  count: "1"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "1"
+- name: Ambient for Studying
+  url: http://www.last.fm/tag/ambient%20for%20studying
+  count: "1"
+- name: ambient house
+  url: http://www.last.fm/tag/ambient%20house
+  count: "1"
+- name: city skyscapes
+  url: http://www.last.fm/tag/city%20skyscapes
+  count: "1"
+- name: minimal tech
+  url: http://www.last.fm/tag/minimal%20tech
+  count: "1"
+- name: scandinavian
+  url: http://www.last.fm/tag/scandinavian
+  count: "1"
+- name: over the ice
+  url: http://www.last.fm/tag/over%20the%20ice
+  count: "0"
+- name: scandinave
+  url: http://www.last.fm/tag/scandinave
+  count: "0"
+- name: hometrip
+  url: http://www.last.fm/tag/hometrip
+  count: "0"
+- name: Like
+  url: http://www.last.fm/tag/like
+  count: "0"
+- name: Axel Willner
+  url: http://www.last.fm/tag/axel%20willner
+  count: "0"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "0"
+- name: d a l
+  url: http://www.last.fm/tag/d%20a%20l
+  count: "0"
+- name: mario popping out of the green well in slow motion
+  url: http://www.last.fm/tag/mario%20popping%20out%20of%20the%20green%20well%20in%20slow%20motion
+  count: "0"
+- name: scandinavie
+  url: http://www.last.fm/tag/scandinavie
+  count: "0"
+- name: klickklack
+  url: http://www.last.fm/tag/klickklack
+  count: "0"
+- name: minipark
+  url: http://www.last.fm/tag/minipark
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: Kompakt label
+  url: http://www.last.fm/tag/kompakt%20label
+  count: "0"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "0"
+- name: techno dreaming
+  url: http://www.last.fm/tag/techno%20dreaming
+  count: "0"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "0"
+- name: space house
+  url: http://www.last.fm/tag/space%20house
+  count: "0"
+- name: nu-techprog
+  url: http://www.last.fm/tag/nu-techprog
+  count: "0"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "0"
+- name: mnml
+  url: http://www.last.fm/tag/mnml
+  count: "0"
+- name: ATP Explosions
+  url: http://www.last.fm/tag/atp%20explosions
+  count: "0"
+- name: electronic emotion
+  url: http://www.last.fm/tag/electronic%20emotion
+  count: "0"
+- name: minimal animal
+  url: http://www.last.fm/tag/minimal%20animal
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: abstract
+  url: http://www.last.fm/tag/abstract
+  count: "0"
+- name: cold sunrise
+  url: http://www.last.fm/tag/cold%20sunrise
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: sweet muzak
+  url: http://www.last.fm/tag/sweet%20muzak
+  count: "0"
+- name: neotrance
+  url: http://www.last.fm/tag/neotrance
+  count: "0"
+- name: Desperate To See Live
+  url: http://www.last.fm/tag/desperate%20to%20see%20live
+  count: "0"
+- name: elettronic
+  url: http://www.last.fm/tag/elettronic
+  count: "0"
+- name: future collective
+  url: http://www.last.fm/tag/future%20collective
+  count: "0"
+- name: NB check out
+  url: http://www.last.fm/tag/nb%20check%20out
+  count: "0"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "0"
+- name: albums ive heard from 2007
+  url: http://www.last.fm/tag/albums%20ive%20heard%20from%202007
+  count: "0"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "0"
+- name: kunde ju va bra
+  url: http://www.last.fm/tag/kunde%20ju%20va%20bra
+  count: "0"
+- name: oceanclub
+  url: http://www.last.fm/tag/oceanclub
+  count: "0"
+- name: dream techno
+  url: http://www.last.fm/tag/dream%20techno
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: nu-disco
+  url: http://www.last.fm/tag/nu-disco
+  count: "0"
+- name: Check on It
+  url: http://www.last.fm/tag/check%20on%20it
+  count: "0"
+- name: Game Over
+  url: http://www.last.fm/tag/game%20over
+  count: "0"
+- name: OuterSpace
+  url: http://www.last.fm/tag/outerspace
+  count: "0"
+- name: electronic techno
+  url: http://www.last.fm/tag/electronic%20techno
+  count: "0"
+- name: chillat
+  url: http://www.last.fm/tag/chillat
+  count: "0"
+- name: return
+  url: http://www.last.fm/tag/return
+  count: "0"
+- name: music is my boyfriend
+  url: http://www.last.fm/tag/music%20is%20my%20boyfriend
+  count: "0"
+- name: adrien wayne
+  url: http://www.last.fm/tag/adrien%20wayne
+  count: "0"
+- name: ale
+  url: http://www.last.fm/tag/ale
+  count: "0"
+- name: tseuqone
+  url: http://www.last.fm/tag/tseuqone
+  count: "0"
+"@attr": 
+  artist: The Field

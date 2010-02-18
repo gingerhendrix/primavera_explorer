@@ -1,0 +1,40 @@
+--- 
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "60"
+- name: gospel
+  url: http://www.last.fm/tag/gospel
+  count: "60"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "40"
+- name: swamp rock
+  url: http://www.last.fm/tag/swamp%20rock
+  count: "20"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "20"
+- name: Rock n' Roll
+  url: http://www.last.fm/tag/rock%20n%27%20roll
+  count: "20"
+- name: lesser known yet streamable artists
+  url: http://www.last.fm/tag/lesser%20known%20yet%20streamable%20artists
+  count: "20"
+- name: Gospel Punk
+  url: http://www.last.fm/tag/gospel%20punk
+  count: "20"
+- name: base hit
+  url: http://www.last.fm/tag/base%20hit
+  count: "20"
+- name: hear more
+  url: http://www.last.fm/tag/hear%20more
+  count: "0"
+- name: leapsandcoachella2010
+  url: http://www.last.fm/tag/leapsandcoachella2010
+  count: "0"
+"@attr": 
+  artist: The Almighty Defenders

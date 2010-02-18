@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "79"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "72"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "56"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "40"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "17"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "10"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "9"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "9"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "7"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "7"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "7"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "5"
+- name: minimalist
+  url: http://www.last.fm/tag/minimalist
+  count: "4"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "4"
+- name: solo
+  url: http://www.last.fm/tag/solo
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "2"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "2"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "2"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "1"
+- name: drums
+  url: http://www.last.fm/tag/drums
+  count: "1"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "1"
+- name: end of the road 2007
+  url: http://www.last.fm/tag/end%20of%20the%20road%202007
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "1"
+- name: riot grrrl
+  url: http://www.last.fm/tag/riot%20grrrl
+  count: "1"
+- name: easy listening
+  url: http://www.last.fm/tag/easy%20listening
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: Sigh and swoon in equal measure
+  url: http://www.last.fm/tag/sigh%20and%20swoon%20in%20equal%20measure
+  count: "1"
+- name: bands with chicks
+  url: http://www.last.fm/tag/bands%20with%20chicks
+  count: "1"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "1"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "1"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "1"
+- name: honey
+  url: http://www.last.fm/tag/honey
+  count: "1"
+- name: nottingham
+  url: http://www.last.fm/tag/nottingham
+  count: "1"
+- name: sous-kult
+  url: http://www.last.fm/tag/sous-kult
+  count: "1"
+- name: lo fi
+  url: http://www.last.fm/tag/lo%20fi
+  count: "1"
+- name: British Girls
+  url: http://www.last.fm/tag/british%20girls
+  count: "1"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "1"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "1"
+- name: feak folk
+  url: http://www.last.fm/tag/feak%20folk
+  count: "1"
+- name: "yes"
+  url: http://www.last.fm/tag/yes
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "1"
+- name: math rock
+  url: http://www.last.fm/tag/math%20rock
+  count: "1"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "1"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "1"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "1"
+- name: safe and warm and loved
+  url: http://www.last.fm/tag/safe%20and%20warm%20and%20loved
+  count: "1"
+- name: kol pandora
+  url: http://www.last.fm/tag/kol%20pandora
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: female vocalists is not a fucking genre
+  url: http://www.last.fm/tag/female%20vocalists%20is%20not%20a%20fucking%20genre
+  count: "0"
+- name: femme fatale
+  url: http://www.last.fm/tag/femme%20fatale
+  count: "0"
+- name: maroc underground radio
+  url: http://www.last.fm/tag/maroc%20underground%20radio
+  count: "0"
+- name: daniel johnston female
+  url: http://www.last.fm/tag/daniel%20johnston%20female
+  count: "0"
+- name: must see live
+  url: http://www.last.fm/tag/must%20see%20live
+  count: "0"
+- name: kgrl
+  url: http://www.last.fm/tag/kgrl
+  count: "0"
+- name: rabat-casa
+  url: http://www.last.fm/tag/rabat-casa
+  count: "0"
+- name: Seen Perform Live
+  url: http://www.last.fm/tag/seen%20perform%20live
+  count: "0"
+- name: minimalista
+  url: http://www.last.fm/tag/minimalista
+  count: "0"
+- name: alterindie
+  url: http://www.last.fm/tag/alterindie
+  count: "0"
+- name: olga
+  url: http://www.last.fm/tag/olga
+  count: "0"
+- name: finest Indie
+  url: http://www.last.fm/tag/finest%20indie
+  count: "0"
+- name: f-radio
+  url: http://www.last.fm/tag/f-radio
+  count: "0"
+- name: ksfv
+  url: http://www.last.fm/tag/ksfv
+  count: "0"
+- name: joie
+  url: http://www.last.fm/tag/joie
+  count: "0"
+- name: freakyfolk
+  url: http://www.last.fm/tag/freakyfolk
+  count: "0"
+- name: femeale singer-songwriter
+  url: http://www.last.fm/tag/femeale%20singer-songwriter
+  count: "0"
+- name: sluimerstrotjes
+  url: http://www.last.fm/tag/sluimerstrotjes
+  count: "0"
+- name: Resistance is futile
+  url: http://www.last.fm/tag/resistance%20is%20futile
+  count: "0"
+- name: discovered through last fm
+  url: http://www.last.fm/tag/discovered%20through%20last%20fm
+  count: "0"
+- name: friday april 21st
+  url: http://www.last.fm/tag/friday%20april%2021st
+  count: "0"
+- name: still waters run deep
+  url: http://www.last.fm/tag/still%20waters%20run%20deep
+  count: "0"
+- name: Kissing whiskey bottles
+  url: http://www.last.fm/tag/kissing%20whiskey%20bottles
+  count: "0"
+- name: holy folk
+  url: http://www.last.fm/tag/holy%20folk
+  count: "0"
+- name: neofreak-folk
+  url: http://www.last.fm/tag/neofreak-folk
+  count: "0"
+- name: the soft core revolution
+  url: http://www.last.fm/tag/the%20soft%20core%20revolution
+  count: "0"
+- name: new weird
+  url: http://www.last.fm/tag/new%20weird
+  count: "0"
+- name: "10"
+  url: http://www.last.fm/tag/10
+  count: "0"
+- name: this lot
+  url: http://www.last.fm/tag/this%20lot
+  count: "0"
+- name: Girls Girls Girls
+  url: http://www.last.fm/tag/girls%20girls%20girls
+  count: "0"
+- name: too pure
+  url: http://www.last.fm/tag/too%20pure
+  count: "0"
+- name: Quiet Indie
+  url: http://www.last.fm/tag/quiet%20indie
+  count: "0"
+- name: hot black silk
+  url: http://www.last.fm/tag/hot%20black%20silk
+  count: "0"
+- name: nwa
+  url: http://www.last.fm/tag/nwa
+  count: "0"
+- name: to explore
+  url: http://www.last.fm/tag/to%20explore
+  count: "0"
+- name: Rating 7 stars - Good
+  url: http://www.last.fm/tag/rating%207%20stars%20-%20good
+  count: "0"
+- name: FIR
+  url: http://www.last.fm/tag/fir
+  count: "0"
+- name: beggars too pure
+  url: http://www.last.fm/tag/beggars%20too%20pure
+  count: "0"
+- name: uni
+  url: http://www.last.fm/tag/uni
+  count: "0"
+- name: minimalist rock
+  url: http://www.last.fm/tag/minimalist%20rock
+  count: "0"
+- name: check this out
+  url: http://www.last.fm/tag/check%20this%20out
+  count: "0"
+- name: acousticindiefolk
+  url: http://www.last.fm/tag/acousticindiefolk
+  count: "0"
+- name: seen em live
+  url: http://www.last.fm/tag/seen%20em%20live
+  count: "0"
+- name: rail
+  url: http://www.last.fm/tag/rail
+  count: "0"
+"@attr": 
+  artist: Scout Niblett

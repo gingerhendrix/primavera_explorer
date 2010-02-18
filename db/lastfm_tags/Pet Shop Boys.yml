@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "100"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "97"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "91"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "81"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "61"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "29"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "23"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "22"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "17"
+- name: Pet Shop Boys
+  url: http://www.last.fm/tag/pet%20shop%20boys
+  count: "10"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "8"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "7"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "6"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "6"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "4"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "4"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: synth
+  url: http://www.last.fm/tag/synth
+  count: "3"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "3"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "2"
+- name: dance-pop
+  url: http://www.last.fm/tag/dance-pop
+  count: "2"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "2"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "1"
+- name: synth-pop
+  url: http://www.last.fm/tag/synth-pop
+  count: "1"
+- name: 80s Pop
+  url: http://www.last.fm/tag/80s%20pop
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: new romantic
+  url: http://www.last.fm/tag/new%20romantic
+  count: "1"
+- name: 80's
+  url: http://www.last.fm/tag/80%27s
+  count: "1"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "1"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "1"
+- name: queer
+  url: http://www.last.fm/tag/queer
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: psb
+  url: http://www.last.fm/tag/psb
+  count: "0"
+- name: eighties
+  url: http://www.last.fm/tag/eighties
+  count: "0"
+- name: oldies
+  url: http://www.last.fm/tag/oldies
+  count: "0"
+- name: eurodance
+  url: http://www.last.fm/tag/eurodance
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: electro-pop
+  url: http://www.last.fm/tag/electro-pop
+  count: "0"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "0"
+- name: camp
+  url: http://www.last.fm/tag/camp
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: trance
+  url: http://www.last.fm/tag/trance
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "0"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "0"
+- name: club-dance
+  url: http://www.last.fm/tag/club-dance
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: electronic disco
+  url: http://www.last.fm/tag/electronic%20disco
+  count: "0"
+- name: always on my mind
+  url: http://www.last.fm/tag/always%20on%20my%20mind
+  count: "0"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "0"
+- name: Electronic Pop
+  url: http://www.last.fm/tag/electronic%20pop
+  count: "0"
+- name: Europop
+  url: http://www.last.fm/tag/europop
+  count: "0"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: Grew Up With
+  url: http://www.last.fm/tag/grew%20up%20with
+  count: "0"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: clever pop
+  url: http://www.last.fm/tag/clever%20pop
+  count: "0"
+- name: male vocalist
+  url: http://www.last.fm/tag/male%20vocalist
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: west end girls
+  url: http://www.last.fm/tag/west%20end%20girls
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: britain
+  url: http://www.last.fm/tag/britain
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: ironic
+  url: http://www.last.fm/tag/ironic
+  count: "0"
+- name: 80er
+  url: http://www.last.fm/tag/80er
+  count: "0"
+- name: dance pop
+  url: http://www.last.fm/tag/dance%20pop
+  count: "0"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "0"
+- name: electronic music
+  url: http://www.last.fm/tag/electronic%20music
+  count: "0"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: Classical
+  url: http://www.last.fm/tag/classical
+  count: "0"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "0"
+- name: Hi-NRG
+  url: http://www.last.fm/tag/hi-nrg
+  count: "0"
+- name: Euro Disco
+  url: http://www.last.fm/tag/euro%20disco
+  count: "0"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "0"
+- name: legend
+  url: http://www.last.fm/tag/legend
+  count: "0"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: old school
+  url: http://www.last.fm/tag/old%20school
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: theatrical
+  url: http://www.last.fm/tag/theatrical
+  count: "0"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "0"
+- name: upbeat
+  url: http://www.last.fm/tag/upbeat
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: synthipop
+  url: http://www.last.fm/tag/synthipop
+  count: "0"
+"@attr": 
+  artist: Pet Shop Boys

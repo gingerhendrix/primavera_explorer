@@ -1,0 +1,262 @@
+--- 
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "76"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "73"
+- name: violin
+  url: http://www.last.fm/tag/violin
+  count: "60"
+- name: Canadian
+  url: http://www.last.fm/tag/canadian
+  count: "53"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "30"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "30"
+- name: canada
+  url: http://www.last.fm/tag/canada
+  count: "26"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "26"
+- name: pretty
+  url: http://www.last.fm/tag/pretty
+  count: "16"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "16"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "13"
+- name: orchestral pop
+  url: http://www.last.fm/tag/orchestral%20pop
+  count: "10"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "10"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "10"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "10"
+- name: troubadour
+  url: http://www.last.fm/tag/troubadour
+  count: "10"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: orchestral
+  url: http://www.last.fm/tag/orchestral
+  count: "10"
+- name: strings
+  url: http://www.last.fm/tag/strings
+  count: "6"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "6"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "6"
+- name: everything
+  url: http://www.last.fm/tag/everything
+  count: "6"
+- name: whimsical
+  url: http://www.last.fm/tag/whimsical
+  count: "6"
+- name: man beating a goat
+  url: http://www.last.fm/tag/man%20beating%20a%20goat
+  count: "6"
+- name: elf music
+  url: http://www.last.fm/tag/elf%20music
+  count: "6"
+- name: artist i worship
+  url: http://www.last.fm/tag/artist%20i%20worship
+  count: "6"
+- name: adventure music
+  url: http://www.last.fm/tag/adventure%20music
+  count: "6"
+- name: singer-songwriters
+  url: http://www.last.fm/tag/singer-songwriters
+  count: "6"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "6"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "6"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "6"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "6"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "6"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "6"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "6"
+- name: queer
+  url: http://www.last.fm/tag/queer
+  count: "6"
+- name: music for floating
+  url: http://www.last.fm/tag/music%20for%20floating
+  count: "3"
+- name: More Gay Than a San Fransisco Man in a Hawaiian Shirt Sniffing Some Liquid Gold and Watching Sex in the City
+  url: http://www.last.fm/tag/more%20gay%20than%20a%20san%20fransisco%20man%20in%20a%20hawaiian%20shirt%20sniffing%20some%20liquid%20gold%20and%20watching%20sex%20in%20the%20city
+  count: "3"
+- name: bloody awesome
+  url: http://www.last.fm/tag/bloody%20awesome
+  count: "3"
+- name: sublime
+  url: http://www.last.fm/tag/sublime
+  count: "3"
+- name: gays
+  url: http://www.last.fm/tag/gays
+  count: "3"
+- name: very sad
+  url: http://www.last.fm/tag/very%20sad
+  count: "3"
+- name: get this
+  url: http://www.last.fm/tag/get%20this
+  count: "3"
+- name: baroque
+  url: http://www.last.fm/tag/baroque
+  count: "3"
+- name: stuck in my head
+  url: http://www.last.fm/tag/stuck%20in%20my%20head
+  count: "3"
+- name: gayamaphone
+  url: http://www.last.fm/tag/gayamaphone
+  count: "3"
+- name: indie gay
+  url: http://www.last.fm/tag/indie%20gay
+  count: "3"
+- name: what i actually like now
+  url: http://www.last.fm/tag/what%20i%20actually%20like%20now
+  count: "3"
+- name: 2010s
+  url: http://www.last.fm/tag/2010s
+  count: "3"
+- name: after crying
+  url: http://www.last.fm/tag/after%20crying
+  count: "3"
+- name: fuckincredible
+  url: http://www.last.fm/tag/fuckincredible
+  count: "3"
+- name: hipster garabe
+  url: http://www.last.fm/tag/hipster%20garabe
+  count: "3"
+- name: but i still quite like him
+  url: http://www.last.fm/tag/but%20i%20still%20quite%20like%20him
+  count: "3"
+- name: absolutely astoundingly awesome lyrics
+  url: http://www.last.fm/tag/absolutely%20astoundingly%20awesome%20lyrics
+  count: "3"
+- name: gay shop boy
+  url: http://www.last.fm/tag/gay%20shop%20boy
+  count: "3"
+- name: chamner pop
+  url: http://www.last.fm/tag/chamner%20pop
+  count: "3"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "3"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "3"
+- name: spring
+  url: http://www.last.fm/tag/spring
+  count: "3"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "3"
+- name: gorgeous
+  url: http://www.last.fm/tag/gorgeous
+  count: "3"
+- name: solo
+  url: http://www.last.fm/tag/solo
+  count: "3"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "3"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "3"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "3"
+- name: Delete
+  url: http://www.last.fm/tag/delete
+  count: "3"
+- name: toronto
+  url: http://www.last.fm/tag/toronto
+  count: "3"
+- name: lv
+  url: http://www.last.fm/tag/lv
+  count: "3"
+- name: new folk
+  url: http://www.last.fm/tag/new%20folk
+  count: "3"
+- name: ontario
+  url: http://www.last.fm/tag/ontario
+  count: "3"
+- name: tomlab
+  url: http://www.last.fm/tag/tomlab
+  count: "3"
+- name: domino
+  url: http://www.last.fm/tag/domino
+  count: "3"
+- name: 2000s
+  url: http://www.last.fm/tag/2000s
+  count: "3"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "3"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: gifted gay boys
+  url: http://www.last.fm/tag/gifted%20gay%20boys
+  count: "0"
+- name: finalfantasy
+  url: http://www.last.fm/tag/finalfantasy
+  count: "0"
+- name: "2010"
+  url: http://www.last.fm/tag/2010
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: the strombo show
+  url: http://www.last.fm/tag/the%20strombo%20show
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: misc
+  url: http://www.last.fm/tag/misc
+  count: "0"
+- name: Soundtracks
+  url: http://www.last.fm/tag/soundtracks
+  count: "0"
+- name: leapsandcoachella2010
+  url: http://www.last.fm/tag/leapsandcoachella2010
+  count: "0"
+- name: glbtqa favorites
+  url: http://www.last.fm/tag/glbtqa%20favorites
+  count: "0"
+"@attr": 
+  artist: Owen Pallett

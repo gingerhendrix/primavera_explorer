@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "100"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "63"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "55"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "44"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "29"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "17"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "13"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "10"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "7"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "6"
+- name: Baltimore
+  url: http://www.last.fm/tag/baltimore
+  count: "5"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "4"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "4"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "3"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: maryland
+  url: http://www.last.fm/tag/maryland
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "2"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "1"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "1"
+- name: beach house
+  url: http://www.last.fm/tag/beach%20house
+  count: "1"
+- name: reverb pop
+  url: http://www.last.fm/tag/reverb%20pop
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: folk pop
+  url: http://www.last.fm/tag/folk%20pop
+  count: "1"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: autumnal
+  url: http://www.last.fm/tag/autumnal
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: delicate
+  url: http://www.last.fm/tag/delicate
+  count: "1"
+- name: Dream
+  url: http://www.last.fm/tag/dream
+  count: "1"
+- name: gentle
+  url: http://www.last.fm/tag/gentle
+  count: "1"
+- name: carpark
+  url: http://www.last.fm/tag/carpark
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: Sigh and swoon in equal measure
+  url: http://www.last.fm/tag/sigh%20and%20swoon%20in%20equal%20measure
+  count: "0"
+- name: wistful
+  url: http://www.last.fm/tag/wistful
+  count: "0"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "0"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "0"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "0"
+- name: north america
+  url: http://www.last.fm/tag/north%20america
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: sleep medicine
+  url: http://www.last.fm/tag/sleep%20medicine
+  count: "0"
+- name: sleepy
+  url: http://www.last.fm/tag/sleepy
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: laid-back/mellow
+  url: http://www.last.fm/tag/laid-back%252Fmellow
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "0"
+- name: music for the night
+  url: http://www.last.fm/tag/music%20for%20the%20night
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "0"
+- name: ATP Explosions
+  url: http://www.last.fm/tag/atp%20explosions
+  count: "0"
+- name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+  count: "0"
+- name: da da dammmm dammm dammmm
+  url: http://www.last.fm/tag/da%20da%20dammmm%20dammm%20dammmm
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: dreamy vocals
+  url: http://www.last.fm/tag/dreamy%20vocals
+  count: "0"
+- name: Music to Draw to
+  url: http://www.last.fm/tag/music%20to%20draw%20to
+  count: "0"
+- name: I wear emerald crowns
+  url: http://www.last.fm/tag/i%20wear%20emerald%20crowns
+  count: "0"
+- name: woozy
+  url: http://www.last.fm/tag/woozy
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: safe and warm and loved
+  url: http://www.last.fm/tag/safe%20and%20warm%20and%20loved
+  count: "0"
+- name: heartstrings
+  url: http://www.last.fm/tag/heartstrings
+  count: "0"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "0"
+- name: music to fall asleep to
+  url: http://www.last.fm/tag/music%20to%20fall%20asleep%20to
+  count: "0"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "0"
+- name: twinkling starry skies
+  url: http://www.last.fm/tag/twinkling%20starry%20skies
+  count: "0"
+- name: music id like to fall asleep to
+  url: http://www.last.fm/tag/music%20id%20like%20to%20fall%20asleep%20to
+  count: "0"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "0"
+- name: low-fi
+  url: http://www.last.fm/tag/low-fi
+  count: "0"
+- name: Sentimental
+  url: http://www.last.fm/tag/sentimental
+  count: "0"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "0"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "0"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "0"
+- name: Coachella 2010
+  url: http://www.last.fm/tag/coachella%202010
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: funk folk
+  url: http://www.last.fm/tag/funk%20folk
+  count: "0"
+- name: Superior Music
+  url: http://www.last.fm/tag/superior%20music
+  count: "0"
+- name: continuing
+  url: http://www.last.fm/tag/continuing
+  count: "0"
+- name: rd
+  url: http://www.last.fm/tag/rd
+  count: "0"
+- name: carpark records
+  url: http://www.last.fm/tag/carpark%20records
+  count: "0"
+- name: seen live 2007
+  url: http://www.last.fm/tag/seen%20live%202007
+  count: "0"
+- name: bedtime lullabies
+  url: http://www.last.fm/tag/bedtime%20lullabies
+  count: "0"
+- name: yankee doodle dandy
+  url: http://www.last.fm/tag/yankee%20doodle%20dandy
+  count: "0"
+- name: crazy vocalist
+  url: http://www.last.fm/tag/crazy%20vocalist
+  count: "0"
+"@attr": 
+  artist: Beach House

@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "85"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "77"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "49"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "46"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "20"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "16"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "9"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "8"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "7"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "7"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "6"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "5"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "5"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: Warp
+  url: http://www.last.fm/tag/warp
+  count: "4"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "4"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: grizzly bear
+  url: http://www.last.fm/tag/grizzly%20bear
+  count: "3"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "2"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "2"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "2"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "2"
+- name: psych folk
+  url: http://www.last.fm/tag/psych%20folk
+  count: "2"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "1"
+- name: flannelcore
+  url: http://www.last.fm/tag/flannelcore
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: chamber pop
+  url: http://www.last.fm/tag/chamber%20pop
+  count: "1"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "1"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "1"
+- name: avant-folk
+  url: http://www.last.fm/tag/avant-folk
+  count: "1"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "1"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "1"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "1"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "1"
+- name: Naturalismo
+  url: http://www.last.fm/tag/naturalismo
+  count: "1"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "0"
+- name: New York City
+  url: http://www.last.fm/tag/new%20york%20city
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: a campire and a tent and a flashlight and some matches and a tree and that river and my glasses and a spaceship and a really really big bear but the bear is really really far away
+  url: http://www.last.fm/tag/a%20campire%20and%20a%20tent%20and%20a%20flashlight%20and%20some%20matches%20and%20a%20tree%20and%20that%20river%20and%20my%20glasses%20and%20a%20spaceship%20and%20a%20really%20really%20big%20bear%20but%20the%20bear%20is%20really%20really%20far%20away
+  count: "0"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "0"
+- name: hipster
+  url: http://www.last.fm/tag/hipster
+  count: "0"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "0"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "0"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "0"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: anti-folk
+  url: http://www.last.fm/tag/anti-folk
+  count: "0"
+- name: retro rock
+  url: http://www.last.fm/tag/retro%20rock
+  count: "0"
+- name: Lowlands 2009
+  url: http://www.last.fm/tag/lowlands%202009
+  count: "0"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "0"
+- name: acid folk
+  url: http://www.last.fm/tag/acid%20folk
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: baroque
+  url: http://www.last.fm/tag/baroque
+  count: "0"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: Roskilde 2007
+  url: http://www.last.fm/tag/roskilde%202007
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: roskilde 07
+  url: http://www.last.fm/tag/roskilde%2007
+  count: "0"
+- name: Lollapalooza 2008
+  url: http://www.last.fm/tag/lollapalooza%202008
+  count: "0"
+- name: bonnaroo 2009
+  url: http://www.last.fm/tag/bonnaroo%202009
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: animals
+  url: http://www.last.fm/tag/animals
+  count: "0"
+- name: bears
+  url: http://www.last.fm/tag/bears
+  count: "0"
+- name: seen live 2009
+  url: http://www.last.fm/tag/seen%20live%202009
+  count: "0"
+- name: meine tiere
+  url: http://www.last.fm/tag/meine%20tiere
+  count: "0"
+- name: alternative invaders
+  url: http://www.last.fm/tag/alternative%20invaders
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: "2009"
+  url: http://www.last.fm/tag/2009
+  count: "0"
+- name: Check it out
+  url: http://www.last.fm/tag/check%20it%20out
+  count: "0"
+- name: seen in concert
+  url: http://www.last.fm/tag/seen%20in%20concert
+  count: "0"
+- name: Coachella 2010
+  url: http://www.last.fm/tag/coachella%202010
+  count: "0"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "0"
+- name: twilight
+  url: http://www.last.fm/tag/twilight
+  count: "0"
+- name: fuck yeah
+  url: http://www.last.fm/tag/fuck%20yeah
+  count: "0"
+- name: tiamo
+  url: http://www.last.fm/tag/tiamo
+  count: "0"
+- name: fuzzy
+  url: http://www.last.fm/tag/fuzzy
+  count: "0"
+- name: Soundtrack
+  url: http://www.last.fm/tag/soundtrack
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: pitchfork
+  url: http://www.last.fm/tag/pitchfork
+  count: "0"
+- name: Experimental pop
+  url: http://www.last.fm/tag/experimental%20pop
+  count: "0"
+- name: summer 09
+  url: http://www.last.fm/tag/summer%2009
+  count: "0"
+"@attr": 
+  artist: Grizzly Bear

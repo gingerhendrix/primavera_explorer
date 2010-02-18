@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "100"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "69"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "30"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "25"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "23"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "9"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "7"
+- name: ambient pop
+  url: http://www.last.fm/tag/ambient%20pop
+  count: "6"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "6"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "5"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "5"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "4"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "2"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "2"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "1"
+- name: newgaze
+  url: http://www.last.fm/tag/newgaze
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "1"
+- name: a sunny day in glasgow
+  url: http://www.last.fm/tag/a%20sunny%20day%20in%20glasgow
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: Philadelphia
+  url: http://www.last.fm/tag/philadelphia
+  count: "0"
+- name: dream noise
+  url: http://www.last.fm/tag/dream%20noise
+  count: "0"
+- name: new finds
+  url: http://www.last.fm/tag/new%20finds
+  count: "0"
+- name: soundscapes
+  url: http://www.last.fm/tag/soundscapes
+  count: "0"
+- name: dreaming
+  url: http://www.last.fm/tag/dreaming
+  count: "0"
+- name: indie electronic
+  url: http://www.last.fm/tag/indie%20electronic
+  count: "0"
+- name: gorgeous
+  url: http://www.last.fm/tag/gorgeous
+  count: "0"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "0"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "0"
+- name: Scottish
+  url: http://www.last.fm/tag/scottish
+  count: "0"
+- name: experimental islandalicious
+  url: http://www.last.fm/tag/experimental%20islandalicious
+  count: "0"
+- name: indiepop - uk
+  url: http://www.last.fm/tag/indiepop%20-%20uk
+  count: "0"
+- name: sweet-noise
+  url: http://www.last.fm/tag/sweet-noise
+  count: "0"
+- name: dreampopshoegaze
+  url: http://www.last.fm/tag/dreampopshoegaze
+  count: "0"
+- name: sounds like
+  url: http://www.last.fm/tag/sounds%20like
+  count: "0"
+- name: femmine
+  url: http://www.last.fm/tag/femmine
+  count: "0"
+- name: Check out more
+  url: http://www.last.fm/tag/check%20out%20more
+  count: "0"
+- name: electronic shoegaze
+  url: http://www.last.fm/tag/electronic%20shoegaze
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: for immediate listening
+  url: http://www.last.fm/tag/for%20immediate%20listening
+  count: "0"
+- name: explorations
+  url: http://www.last.fm/tag/explorations
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: experimental shoegaze
+  url: http://www.last.fm/tag/experimental%20shoegaze
+  count: "0"
+- name: dreamgaze
+  url: http://www.last.fm/tag/dreamgaze
+  count: "0"
+- name: to hear
+  url: http://www.last.fm/tag/to%20hear
+  count: "0"
+- name: bands not from the place in their name
+  url: http://www.last.fm/tag/bands%20not%20from%20the%20place%20in%20their%20name
+  count: "0"
+- name: Similar
+  url: http://www.last.fm/tag/similar
+  count: "0"
+- name: dreampop post-punk
+  url: http://www.last.fm/tag/dreampop%20post-punk
+  count: "0"
+- name: Slow Division
+  url: http://www.last.fm/tag/slow%20division
+  count: "0"
+- name: tesTThem
+  url: http://www.last.fm/tag/testthem
+  count: "0"
+- name: shoegaze and friends
+  url: http://www.last.fm/tag/shoegaze%20and%20friends
+  count: "0"
+- name: femmina
+  url: http://www.last.fm/tag/femmina
+  count: "0"
+- name: voci femminili
+  url: http://www.last.fm/tag/voci%20femminili
+  count: "0"
+- name: a w trzebiatowie i tak zajebiscie leje
+  url: http://www.last.fm/tag/a%20w%20trzebiatowie%20i%20tak%20zajebiscie%20leje
+  count: "0"
+- name: hupin
+  url: http://www.last.fm/tag/hupin
+  count: "0"
+- name: mimmofigliodellaportinaia
+  url: http://www.last.fm/tag/mimmofigliodellaportinaia
+  count: "0"
+- name: summerishbreeze
+  url: http://www.last.fm/tag/summerishbreeze
+  count: "0"
+- name: lovely splendid weirdness
+  url: http://www.last.fm/tag/lovely%20splendid%20weirdness
+  count: "0"
+- name: shoetronica
+  url: http://www.last.fm/tag/shoetronica
+  count: "0"
+- name: Spring 2008
+  url: http://www.last.fm/tag/spring%202008
+  count: "0"
+- name: electroshoegaze
+  url: http://www.last.fm/tag/electroshoegaze
+  count: "0"
+- name: sunny shoegaze
+  url: http://www.last.fm/tag/sunny%20shoegaze
+  count: "0"
+- name: tolistenhiero
+  url: http://www.last.fm/tag/tolistenhiero
+  count: "0"
+- name: top albuns 2007
+  url: http://www.last.fm/tag/top%20albuns%202007
+  count: "0"
+- name: no estan mal no
+  url: http://www.last.fm/tag/no%20estan%20mal%20no
+  count: "0"
+- name: voce femminile
+  url: http://www.last.fm/tag/voce%20femminile
+  count: "0"
+- name: nu gaze
+  url: http://www.last.fm/tag/nu%20gaze
+  count: "0"
+- name: ijango
+  url: http://www.last.fm/tag/ijango
+  count: "0"
+- name: Acts Id love to know better but so far have been too lazy to give a real try
+  url: http://www.last.fm/tag/acts%20id%20love%20to%20know%20better%20but%20so%20far%20have%20been%20too%20lazy%20to%20give%20a%20real%20try
+  count: "0"
+- name: donna
+  url: http://www.last.fm/tag/donna
+  count: "0"
+- name: bella topolina
+  url: http://www.last.fm/tag/bella%20topolina
+  count: "0"
+- name: music to levitate to
+  url: http://www.last.fm/tag/music%20to%20levitate%20to
+  count: "0"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "0"
+- name: interesting
+  url: http://www.last.fm/tag/interesting
+  count: "0"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "0"
+- name: underrated
+  url: http://www.last.fm/tag/underrated
+  count: "0"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: glasgow
+  url: http://www.last.fm/tag/glasgow
+  count: "0"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: eerie
+  url: http://www.last.fm/tag/eerie
+  count: "0"
+- name: abstract
+  url: http://www.last.fm/tag/abstract
+  count: "0"
+- name: avant garde
+  url: http://www.last.fm/tag/avant%20garde
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+"@attr": 
+  artist: A Sunny Day in Glasgow

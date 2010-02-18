@@ -1,0 +1,250 @@
+--- 
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: garage pop
+  url: http://www.last.fm/tag/garage%20pop
+  count: "34"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "26"
+- name: beach rock
+  url: http://www.last.fm/tag/beach%20rock
+  count: "21"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "19"
+- name: girls that rule
+  url: http://www.last.fm/tag/girls%20that%20rule
+  count: "17"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "15"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "13"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "10"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "10"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "8"
+- name: surfy
+  url: http://www.last.fm/tag/surfy
+  count: "8"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "8"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "6"
+- name: blue sky and blazing heat
+  url: http://www.last.fm/tag/blue%20sky%20and%20blazing%20heat
+  count: "6"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "6"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "6"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "6"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "6"
+- name: sing along
+  url: http://www.last.fm/tag/sing%20along
+  count: "4"
+- name: emotive
+  url: http://www.last.fm/tag/emotive
+  count: "4"
+- name: feedback
+  url: http://www.last.fm/tag/feedback
+  count: "4"
+- name: psych pop
+  url: http://www.last.fm/tag/psych%20pop
+  count: "4"
+- name: lo-fi surf pop
+  url: http://www.last.fm/tag/lo-fi%20surf%20pop
+  count: "4"
+- name: 00's
+  url: http://www.last.fm/tag/00%27s
+  count: "4"
+- name: beachy
+  url: http://www.last.fm/tag/beachy
+  count: "4"
+- name: hazy beach
+  url: http://www.last.fm/tag/hazy%20beach
+  count: "4"
+- name: songs that make me sad for no apparent reason
+  url: http://www.last.fm/tag/songs%20that%20make%20me%20sad%20for%20no%20apparent%20reason
+  count: "4"
+- name: psychedelic lo-fi
+  url: http://www.last.fm/tag/psychedelic%20lo-fi
+  count: "4"
+- name: basement core
+  url: http://www.last.fm/tag/basement%20core
+  count: "4"
+- name: hot dudettes
+  url: http://www.last.fm/tag/hot%20dudettes
+  count: "4"
+- name: please hype this
+  url: http://www.last.fm/tag/please%20hype%20this
+  count: "4"
+- name: Noise-fi
+  url: http://www.last.fm/tag/noise-fi
+  count: "4"
+- name: upbeat
+  url: http://www.last.fm/tag/upbeat
+  count: "4"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "4"
+- name: slow
+  url: http://www.last.fm/tag/slow
+  count: "4"
+- name: girl power
+  url: http://www.last.fm/tag/girl%20power
+  count: "4"
+- name: soothing
+  url: http://www.last.fm/tag/soothing
+  count: "4"
+- name: shitgaze
+  url: http://www.last.fm/tag/shitgaze
+  count: "2"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "2"
+- name: serduszko
+  url: http://www.last.fm/tag/serduszko
+  count: "2"
+- name: my gang 09
+  url: http://www.last.fm/tag/my%20gang%2009
+  count: "2"
+- name: Reverse Cassette Fuzz Through An Overdrive Pedal
+  url: http://www.last.fm/tag/reverse%20cassette%20fuzz%20through%20an%20overdrive%20pedal
+  count: "2"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "2"
+- name: you shall above all things be glad and young
+  url: http://www.last.fm/tag/you%20shall%20above%20all%20things%20be%20glad%20and%20young
+  count: "2"
+- name: my gang 10
+  url: http://www.last.fm/tag/my%20gang%2010
+  count: "2"
+- name: kinda like wavves except all of her tracks are amazing and not just two
+  url: http://www.last.fm/tag/kinda%20like%20wavves%20except%20all%20of%20her%20tracks%20are%20amazing%20and%20not%20just%20two
+  count: "2"
+- name: my dream girl
+  url: http://www.last.fm/tag/my%20dream%20girl
+  count: "2"
+- name: best coast
+  url: http://www.last.fm/tag/best%20coast
+  count: "2"
+- name: actually sounds like dissociation
+  url: http://www.last.fm/tag/actually%20sounds%20like%20dissociation
+  count: "2"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "2"
+- name: nieslubne dziecko roberta pollarda
+  url: http://www.last.fm/tag/nieslubne%20dziecko%20roberta%20pollarda
+  count: "2"
+- name: jesus and mary chain rip-off
+  url: http://www.last.fm/tag/jesus%20and%20mary%20chain%20rip-off
+  count: "2"
+- name: surfff
+  url: http://www.last.fm/tag/surfff
+  count: "2"
+- name: Amazing songs
+  url: http://www.last.fm/tag/amazing%20songs
+  count: "2"
+- name: 2000s
+  url: http://www.last.fm/tag/2000s
+  count: "2"
+- name: "From: USA"
+  url: http://www.last.fm/tag/from%3A%20usa
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "2"
+- name: lo-fi pop
+  url: http://www.last.fm/tag/lo-fi%20pop
+  count: "2"
+- name: solo
+  url: http://www.last.fm/tag/solo
+  count: "2"
+- name: DL
+  url: http://www.last.fm/tag/dl
+  count: "2"
+- name: crush
+  url: http://www.last.fm/tag/crush
+  count: "2"
+- name: explorations
+  url: http://www.last.fm/tag/explorations
+  count: "2"
+- name: for immediate listening
+  url: http://www.last.fm/tag/for%20immediate%20listening
+  count: "2"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "2"
+- name: to dl
+  url: http://www.last.fm/tag/to%20dl
+  count: "2"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "2"
+- name: sounds even better when drunk
+  url: http://www.last.fm/tag/sounds%20even%20better%20when%20drunk
+  count: "2"
+- name: newbreed
+  url: http://www.last.fm/tag/newbreed
+  count: "2"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "2"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: grrrls
+  url: http://www.last.fm/tag/grrrls
+  count: "0"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: bark
+  url: http://www.last.fm/tag/bark
+  count: "0"
+- name: barkbarkdisco
+  url: http://www.last.fm/tag/barkbarkdisco
+  count: "0"
+"@attr": 
+  artist: Best Coast

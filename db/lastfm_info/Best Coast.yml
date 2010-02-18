@@ -1,0 +1,102 @@
+--- 
+name: Best Coast
+stats: 
+  playcount: "303911"
+  listeners: "16091"
+tags: 
+  tag: 
+  - name: lo-fi
+    url: http://www.last.fm/tag/lo-fi
+  - name: garage pop
+    url: http://www.last.fm/tag/garage%20pop
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: beach rock
+    url: http://www.last.fm/tag/beach%20rock
+  - name: female vocalists
+    url: http://www.last.fm/tag/female%20vocalists
+similar: 
+  artist: 
+  - name: Real Estate
+    url: http://www.last.fm/music/Real+Estate
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/30656913.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/30656913.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/30656913.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/30656913.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/30656913/Real+Estate+rockaway+beach.jpg
+  - name: Julian Lynch
+    url: http://www.last.fm/music/Julian+Lynch
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/36363769.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/36363769.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/36363769.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/36363769.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/36363769/Julian+Lynch+julian.jpg
+  - name: Ducktails
+    url: http://www.last.fm/music/Ducktails
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/23584263.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/23584263.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/23584263.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/23584263.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/23584263/Ducktails+l_660a0fa9b1664843a2b5a0deb7d6.jpg
+  - name: Smith Westerns
+    url: http://www.last.fm/music/Smith+Westerns
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/31433007.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/31433007.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/31433007.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/31433007.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/31433007/Smith+Westerns+TheSmithWesternssmithwesterns.jpg
+  - name: Ganglians
+    url: http://www.last.fm/music/Ganglians
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/29635927.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/29635927.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/29635927.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/29635927.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/29635927/Ganglians.jpg
+url: http://www.last.fm/music/Best+Coast
+mbid: ""
+bio: 
+  published: Tue, 24 Nov 2009 23:42:38 +0000
+  summary: "Beach blanket lo-fi pop from Bethany Cosentino, (ex-<a href=\"http://www.last.fm/music/Pocahaunted\" class=\"bbcode_artist\">Pocahaunted</a>.) Inspired by Bethany\xE2\x80\x99s longing for Los Angeles while spending her days in NY attending Eugene Lang College, Best Coast sprung forth during her first days back in California. She says we can expect &quot;songs about summer and the sun and the ocean and being a lazy creep,&quot; with &quot;drums, beach boys bass lines, and other amazing things&quot; added by her friend Bobb Bruno."
+  content: "Beach blanket lo-fi pop from Bethany Cosentino, (ex-<a href=\"http://www.last.fm/music/Pocahaunted\" class=\"bbcode_artist\">Pocahaunted</a>.) Inspired by Bethany\xE2\x80\x99s longing for Los Angeles while spending her days in NY attending Eugene Lang College, Best Coast sprung forth during her first days back in California. She says we can expect &quot;songs about summer and the sun and the ocean and being a lazy creep,&quot; with &quot;drums, beach boys bass lines, and other amazing things&quot; added by her friend Bobb Bruno."
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/33397819.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/33397819.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/33397819.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/33397819.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/33397819/Best+Coast+best.jpg

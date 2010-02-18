@@ -1,0 +1,250 @@
+--- 
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "89"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "77"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "60"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "37"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "29"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "14"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "12"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "12"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "10"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "10"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "10"
+- name: san francisco
+  url: http://www.last.fm/tag/san%20francisco
+  count: "10"
+- name: garage rock revival
+  url: http://www.last.fm/tag/garage%20rock%20revival
+  count: "8"
+- name: psychedelic punk
+  url: http://www.last.fm/tag/psychedelic%20punk
+  count: "8"
+- name: Acid
+  url: http://www.last.fm/tag/acid
+  count: "8"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "8"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "6"
+- name: psychodelic
+  url: http://www.last.fm/tag/psychodelic
+  count: "6"
+- name: GaragePsychAcidRock
+  url: http://www.last.fm/tag/garagepsychacidrock
+  count: "6"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "6"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "6"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: this one is about us
+  url: http://www.last.fm/tag/this%20one%20is%20about%20us
+  count: "4"
+- name: Jawesome
+  url: http://www.last.fm/tag/jawesome
+  count: "4"
+- name: garage-punk
+  url: http://www.last.fm/tag/garage-punk
+  count: "2"
+- name: avant-garde rock
+  url: http://www.last.fm/tag/avant-garde%20rock
+  count: "2"
+- name: discover
+  url: http://www.last.fm/tag/discover
+  count: "2"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "2"
+- name: john dwyer
+  url: http://www.last.fm/tag/john%20dwyer
+  count: "2"
+- name: aQuarius records
+  url: http://www.last.fm/tag/aquarius%20records
+  count: "2"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "2"
+- name: "2009"
+  url: http://www.last.fm/tag/2009
+  count: "2"
+- name: sounds like jefferson airplane
+  url: http://www.last.fm/tag/sounds%20like%20jefferson%20airplane
+  count: "2"
+- name: occult pop
+  url: http://www.last.fm/tag/occult%20pop
+  count: "2"
+- name: Garage Acid
+  url: http://www.last.fm/tag/garage%20acid
+  count: "2"
+- name: buzzlines
+  url: http://www.last.fm/tag/buzzlines
+  count: "2"
+- name: is he singing through a tube or what someone back me up here
+  url: http://www.last.fm/tag/is%20he%20singing%20through%20a%20tube%20or%20what%20someone%20back%20me%20up%20here
+  count: "2"
+- name: Thrill Riff
+  url: http://www.last.fm/tag/thrill%20riff
+  count: "2"
+- name: buzzlines-2009-02-27
+  url: http://www.last.fm/tag/buzzlines-2009-02-27
+  count: "2"
+- name: the best  of 2009
+  url: http://www.last.fm/tag/the%20best%20%20of%202009
+  count: "2"
+- name: base hit
+  url: http://www.last.fm/tag/base%20hit
+  count: "2"
+- name: 21st century tape music
+  url: http://www.last.fm/tag/21st%20century%20tape%20music
+  count: "2"
+- name: heaven in dwyer
+  url: http://www.last.fm/tag/heaven%20in%20dwyer
+  count: "2"
+- name: thee fucking best
+  url: http://www.last.fm/tag/thee%20fucking%20best
+  count: "2"
+- name: pysch moderne
+  url: http://www.last.fm/tag/pysch%20moderne
+  count: "2"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "2"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "2"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "2"
+- name: Neo-Psychedelia
+  url: http://www.last.fm/tag/neo-psychedelia
+  count: "2"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "2"
+- name: psych
+  url: http://www.last.fm/tag/psych
+  count: "2"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "2"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "2"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "2"
+- name: neo-folk
+  url: http://www.last.fm/tag/neo-folk
+  count: "2"
+- name: catchy
+  url: http://www.last.fm/tag/catchy
+  count: "2"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "2"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "2"
+- name: Maybe
+  url: http://www.last.fm/tag/maybe
+  count: "2"
+- name: download
+  url: http://www.last.fm/tag/download
+  count: "2"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "2"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "2"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "2"
+- name: "From: USA"
+  url: http://www.last.fm/tag/from%3A%20usa
+  count: "2"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: Dot to Dot Festival - Bristol 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%20festival%20-%20bristol%202008
+  count: "0"
+- name: sixties
+  url: http://www.last.fm/tag/sixties
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: dot to dot 2008
+  url: http://www.last.fm/tag/dot%20to%20dot%202008
+  count: "0"
+- name: "rock: garage: surf"
+  url: http://www.last.fm/tag/rock%3A%20garage%3A%20surf
+  count: "0"
+- name: "g\xC3\xA9nial"
+  url: http://www.last.fm/tag/g%C3%A9nial
+  count: "0"
+- name: see at sxsw2009
+  url: http://www.last.fm/tag/see%20at%20sxsw2009
+  count: "0"
+- name: sxsw2009
+  url: http://www.last.fm/tag/sxsw2009
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "0"
+- name: terrible
+  url: http://www.last.fm/tag/terrible
+  count: "0"
+- name: songwriting
+  url: http://www.last.fm/tag/songwriting
+  count: "0"
+"@attr": 
+  artist: Thee Oh Sees

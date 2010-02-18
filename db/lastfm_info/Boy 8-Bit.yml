@@ -1,0 +1,107 @@
+--- 
+name: Boy 8-Bit
+stats: 
+  playcount: "116555"
+  listeners: "15527"
+tags: 
+  tag: 
+  - name: electro
+    url: http://www.last.fm/tag/electro
+  - name: 8-bit
+    url: http://www.last.fm/tag/8-bit
+  - name: electronic
+    url: http://www.last.fm/tag/electronic
+  - name: fidget house
+    url: http://www.last.fm/tag/fidget%20house
+  - name: 8 bit
+    url: http://www.last.fm/tag/8%20bit
+similar: 
+  artist: 
+  - name: Machines Don't Care
+    url: http://www.last.fm/music/Machines+Don%27t+Care
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/38439673.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/38439673.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/38439673.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/38439673.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/38439673/Machines+Dont+Care+machinesdontcare.jpg
+  - name: Fake Blood
+    url: http://www.last.fm/music/Fake+Blood
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/28191723.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/28191723.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/28191723.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/28191723.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/28191723/Fake+Blood+fakeblood.jpg
+  - name: AC Slater
+    url: http://www.last.fm/music/AC+Slater
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/13436581.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/13436581.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/13436581.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/13436581.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/13436581/AC+Slater+acslater2.jpg
+  - name: Renaissance Man
+    url: http://www.last.fm/music/Renaissance+Man
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/23578969.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/23578969.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/23578969.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/23578969.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/23578969/Renaissance+Man.jpg
+  - name: Proxy
+    url: http://www.last.fm/music/Proxy
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/11056999.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/11056999.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/11056999.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/11056999.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/11056999/Proxy+DJ.jpg
+url: http://www.last.fm/music/Boy+8-Bit
+mbid: 1f743c73-d9c0-4d58-ad8d-7cacafc3f724
+bio: 
+  published: Fri, 6 Nov 2009 16:46:24 +0000
+  summary: Boy 8-bit; a young and upcoming producer famous for his infectious &quot;bleep&quot; electro-styled tracks inspired by the computer games of old.    Boy 8-Bit's name hails from the days of old. Using an Amiga computer to produce in his youth, he dealt in 8-bit samples and hence the name.  Although still relatively unknown, his EP &quot;The Suspense Is Killing Me&quot; received great critical acclaim on the underground Electro/Synth circuit.
+  content: |-
+    Boy 8-bit; a young and upcoming producer famous for his infectious &quot;bleep&quot; electro-styled tracks inspired by the computer games of old.  
+     
+     Boy 8-Bit's name hails from the days of old. Using an Amiga computer to produce in his youth, he dealt in 8-bit samples and hence the name.
+     
+     Although still relatively unknown, his EP &quot;The Suspense Is Killing Me&quot; received great critical acclaim on the underground Electro/Synth circuit.
+streamable: "0"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/6592181.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/6592181.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/6592181.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/6592181.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/6592181/Boy+8Bit+Sponsorship+in+Sweden.jpg

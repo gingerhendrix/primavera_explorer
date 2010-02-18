@@ -1,0 +1,67 @@
+--- 
+tag: 
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "100"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "100"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "62"
+- name: Kraut Rock
+  url: http://www.last.fm/tag/kraut%20rock
+  count: "37"
+- name: endless boogie
+  url: http://www.last.fm/tag/endless%20boogie
+  count: "25"
+- name: Boogierock
+  url: http://www.last.fm/tag/boogierock
+  count: "25"
+- name: sxsw 2009
+  url: http://www.last.fm/tag/sxsw%202009
+  count: "12"
+- name: Emotional Hardcore
+  url: http://www.last.fm/tag/emotional%20hardcore
+  count: "12"
+- name: Only the best
+  url: http://www.last.fm/tag/only%20the%20best
+  count: "12"
+- name: stoner
+  url: http://www.last.fm/tag/stoner
+  count: "12"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "12"
+- name: Eargasm
+  url: http://www.last.fm/tag/eargasm
+  count: "12"
+- name: blues rock
+  url: http://www.last.fm/tag/blues%20rock
+  count: "12"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "12"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "12"
+- name: Stoner Rock
+  url: http://www.last.fm/tag/stoner%20rock
+  count: "12"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: minun
+  url: http://www.last.fm/tag/minun
+  count: "0"
+- name: Ball Power
+  url: http://www.last.fm/tag/ball%20power
+  count: "0"
+- name: reification
+  url: http://www.last.fm/tag/reification
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+"@attr": 
+  artist: Endless Boogie

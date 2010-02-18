@@ -1,0 +1,22 @@
+--- 
+tag: 
+- name: rapcore
+  url: http://www.last.fm/tag/rapcore
+  count: "100"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "33"
+- name: Nu-metal
+  url: http://www.last.fm/tag/nu-metal
+  count: "33"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "33"
+- name: melbourne
+  url: http://www.last.fm/tag/melbourne
+  count: "33"
+- name: 80-e
+  url: http://www.last.fm/tag/80-e
+  count: "33"
+"@attr": 
+  artist: Biscuit

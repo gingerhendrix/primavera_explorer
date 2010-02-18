@@ -54,9 +54,12 @@ namespace :update do
   task :add_all do
     db = Database.new(File.dirname(__FILE__) + "/../db");
     bandsTxt = File.read("bandlist.txt")
-    bands = bandsTxt.split(',')
+    bands = bandsTxt.split("\n")
     bands.each do |band|
-      band = Band.add Band.new(band.strip)
+      name = band.gsub(/[*»]/, "").squeeze(" ").strip;
+      if name != ""
+        Band.add Band.new(name)
+      end
     end
     Band.save_all(db)
   end

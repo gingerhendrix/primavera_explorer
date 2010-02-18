@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: emo
+  url: http://www.last.fm/tag/emo
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "57"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "42"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "27"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "20"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "14"
+- name: post-emo
+  url: http://www.last.fm/tag/post-emo
+  count: "6"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "6"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "5"
+- name: seattle
+  url: http://www.last.fm/tag/seattle
+  count: "4"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "4"
+- name: real emo
+  url: http://www.last.fm/tag/real%20emo
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: indie emo
+  url: http://www.last.fm/tag/indie%20emo
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: hardcore
+  url: http://www.last.fm/tag/hardcore
+  count: "3"
+- name: midwest emo
+  url: http://www.last.fm/tag/midwest%20emo
+  count: "3"
+- name: Grunge
+  url: http://www.last.fm/tag/grunge
+  count: "2"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "2"
+- name: Sunny Day Real Estate
+  url: http://www.last.fm/tag/sunny%20day%20real%20estate
+  count: "2"
+- name: washington
+  url: http://www.last.fm/tag/washington
+  count: "1"
+- name: sub pop
+  url: http://www.last.fm/tag/sub%20pop
+  count: "1"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "1"
+- name: emocore
+  url: http://www.last.fm/tag/emocore
+  count: "1"
+- name: original emo
+  url: http://www.last.fm/tag/original%20emo
+  count: "1"
+- name: post-emo indie rock
+  url: http://www.last.fm/tag/post-emo%20indie%20rock
+  count: "1"
+- name: screamo
+  url: http://www.last.fm/tag/screamo
+  count: "1"
+- name: 90s emo
+  url: http://www.last.fm/tag/90s%20emo
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "0"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: indiemo
+  url: http://www.last.fm/tag/indiemo
+  count: "0"
+- name: post emo
+  url: http://www.last.fm/tag/post%20emo
+  count: "0"
+- name: post hardcore
+  url: http://www.last.fm/tag/post%20hardcore
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "0"
+- name: second wave emo
+  url: http://www.last.fm/tag/second%20wave%20emo
+  count: "0"
+- name: christian
+  url: http://www.last.fm/tag/christian
+  count: "0"
+- name: pop punk
+  url: http://www.last.fm/tag/pop%20punk
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: hard rock
+  url: http://www.last.fm/tag/hard%20rock
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: True Emo
+  url: http://www.last.fm/tag/true%20emo
+  count: "0"
+- name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+  count: "0"
+- name: old school emo
+  url: http://www.last.fm/tag/old%20school%20emo
+  count: "0"
+- name: jeremy enigk
+  url: http://www.last.fm/tag/jeremy%20enigk
+  count: "0"
+- name: metalcore
+  url: http://www.last.fm/tag/metalcore
+  count: "0"
+- name: Sub Pop Records
+  url: http://www.last.fm/tag/sub%20pop%20records
+  count: "0"
+- name: post-grunge
+  url: http://www.last.fm/tag/post-grunge
+  count: "0"
+- name: indie-emo
+  url: http://www.last.fm/tag/indie-emo
+  count: "0"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "0"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: SDRE
+  url: http://www.last.fm/tag/sdre
+  count: "0"
+- name: Emotional Hardcore
+  url: http://www.last.fm/tag/emotional%20hardcore
+  count: "0"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "0"
+- name: seattle grunge
+  url: http://www.last.fm/tag/seattle%20grunge
+  count: "0"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "0"
+- name: good emo
+  url: http://www.last.fm/tag/good%20emo
+  count: "0"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: second wave of emo
+  url: http://www.last.fm/tag/second%20wave%20of%20emo
+  count: "0"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "0"
+- name: ska
+  url: http://www.last.fm/tag/ska
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "0"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "0"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "0"
+- name: influential
+  url: http://www.last.fm/tag/influential
+  count: "0"
+- name: Emo rock
+  url: http://www.last.fm/tag/emo%20rock
+  count: "0"
+- name: defunct
+  url: http://www.last.fm/tag/defunct
+  count: "0"
+- name: fourfa
+  url: http://www.last.fm/tag/fourfa
+  count: "0"
+- name: armor for sleep
+  url: http://www.last.fm/tag/armor%20for%20sleep
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: nu gaze
+  url: http://www.last.fm/tag/nu%20gaze
+  count: "0"
+- name: favs
+  url: http://www.last.fm/tag/favs
+  count: "0"
+- name: underrated
+  url: http://www.last.fm/tag/underrated
+  count: "0"
+- name: 2nd Wave Emo
+  url: http://www.last.fm/tag/2nd%20wave%20emo
+  count: "0"
+- name: My Favorites
+  url: http://www.last.fm/tag/my%20favorites
+  count: "0"
+- name: anticon
+  url: http://www.last.fm/tag/anticon
+  count: "0"
+- name: really good bands
+  url: http://www.last.fm/tag/really%20good%20bands
+  count: "0"
+- name: i am more emo than your mom
+  url: http://www.last.fm/tag/i%20am%20more%20emo%20than%20your%20mom
+  count: "0"
+- name: Favorite Bands
+  url: http://www.last.fm/tag/favorite%20bands
+  count: "0"
+- name: icelandic
+  url: http://www.last.fm/tag/icelandic
+  count: "0"
+- name: my music
+  url: http://www.last.fm/tag/my%20music
+  count: "0"
+- name: stuff
+  url: http://www.last.fm/tag/stuff
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "0"
+- name: "all my friends are comedians: seattle is where i am from"
+  url: http://www.last.fm/tag/all%20my%20friends%20are%20comedians%3A%20seattle%20is%20where%20i%20am%20from
+  count: "0"
+- name: Guilty Pleasures
+  url: http://www.last.fm/tag/guilty%20pleasures
+  count: "0"
+"@attr": 
+  artist: Sunny Day Real Estate

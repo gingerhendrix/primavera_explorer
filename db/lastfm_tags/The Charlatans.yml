@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "80"
+- name: madchester
+  url: http://www.last.fm/tag/madchester
+  count: "49"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "45"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "36"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "24"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "19"
+- name: Manchester
+  url: http://www.last.fm/tag/manchester
+  count: "14"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "8"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "6"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "6"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "4"
+- name: brit pop
+  url: http://www.last.fm/tag/brit%20pop
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: The Charlatans
+  url: http://www.last.fm/tag/the%20charlatans
+  count: "3"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "2"
+- name: brit rock
+  url: http://www.last.fm/tag/brit%20rock
+  count: "1"
+- name: baggy
+  url: http://www.last.fm/tag/baggy
+  count: "1"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "1"
+- name: Britrock
+  url: http://www.last.fm/tag/britrock
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "1"
+- name: Brit
+  url: http://www.last.fm/tag/brit
+  count: "1"
+- name: 60s
+  url: http://www.last.fm/tag/60s
+  count: "1"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "1"
+- name: Charlatans
+  url: http://www.last.fm/tag/charlatans
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "1"
+- name: british trad rock
+  url: http://www.last.fm/tag/british%20trad%20rock
+  count: "1"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: Rave
+  url: http://www.last.fm/tag/rave
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "0"
+- name: happy
+  url: http://www.last.fm/tag/happy
+  count: "0"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: All
+  url: http://www.last.fm/tag/all
+  count: "0"
+- name: Reflective
+  url: http://www.last.fm/tag/reflective
+  count: "0"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "0"
+- name: 1990s
+  url: http://www.last.fm/tag/1990s
+  count: "0"
+- name: fadenomore
+  url: http://www.last.fm/tag/fadenomore
+  count: "0"
+- name: bands-I-made-an-interview-with
+  url: http://www.last.fm/tag/bands-i-made-an-interview-with
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: studentenzeit
+  url: http://www.last.fm/tag/studentenzeit
+  count: "0"
+- name: alt rock
+  url: http://www.last.fm/tag/alt%20rock
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: "90"
+  url: http://www.last.fm/tag/90
+  count: "0"
+- name: Favorite artist
+  url: http://www.last.fm/tag/favorite%20artist
+  count: "0"
+- name: Bands seen Live
+  url: http://www.last.fm/tag/bands%20seen%20live
+  count: "0"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: ska
+  url: http://www.last.fm/tag/ska
+  count: "0"
+- name: shoegazer
+  url: http://www.last.fm/tag/shoegazer
+  count: "0"
+- name: modern rock
+  url: http://www.last.fm/tag/modern%20rock
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: Brit-pop
+  url: http://www.last.fm/tag/brit-pop
+  count: "0"
+- name: guitar
+  url: http://www.last.fm/tag/guitar
+  count: "0"
+- name: Air
+  url: http://www.last.fm/tag/air
+  count: "0"
+- name: The
+  url: http://www.last.fm/tag/the
+  count: "0"
+- name: dance rock
+  url: http://www.last.fm/tag/dance%20rock
+  count: "0"
+- name: lovey radio
+  url: http://www.last.fm/tag/lovey%20radio
+  count: "0"
+- name: 2000s
+  url: http://www.last.fm/tag/2000s
+  count: "0"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "0"
+- name: Me Gustan
+  url: http://www.last.fm/tag/me%20gustan
+  count: "0"
+- name: summersonic
+  url: http://www.last.fm/tag/summersonic
+  count: "0"
+- name: potential
+  url: http://www.last.fm/tag/potential
+  count: "0"
+- name: To purchase
+  url: http://www.last.fm/tag/to%20purchase
+  count: "0"
+- name: "2008"
+  url: http://www.last.fm/tag/2008
+  count: "0"
+- name: Manchester bands
+  url: http://www.last.fm/tag/manchester%20bands
+  count: "0"
+- name: love songs of a sort
+  url: http://www.last.fm/tag/love%20songs%20of%20a%20sort
+  count: "0"
+- name: Andronygy
+  url: http://www.last.fm/tag/andronygy
+  count: "0"
+- name: hacienda
+  url: http://www.last.fm/tag/hacienda
+  count: "0"
+- name: the world wont listen
+  url: http://www.last.fm/tag/the%20world%20wont%20listen
+  count: "0"
+- name: lipgloss
+  url: http://www.last.fm/tag/lipgloss
+  count: "0"
+- name: cypress
+  url: http://www.last.fm/tag/cypress
+  count: "0"
+- name: british i like
+  url: http://www.last.fm/tag/british%20i%20like
+  count: "0"
+- name: The Artists
+  url: http://www.last.fm/tag/the%20artists
+  count: "0"
+- name: matt mays
+  url: http://www.last.fm/tag/matt%20mays
+  count: "0"
+- name: blue rodeo
+  url: http://www.last.fm/tag/blue%20rodeo
+  count: "0"
+- name: chapterhouse
+  url: http://www.last.fm/tag/chapterhouse
+  count: "0"
+- name: boo radleys
+  url: http://www.last.fm/tag/boo%20radleys
+  count: "0"
+- name: charlatans uk
+  url: http://www.last.fm/tag/charlatans%20uk
+  count: "0"
+- name: delgados
+  url: http://www.last.fm/tag/delgados
+  count: "0"
+- name: music in my head 2008
+  url: http://www.last.fm/tag/music%20in%20my%20head%202008
+  count: "0"
+- name: Greatest Artists
+  url: http://www.last.fm/tag/greatest%20artists
+  count: "0"
+- name: fire theft
+  url: http://www.last.fm/tag/fire%20theft
+  count: "0"
+- name: god speed you black emperor
+  url: http://www.last.fm/tag/god%20speed%20you%20black%20emperor
+  count: "0"
+- name: luv it
+  url: http://www.last.fm/tag/luv%20it
+  count: "0"
+- name: teenage soundtrack
+  url: http://www.last.fm/tag/teenage%20soundtrack
+  count: "0"
+- name: forvere
+  url: http://www.last.fm/tag/forvere
+  count: "0"
+"@attr": 
+  artist: The Charlatans

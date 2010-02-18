@@ -1,0 +1,49 @@
+--- 
+tag: 
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "100"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "71"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "57"
+- name: country
+  url: http://www.last.fm/tag/country
+  count: "28"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "14"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "14"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "14"
+- name: spanish pop
+  url: http://www.last.fm/tag/spanish%20pop
+  count: "14"
+- name: murcia
+  url: http://www.last.fm/tag/murcia
+  count: "14"
+- name: spanish folk
+  url: http://www.last.fm/tag/spanish%20folk
+  count: "14"
+- name: spanish indie rock
+  url: http://www.last.fm/tag/spanish%20indie%20rock
+  count: "14"
+- name: spanish singer-songwriter
+  url: http://www.last.fm/tag/spanish%20singer-songwriter
+  count: "14"
+- name: pop fantasmal
+  url: http://www.last.fm/tag/pop%20fantasmal
+  count: "14"
+- name: fantasmas y juglares
+  url: http://www.last.fm/tag/fantasmas%20y%20juglares
+  count: "14"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+"@attr": 
+  artist: Lidia Damunt

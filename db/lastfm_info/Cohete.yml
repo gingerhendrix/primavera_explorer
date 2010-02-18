@@ -1,0 +1,102 @@
+--- 
+name: Cohete
+stats: 
+  playcount: "18064"
+  listeners: "1195"
+tags: 
+  tag: 
+  - name: pop
+    url: http://www.last.fm/tag/pop
+  - name: rock
+    url: http://www.last.fm/tag/rock
+  - name: indie pop
+    url: http://www.last.fm/tag/indie%20pop
+  - name: retro
+    url: http://www.last.fm/tag/retro
+  - name: punk
+    url: http://www.last.fm/tag/punk
+similar: 
+  artist: 
+  - name: Francisco Nixon
+    url: http://www.last.fm/music/Francisco+Nixon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/264848.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/264848.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/264848.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/264848.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/264848/Francisco+Nixon.jpg
+  - name: "Joe Crep\xC3\xBAsculo"
+    url: http://www.last.fm/music/Joe+Crep%C3%BAsculo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/16889107.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/16889107.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/16889107.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/16889107.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/16889107/Joe+Crepsculo+foto_teclas_mini.jpg
+  - name: Extraperlo
+    url: http://www.last.fm/music/Extraperlo
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/26216437.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/26216437.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/26216437.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/26216437.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/26216437/Extraperlo+lastfmavatar.jpg
+  - name: Linda Mirada
+    url: http://www.last.fm/music/Linda+Mirada
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/33413621.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/33413621.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/33413621.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/33413621.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/33413621/Linda+Mirada+Linda20Mirada.jpg
+  - name: La Bien Querida
+    url: http://www.last.fm/music/La+Bien+Querida
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/25726007.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/25726007.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/25726007.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/25726007.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/25726007/La+Bien+Querida+LBQ.jpg
+url: http://www.last.fm/music/Cohete
+mbid: ""
+bio: 
+  published: ""
+  summary: ""
+  content: ""
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/28483445.gif
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/28483445.gif
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/28483445.gif
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/28483445.gif
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/28483445/Cohete+logo_.gif

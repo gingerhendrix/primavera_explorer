@@ -1,0 +1,235 @@
+--- 
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "59"
+- name: Surf
+  url: http://www.last.fm/tag/surf
+  count: "50"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "32"
+- name: surf rock
+  url: http://www.last.fm/tag/surf%20rock
+  count: "32"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "20"
+- name: new york
+  url: http://www.last.fm/tag/new%20york
+  count: "15"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "15"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "8"
+- name: new york lo-fi surf
+  url: http://www.last.fm/tag/new%20york%20lo-fi%20surf
+  count: "8"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "8"
+- name: Fuzzcore
+  url: http://www.last.fm/tag/fuzzcore
+  count: "6"
+- name: keen
+  url: http://www.last.fm/tag/keen
+  count: "6"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "5"
+- name: chillgaze
+  url: http://www.last.fm/tag/chillgaze
+  count: "5"
+- name: ducktails
+  url: http://www.last.fm/tag/ducktails
+  count: "3"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "3"
+- name: the straight story
+  url: http://www.last.fm/tag/the%20straight%20story
+  count: "3"
+- name: hazy beach
+  url: http://www.last.fm/tag/hazy%20beach
+  count: "3"
+- name: psychedelic pop
+  url: http://www.last.fm/tag/psychedelic%20pop
+  count: "3"
+- name: Brooklyn
+  url: http://www.last.fm/tag/brooklyn
+  count: "3"
+- name: Real Estate
+  url: http://www.last.fm/tag/real%20estate
+  count: "3"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "3"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "3"
+- name: new jersey
+  url: http://www.last.fm/tag/new%20jersey
+  count: "3"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "3"
+- name: surfy
+  url: http://www.last.fm/tag/surfy
+  count: "1"
+- name: psychadelic surf pop
+  url: http://www.last.fm/tag/psychadelic%20surf%20pop
+  count: "1"
+- name: newbreed
+  url: http://www.last.fm/tag/newbreed
+  count: "1"
+- name: smoke that shit
+  url: http://www.last.fm/tag/smoke%20that%20shit
+  count: "1"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "1"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "1"
+- name: fuck the snow
+  url: http://www.last.fm/tag/fuck%20the%20snow
+  count: "1"
+- name: hazey
+  url: http://www.last.fm/tag/hazey
+  count: "1"
+- name: the strombo show
+  url: http://www.last.fm/tag/the%20strombo%20show
+  count: "1"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "1"
+- name: i hate winter
+  url: http://www.last.fm/tag/i%20hate%20winter
+  count: "1"
+- name: listen-to
+  url: http://www.last.fm/tag/listen-to
+  count: "1"
+- name: NYC beach party movement
+  url: http://www.last.fm/tag/nyc%20beach%20party%20movement
+  count: "1"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "1"
+- name: late summer night
+  url: http://www.last.fm/tag/late%20summer%20night
+  count: "1"
+- name: new - look into
+  url: http://www.last.fm/tag/new%20-%20look%20into
+  count: "1"
+- name: please hype this
+  url: http://www.last.fm/tag/please%20hype%20this
+  count: "1"
+- name: i hate new jersey
+  url: http://www.last.fm/tag/i%20hate%20new%20jersey
+  count: "1"
+- name: actually sounds like dissociation
+  url: http://www.last.fm/tag/actually%20sounds%20like%20dissociation
+  count: "1"
+- name: lo-fi chill surf
+  url: http://www.last.fm/tag/lo-fi%20chill%20surf
+  count: "1"
+- name: Jitpop
+  url: http://www.last.fm/tag/jitpop
+  count: "1"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "1"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "1"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "1"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "1"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: blah
+  url: http://www.last.fm/tag/blah
+  count: "1"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "1"
+- name: Retro
+  url: http://www.last.fm/tag/retro
+  count: "1"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "1"
+- name: hipster garbage
+  url: http://www.last.fm/tag/hipster%20garbage
+  count: "1"
+- name: to dl
+  url: http://www.last.fm/tag/to%20dl
+  count: "1"
+- name: beach rock
+  url: http://www.last.fm/tag/beach%20rock
+  count: "1"
+- name: recovery
+  url: http://www.last.fm/tag/recovery
+  count: "1"
+- name: Decouverte
+  url: http://www.last.fm/tag/decouverte
+  count: "1"
+- name: beauteous
+  url: http://www.last.fm/tag/beauteous
+  count: "1"
+- name: surf pop
+  url: http://www.last.fm/tag/surf%20pop
+  count: "1"
+- name: tropical
+  url: http://www.last.fm/tag/tropical
+  count: "1"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "1"
+- name: Beach
+  url: http://www.last.fm/tag/beach
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: Indie-Rock
+  url: http://www.last.fm/tag/indie-rock
+  count: "0"
+- name: pop garabe
+  url: http://www.last.fm/tag/pop%20garabe
+  count: "0"
+- name: onetrack
+  url: http://www.last.fm/tag/onetrack
+  count: "0"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "0"
+- name: vorgemerkt
+  url: http://www.last.fm/tag/vorgemerkt
+  count: "0"
+- name: meh
+  url: http://www.last.fm/tag/meh
+  count: "0"
+"@attr": 
+  artist: Real Estate

@@ -1,0 +1,73 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: anti-folk
+  url: http://www.last.fm/tag/anti-folk
+  count: "100"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "71"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "71"
+- name: antifolk
+  url: http://www.last.fm/tag/antifolk
+  count: "57"
+- name: musicus 2009
+  url: http://www.last.fm/tag/musicus%202009
+  count: "28"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "28"
+- name: balding genius
+  url: http://www.last.fm/tag/balding%20genius
+  count: "14"
+- name: obscenely good
+  url: http://www.last.fm/tag/obscenely%20good
+  count: "14"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "14"
+- name: seen live twice
+  url: http://www.last.fm/tag/seen%20live%20twice
+  count: "14"
+- name: seen-live
+  url: http://www.last.fm/tag/seen-live
+  count: "14"
+- name: indie-folk
+  url: http://www.last.fm/tag/indie-folk
+  count: "14"
+- name: folk punk
+  url: http://www.last.fm/tag/folk%20punk
+  count: "14"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "14"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "14"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "14"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "14"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "14"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "14"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: MP3
+  url: http://www.last.fm/tag/mp3
+  count: "0"
+- name: barkbarkdisco
+  url: http://www.last.fm/tag/barkbarkdisco
+  count: "0"
+"@attr": 
+  artist: Jeffrey Lewis & The Junkyard

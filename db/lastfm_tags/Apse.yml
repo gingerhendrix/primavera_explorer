@@ -1,0 +1,301 @@
+--- 
+tag: 
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "45"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "32"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "15"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "15"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "9"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "8"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "6"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "6"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "4"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "4"
+- name: krautrock
+  url: http://www.last.fm/tag/krautrock
+  count: "3"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: Experimental Rock
+  url: http://www.last.fm/tag/experimental%20rock
+  count: "3"
+- name: instrumental rock
+  url: http://www.last.fm/tag/instrumental%20rock
+  count: "2"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "2"
+- name: instrumetal
+  url: http://www.last.fm/tag/instrumetal
+  count: "2"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "2"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "2"
+- name: ATP
+  url: http://www.last.fm/tag/atp
+  count: "2"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "1"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "1"
+- name: seen live 3 times
+  url: http://www.last.fm/tag/seen%20live%203%20times
+  count: "1"
+- name: Doe eens effe luisteren
+  url: http://www.last.fm/tag/doe%20eens%20effe%20luisteren
+  count: "0"
+- name: beyondwithin
+  url: http://www.last.fm/tag/beyondwithin
+  count: "0"
+- name: post-rock des tenebres
+  url: http://www.last.fm/tag/post-rock%20des%20tenebres
+  count: "0"
+- name: nu stuff 4
+  url: http://www.last.fm/tag/nu%20stuff%204
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: post-urban depressive
+  url: http://www.last.fm/tag/post-urban%20depressive
+  count: "0"
+- name: 4 letter artists
+  url: http://www.last.fm/tag/4%20letter%20artists
+  count: "0"
+- name: atp recordings
+  url: http://www.last.fm/tag/atp%20recordings
+  count: "0"
+- name: manjoh
+  url: http://www.last.fm/tag/manjoh
+  count: "0"
+- name: cape cod
+  url: http://www.last.fm/tag/cape%20cod
+  count: "0"
+- name: da da dammmm dammm dammmm
+  url: http://www.last.fm/tag/da%20da%20dammmm%20dammm%20dammmm
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: post-urbandepressive
+  url: http://www.last.fm/tag/post-urbandepressive
+  count: "0"
+- name: All Tomorrows Parties
+  url: http://www.last.fm/tag/all%20tomorrows%20parties
+  count: "0"
+- name: new - look into
+  url: http://www.last.fm/tag/new%20-%20look%20into
+  count: "0"
+- name: scene life
+  url: http://www.last.fm/tag/scene%20life
+  count: "0"
+- name: seen live - botanique 2008
+  url: http://www.last.fm/tag/seen%20live%20-%20botanique%202008
+  count: "0"
+- name: incomprensibili ma fighi
+  url: http://www.last.fm/tag/incomprensibili%20ma%20fighi
+  count: "0"
+- name: the post rock sounds of the underapreciated bands
+  url: http://www.last.fm/tag/the%20post%20rock%20sounds%20of%20the%20underapreciated%20bands
+  count: "0"
+- name: Les Nuits Botanique 2008
+  url: http://www.last.fm/tag/les%20nuits%20botanique%202008
+  count: "0"
+- name: pud
+  url: http://www.last.fm/tag/pud
+  count: "0"
+- name: stuff I still want to discover
+  url: http://www.last.fm/tag/stuff%20i%20still%20want%20to%20discover
+  count: "0"
+- name: best of ct
+  url: http://www.last.fm/tag/best%20of%20ct
+  count: "0"
+- name: post-post rock
+  url: http://www.last.fm/tag/post-post%20rock
+  count: "0"
+- name: post-apo
+  url: http://www.last.fm/tag/post-apo
+  count: "0"
+- name: atp vs pitchfork
+  url: http://www.last.fm/tag/atp%20vs%20pitchfork
+  count: "0"
+- name: psychotic rock
+  url: http://www.last.fm/tag/psychotic%20rock
+  count: "0"
+- name: post-rock and friends
+  url: http://www.last.fm/tag/post-rock%20and%20friends
+  count: "0"
+- name: seen live - pukkelpop 2007
+  url: http://www.last.fm/tag/seen%20live%20-%20pukkelpop%202007
+  count: "0"
+- name: ambient tunes
+  url: http://www.last.fm/tag/ambient%20tunes
+  count: "0"
+- name: bijo na koncertu
+  url: http://www.last.fm/tag/bijo%20na%20koncertu
+  count: "0"
+- name: Primavera 2007
+  url: http://www.last.fm/tag/primavera%202007
+  count: "0"
+- name: seen live - ab 2007
+  url: http://www.last.fm/tag/seen%20live%20-%20ab%202007
+  count: "0"
+- name: tribal
+  url: http://www.last.fm/tag/tribal
+  count: "0"
+- name: psychadelic
+  url: http://www.last.fm/tag/psychadelic
+  count: "0"
+- name: post
+  url: http://www.last.fm/tag/post
+  count: "0"
+- name: us
+  url: http://www.last.fm/tag/us
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: spiritual
+  url: http://www.last.fm/tag/spiritual
+  count: "0"
+- name: postrock
+  url: http://www.last.fm/tag/postrock
+  count: "0"
+- name: slowcore
+  url: http://www.last.fm/tag/slowcore
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "0"
+- name: depressive
+  url: http://www.last.fm/tag/depressive
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: Progressive rock
+  url: http://www.last.fm/tag/progressive%20rock
+  count: "0"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "0"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "0"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "0"
+- name: seen live 4 times
+  url: http://www.last.fm/tag/seen%20live%204%20times
+  count: "0"
+- name: avant
+  url: http://www.last.fm/tag/avant
+  count: "0"
+- name: GYBE
+  url: http://www.last.fm/tag/gybe
+  count: "0"
+- name: Try This
+  url: http://www.last.fm/tag/try%20this
+  count: "0"
+- name: My favourite albums
+  url: http://www.last.fm/tag/my%20favourite%20albums
+  count: "0"
+- name: instrumental post-rock
+  url: http://www.last.fm/tag/instrumental%20post-rock
+  count: "0"
+- name: avant-garde or experimental
+  url: http://www.last.fm/tag/avant-garde%20or%20experimental
+  count: "0"
+- name: post- rock
+  url: http://www.last.fm/tag/post-%20rock
+  count: "0"
+- name: Library
+  url: http://www.last.fm/tag/library
+  count: "0"
+- name: pure genius
+  url: http://www.last.fm/tag/pure%20genius
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: i need to hear more of this band
+  url: http://www.last.fm/tag/i%20need%20to%20hear%20more%20of%20this%20band
+  count: "0"
+- name: little owl
+  url: http://www.last.fm/tag/little%20owl
+  count: "0"
+- name: 50 Instrumental
+  url: http://www.last.fm/tag/50%20instrumental
+  count: "0"
+- name: FIR
+  url: http://www.last.fm/tag/fir
+  count: "0"
+- name: Check out sometimes
+  url: http://www.last.fm/tag/check%20out%20sometimes
+  count: "0"
+- name: after rock
+  url: http://www.last.fm/tag/after%20rock
+  count: "0"
+- name: POST RAWK
+  url: http://www.last.fm/tag/post%20rawk
+  count: "0"
+- name: listen
+  url: http://www.last.fm/tag/listen
+  count: "0"
+- name: donaufestival 08
+  url: http://www.last.fm/tag/donaufestival%2008
+  count: "0"
+- name: ghostly
+  url: http://www.last.fm/tag/ghostly
+  count: "0"
+- name: ATP v Pitchfork
+  url: http://www.last.fm/tag/atp%20v%20pitchfork
+  count: "0"
+- name: le post
+  url: http://www.last.fm/tag/le%20post
+  count: "0"
+- name: Remember
+  url: http://www.last.fm/tag/remember
+  count: "0"
+- name: pukkelpop 2007
+  url: http://www.last.fm/tag/pukkelpop%202007
+  count: "0"
+"@attr": 
+  artist: Apse

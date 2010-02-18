@@ -1,0 +1,130 @@
+--- 
+tag: 
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "70"
+- name: folk punk
+  url: http://www.last.fm/tag/folk%20punk
+  count: "64"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "64"
+- name: athens
+  url: http://www.last.fm/tag/athens
+  count: "35"
+- name: anti-folk
+  url: http://www.last.fm/tag/anti-folk
+  count: "29"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "23"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "17"
+- name: folk-punk
+  url: http://www.last.fm/tag/folk-punk
+  count: "11"
+- name: Elephant 6
+  url: http://www.last.fm/tag/elephant%206
+  count: "11"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "11"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "5"
+- name: rec
+  url: http://www.last.fm/tag/rec
+  count: "5"
+- name: lisp
+  url: http://www.last.fm/tag/lisp
+  count: "5"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "5"
+- name: sxsw2008
+  url: http://www.last.fm/tag/sxsw2008
+  count: "5"
+- name: sxsw 2008
+  url: http://www.last.fm/tag/sxsw%202008
+  count: "5"
+- name: shitlist
+  url: http://www.last.fm/tag/shitlist
+  count: "5"
+- name: spoon
+  url: http://www.last.fm/tag/spoon
+  count: "5"
+- name: diy
+  url: http://www.last.fm/tag/diy
+  count: "5"
+- name: boys with breathy voices
+  url: http://www.last.fm/tag/boys%20with%20breathy%20voices
+  count: "5"
+- name: poetic
+  url: http://www.last.fm/tag/poetic
+  count: "5"
+- name: choir
+  url: http://www.last.fm/tag/choir
+  count: "5"
+- name: alternative pop-rock
+  url: http://www.last.fm/tag/alternative%20pop-rock
+  count: "5"
+- name: youre whiny please kill yourself
+  url: http://www.last.fm/tag/youre%20whiny%20please%20kill%20yourself
+  count: "5"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "5"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "5"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "5"
+- name: horns
+  url: http://www.last.fm/tag/horns
+  count: "5"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "5"
+- name: happy
+  url: http://www.last.fm/tag/happy
+  count: "5"
+- name: Energetic
+  url: http://www.last.fm/tag/energetic
+  count: "5"
+- name: nostalgic
+  url: http://www.last.fm/tag/nostalgic
+  count: "5"
+- name: blah
+  url: http://www.last.fm/tag/blah
+  count: "5"
+- name: Pop-punk
+  url: http://www.last.fm/tag/pop-punk
+  count: "5"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "5"
+- name: drunk
+  url: http://www.last.fm/tag/drunk
+  count: "5"
+- name: Bright Eyes
+  url: http://www.last.fm/tag/bright%20eyes
+  count: "5"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: in concert
+  url: http://www.last.fm/tag/in%20concert
+  count: "0"
+- name: live music archive
+  url: http://www.last.fm/tag/live%20music%20archive
+  count: "0"
+"@attr": 
+  artist: Nana Grizol

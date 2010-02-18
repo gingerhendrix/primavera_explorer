@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "83"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "82"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "71"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "57"
+- name: New Weird America
+  url: http://www.last.fm/tag/new%20weird%20america
+  count: "28"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "28"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "9"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "7"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "7"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "5"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "5"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: cocorosie
+  url: http://www.last.fm/tag/cocorosie
+  count: "4"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "4"
+- name: psych folk
+  url: http://www.last.fm/tag/psych%20folk
+  count: "3"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "3"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "3"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "3"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "3"
+- name: weird
+  url: http://www.last.fm/tag/weird
+  count: "3"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "3"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "2"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "2"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "2"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "1"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: Coco Rosie
+  url: http://www.last.fm/tag/coco%20rosie
+  count: "1"
+- name: psychedelic folk
+  url: http://www.last.fm/tag/psychedelic%20folk
+  count: "1"
+- name: duyster
+  url: http://www.last.fm/tag/duyster
+  count: "1"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "1"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "1"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: melancholy
+  url: http://www.last.fm/tag/melancholy
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: melancholic
+  url: http://www.last.fm/tag/melancholic
+  count: "1"
+- name: experimental folk
+  url: http://www.last.fm/tag/experimental%20folk
+  count: "1"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "1"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "1"
+- name: Mellow
+  url: http://www.last.fm/tag/mellow
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: queer
+  url: http://www.last.fm/tag/queer
+  count: "0"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "0"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "0"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "0"
+- name: indie-folk
+  url: http://www.last.fm/tag/indie-folk
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: unique
+  url: http://www.last.fm/tag/unique
+  count: "0"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "0"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "0"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "0"
+- name: americana
+  url: http://www.last.fm/tag/americana
+  count: "0"
+- name: lowlands 2007
+  url: http://www.last.fm/tag/lowlands%202007
+  count: "0"
+- name: new folk
+  url: http://www.last.fm/tag/new%20folk
+  count: "0"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "0"
+- name: sweet
+  url: http://www.last.fm/tag/sweet
+  count: "0"
+- name: cute
+  url: http://www.last.fm/tag/cute
+  count: "0"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "0"
+- name: amazing
+  url: http://www.last.fm/tag/amazing
+  count: "0"
+- name: favourite
+  url: http://www.last.fm/tag/favourite
+  count: "0"
+- name: freak
+  url: http://www.last.fm/tag/freak
+  count: "0"
+- name: psych-folk
+  url: http://www.last.fm/tag/psych-folk
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "0"
+- name: freak-folk
+  url: http://www.last.fm/tag/freak-folk
+  count: "0"
+- name: folktronic
+  url: http://www.last.fm/tag/folktronic
+  count: "0"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: relax
+  url: http://www.last.fm/tag/relax
+  count: "0"
+- name: calm
+  url: http://www.last.fm/tag/calm
+  count: "0"
+- name: Love it
+  url: http://www.last.fm/tag/love%20it
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: Alt-country
+  url: http://www.last.fm/tag/alt-country
+  count: "0"
+- name: nice
+  url: http://www.last.fm/tag/nice
+  count: "0"
+- name: avant-folk
+  url: http://www.last.fm/tag/avant-folk
+  count: "0"
+- name: lo fi
+  url: http://www.last.fm/tag/lo%20fi
+  count: "0"
+- name: girls
+  url: http://www.last.fm/tag/girls
+  count: "0"
+- name: folk-tronic
+  url: http://www.last.fm/tag/folk-tronic
+  count: "0"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "0"
+- name: weird folk
+  url: http://www.last.fm/tag/weird%20folk
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: Naturalismo
+  url: http://www.last.fm/tag/naturalismo
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: Experimental pop
+  url: http://www.last.fm/tag/experimental%20pop
+  count: "0"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: roskilde 08
+  url: http://www.last.fm/tag/roskilde%2008
+  count: "0"
+- name: emusic
+  url: http://www.last.fm/tag/emusic
+  count: "0"
+- name: vocal
+  url: http://www.last.fm/tag/vocal
+  count: "0"
+- name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+  count: "0"
+"@attr": 
+  artist: CocoRosie

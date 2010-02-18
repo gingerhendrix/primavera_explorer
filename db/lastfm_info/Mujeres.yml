@@ -1,0 +1,102 @@
+--- 
+name: Mujeres
+stats: 
+  playcount: "6185"
+  listeners: "478"
+tags: 
+  tag: 
+  - name: garage rock
+    url: http://www.last.fm/tag/garage%20rock
+  - name: garage
+    url: http://www.last.fm/tag/garage
+  - name: rock
+    url: http://www.last.fm/tag/rock
+  - name: garage punk
+    url: http://www.last.fm/tag/garage%20punk
+  - name: pop
+    url: http://www.last.fm/tag/pop
+similar: 
+  artist: 
+  - name: Chiquita y chatarra
+    url: http://www.last.fm/music/Chiquita+y+chatarra
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/7207513.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/7207513.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/7207513.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/7207513.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/7207513/Chiquita+y+chatarra+cyc.jpg
+  - name: Concentration summer camps
+    url: http://www.last.fm/music/Concentration+summer+camps
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/33788437.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/33788437.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/33788437.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/33788437.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/33788437/Concentration+summer+camps+Robertito+Not+LA.jpg
+  - name: Els Trons
+    url: http://www.last.fm/music/Els+Trons
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/27911309.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/27911309.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/27911309.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/27911309.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/27911309/Els+Trons+trons1.jpg
+  - name: Tu Madre
+    url: http://www.last.fm/music/Tu+Madre
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/11422643.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/11422643.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/11422643.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/11422643.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/11422643/Tu+Madre+Untitled1.jpg
+  - name: Thelematicos
+    url: http://www.last.fm/music/Thelematicos
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/13355379.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/13355379.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/13355379.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/13355379.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/13355379/Thelematicos.jpg
+url: http://www.last.fm/music/Mujeres
+mbid: ""
+bio: 
+  published: ""
+  summary: ""
+  content: ""
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/17183453.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/17183453.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/17183453.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/17183453.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/17183453/Mujeres+las.jpg

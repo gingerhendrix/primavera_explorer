@@ -1,0 +1,102 @@
+--- 
+name: Junip
+stats: 
+  playcount: "121764"
+  listeners: "22189"
+tags: 
+  tag: 
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: acoustic
+    url: http://www.last.fm/tag/acoustic
+  - name: swedish
+    url: http://www.last.fm/tag/swedish
+  - name: alternative
+    url: http://www.last.fm/tag/alternative
+  - name: folk
+    url: http://www.last.fm/tag/folk
+similar: 
+  artist: 
+  - name: "Jos\xC3\xA9 Gonz\xC3\xA1lez"
+    url: http://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/8391033.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/8391033.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/8391033.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/8391033.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/8391033/Jos+Gonzlez.jpg
+  - name: The Bear Quartet
+    url: http://www.last.fm/music/The+Bear+Quartet
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/35541191.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/35541191.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/35541191.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/35541191.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/35541191/The+Bear+Quartet+BQ_albumbilden.jpg
+  - name: David & the Citizens
+    url: http://www.last.fm/music/David%2B%2526%2Bthe%2BCitizens
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/143331.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/143331.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/143331.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/143331.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/143331/David++the+Citizens.jpg
+  - name: Isolation Years
+    url: http://www.last.fm/music/Isolation+Years
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/361515.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/361515.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/361515.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/361515.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/361515/Isolation+Years.jpg
+  - name: "Kristofer \xC3\x85str\xC3\xB6m"
+    url: http://www.last.fm/music/Kristofer+%C3%85str%C3%B6m
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/299196.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/299196.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/299196.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/299196.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/299196/Kristofer+strm.jpg
+url: http://www.last.fm/music/Junip
+mbid: fb2df245-81b0-4a2b-9d01-e0955ba68be7
+bio: 
+  published: Tue, 17 Jun 2008 19:55:28 +0000
+  summary: "Trio from Gothenburg. A bit unfocused since the members (e.g. <a href=\"http://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez\" class=\"bbcode_artist\">Jos&eacute; Gonz&aacute;lez</a>) have a lot of projects going on, but hopefully new material will be released soon.  Their homepage is <a href=\"http://www.junip.net/\" rel=\"nofollow\">http://www.junip.net/</a>.  images on flickr tagged with 'junip': <a href=\"http://flickr.com/photos/tags/junip/\" rel=\"nofollow\">http://flickr.com/photos/tags/junip/</a>\n "
+  content: "Trio from Gothenburg. A bit unfocused since the members (e.g. <a href=\"http://www.last.fm/music/Jos%C3%A9+Gonz%C3%A1lez\" class=\"bbcode_artist\">Jos&eacute; Gonz&aacute;lez</a>) have a lot of projects going on, but hopefully new material will be released soon.\n \n Their homepage is <a href=\"http://www.junip.net/\" rel=\"nofollow\">http://www.junip.net/</a>.\n \n images on flickr tagged with 'junip': <a href=\"http://flickr.com/photos/tags/junip/\" rel=\"nofollow\">http://flickr.com/photos/tags/junip/</a>\n "
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/2613218.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/2613218.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/2613218.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/2613218.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/_/2613218/Junip.jpg

@@ -1,0 +1,259 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "92"
+- name: surf rock
+  url: http://www.last.fm/tag/surf%20rock
+  count: "78"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "65"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "32"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "14"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "12"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "12"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "9"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "9"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "9"
+- name: double drums
+  url: http://www.last.fm/tag/double%20drums
+  count: "7"
+- name: Surf
+  url: http://www.last.fm/tag/surf
+  count: "7"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "5"
+- name: "2010"
+  url: http://www.last.fm/tag/2010
+  count: "5"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "5"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "5"
+- name: surf pop
+  url: http://www.last.fm/tag/surf%20pop
+  count: "5"
+- name: cheese on toast
+  url: http://www.last.fm/tag/cheese%20on%20toast
+  count: "5"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "3"
+- name: if this were a pokemon i would catch it
+  url: http://www.last.fm/tag/if%20this%20were%20a%20pokemon%20i%20would%20catch%20it
+  count: "3"
+- name: doo wop
+  url: http://www.last.fm/tag/doo%20wop
+  count: "3"
+- name: nme
+  url: http://www.last.fm/tag/nme
+  count: "3"
+- name: whistle
+  url: http://www.last.fm/tag/whistle
+  count: "3"
+- name: dance around your bedroom
+  url: http://www.last.fm/tag/dance%20around%20your%20bedroom
+  count: "3"
+- name: to listen to
+  url: http://www.last.fm/tag/to%20listen%20to
+  count: "3"
+- name: makes you sing out loud
+  url: http://www.last.fm/tag/makes%20you%20sing%20out%20loud
+  count: "3"
+- name: merken
+  url: http://www.last.fm/tag/merken
+  count: "3"
+- name: twee
+  url: http://www.last.fm/tag/twee
+  count: "3"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "3"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "3"
+- name: youre whiny please kill yourself
+  url: http://www.last.fm/tag/youre%20whiny%20please%20kill%20yourself
+  count: "3"
+- name: blah
+  url: http://www.last.fm/tag/blah
+  count: "3"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "3"
+- name: nice and relaxing
+  url: http://www.last.fm/tag/nice%20and%20relaxing
+  count: "1"
+- name: grupos que me pueden molar
+  url: http://www.last.fm/tag/grupos%20que%20me%20pueden%20molar
+  count: "1"
+- name: All The Number Ones
+  url: http://www.last.fm/tag/all%20the%20number%20ones
+  count: "1"
+- name: sound of 2010
+  url: http://www.last.fm/tag/sound%20of%202010
+  count: "1"
+- name: hazy beach
+  url: http://www.last.fm/tag/hazy%20beach
+  count: "1"
+- name: hurts the ears
+  url: http://www.last.fm/tag/hurts%20the%20ears
+  count: "1"
+- name: please hype this
+  url: http://www.last.fm/tag/please%20hype%20this
+  count: "1"
+- name: sounds even better when drunk
+  url: http://www.last.fm/tag/sounds%20even%20better%20when%20drunk
+  count: "1"
+- name: Bay Area Noise
+  url: http://www.last.fm/tag/bay%20area%20noise
+  count: "1"
+- name: to see
+  url: http://www.last.fm/tag/to%20see
+  count: "1"
+- name: this is the music i want to dance to
+  url: http://www.last.fm/tag/this%20is%20the%20music%20i%20want%20to%20dance%20to
+  count: "1"
+- name: brooklyn shall rule
+  url: http://www.last.fm/tag/brooklyn%20shall%20rule
+  count: "1"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "1"
+- name: evidenz
+  url: http://www.last.fm/tag/evidenz
+  count: "1"
+- name: zoo core
+  url: http://www.last.fm/tag/zoo%20core
+  count: "1"
+- name: easychill
+  url: http://www.last.fm/tag/easychill
+  count: "1"
+- name: shitlist
+  url: http://www.last.fm/tag/shitlist
+  count: "1"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "1"
+- name: the cut
+  url: http://www.last.fm/tag/the%20cut
+  count: "1"
+- name: the strombo show
+  url: http://www.last.fm/tag/the%20strombo%20show
+  count: "1"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: summer
+  url: http://www.last.fm/tag/summer
+  count: "1"
+- name: The Cure
+  url: http://www.last.fm/tag/the%20cure
+  count: "1"
+- name: Recommended
+  url: http://www.last.fm/tag/recommended
+  count: "1"
+- name: Dreamy
+  url: http://www.last.fm/tag/dreamy
+  count: "1"
+- name: crushing
+  url: http://www.last.fm/tag/crushing
+  count: "1"
+- name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+  count: "1"
+- name: charming
+  url: http://www.last.fm/tag/charming
+  count: "1"
+- name: dreampop
+  url: http://www.last.fm/tag/dreampop
+  count: "1"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "1"
+- name: florida
+  url: http://www.last.fm/tag/florida
+  count: "1"
+- name: Bittersweet
+  url: http://www.last.fm/tag/bittersweet
+  count: "1"
+- name: 2dl
+  url: http://www.last.fm/tag/2dl
+  count: "1"
+- name: john dwyer
+  url: http://www.last.fm/tag/john%20dwyer
+  count: "1"
+- name: need to check out
+  url: http://www.last.fm/tag/need%20to%20check%20out
+  count: "1"
+- name: sunny songs
+  url: http://www.last.fm/tag/sunny%20songs
+  count: "1"
+- name: kewl
+  url: http://www.last.fm/tag/kewl
+  count: "1"
+- name: surfing
+  url: http://www.last.fm/tag/surfing
+  count: "1"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "1"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: USA
+  url: http://www.last.fm/tag/usa
+  count: "0"
+- name: United States
+  url: http://www.last.fm/tag/united%20states
+  count: "0"
+- name: check
+  url: http://www.last.fm/tag/check
+  count: "0"
+- name: bbc sound of 2010
+  url: http://www.last.fm/tag/bbc%20sound%20of%202010
+  count: "0"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "0"
+- name: to listen
+  url: http://www.last.fm/tag/to%20listen
+  count: "0"
+- name: new yorkers
+  url: http://www.last.fm/tag/new%20yorkers
+  count: "0"
+- name: bands and artists to check out
+  url: http://www.last.fm/tag/bands%20and%20artists%20to%20check%20out
+  count: "0"
+- name: bbcsoundof2010
+  url: http://www.last.fm/tag/bbcsoundof2010
+  count: "0"
+"@attr": 
+  artist: The Drums

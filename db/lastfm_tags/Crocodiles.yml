@@ -1,0 +1,217 @@
+--- 
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "74"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "55"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "42"
+- name: noise pop
+  url: http://www.last.fm/tag/noise%20pop
+  count: "36"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "21"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "19"
+- name: New Zealand
+  url: http://www.last.fm/tag/new%20zealand
+  count: "12"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "12"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "10"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "10"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "8"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "6"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "6"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "6"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "6"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "6"
+- name: fuzz
+  url: http://www.last.fm/tag/fuzz
+  count: "4"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "4"
+- name: Kiwi
+  url: http://www.last.fm/tag/kiwi
+  count: "4"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "4"
+- name: chillwave
+  url: http://www.last.fm/tag/chillwave
+  count: "4"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "4"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "4"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "4"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "4"
+- name: check out later
+  url: http://www.last.fm/tag/check%20out%20later
+  count: "2"
+- name: listen to
+  url: http://www.last.fm/tag/listen%20to
+  count: "2"
+- name: New Zealand music
+  url: http://www.last.fm/tag/new%20zealand%20music
+  count: "2"
+- name: Strasbourg
+  url: http://www.last.fm/tag/strasbourg
+  count: "2"
+- name: investigate further
+  url: http://www.last.fm/tag/investigate%20further
+  count: "2"
+- name: un
+  url: http://www.last.fm/tag/un
+  count: "2"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "2"
+- name: lo-fi noise rock
+  url: http://www.last.fm/tag/lo-fi%20noise%20rock
+  count: "2"
+- name: aelsklingsband
+  url: http://www.last.fm/tag/aelsklingsband
+  count: "2"
+- name: kaerlek II
+  url: http://www.last.fm/tag/kaerlek%20ii
+  count: "2"
+- name: a decouvrir absolument
+  url: http://www.last.fm/tag/a%20decouvrir%20absolument
+  count: "2"
+- name: have experienced in the live setting
+  url: http://www.last.fm/tag/have%20experienced%20in%20the%20live%20setting
+  count: "2"
+- name: the strombo show
+  url: http://www.last.fm/tag/the%20strombo%20show
+  count: "2"
+- name: Bars en Trans
+  url: http://www.last.fm/tag/bars%20en%20trans
+  count: "2"
+- name: meine tiere
+  url: http://www.last.fm/tag/meine%20tiere
+  count: "2"
+- name: zoo core
+  url: http://www.last.fm/tag/zoo%20core
+  count: "2"
+- name: hotandnew
+  url: http://www.last.fm/tag/hotandnew
+  count: "2"
+- name: shoegaze and shoeshine
+  url: http://www.last.fm/tag/shoegaze%20and%20shoeshine
+  count: "2"
+- name: Noise-fi
+  url: http://www.last.fm/tag/noise-fi
+  count: "2"
+- name: revival noise
+  url: http://www.last.fm/tag/revival%20noise
+  count: "2"
+- name: wall of sound
+  url: http://www.last.fm/tag/wall%20of%20sound
+  count: "2"
+- name: seen
+  url: http://www.last.fm/tag/seen
+  count: "2"
+- name: france
+  url: http://www.last.fm/tag/france
+  count: "2"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "2"
+- name: fuzzy
+  url: http://www.last.fm/tag/fuzzy
+  count: "2"
+- name: Maybe
+  url: http://www.last.fm/tag/maybe
+  count: "2"
+- name: french
+  url: http://www.last.fm/tag/french
+  count: "2"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "2"
+- name: nz
+  url: http://www.last.fm/tag/nz
+  count: "2"
+- name: spanish
+  url: http://www.last.fm/tag/spanish
+  count: "2"
+- name: California
+  url: http://www.last.fm/tag/california
+  count: "2"
+- name: Synth-Punk
+  url: http://www.last.fm/tag/synth-punk
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: Favourite bands
+  url: http://www.last.fm/tag/favourite%20bands
+  count: "0"
+- name: shit
+  url: http://www.last.fm/tag/shit
+  count: "0"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: shitgaze
+  url: http://www.last.fm/tag/shitgaze
+  count: "0"
+- name: darker than the deepest sea
+  url: http://www.last.fm/tag/darker%20than%20the%20deepest%20sea
+  count: "0"
+- name: Psychedelic Rock
+  url: http://www.last.fm/tag/psychedelic%20rock
+  count: "0"
+- name: fuel
+  url: http://www.last.fm/tag/fuel
+  count: "0"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "0"
+- name: must have
+  url: http://www.last.fm/tag/must%20have
+  count: "0"
+"@attr": 
+  artist: Crocodiles

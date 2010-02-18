@@ -1,0 +1,37 @@
+--- 
+tag: 
+- name: barbacas
+  url: http://www.last.fm/tag/barbacas
+  count: "100"
+- name: spanish indie pop
+  url: http://www.last.fm/tag/spanish%20indie%20pop
+  count: "66"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "33"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "33"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "33"
+- name: freak folk
+  url: http://www.last.fm/tag/freak%20folk
+  count: "33"
+- name: what a voice
+  url: http://www.last.fm/tag/what%20a%20voice
+  count: "33"
+- name: Dust
+  url: http://www.last.fm/tag/dust
+  count: "33"
+- name: cantante
+  url: http://www.last.fm/tag/cantante
+  count: "33"
+- name: spanish pop indie
+  url: http://www.last.fm/tag/spanish%20pop%20indie
+  count: "33"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+"@attr": 
+  artist: Bigott

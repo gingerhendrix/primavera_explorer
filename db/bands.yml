@@ -1,28 +1,100 @@
 --- 
+- :name: A Sunny Day In Glasgow
+  :lastfm_name: A Sunny Day In Glasgow
+  :id: artist_A_Sunny_Day_In_Glasgow
+  :display_name: A Sunny Day In Glasgow
+- :name: Apse
+  :lastfm_name: Apse
+  :id: artist_Apse
+  :display_name: Apse
 - :name: Atlas Sound
   :lastfm_name: Atlas Sound
   :id: artist_Atlas_Sound
   :display_name: Atlas Sound
+- :name: Beach House
+  :lastfm_name: Beach House
+  :id: artist_Beach_House
+  :display_name: Beach House
+- :name: Beak>
+  :lastfm_name: Beak>
+  :id: artist_Beak_
+  :display_name: Beak>
+- :name: Ben Frost
+  :lastfm_name: Ben Frost
+  :id: artist_Ben_Frost
+  :display_name: Ben Frost
+- :name: Best Coast
+  :lastfm_name: Best Coast
+  :id: artist_Best_Coast
+  :display_name: Best Coast
+- :name: Bigott
+  :lastfm_name: Bigott
+  :id: artist_Bigott
+  :display_name: Bigott
 - :name: Bis
   :lastfm_name: Bis
   :id: artist_Bis
   :display_name: Bis
-- :name: "Camar\xC3\xB3n La Leyenda Del Tiempo"
-  :lastfm_name: "Camar\xC3\xB3n La Leyenda Del Tiempo"
-  :id: artist_Camar__n_La_Leyenda_Del_Tiempo
-  :display_name: "Camar\xC3\xB3n La Leyenda Del Tiempo"
+- :name: Biscuit
+  :lastfm_name: Biscuit
+  :id: artist_Biscuit
+  :display_name: Biscuit
+- :name: Black Lips
+  :lastfm_name: Black Lips
+  :id: artist_Black_Lips
+  :display_name: Black Lips
+- :name: Black Math Horseman
+  :lastfm_name: Black Math Horseman
+  :id: artist_Black_Math_Horseman
+  :display_name: Black Math Horseman
+- :name: Boy 8-Bit
+  :lastfm_name: Boy 8-Bit
+  :id: artist_Boy_8_Bit
+  :display_name: Boy 8-Bit
+- :name: Broken Social Scene
+  :lastfm_name: Broken Social Scene
+  :id: artist_Broken_Social_Scene
+  :display_name: Broken Social Scene
+- :name: Built To Spill
+  :lastfm_name: Built To Spill
+  :id: artist_Built_To_Spill
+  :display_name: Built To Spill
+- :name: Camaron, La Leyenda Del Tiempo
+  :lastfm_name: Camaron, La Leyenda Del Tiempo
+  :id: artist_Camaron__La_Leyenda_Del_Tiempo
+  :display_name: Camaron, La Leyenda Del Tiempo
 - :name: Circulatory System
   :lastfm_name: Circulatory System
   :id: artist_Circulatory_System
   :display_name: Circulatory System
+- :name: CocoRosie
+  :lastfm_name: CocoRosie
+  :id: artist_CocoRosie
+  :display_name: CocoRosie
+- :name: Cohete
+  :lastfm_name: Cohete
+  :id: artist_Cohete
+  :display_name: Cohete
 - :name: Cold Cave
   :lastfm_name: Cold Cave
   :id: artist_Cold_Cave
   :display_name: Cold Cave
+- :name: Condo Fucks
+  :lastfm_name: Condo Fucks
+  :id: artist_Condo_Fucks
+  :display_name: Condo Fucks
+- :name: Crocodiles
+  :lastfm_name: Crocodiles
+  :id: artist_Crocodiles
+  :display_name: Crocodiles
 - :name: Delorean
   :lastfm_name: Delorean
   :id: artist_Delorean
   :display_name: Delorean
+- :name: Diplo
+  :lastfm_name: Diplo
+  :id: artist_Diplo
+  :display_name: Diplo
 - :name: Dr. Dog
   :lastfm_name: Dr. Dog
   :id: artist_Dr__Dog
@@ -31,6 +103,22 @@
   :lastfm_name: Dum Dum Girls
   :id: artist_Dum_Dum_Girls
   :display_name: Dum Dum Girls
+- :name: "Emilio Jos\xC3\xA9"
+  :lastfm_name: "Emilio Jos\xC3\xA9"
+  :id: artist_Emilio_Jos__
+  :display_name: "Emilio Jos\xC3\xA9"
+- :name: Endless Boogie
+  :lastfm_name: Endless Boogie
+  :id: artist_Endless_Boogie
+  :display_name: Endless Boogie
+- :name: Fake Blood
+  :lastfm_name: Fake Blood
+  :id: artist_Fake_Blood
+  :display_name: Fake Blood
+- :name: Florence + The Machine
+  :lastfm_name: Florence + The Machine
+  :id: artist_Florence___The_Machine
+  :display_name: Florence + The Machine
 - :name: Fuck Buttons
   :lastfm_name: Fuck Buttons
   :id: artist_Fuck_Buttons
@@ -39,6 +127,18 @@
   :lastfm_name: Ganglians
   :id: artist_Ganglians
   :display_name: Ganglians
+- :name: Gary Numan
+  :lastfm_name: Gary Numan
+  :id: artist_Gary_Numan
+  :display_name: Gary Numan
+- :name: Grizzly Bear
+  :lastfm_name: Grizzly Bear
+  :id: artist_Grizzly_Bear
+  :display_name: Grizzly Bear
+- :name: Half Foot Outside
+  :lastfm_name: Half Foot Outside
+  :id: artist_Half_Foot_Outside
+  :display_name: Half Foot Outside
 - :name: HEALTH
   :lastfm_name: HEALTH
   :id: artist_HEALTH
@@ -55,34 +155,90 @@
   :lastfm_name: Japandroids
   :id: artist_Japandroids
   :display_name: Japandroids
+- :name: Jeffrey Lewis & The Junkyard
+  :lastfm_name: Jeffrey Lewis & The Junkyard
+  :id: artist_Jeffrey_Lewis___The_Junkyard
+  :display_name: Jeffrey Lewis & The Junkyard
 - :name: Joker featuring Nomad
   :lastfm_name: Joker featuring Nomad
   :id: artist_Joker_featuring_Nomad
   :display_name: Joker featuring Nomad
+- :name: Junip
+  :lastfm_name: Junip
+  :id: artist_Junip
+  :display_name: Junip
 - :name: Lee "Scratch" Perry
   :lastfm_name: Lee "Scratch" Perry
   :id: artist_Lee__Scratch__Perry
   :display_name: Lee "Scratch" Perry
+- :name: Les Savy Fav
+  :lastfm_name: Les Savy Fav
+  :id: artist_Les_Savy_Fav
+  :display_name: Les Savy Fav
+- :name: Lidia Damunt
+  :lastfm_name: Lidia Damunt
+  :id: artist_Lidia_Damunt
+  :display_name: Lidia Damunt
 - :name: Liquid Liquid
   :lastfm_name: Liquid Liquid
   :id: artist_Liquid_Liquid
   :display_name: Liquid Liquid
-- :name: Low
+- :name: Low performing "The Great Destroyer"
   :lastfm_name: Low
   :id: artist_Low
-  :display_name: Low
+  :display_name: Low performing "The Great Destroyer"
+- :name: Major Lazer
+  :lastfm_name: Major Lazer
+  :id: artist_Major_Lazer
+  :display_name: Major Lazer
+- :name: Marc Almond
+  :lastfm_name: Marc Almond
+  :id: artist_Marc_Almond
+  :display_name: Marc Almond
+- :name: Matt & Kim
+  :lastfm_name: Matt & Kim
+  :id: artist_Matt___Kim
+  :display_name: Matt & Kim
 - :name: Mission Of Burma
   :lastfm_name: Mission Of Burma
   :id: artist_Mission_Of_Burma
   :display_name: Mission Of Burma
+- :name: Moderat
+  :lastfm_name: Moderat
+  :id: artist_Moderat
+  :display_name: Moderat
+- :name: Monotonix
+  :lastfm_name: Monotonix
+  :id: artist_Monotonix
+  :display_name: Monotonix
+- :name: Mujeres
+  :lastfm_name: Mujeres
+  :id: artist_Mujeres
+  :display_name: Mujeres
+- :name: Nana Grizol
+  :lastfm_name: Nana Grizol
+  :id: artist_Nana_Grizol
+  :display_name: Nana Grizol
 - :name: No Age
   :lastfm_name: No Age
   :id: artist_No_Age
   :display_name: No Age
+- :name: Nueva Vulcano
+  :lastfm_name: Nueva Vulcano
+  :id: artist_Nueva_Vulcano
+  :display_name: Nueva Vulcano
+- :name: ODDSAC
+  :lastfm_name: ODDSAC
+  :id: artist_ODDSAC
+  :display_name: ODDSAC
 - :name: Orbital
   :lastfm_name: Orbital
   :id: artist_Orbital
   :display_name: Orbital
+- :name: Owen Pallett (Final Fantasy)
+  :lastfm_name: Owen Pallett
+  :id: artist_Owen_Pallett__Final_Fantasy_
+  :display_name: Owen Pallett (Final Fantasy)
 - :name: Panda Bear
   :lastfm_name: Panda Bear
   :id: artist_Panda_Bear
@@ -91,6 +247,10 @@
   :lastfm_name: Pavement
   :id: artist_Pavement
   :display_name: Pavement
+- :name: Pet Shop Boys
+  :lastfm_name: Pet Shop Boys
+  :id: artist_Pet_Shop_Boys
+  :display_name: Pet Shop Boys
 - :name: Pixies
   :lastfm_name: Pixies
   :id: artist_Pixies
@@ -99,18 +259,38 @@
   :lastfm_name: Polvo
   :id: artist_Polvo
   :display_name: Polvo
-- :name: Real State
-  :lastfm_name: Real State
-  :id: artist_Real_State
-  :display_name: Real State
+- :name: Real Estate
+  :lastfm_name: Real Estate
+  :id: artist_Real_Estate
+  :display_name: Real Estate
+- :name: Roddy Frame
+  :lastfm_name: Roddy Frame
+  :id: artist_Roddy_Frame
+  :display_name: Roddy Frame
+- :name: Scout Niblett
+  :lastfm_name: Scout Niblett
+  :id: artist_Scout_Niblett
+  :display_name: Scout Niblett
+- :name: Seefeel
+  :lastfm_name: Seefeel
+  :id: artist_Seefeel
+  :display_name: Seefeel
 - :name: Shellac
   :lastfm_name: Shellac
   :id: artist_Shellac
   :display_name: Shellac
+- :name: Sian Alice Group
+  :lastfm_name: Sian Alice Group
+  :id: artist_Sian_Alice_Group
+  :display_name: Sian Alice Group
 - :name: Sic Alps
   :lastfm_name: Sic Alps
   :id: artist_Sic_Alps
   :display_name: Sic Alps
+- :name: Sleigh Bells
+  :lastfm_name: Sleigh Bells
+  :id: artist_Sleigh_Bells
+  :display_name: Sleigh Bells
 - :name: Spoon
   :lastfm_name: Spoon
   :id: artist_Spoon
@@ -119,10 +299,22 @@
   :lastfm_name: Standstill
   :id: artist_Standstill
   :display_name: Standstill
+- :name: Sunny Day Real Estate
+  :lastfm_name: Sunny Day Real Estate
+  :id: artist_Sunny_Day_Real_Estate
+  :display_name: Sunny Day Real Estate
 - :name: Superchunk
   :lastfm_name: Superchunk
   :id: artist_Superchunk
   :display_name: Superchunk
+- :name: Surfer Blood
+  :lastfm_name: Surfer Blood
+  :id: artist_Surfer_Blood
+  :display_name: Surfer Blood
+- :name: The Almighty Defenders
+  :lastfm_name: The Almighty Defenders
+  :id: artist_The_Almighty_Defenders
+  :display_name: The Almighty Defenders
 - :name: The Antlers
   :lastfm_name: The Antlers
   :id: artist_The_Antlers
@@ -131,18 +323,38 @@
   :lastfm_name: The Big Pink
   :id: artist_The_Big_Pink
   :display_name: The Big Pink
-- :name: The Bloody Beetroots
-  :lastfm_name: The Bloody Beetroots
-  :id: artist_The_Bloody_Beetroots
-  :display_name: The Bloody Beetroots
+- :name: The Bloody Beetroots Death Crew 77
+  :lastfm_name: The Bloody Beetroots Death Crew 77
+  :id: artist_The_Bloody_Beetroots_Death_Crew_77
+  :display_name: The Bloody Beetroots Death Crew 77
+- :name: The Books
+  :lastfm_name: The Books
+  :id: artist_The_Books
+  :display_name: The Books
+- :name: The Bundles
+  :lastfm_name: The Bundles
+  :id: artist_The_Bundles
+  :display_name: The Bundles
+- :name: The Charlatans
+  :lastfm_name: The Charlatans
+  :id: artist_The_Charlatan
+  :display_name: The Charlatans performing "Some Friendly"
 - :name: The Clean
   :lastfm_name: The Clean
   :id: artist_The_Clean
   :display_name: The Clean
+- :name: The Drums
+  :lastfm_name: The Drums
+  :id: artist_The_Drums
+  :display_name: The Drums
 - :name: The Fall
   :lastfm_name: The Fall
   :id: artist_The_Fall
   :display_name: The Fall
+- :name: The Field
+  :lastfm_name: The Field
+  :id: artist_The_Field
+  :display_name: The Field
 - :name: The King Khan & BBQ Show
   :lastfm_name: The King Khan & BBQ Show
   :id: artist_The_King_Khan___BBQ_Show
@@ -155,10 +367,34 @@
   :lastfm_name: The Psychic Paramount
   :id: artist_The_Psychic_Paramount
   :display_name: The Psychic Paramount
+- :name: The Slits
+  :lastfm_name: The Slits
+  :id: artist_The_Slits
+  :display_name: The Slits
+- :name: The Smith Westerns
+  :lastfm_name: The Smith Westerns
+  :id: artist_The_Smith_Westerns
+  :display_name: The Smith Westerns
+- :name: The Wave Pictures
+  :lastfm_name: The Wave Pictures
+  :id: artist_The_Wave_Pictures
+  :display_name: The Wave Pictures
 - :name: The XX
   :lastfm_name: The XX
   :id: artist_The_XX
   :display_name: The XX
+- :name: Thee Oh Sees
+  :lastfm_name: Thee Oh Sees
+  :id: artist_Thee_Oh_Sees
+  :display_name: Thee Oh Sees
+- :name: Titus Andronicus
+  :lastfm_name: Titus Andronicus
+  :id: artist_Titus_Andronicus
+  :display_name: Titus Andronicus
+- :name: Tortoise
+  :lastfm_name: Tortoise
+  :id: artist_Tortoise
+  :display_name: Tortoise
 - :name: Ui
   :lastfm_name: Ui
   :id: artist_Ui
@@ -171,6 +407,10 @@
   :lastfm_name: Wild Beasts
   :id: artist_Wild_Beasts
   :display_name: Wild Beasts
+- :name: Wild Honey
+  :lastfm_name: Wild Honey
+  :id: artist_Wild_Honey
+  :display_name: Wild Honey
 - :name: Wire
   :lastfm_name: Wire
   :id: artist_Wire

@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "100"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "88"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "45"
+- name: riot grrrl
+  url: http://www.last.fm/tag/riot%20grrrl
+  count: "41"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "27"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "17"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "17"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "13"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "10"
+- name: reggae
+  url: http://www.last.fm/tag/reggae
+  count: "8"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "7"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "7"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "5"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "4"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "4"
+- name: the Slits
+  url: http://www.last.fm/tag/the%20slits
+  count: "3"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "3"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "3"
+- name: John Peel
+  url: http://www.last.fm/tag/john%20peel
+  count: "3"
+- name: Female Voices
+  url: http://www.last.fm/tag/female%20voices
+  count: "2"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "2"
+- name: noise
+  url: http://www.last.fm/tag/noise
+  count: "1"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "1"
+- name: Losing My Edge
+  url: http://www.last.fm/tag/losing%20my%20edge
+  count: "1"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "1"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: British Punk
+  url: http://www.last.fm/tag/british%20punk
+  count: "1"
+- name: art punk
+  url: http://www.last.fm/tag/art%20punk
+  count: "1"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "1"
+- name: "77"
+  url: http://www.last.fm/tag/77
+  count: "1"
+- name: UK Punk
+  url: http://www.last.fm/tag/uk%20punk
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: female fronted
+  url: http://www.last.fm/tag/female%20fronted
+  count: "1"
+- name: no wave
+  url: http://www.last.fm/tag/no%20wave
+  count: "1"
+- name: girls
+  url: http://www.last.fm/tag/girls
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: 77 punk
+  url: http://www.last.fm/tag/77%20punk
+  count: "1"
+- name: female artists
+  url: http://www.last.fm/tag/female%20artists
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: grrrl
+  url: http://www.last.fm/tag/grrrl
+  count: "1"
+- name: 70s punk
+  url: http://www.last.fm/tag/70s%20punk
+  count: "1"
+- name: dum dum dum
+  url: http://www.last.fm/tag/dum%20dum%20dum
+  count: "1"
+- name: feminist
+  url: http://www.last.fm/tag/feminist
+  count: "0"
+- name: Girl Rock
+  url: http://www.last.fm/tag/girl%20rock
+  count: "0"
+- name: 1970s
+  url: http://www.last.fm/tag/1970s
+  count: "0"
+- name: alternative punk
+  url: http://www.last.fm/tag/alternative%20punk
+  count: "0"
+- name: transliteracy
+  url: http://www.last.fm/tag/transliteracy
+  count: "0"
+- name: my punk girls
+  url: http://www.last.fm/tag/my%20punk%20girls
+  count: "0"
+- name: rebellious girls
+  url: http://www.last.fm/tag/rebellious%20girls
+  count: "0"
+- name: yummy yummy punk rock girls
+  url: http://www.last.fm/tag/yummy%20yummy%20punk%20rock%20girls
+  count: "0"
+- name: gayjamaica
+  url: http://www.last.fm/tag/gayjamaica
+  count: "0"
+- name: British Girls
+  url: http://www.last.fm/tag/british%20girls
+  count: "0"
+- name: records and tapes
+  url: http://www.last.fm/tag/records%20and%20tapes
+  count: "0"
+- name: little onion
+  url: http://www.last.fm/tag/little%20onion
+  count: "0"
+- name: LIVEPUNK ROCKSHOW
+  url: http://www.last.fm/tag/livepunk%20rockshow
+  count: "0"
+- name: girls only
+  url: http://www.last.fm/tag/girls%20only
+  count: "0"
+- name: better than your music
+  url: http://www.last.fm/tag/better%20than%20your%20music
+  count: "0"
+- name: Optimo
+  url: http://www.last.fm/tag/optimo
+  count: "0"
+- name: Lollipop
+  url: http://www.last.fm/tag/lollipop
+  count: "0"
+- name: young and lovely punk
+  url: http://www.last.fm/tag/young%20and%20lovely%20punk
+  count: "0"
+- name: dub punk
+  url: http://www.last.fm/tag/dub%20punk
+  count: "0"
+- name: Discopunk
+  url: http://www.last.fm/tag/discopunk
+  count: "0"
+- name: all-female
+  url: http://www.last.fm/tag/all-female
+  count: "0"
+- name: bands with chicks
+  url: http://www.last.fm/tag/bands%20with%20chicks
+  count: "0"
+- name: riot grrl
+  url: http://www.last.fm/tag/riot%20grrl
+  count: "0"
+- name: 1980s
+  url: http://www.last.fm/tag/1980s
+  count: "0"
+- name: the best
+  url: http://www.last.fm/tag/the%20best
+  count: "0"
+- name: sexy
+  url: http://www.last.fm/tag/sexy
+  count: "0"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: Crap
+  url: http://www.last.fm/tag/crap
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "0"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "0"
+- name: cover version
+  url: http://www.last.fm/tag/cover%20version
+  count: "0"
+- name: Music to download
+  url: http://www.last.fm/tag/music%20to%20download
+  count: "0"
+- name: nexus
+  url: http://www.last.fm/tag/nexus
+  count: "0"
+- name: Resistance is futile
+  url: http://www.last.fm/tag/resistance%20is%20futile
+  count: "0"
+- name: Punktastic
+  url: http://www.last.fm/tag/punktastic
+  count: "0"
+- name: tags are annoying
+  url: http://www.last.fm/tag/tags%20are%20annoying
+  count: "0"
+- name: dread
+  url: http://www.last.fm/tag/dread
+  count: "0"
+- name: kadinlarim
+  url: http://www.last.fm/tag/kadinlarim
+  count: "0"
+- name: LivePunkRockShow
+  url: http://www.last.fm/tag/livepunkrockshow
+  count: "0"
+- name: female guitarists
+  url: http://www.last.fm/tag/female%20guitarists
+  count: "0"
+- name: postpunknewwave
+  url: http://www.last.fm/tag/postpunknewwave
+  count: "0"
+- name: feminist punk
+  url: http://www.last.fm/tag/feminist%20punk
+  count: "0"
+- name: flumroc
+  url: http://www.last.fm/tag/flumroc
+  count: "0"
+- name: And I hate that my feet are dancing so much
+  url: http://www.last.fm/tag/and%20i%20hate%20that%20my%20feet%20are%20dancing%20so%20much
+  count: "0"
+- name: the best of those english postpunk chick bands on account o the reggae influence
+  url: http://www.last.fm/tag/the%20best%20of%20those%20english%20postpunk%20chick%20bands%20on%20account%20o%20the%20reggae%20influence
+  count: "0"
+- name: steveadamsfm
+  url: http://www.last.fm/tag/steveadamsfm
+  count: "0"
+- name: to remember
+  url: http://www.last.fm/tag/to%20remember
+  count: "0"
+- name: space rock
+  url: http://www.last.fm/tag/space%20rock
+  count: "0"
+- name: trash punk
+  url: http://www.last.fm/tag/trash%20punk
+  count: "0"
+- name: tulva
+  url: http://www.last.fm/tag/tulva
+  count: "0"
+- name: MB muziek
+  url: http://www.last.fm/tag/mb%20muziek
+  count: "0"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "0"
+- name: knorpelfunky
+  url: http://www.last.fm/tag/knorpelfunky
+  count: "0"
+- name: heteromo
+  url: http://www.last.fm/tag/heteromo
+  count: "0"
+- name: NoddY RioT
+  url: http://www.last.fm/tag/noddy%20riot
+  count: "0"
+- name: Bands who Les has a story about
+  url: http://www.last.fm/tag/bands%20who%20les%20has%20a%20story%20about
+  count: "0"
+"@attr": 
+  artist: The Slits

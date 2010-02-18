@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "76"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "67"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "64"
+- name: anti-folk
+  url: http://www.last.fm/tag/anti-folk
+  count: "41"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "26"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "23"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "23"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "20"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "17"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "11"
+- name: End Of The Road 2008
+  url: http://www.last.fm/tag/end%20of%20the%20road%202008
+  count: "11"
+- name: twee pop
+  url: http://www.last.fm/tag/twee%20pop
+  count: "11"
+- name: primavera sound 2008
+  url: http://www.last.fm/tag/primavera%20sound%202008
+  count: "8"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "8"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "8"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "5"
+- name: antifolk
+  url: http://www.last.fm/tag/antifolk
+  count: "5"
+- name: Great Lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+  count: "5"
+- name: The Wave Pictures
+  url: http://www.last.fm/tag/the%20wave%20pictures
+  count: "5"
+- name: Melikes but knows nought about
+  url: http://www.last.fm/tag/melikes%20but%20knows%20nought%20about
+  count: "5"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "5"
+- name: superguay
+  url: http://www.last.fm/tag/superguay
+  count: "2"
+- name: smoking gun
+  url: http://www.last.fm/tag/smoking%20gun
+  count: "2"
+- name: Seen live at concert
+  url: http://www.last.fm/tag/seen%20live%20at%20concert
+  count: "2"
+- name: BAND I NEED TO CHECK
+  url: http://www.last.fm/tag/band%20i%20need%20to%20check
+  count: "2"
+- name: needs listening indie
+  url: http://www.last.fm/tag/needs%20listening%20indie
+  count: "2"
+- name: molando
+  url: http://www.last.fm/tag/molando
+  count: "2"
+- name: end of the road 2007
+  url: http://www.last.fm/tag/end%20of%20the%20road%202007
+  count: "2"
+- name: Soko
+  url: http://www.last.fm/tag/soko
+  count: "2"
+- name: criterio
+  url: http://www.last.fm/tag/criterio
+  count: "2"
+- name: cojonudos a mas no poder
+  url: http://www.last.fm/tag/cojonudos%20a%20mas%20no%20poder
+  count: "2"
+- name: cae
+  url: http://www.last.fm/tag/cae
+  count: "2"
+- name: son guays
+  url: http://www.last.fm/tag/son%20guays
+  count: "2"
+- name: post-twee
+  url: http://www.last.fm/tag/post-twee
+  count: "2"
+- name: the spinto band
+  url: http://www.last.fm/tag/the%20spinto%20band
+  count: "2"
+- name: FOALS
+  url: http://www.last.fm/tag/foals
+  count: "2"
+- name: 21st century rock
+  url: http://www.last.fm/tag/21st%20century%20rock
+  count: "2"
+- name: Beirut
+  url: http://www.last.fm/tag/beirut
+  count: "2"
+- name: wymeswold
+  url: http://www.last.fm/tag/wymeswold
+  count: "2"
+- name: sad eyed brothers
+  url: http://www.last.fm/tag/sad%20eyed%20brothers
+  count: "2"
+- name: los he visionado en directo
+  url: http://www.last.fm/tag/los%20he%20visionado%20en%20directo
+  count: "2"
+- name: the windmill
+  url: http://www.last.fm/tag/the%20windmill
+  count: "2"
+- name: DOT TO DOT 2009
+  url: http://www.last.fm/tag/dot%20to%20dot%202009
+  count: "2"
+- name: ep bands
+  url: http://www.last.fm/tag/ep%20bands
+  count: "2"
+- name: london folk scene
+  url: http://www.last.fm/tag/london%20folk%20scene
+  count: "2"
+- name: the harrisburg family band
+  url: http://www.last.fm/tag/the%20harrisburg%20family%20band
+  count: "2"
+- name: amiira
+  url: http://www.last.fm/tag/amiira
+  count: "2"
+- name: lorcas
+  url: http://www.last.fm/tag/lorcas
+  count: "2"
+- name: mc einar
+  url: http://www.last.fm/tag/mc%20einar
+  count: "2"
+- name: Tanned Tin 08
+  url: http://www.last.fm/tag/tanned%20tin%2008
+  count: "2"
+- name: Barock94 selection
+  url: http://www.last.fm/tag/barock94%20selection
+  count: "2"
+- name: PC08
+  url: http://www.last.fm/tag/pc08
+  count: "2"
+- name: not great singers great voices
+  url: http://www.last.fm/tag/not%20great%20singers%20great%20voices
+  count: "2"
+- name: indietracks 2008
+  url: http://www.last.fm/tag/indietracks%202008
+  count: "2"
+- name: horstaxe
+  url: http://www.last.fm/tag/horstaxe
+  count: "2"
+- name: live feel
+  url: http://www.last.fm/tag/live%20feel
+  count: "2"
+- name: oeya 2008
+  url: http://www.last.fm/tag/oeya%202008
+  count: "2"
+- name: PS08
+  url: http://www.last.fm/tag/ps08
+  count: "2"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "2"
+- name: like it
+  url: http://www.last.fm/tag/like%20it
+  count: "2"
+- name: seen this band live
+  url: http://www.last.fm/tag/seen%20this%20band%20live
+  count: "2"
+- name: Art brut
+  url: http://www.last.fm/tag/art%20brut
+  count: "2"
+- name: anti folk
+  url: http://www.last.fm/tag/anti%20folk
+  count: "2"
+- name: <3
+  url: http://www.last.fm/tag/%3C3
+  count: "2"
+- name: up-and-coming
+  url: http://www.last.fm/tag/up-and-coming
+  count: "2"
+- name: The Smiths
+  url: http://www.last.fm/tag/the%20smiths
+  count: "2"
+- name: harmonies
+  url: http://www.last.fm/tag/harmonies
+  count: "2"
+- name: british rock
+  url: http://www.last.fm/tag/british%20rock
+  count: "2"
+- name: soft
+  url: http://www.last.fm/tag/soft
+  count: "2"
+- name: seenlive
+  url: http://www.last.fm/tag/seenlive
+  count: "2"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "2"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "2"
+- name: male
+  url: http://www.last.fm/tag/male
+  count: "2"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "2"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "2"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "2"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "2"
+- name: plan b
+  url: http://www.last.fm/tag/plan%20b
+  count: "2"
+- name: field music
+  url: http://www.last.fm/tag/field%20music
+  count: "2"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "2"
+- name: live seen
+  url: http://www.last.fm/tag/live%20seen
+  count: "2"
+- name: female and male vocalists
+  url: http://www.last.fm/tag/female%20and%20male%20vocalists
+  count: "2"
+- name: saturday looks good to me
+  url: http://www.last.fm/tag/saturday%20looks%20good%20to%20me
+  count: "2"
+- name: Moshi Moshi
+  url: http://www.last.fm/tag/moshi%20moshi
+  count: "2"
+- name: Live recording
+  url: http://www.last.fm/tag/live%20recording
+  count: "2"
+- name: super furry animals
+  url: http://www.last.fm/tag/super%20furry%20animals
+  count: "2"
+- name: Belle & Sebastian
+  url: http://www.last.fm/tag/belle%2B%2526%2Bsebastian
+  count: "2"
+- name: Phoenix
+  url: http://www.last.fm/tag/phoenix
+  count: "2"
+- name: "3"
+  url: http://www.last.fm/tag/3
+  count: "2"
+- name: The Go! Team
+  url: http://www.last.fm/tag/the%20go%21%20team
+  count: "2"
+- name: Rock-ish
+  url: http://www.last.fm/tag/rock-ish
+  count: "2"
+- name: Alternativo
+  url: http://www.last.fm/tag/alternativo
+  count: "2"
+- name: Grandaddy
+  url: http://www.last.fm/tag/grandaddy
+  count: "2"
+- name: loved
+  url: http://www.last.fm/tag/loved
+  count: "2"
+- name: Velvet Underground
+  url: http://www.last.fm/tag/velvet%20underground
+  count: "2"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+- name: New band of the day
+  url: http://www.last.fm/tag/new%20band%20of%20the%20day
+  count: "0"
+- name: ouvir depois
+  url: http://www.last.fm/tag/ouvir%20depois
+  count: "0"
+- name: Robin Warren loves this band
+  url: http://www.last.fm/tag/robin%20warren%20loves%20this%20band
+  count: "0"
+"@attr": 
+  artist: The Wave Pictures

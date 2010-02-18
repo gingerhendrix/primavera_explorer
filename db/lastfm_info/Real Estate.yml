@@ -1,0 +1,102 @@
+--- 
+name: Real Estate
+stats: 
+  playcount: "755500"
+  listeners: "41261"
+tags: 
+  tag: 
+  - name: lo-fi
+    url: http://www.last.fm/tag/lo-fi
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: surf
+    url: http://www.last.fm/tag/surf
+  - name: alt-country
+    url: http://www.last.fm/tag/alt-country
+  - name: surf rock
+    url: http://www.last.fm/tag/surf%20rock
+similar: 
+  artist: 
+  - name: Best Coast
+    url: http://www.last.fm/music/Best+Coast
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/33397819.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/33397819.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/33397819.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/33397819.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/33397819/Best+Coast+best.jpg
+  - name: Ducktails
+    url: http://www.last.fm/music/Ducktails
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/23584263.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/23584263.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/23584263.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/23584263.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/23584263/Ducktails+l_660a0fa9b1664843a2b5a0deb7d6.jpg
+  - name: Julian Lynch
+    url: http://www.last.fm/music/Julian+Lynch
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/36363769.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/36363769.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/36363769.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/36363769.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/36363769/Julian+Lynch+julian.jpg
+  - name: Surfer Blood
+    url: http://www.last.fm/music/Surfer+Blood
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/40274371.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/40274371.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/40274371.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/40274371.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/40274371/Surfer+Blood+surferbloodPMVH050110.jpg
+  - name: Girls
+    url: http://www.last.fm/music/Girls
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/31052071.png
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/31052071.png
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/31052071.png
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/31052071.png
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/31052071/Girls+band.png
+url: http://www.last.fm/music/Real+Estate
+mbid: ""
+bio: 
+  published: Sat, 13 Feb 2010 08:42:01 +0000
+  summary: "Real Estate is a band hailing from New Jersey, now based in Brooklyn, N.Y. The band has roots in the Garden State and they\xE2\x80\x99re led by singer/guitarist Martin Courtney and feature guitarist Matthew Mondanile (the latter known to some for his work in <a href=\"http://www.last.fm/music/Ducktails\" class=\"bbcode_artist\">Ducktails</a>, <a href=\"http://www.last.fm/music/Predator+Vision\" class=\"bbcode_artist\">Predator Vision</a>, and <a href=\"http://www.last.fm/music/The+Parasails\" class=\"bbcode_artist\">The Parasails</a>) as well as Alex Bleeker on bass and Etienne Duguay (also of <a href=\"http://www.last.fm/music/Predator+Vision\" class=\"bbcode_artist\">Predator Vision</a>) on the drums.  <a href=\"http://www.myspace.com/realestate\" rel=\"nofollow\">http://www.myspace.com/realestate</a>"
+  content: "Real Estate is a band hailing from New Jersey, now based in Brooklyn, N.Y. The band has roots in the Garden State and they\xE2\x80\x99re led by singer/guitarist Martin Courtney and feature guitarist Matthew Mondanile (the latter known to some for his work in <a href=\"http://www.last.fm/music/Ducktails\" class=\"bbcode_artist\">Ducktails</a>, <a href=\"http://www.last.fm/music/Predator+Vision\" class=\"bbcode_artist\">Predator Vision</a>, and <a href=\"http://www.last.fm/music/The+Parasails\" class=\"bbcode_artist\">The Parasails</a>) as well as Alex Bleeker on bass and Etienne Duguay (also of <a href=\"http://www.last.fm/music/Predator+Vision\" class=\"bbcode_artist\">Predator Vision</a>) on the drums.\n \n <a href=\"http://www.myspace.com/realestate\" rel=\"nofollow\">http://www.myspace.com/realestate</a>"
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/30656913.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/30656913.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/30656913.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/30656913.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/30656913/Real+Estate+rockaway+beach.jpg

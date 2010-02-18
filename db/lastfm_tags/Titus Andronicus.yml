@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "66"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "51"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "51"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "42"
+- name: noise rock
+  url: http://www.last.fm/tag/noise%20rock
+  count: "15"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "15"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "13"
+- name: new jersey
+  url: http://www.last.fm/tag/new%20jersey
+  count: "12"
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "11"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "11"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "7"
+- name: lo-fi is the new hi-fi
+  url: http://www.last.fm/tag/lo-fi%20is%20the%20new%20hi-fi
+  count: "7"
+- name: rock n roll
+  url: http://www.last.fm/tag/rock%20n%20roll
+  count: "5"
+- name: Lo-Fi Punk
+  url: http://www.last.fm/tag/lo-fi%20punk
+  count: "3"
+- name: post-punk folk
+  url: http://www.last.fm/tag/post-punk%20folk
+  count: "3"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: saw live
+  url: http://www.last.fm/tag/saw%20live
+  count: "2"
+- name: NJ
+  url: http://www.last.fm/tag/nj
+  count: "2"
+- name: alternative punk
+  url: http://www.last.fm/tag/alternative%20punk
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: Post-punk revival
+  url: http://www.last.fm/tag/post-punk%20revival
+  count: "2"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "2"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "2"
+- name: sacrifice the liver
+  url: http://www.last.fm/tag/sacrifice%20the%20liver
+  count: "1"
+- name: shakespearean
+  url: http://www.last.fm/tag/shakespearean
+  count: "1"
+- name: symphonic folk
+  url: http://www.last.fm/tag/symphonic%20folk
+  count: "1"
+- name: buzzes like a fridge
+  url: http://www.last.fm/tag/buzzes%20like%20a%20fridge
+  count: "1"
+- name: seen live again
+  url: http://www.last.fm/tag/seen%20live%20again
+  count: "1"
+- name: Descubrimientos
+  url: http://www.last.fm/tag/descubrimientos
+  count: "1"
+- name: daytrotter
+  url: http://www.last.fm/tag/daytrotter
+  count: "1"
+- name: great scott
+  url: http://www.last.fm/tag/great%20scott
+  count: "1"
+- name: 8 out of 10
+  url: http://www.last.fm/tag/8%20out%20of%2010
+  count: "1"
+- name: Check out more
+  url: http://www.last.fm/tag/check%20out%20more
+  count: "1"
+- name: seeing live
+  url: http://www.last.fm/tag/seeing%20live
+  count: "1"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "1"
+- name: 5432fun
+  url: http://www.last.fm/tag/5432fun
+  count: "1"
+- name: "2010"
+  url: http://www.last.fm/tag/2010
+  count: "1"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "1"
+- name: scottish punk
+  url: http://www.last.fm/tag/scottish%20punk
+  count: "1"
+- name: location:us:nj:glen rock
+  url: http://www.last.fm/tag/location%3Aus%3Anj%3Aglen%20rock
+  count: "1"
+- name: mansfeld
+  url: http://www.last.fm/tag/mansfeld
+  count: "1"
+- name: to be avoided at all cost
+  url: http://www.last.fm/tag/to%20be%20avoided%20at%20all%20cost
+  count: "1"
+- name: location:us:new jersey:glen rock
+  url: http://www.last.fm/tag/location%3Aus%3Anew%20jersey%3Aglen%20rock
+  count: "1"
+- name: popculture references
+  url: http://www.last.fm/tag/popculture%20references
+  count: "1"
+- name: sandal rock
+  url: http://www.last.fm/tag/sandal%20rock
+  count: "1"
+- name: auf die fresse alda
+  url: http://www.last.fm/tag/auf%20die%20fresse%20alda
+  count: "1"
+- name: Ancient Rome
+  url: http://www.last.fm/tag/ancient%20rome
+  count: "1"
+- name: All the powers of a king plus all the powers of Superman
+  url: http://www.last.fm/tag/all%20the%20powers%20of%20a%20king%20plus%20all%20the%20powers%20of%20superman
+  count: "1"
+- name: seen live:thrice
+  url: http://www.last.fm/tag/seen%20live%3Athrice
+  count: "1"
+- name: seen live:twice
+  url: http://www.last.fm/tag/seen%20live%3Atwice
+  count: "1"
+- name: jerrycakes seen live
+  url: http://www.last.fm/tag/jerrycakes%20seen%20live
+  count: "1"
+- name: Andrew WK mixed with Guided by Voices
+  url: http://www.last.fm/tag/andrew%20wk%20mixed%20with%20guided%20by%20voices
+  count: "1"
+- name: pitchfork lo-fi
+  url: http://www.last.fm/tag/pitchfork%20lo-fi
+  count: "1"
+- name: indie deluxe
+  url: http://www.last.fm/tag/indie%20deluxe
+  count: "1"
+- name: ermp08
+  url: http://www.last.fm/tag/ermp08
+  count: "1"
+- name: tolistenhiero2
+  url: http://www.last.fm/tag/tolistenhiero2
+  count: "1"
+- name: dishwashercore
+  url: http://www.last.fm/tag/dishwashercore
+  count: "1"
+- name: Pitchfork Music Festival 2008
+  url: http://www.last.fm/tag/pitchfork%20music%20festival%202008
+  count: "1"
+- name: top albuns 2008
+  url: http://www.last.fm/tag/top%20albuns%202008
+  count: "1"
+- name: great live
+  url: http://www.last.fm/tag/great%20live
+  count: "1"
+- name: indie punk
+  url: http://www.last.fm/tag/indie%20punk
+  count: "1"
+- name: energy
+  url: http://www.last.fm/tag/energy
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: folk-rock
+  url: http://www.last.fm/tag/folk-rock
+  count: "1"
+- name: Good Stuff
+  url: http://www.last.fm/tag/good%20stuff
+  count: "1"
+- name: folk rock
+  url: http://www.last.fm/tag/folk%20rock
+  count: "1"
+- name: literate
+  url: http://www.last.fm/tag/literate
+  count: "1"
+- name: Rock and Roll
+  url: http://www.last.fm/tag/rock%20and%20roll
+  count: "1"
+- name: post-hardcore
+  url: http://www.last.fm/tag/post-hardcore
+  count: "1"
+- name: loud
+  url: http://www.last.fm/tag/loud
+  count: "1"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "1"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "1"
+- name: punk rock
+  url: http://www.last.fm/tag/punk%20rock
+  count: "1"
+- name: good
+  url: http://www.last.fm/tag/good
+  count: "1"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "1"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "1"
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "1"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "1"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "1"
+- name: seen twice
+  url: http://www.last.fm/tag/seen%20twice
+  count: "1"
+- name: artists to check out
+  url: http://www.last.fm/tag/artists%20to%20check%20out
+  count: "1"
+- name: Troubleman Unlimited
+  url: http://www.last.fm/tag/troubleman%20unlimited
+  count: "1"
+- name: to check out later
+  url: http://www.last.fm/tag/to%20check%20out%20later
+  count: "1"
+- name: dylanesque
+  url: http://www.last.fm/tag/dylanesque
+  count: "1"
+- name: Recent faves
+  url: http://www.last.fm/tag/recent%20faves
+  count: "1"
+- name: awesome live
+  url: http://www.last.fm/tag/awesome%20live
+  count: "1"
+- name: experimental punk
+  url: http://www.last.fm/tag/experimental%20punk
+  count: "1"
+- name: orgasm
+  url: http://www.last.fm/tag/orgasm
+  count: "1"
+- name: lo-fi rock
+  url: http://www.last.fm/tag/lo-fi%20rock
+  count: "1"
+- name: t
+  url: http://www.last.fm/tag/t
+  count: "1"
+- name: hm
+  url: http://www.last.fm/tag/hm
+  count: "1"
+- name: fuck you
+  url: http://www.last.fm/tag/fuck%20you
+  count: "1"
+- name: drum machine
+  url: http://www.last.fm/tag/drum%20machine
+  count: "1"
+- name: jersey
+  url: http://www.last.fm/tag/jersey
+  count: "1"
+- name: the clash
+  url: http://www.last.fm/tag/the%20clash
+  count: "1"
+- name: angels
+  url: http://www.last.fm/tag/angels
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "1"
+"@attr": 
+  artist: Titus Andronicus

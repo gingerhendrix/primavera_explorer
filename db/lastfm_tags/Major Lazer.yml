@@ -1,0 +1,241 @@
+--- 
+tag: 
+- name: dancehall
+  url: http://www.last.fm/tag/dancehall
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "78"
+- name: reggae
+  url: http://www.last.fm/tag/reggae
+  count: "75"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "64"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "46"
+- name: ragga
+  url: http://www.last.fm/tag/ragga
+  count: "11"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "10"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "7"
+- name: dance hall
+  url: http://www.last.fm/tag/dance%20hall
+  count: "6"
+- name: diplo
+  url: http://www.last.fm/tag/diplo
+  count: "6"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "6"
+- name: dubstep
+  url: http://www.last.fm/tag/dubstep
+  count: "5"
+- name: lazers
+  url: http://www.last.fm/tag/lazers
+  count: "5"
+- name: ghetto
+  url: http://www.last.fm/tag/ghetto
+  count: "3"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "3"
+- name: major lazer
+  url: http://www.last.fm/tag/major%20lazer
+  count: "3"
+- name: Electro Dancehall
+  url: http://www.last.fm/tag/electro%20dancehall
+  count: "3"
+- name: fidget house
+  url: http://www.last.fm/tag/fidget%20house
+  count: "3"
+- name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+  count: "2"
+- name: electro reggae
+  url: http://www.last.fm/tag/electro%20reggae
+  count: "2"
+- name: auto-tune
+  url: http://www.last.fm/tag/auto-tune
+  count: "2"
+- name: jamaican
+  url: http://www.last.fm/tag/jamaican
+  count: "2"
+- name: seen live-dj set
+  url: http://www.last.fm/tag/seen%20live-dj%20set
+  count: "2"
+- name: jungle
+  url: http://www.last.fm/tag/jungle
+  count: "2"
+- name: looks fuckin awesome
+  url: http://www.last.fm/tag/looks%20fuckin%20awesome
+  count: "2"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: baile-tech
+  url: http://www.last.fm/tag/baile-tech
+  count: "2"
+- name: Downtown
+  url: http://www.last.fm/tag/downtown
+  count: "2"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "2"
+- name: fuckrock
+  url: http://www.last.fm/tag/fuckrock
+  count: "1"
+- name: downtempot
+  url: http://www.last.fm/tag/downtempot
+  count: "1"
+- name: clothes off
+  url: http://www.last.fm/tag/clothes%20off
+  count: "1"
+- name: ghetto bass
+  url: http://www.last.fm/tag/ghetto%20bass
+  count: "1"
+- name: reggae fusion
+  url: http://www.last.fm/tag/reggae%20fusion
+  count: "1"
+- name: Music to try
+  url: http://www.last.fm/tag/music%20to%20try
+  count: "1"
+- name: heiner blum
+  url: http://www.last.fm/tag/heiner%20blum
+  count: "1"
+- name: snake charmer
+  url: http://www.last.fm/tag/snake%20charmer
+  count: "1"
+- name: VITTU JOO
+  url: http://www.last.fm/tag/vittu%20joo
+  count: "1"
+- name: dance to this in my underwear
+  url: http://www.last.fm/tag/dance%20to%20this%20in%20my%20underwear
+  count: "1"
+- name: RoboReggae
+  url: http://www.last.fm/tag/roboreggae
+  count: "1"
+- name: Roskilde 2009
+  url: http://www.last.fm/tag/roskilde%202009
+  count: "1"
+- name: mad-hop
+  url: http://www.last.fm/tag/mad-hop
+  count: "1"
+- name: dub eletronic diplo switch collabo
+  url: http://www.last.fm/tag/dub%20eletronic%20diplo%20switch%20collabo
+  count: "1"
+- name: diplo switch collabo
+  url: http://www.last.fm/tag/diplo%20switch%20collabo
+  count: "1"
+- name: awesome featurings
+  url: http://www.last.fm/tag/awesome%20featurings
+  count: "1"
+- name: Seen live baby
+  url: http://www.last.fm/tag/seen%20live%20baby
+  count: "1"
+- name: ragga porn
+  url: http://www.last.fm/tag/ragga%20porn
+  count: "1"
+- name: electronic reggae fusion
+  url: http://www.last.fm/tag/electronic%20reggae%20fusion
+  count: "1"
+- name: leapsandcoachella2010
+  url: http://www.last.fm/tag/leapsandcoachella2010
+  count: "1"
+- name: funky
+  url: http://www.last.fm/tag/funky
+  count: "1"
+- name: funny
+  url: http://www.last.fm/tag/funny
+  count: "1"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "1"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "1"
+- name: crossover
+  url: http://www.last.fm/tag/crossover
+  count: "1"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "1"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "1"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "1"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "1"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "1"
+- name: Hard
+  url: http://www.last.fm/tag/hard
+  count: "1"
+- name: dance party
+  url: http://www.last.fm/tag/dance%20party
+  count: "1"
+- name: Electro Ragga
+  url: http://www.last.fm/tag/electro%20ragga
+  count: "1"
+- name: Fidget
+  url: http://www.last.fm/tag/fidget
+  count: "1"
+- name: jump up
+  url: http://www.last.fm/tag/jump%20up
+  count: "1"
+- name: partytime
+  url: http://www.last.fm/tag/partytime
+  count: "1"
+- name: Switch
+  url: http://www.last.fm/tag/switch
+  count: "1"
+- name: own it
+  url: http://www.last.fm/tag/own%20it
+  count: "1"
+- name: FM4
+  url: http://www.last.fm/tag/fm4
+  count: "1"
+- name: collabo
+  url: http://www.last.fm/tag/collabo
+  count: "1"
+- name: nerdcore
+  url: http://www.last.fm/tag/nerdcore
+  count: "1"
+- name: addicting
+  url: http://www.last.fm/tag/addicting
+  count: "1"
+- name: Reggaeton
+  url: http://www.last.fm/tag/reggaeton
+  count: "1"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: listen to
+  url: http://www.last.fm/tag/listen%20to
+  count: "0"
+- name: roskilde 09
+  url: http://www.last.fm/tag/roskilde%2009
+  count: "0"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "0"
+- name: Bailata
+  url: http://www.last.fm/tag/bailata
+  count: "0"
+"@attr": 
+  artist: Major Lazer

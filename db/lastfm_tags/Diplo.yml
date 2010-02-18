@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "100"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "76"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "51"
+- name: ninja tune
+  url: http://www.last.fm/tag/ninja%20tune
+  count: "45"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "38"
+- name: hip hop
+  url: http://www.last.fm/tag/hip%20hop
+  count: "20"
+- name: baile funk
+  url: http://www.last.fm/tag/baile%20funk
+  count: "15"
+- name: turntablism
+  url: http://www.last.fm/tag/turntablism
+  count: "11"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "11"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "11"
+- name: dj
+  url: http://www.last.fm/tag/dj
+  count: "8"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "7"
+- name: Grime
+  url: http://www.last.fm/tag/grime
+  count: "6"
+- name: underground hip-hop
+  url: http://www.last.fm/tag/underground%20hip-hop
+  count: "5"
+- name: mashup
+  url: http://www.last.fm/tag/mashup
+  count: "5"
+- name: instrumental hip-hop
+  url: http://www.last.fm/tag/instrumental%20hip-hop
+  count: "4"
+- name: american
+  url: http://www.last.fm/tag/american
+  count: "4"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: diplo
+  url: http://www.last.fm/tag/diplo
+  count: "3"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "3"
+- name: rap
+  url: http://www.last.fm/tag/rap
+  count: "3"
+- name: breakbeat
+  url: http://www.last.fm/tag/breakbeat
+  count: "3"
+- name: trip hop
+  url: http://www.last.fm/tag/trip%20hop
+  count: "3"
+- name: baltimore club
+  url: http://www.last.fm/tag/baltimore%20club
+  count: "2"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "2"
+- name: remix
+  url: http://www.last.fm/tag/remix
+  count: "2"
+- name: Funk Carioca
+  url: http://www.last.fm/tag/funk%20carioca
+  count: "2"
+- name: Philly
+  url: http://www.last.fm/tag/philly
+  count: "2"
+- name: dancehall
+  url: http://www.last.fm/tag/dancehall
+  count: "2"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "2"
+- name: underground hip hop
+  url: http://www.last.fm/tag/underground%20hip%20hop
+  count: "2"
+- name: big dada
+  url: http://www.last.fm/tag/big%20dada
+  count: "2"
+- name: electro funk
+  url: http://www.last.fm/tag/electro%20funk
+  count: "2"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "2"
+- name: hiphop
+  url: http://www.last.fm/tag/hiphop
+  count: "2"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: mash-up
+  url: http://www.last.fm/tag/mash-up
+  count: "1"
+- name: mad decent
+  url: http://www.last.fm/tag/mad%20decent
+  count: "1"
+- name: club
+  url: http://www.last.fm/tag/club
+  count: "1"
+- name: coachella 2008
+  url: http://www.last.fm/tag/coachella%202008
+  count: "1"
+- name: producer
+  url: http://www.last.fm/tag/producer
+  count: "1"
+- name: party
+  url: http://www.last.fm/tag/party
+  count: "1"
+- name: experimental hip-hop
+  url: http://www.last.fm/tag/experimental%20hip-hop
+  count: "1"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "1"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "1"
+- name: bmore
+  url: http://www.last.fm/tag/bmore
+  count: "1"
+- name: melt 2009
+  url: http://www.last.fm/tag/melt%202009
+  count: "1"
+- name: lowlands 2008
+  url: http://www.last.fm/tag/lowlands%202008
+  count: "1"
+- name: breaks
+  url: http://www.last.fm/tag/breaks
+  count: "1"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "1"
+- name: mia
+  url: http://www.last.fm/tag/mia
+  count: "1"
+- name: favela
+  url: http://www.last.fm/tag/favela
+  count: "1"
+- name: elektro
+  url: http://www.last.fm/tag/elektro
+  count: "1"
+- name: underground
+  url: http://www.last.fm/tag/underground
+  count: "1"
+- name: instrumental hip hop
+  url: http://www.last.fm/tag/instrumental%20hip%20hop
+  count: "1"
+- name: breaks n beats
+  url: http://www.last.fm/tag/breaks%20n%20beats
+  count: "1"
+- name: Indie Hip Hop
+  url: http://www.last.fm/tag/indie%20hip%20hop
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: florida
+  url: http://www.last.fm/tag/florida
+  count: "1"
+- name: djs
+  url: http://www.last.fm/tag/djs
+  count: "1"
+- name: experimental hip hop
+  url: http://www.last.fm/tag/experimental%20hip%20hop
+  count: "1"
+- name: seen live-dj set
+  url: http://www.last.fm/tag/seen%20live-dj%20set
+  count: "1"
+- name: Roskilde 2007
+  url: http://www.last.fm/tag/roskilde%202007
+  count: "1"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "1"
+- name: abstract hip hop
+  url: http://www.last.fm/tag/abstract%20hip%20hop
+  count: "1"
+- name: Philadelphia
+  url: http://www.last.fm/tag/philadelphia
+  count: "1"
+- name: Chillosophy
+  url: http://www.last.fm/tag/chillosophy
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: turntablist
+  url: http://www.last.fm/tag/turntablist
+  count: "0"
+- name: UK hip hop
+  url: http://www.last.fm/tag/uk%20hip%20hop
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: remixes
+  url: http://www.last.fm/tag/remixes
+  count: "0"
+- name: roskilde 07
+  url: http://www.last.fm/tag/roskilde%2007
+  count: "0"
+- name: Jazz Hop
+  url: http://www.last.fm/tag/jazz%20hop
+  count: "0"
+- name: funky
+  url: http://www.last.fm/tag/funky
+  count: "0"
+- name: Krunk
+  url: http://www.last.fm/tag/krunk
+  count: "0"
+- name: taktlotzen
+  url: http://www.last.fm/tag/taktlotzen
+  count: "0"
+- name: nu jazz
+  url: http://www.last.fm/tag/nu%20jazz
+  count: "0"
+- name: fun
+  url: http://www.last.fm/tag/fun
+  count: "0"
+- name: Electrojazz
+  url: http://www.last.fm/tag/electrojazz
+  count: "0"
+- name: Avant-Garde
+  url: http://www.last.fm/tag/avant-garde
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: crackin
+  url: http://www.last.fm/tag/crackin
+  count: "0"
+- name: eski
+  url: http://www.last.fm/tag/eski
+  count: "0"
+- name: new
+  url: http://www.last.fm/tag/new
+  count: "0"
+- name: baltimore club music
+  url: http://www.last.fm/tag/baltimore%20club%20music
+  count: "0"
+- name: electronic hip-hop
+  url: http://www.last.fm/tag/electronic%20hip-hop
+  count: "0"
+- name: roskilde 2006
+  url: http://www.last.fm/tag/roskilde%202006
+  count: "0"
+- name: mash up
+  url: http://www.last.fm/tag/mash%20up
+  count: "0"
+- name: Archie
+  url: http://www.last.fm/tag/archie
+  count: "0"
+- name: Pennsylvania
+  url: http://www.last.fm/tag/pennsylvania
+  count: "0"
+- name: greys anatomy
+  url: http://www.last.fm/tag/greys%20anatomy
+  count: "0"
+- name: lounge
+  url: http://www.last.fm/tag/lounge
+  count: "0"
+- name: acid jazz
+  url: http://www.last.fm/tag/acid%20jazz
+  count: "0"
+- name: indie hip-hop
+  url: http://www.last.fm/tag/indie%20hip-hop
+  count: "0"
+"@attr": 
+  artist: Diplo

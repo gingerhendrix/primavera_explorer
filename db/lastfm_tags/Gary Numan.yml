@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "69"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "54"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "51"
+- name: industrial
+  url: http://www.last.fm/tag/industrial
+  count: "38"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "20"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "9"
+- name: goth
+  url: http://www.last.fm/tag/goth
+  count: "8"
+- name: darkwave
+  url: http://www.last.fm/tag/darkwave
+  count: "7"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "7"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "6"
+- name: Gothic
+  url: http://www.last.fm/tag/gothic
+  count: "6"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "5"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "4"
+- name: new romantic
+  url: http://www.last.fm/tag/new%20romantic
+  count: "3"
+- name: Gary Numan
+  url: http://www.last.fm/tag/gary%20numan
+  count: "3"
+- name: industrial rock
+  url: http://www.last.fm/tag/industrial%20rock
+  count: "3"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "3"
+- name: synth
+  url: http://www.last.fm/tag/synth
+  count: "3"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "3"
+- name: dark
+  url: http://www.last.fm/tag/dark
+  count: "2"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "1"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "1"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "1"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "1"
+- name: synth rock
+  url: http://www.last.fm/tag/synth%20rock
+  count: "1"
+- name: ebm
+  url: http://www.last.fm/tag/ebm
+  count: "1"
+- name: Electro Pop
+  url: http://www.last.fm/tag/electro%20pop
+  count: "0"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "0"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "0"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "0"
+- name: dark wave
+  url: http://www.last.fm/tag/dark%20wave
+  count: "0"
+- name: dance
+  url: http://www.last.fm/tag/dance
+  count: "0"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "0"
+- name: 80's
+  url: http://www.last.fm/tag/80%27s
+  count: "0"
+- name: metal
+  url: http://www.last.fm/tag/metal
+  count: "0"
+- name: funk
+  url: http://www.last.fm/tag/funk
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: Favorite Artists
+  url: http://www.last.fm/tag/favorite%20artists
+  count: "0"
+- name: Hip-Hop
+  url: http://www.last.fm/tag/hip-hop
+  count: "0"
+- name: cyberpunk
+  url: http://www.last.fm/tag/cyberpunk
+  count: "0"
+- name: glam rock
+  url: http://www.last.fm/tag/glam%20rock
+  count: "0"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "0"
+- name: britpop
+  url: http://www.last.fm/tag/britpop
+  count: "0"
+- name: live
+  url: http://www.last.fm/tag/live
+  count: "0"
+- name: alternative dance
+  url: http://www.last.fm/tag/alternative%20dance
+  count: "0"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: numan
+  url: http://www.last.fm/tag/numan
+  count: "0"
+- name: classic rock
+  url: http://www.last.fm/tag/classic%20rock
+  count: "0"
+- name: synth-pop
+  url: http://www.last.fm/tag/synth-pop
+  count: "0"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "0"
+- name: wave
+  url: http://www.last.fm/tag/wave
+  count: "0"
+- name: The Mighty Boosh
+  url: http://www.last.fm/tag/the%20mighty%20boosh
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: dark electro
+  url: http://www.last.fm/tag/dark%20electro
+  count: "0"
+- name: Electro Wave
+  url: http://www.last.fm/tag/electro%20wave
+  count: "0"
+- name: Post punk
+  url: http://www.last.fm/tag/post%20punk
+  count: "0"
+- name: eighties
+  url: http://www.last.fm/tag/eighties
+  count: "0"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "0"
+- name: Electroclash
+  url: http://www.last.fm/tag/electroclash
+  count: "0"
+- name: Iveldie
+  url: http://www.last.fm/tag/iveldie
+  count: "0"
+- name: 80s Pop
+  url: http://www.last.fm/tag/80s%20pop
+  count: "0"
+- name: industrial metal
+  url: http://www.last.fm/tag/industrial%20metal
+  count: "0"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "0"
+- name: power pop
+  url: http://www.last.fm/tag/power%20pop
+  count: "0"
+- name: goth rock
+  url: http://www.last.fm/tag/goth%20rock
+  count: "0"
+- name: Gothic Rock
+  url: http://www.last.fm/tag/gothic%20rock
+  count: "0"
+- name: scissor sisters
+  url: http://www.last.fm/tag/scissor%20sisters
+  count: "0"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "0"
+- name: New-Wave
+  url: http://www.last.fm/tag/new-wave
+  count: "0"
+- name: favourite artists
+  url: http://www.last.fm/tag/favourite%20artists
+  count: "0"
+- name: Bestival 2008
+  url: http://www.last.fm/tag/bestival%202008
+  count: "0"
+- name: Favorite
+  url: http://www.last.fm/tag/favorite
+  count: "0"
+- name: she wants revenge
+  url: http://www.last.fm/tag/she%20wants%20revenge
+  count: "0"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "0"
+- name: outofmind
+  url: http://www.last.fm/tag/outofmind
+  count: "0"
+- name: Favourites
+  url: http://www.last.fm/tag/favourites
+  count: "0"
+- name: The Cars
+  url: http://www.last.fm/tag/the%20cars
+  count: "0"
+- name: electro industrial
+  url: http://www.last.fm/tag/electro%20industrial
+  count: "0"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "0"
+- name: cadmium
+  url: http://www.last.fm/tag/cadmium
+  count: "0"
+- name: Favorite Bands
+  url: http://www.last.fm/tag/favorite%20bands
+  count: "0"
+- name: cadmium candy
+  url: http://www.last.fm/tag/cadmium%20candy
+  count: "0"
+- name: best
+  url: http://www.last.fm/tag/best
+  count: "0"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: Industrial-electronica
+  url: http://www.last.fm/tag/industrial-electronica
+  count: "0"
+- name: electronic body music
+  url: http://www.last.fm/tag/electronic%20body%20music
+  count: "0"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "0"
+- name: cadmiumcandy
+  url: http://www.last.fm/tag/cadmiumcandy
+  count: "0"
+- name: futu
+  url: http://www.last.fm/tag/futu
+  count: "0"
+- name: Bands seen Live
+  url: http://www.last.fm/tag/bands%20seen%20live
+  count: "0"
+- name: Depeche Mode
+  url: http://www.last.fm/tag/depeche%20mode
+  count: "0"
+- name: electro-industrial
+  url: http://www.last.fm/tag/electro-industrial
+  count: "0"
+- name: Artists I own stuff by
+  url: http://www.last.fm/tag/artists%20i%20own%20stuff%20by
+  count: "0"
+- name: synt
+  url: http://www.last.fm/tag/synt
+  count: "0"
+"@attr": 
+  artist: Gary Numan

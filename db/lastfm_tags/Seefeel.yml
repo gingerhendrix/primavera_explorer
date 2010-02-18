@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "100"
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "82"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "68"
+- name: shoegaze
+  url: http://www.last.fm/tag/shoegaze
+  count: "59"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "31"
+- name: dream pop
+  url: http://www.last.fm/tag/dream%20pop
+  count: "18"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "14"
+- name: Warp
+  url: http://www.last.fm/tag/warp
+  count: "13"
+- name: psychedelic
+  url: http://www.last.fm/tag/psychedelic
+  count: "10"
+- name: chillout
+  url: http://www.last.fm/tag/chillout
+  count: "6"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "6"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "6"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "5"
+- name: downtempo
+  url: http://www.last.fm/tag/downtempo
+  count: "4"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "3"
+- name: Ambient Techno
+  url: http://www.last.fm/tag/ambient%20techno
+  count: "3"
+- name: drone
+  url: http://www.last.fm/tag/drone
+  count: "3"
+- name: Rephlex
+  url: http://www.last.fm/tag/rephlex
+  count: "3"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "3"
+- name: Warp Records
+  url: http://www.last.fm/tag/warp%20records
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "2"
+- name: post rock
+  url: http://www.last.fm/tag/post%20rock
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "1"
+- name: experimental techno
+  url: http://www.last.fm/tag/experimental%20techno
+  count: "1"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "1"
+- name: smooth
+  url: http://www.last.fm/tag/smooth
+  count: "1"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "1"
+- name: ethereal
+  url: http://www.last.fm/tag/ethereal
+  count: "1"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "1"
+- name: too pure
+  url: http://www.last.fm/tag/too%20pure
+  count: "1"
+- name: textural
+  url: http://www.last.fm/tag/textural
+  count: "1"
+- name: mark clifford
+  url: http://www.last.fm/tag/mark%20clifford
+  count: "1"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "1"
+- name: trippy
+  url: http://www.last.fm/tag/trippy
+  count: "1"
+- name: hypnotic
+  url: http://www.last.fm/tag/hypnotic
+  count: "1"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: perfect
+  url: http://www.last.fm/tag/perfect
+  count: "1"
+- name: idm-ambient
+  url: http://www.last.fm/tag/idm-ambient
+  count: "1"
+- name: Daren Seymour
+  url: http://www.last.fm/tag/daren%20seymour
+  count: "1"
+- name: lovely
+  url: http://www.last.fm/tag/lovely
+  count: "1"
+- name: Ambient dub
+  url: http://www.last.fm/tag/ambient%20dub
+  count: "1"
+- name: psychill
+  url: http://www.last.fm/tag/psychill
+  count: "1"
+- name: deep
+  url: http://www.last.fm/tag/deep
+  count: "1"
+- name: sarah peacock
+  url: http://www.last.fm/tag/sarah%20peacock
+  count: "1"
+- name: haunting
+  url: http://www.last.fm/tag/haunting
+  count: "1"
+- name: spacey
+  url: http://www.last.fm/tag/spacey
+  count: "1"
+- name: electronic dub
+  url: http://www.last.fm/tag/electronic%20dub
+  count: "1"
+- name: ambient dubstep
+  url: http://www.last.fm/tag/ambient%20dubstep
+  count: "1"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "1"
+- name: trip-hop
+  url: http://www.last.fm/tag/trip-hop
+  count: "1"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "1"
+- name: uk idm
+  url: http://www.last.fm/tag/uk%20idm
+  count: "1"
+- name: atmospheric
+  url: http://www.last.fm/tag/atmospheric
+  count: "1"
+- name: Dope Electro
+  url: http://www.last.fm/tag/dope%20electro
+  count: "0"
+- name: taged artists
+  url: http://www.last.fm/tag/taged%20artists
+  count: "0"
+- name: flackyak-needs-to-hear-more
+  url: http://www.last.fm/tag/flackyak-needs-to-hear-more
+  count: "0"
+- name: Totec Radio
+  url: http://www.last.fm/tag/totec%20radio
+  count: "0"
+- name: new sound
+  url: http://www.last.fm/tag/new%20sound
+  count: "0"
+- name: music for insomniacs
+  url: http://www.last.fm/tag/music%20for%20insomniacs
+  count: "0"
+- name: do not drive under the influence of
+  url: http://www.last.fm/tag/do%20not%20drive%20under%20the%20influence%20of
+  count: "0"
+- name: beatific
+  url: http://www.last.fm/tag/beatific
+  count: "0"
+- name: rare oldies
+  url: http://www.last.fm/tag/rare%20oldies
+  count: "0"
+- name: nice guitars
+  url: http://www.last.fm/tag/nice%20guitars
+  count: "0"
+- name: tkatka
+  url: http://www.last.fm/tag/tkatka
+  count: "0"
+- name: Locust
+  url: http://www.last.fm/tag/locust
+  count: "0"
+- name: polyfusia records
+  url: http://www.last.fm/tag/polyfusia%20records
+  count: "0"
+- name: uk post-rock
+  url: http://www.last.fm/tag/uk%20post-rock
+  count: "0"
+- name: Scala
+  url: http://www.last.fm/tag/scala
+  count: "0"
+- name: dreamtronica
+  url: http://www.last.fm/tag/dreamtronica
+  count: "0"
+- name: keep an eye on that
+  url: http://www.last.fm/tag/keep%20an%20eye%20on%20that
+  count: "0"
+- name: saguarobrew
+  url: http://www.last.fm/tag/saguarobrew
+  count: "0"
+- name: saw live supporting cocteau twins
+  url: http://www.last.fm/tag/saw%20live%20supporting%20cocteau%20twins
+  count: "0"
+- name: brew-set
+  url: http://www.last.fm/tag/brew-set
+  count: "0"
+- name: Purehearts
+  url: http://www.last.fm/tag/purehearts
+  count: "0"
+- name: Drone on
+  url: http://www.last.fm/tag/drone%20on
+  count: "0"
+- name: No way near enough
+  url: http://www.last.fm/tag/no%20way%20near%20enough
+  count: "0"
+- name: nighttime music
+  url: http://www.last.fm/tag/nighttime%20music
+  count: "0"
+- name: larger than life
+  url: http://www.last.fm/tag/larger%20than%20life
+  count: "0"
+- name: toopure
+  url: http://www.last.fm/tag/toopure
+  count: "0"
+- name: kastor Electronica
+  url: http://www.last.fm/tag/kastor%20electronica
+  count: "0"
+- name: do sprawdzenia
+  url: http://www.last.fm/tag/do%20sprawdzenia
+  count: "0"
+- name: XYZ
+  url: http://www.last.fm/tag/xyz
+  count: "0"
+- name: Atmospheres
+  url: http://www.last.fm/tag/atmospheres
+  count: "0"
+- name: kastor ambiant
+  url: http://www.last.fm/tag/kastor%20ambiant
+  count: "0"
+- name: feeling drowned
+  url: http://www.last.fm/tag/feeling%20drowned
+  count: "0"
+- name: couch music
+  url: http://www.last.fm/tag/couch%20music
+  count: "0"
+- name: Ohms World
+  url: http://www.last.fm/tag/ohms%20world
+  count: "0"
+- name: cool finds
+  url: http://www.last.fm/tag/cool%20finds
+  count: "0"
+- name: weird stew
+  url: http://www.last.fm/tag/weird%20stew
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: A distant Fire Burning
+  url: http://www.last.fm/tag/a%20distant%20fire%20burning
+  count: "0"
+- name: electro-ish
+  url: http://www.last.fm/tag/electro-ish
+  count: "0"
+- name: White Boy Electronica
+  url: http://www.last.fm/tag/white%20boy%20electronica
+  count: "0"
+- name: shamanic tribal world awakening
+  url: http://www.last.fm/tag/shamanic%20tribal%20world%20awakening
+  count: "0"
+- name: ethereal drone
+  url: http://www.last.fm/tag/ethereal%20drone
+  count: "0"
+- name: a mental Attack
+  url: http://www.last.fm/tag/a%20mental%20attack
+  count: "0"
+- name: credible genius
+  url: http://www.last.fm/tag/credible%20genius
+  count: "0"
+- name: to be investigated further
+  url: http://www.last.fm/tag/to%20be%20investigated%20further
+  count: "0"
+- name: n2d
+  url: http://www.last.fm/tag/n2d
+  count: "0"
+- name: Doorchaserambient
+  url: http://www.last.fm/tag/doorchaserambient
+  count: "0"
+"@attr": 
+  artist: Seefeel

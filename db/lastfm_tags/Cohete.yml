@@ -1,0 +1,40 @@
+--- 
+tag: 
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "100"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "66"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "66"
+- name: Retro
+  url: http://www.last.fm/tag/retro
+  count: "66"
+- name: punk
+  url: http://www.last.fm/tag/punk
+  count: "33"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "33"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "33"
+- name: spanish
+  url: http://www.last.fm/tag/spanish
+  count: "33"
+- name: weird music
+  url: http://www.last.fm/tag/weird%20music
+  count: "33"
+- name: spanish indie pop
+  url: http://www.last.fm/tag/spanish%20indie%20pop
+  count: "33"
+- name: minipop
+  url: http://www.last.fm/tag/minipop
+  count: "33"
+- name: Espanish Pop
+  url: http://www.last.fm/tag/espanish%20pop
+  count: "33"
+"@attr": 
+  artist: Cohete

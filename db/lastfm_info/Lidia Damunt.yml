@@ -1,0 +1,102 @@
+--- 
+name: Lidia Damunt
+stats: 
+  playcount: "32598"
+  listeners: "1602"
+tags: 
+  tag: 
+  - name: singer-songwriter
+    url: http://www.last.fm/tag/singer-songwriter
+  - name: folk
+    url: http://www.last.fm/tag/folk
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: country
+    url: http://www.last.fm/tag/country
+  - name: rock
+    url: http://www.last.fm/tag/rock
+similar: 
+  artist: 
+  - name: The New Raemon
+    url: http://www.last.fm/music/The+New+Raemon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/20376231.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/20376231.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/20376231.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/20376231.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/20376231/The+New+Raemon+Ramn.jpg
+  - name: Francisco Nixon
+    url: http://www.last.fm/music/Francisco+Nixon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/264848.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/264848.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/264848.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/264848.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/264848/Francisco+Nixon.jpg
+  - name: Nacho Vegas
+    url: http://www.last.fm/music/Nacho+Vegas
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/126551.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/126551.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/126551.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/126551.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/126551/Nacho+Vegas.jpg
+  - name: Sr. Chinarro
+    url: http://www.last.fm/music/Sr.+Chinarro
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/6765143.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/6765143.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/6765143.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/6765143.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/6765143/Sr+Chinarro+foto_promo_ronroneando2_low.jpg
+  - name: Alondra Bentley
+    url: http://www.last.fm/music/Alondra+Bentley
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/25859151.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/25859151.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/25859151.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/25859151.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/25859151/Alondra+Bentley+ALO.jpg
+url: http://www.last.fm/music/Lidia+Damunt
+mbid: ""
+bio: 
+  published: ""
+  summary: ""
+  content: ""
+streamable: "0"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/28358675.jpg
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/28358675.jpg
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/28358675.jpg
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/28358675.jpg
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/28358675/Lidia+Damunt+lidia.jpg

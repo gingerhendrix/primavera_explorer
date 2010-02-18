@@ -1,0 +1,40 @@
+--- 
+tag: 
+- name: Garage Rock
+  url: http://www.last.fm/tag/garage%20rock
+  count: "100"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "100"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "50"
+- name: Garage Punk
+  url: http://www.last.fm/tag/garage%20punk
+  count: "50"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "50"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "50"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "50"
+- name: Lo-Fi
+  url: http://www.last.fm/tag/lo-fi
+  count: "50"
+- name: Retro
+  url: http://www.last.fm/tag/retro
+  count: "50"
+- name: pre punk
+  url: http://www.last.fm/tag/pre%20punk
+  count: "50"
+- name: minipop
+  url: http://www.last.fm/tag/minipop
+  count: "50"
+- name: indie vintage
+  url: http://www.last.fm/tag/indie%20vintage
+  count: "50"
+"@attr": 
+  artist: Mujeres

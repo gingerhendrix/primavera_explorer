@@ -1,0 +1,43 @@
+--- 
+tag: 
+- name: spain
+  url: http://www.last.fm/tag/spain
+  count: "100"
+- name: galiza
+  url: http://www.last.fm/tag/galiza
+  count: "100"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "50"
+- name: latin
+  url: http://www.last.fm/tag/latin
+  count: "50"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "50"
+- name: electropop
+  url: http://www.last.fm/tag/electropop
+  count: "50"
+- name: spanish
+  url: http://www.last.fm/tag/spanish
+  count: "50"
+- name: latin pop
+  url: http://www.last.fm/tag/latin%20pop
+  count: "50"
+- name: Galicia
+  url: http://www.last.fm/tag/galicia
+  count: "50"
+- name: romantico
+  url: http://www.last.fm/tag/romantico
+  count: "50"
+- name: galego
+  url: http://www.last.fm/tag/galego
+  count: "50"
+- name: balada
+  url: http://www.last.fm/tag/balada
+  count: "50"
+- name: especial
+  url: http://www.last.fm/tag/especial
+  count: "50"
+"@attr": 
+  artist: "Emilio Jos\xC3\xA9"

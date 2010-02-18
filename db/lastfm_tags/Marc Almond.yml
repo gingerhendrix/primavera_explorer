@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: new wave
+  url: http://www.last.fm/tag/new%20wave
+  count: "100"
+- name: 80s
+  url: http://www.last.fm/tag/80s
+  count: "78"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "65"
+- name: new romantic
+  url: http://www.last.fm/tag/new%20romantic
+  count: "54"
+- name: cabaret
+  url: http://www.last.fm/tag/cabaret
+  count: "49"
+- name: synth pop
+  url: http://www.last.fm/tag/synth%20pop
+  count: "24"
+- name: gay
+  url: http://www.last.fm/tag/gay
+  count: "17"
+- name: synthpop
+  url: http://www.last.fm/tag/synthpop
+  count: "14"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "11"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "9"
+- name: romantic
+  url: http://www.last.fm/tag/romantic
+  count: "7"
+- name: chanson
+  url: http://www.last.fm/tag/chanson
+  count: "7"
+- name: male vocalists
+  url: http://www.last.fm/tag/male%20vocalists
+  count: "7"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "7"
+- name: marc almond
+  url: http://www.last.fm/tag/marc%20almond
+  count: "5"
+- name: glam
+  url: http://www.last.fm/tag/glam
+  count: "4"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "3"
+- name: queer
+  url: http://www.last.fm/tag/queer
+  count: "3"
+- name: southport
+  url: http://www.last.fm/tag/southport
+  count: "3"
+- name: post-punk
+  url: http://www.last.fm/tag/post-punk
+  count: "3"
+- name: 90s
+  url: http://www.last.fm/tag/90s
+  count: "3"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: neo-cabaret
+  url: http://www.last.fm/tag/neo-cabaret
+  count: "2"
+- name: theatrical
+  url: http://www.last.fm/tag/theatrical
+  count: "2"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "2"
+- name: torch
+  url: http://www.last.fm/tag/torch
+  count: "2"
+- name: dark cabaret
+  url: http://www.last.fm/tag/dark%20cabaret
+  count: "2"
+- name: Disco
+  url: http://www.last.fm/tag/disco
+  count: "2"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "2"
+- name: gay anthems
+  url: http://www.last.fm/tag/gay%20anthems
+  count: "1"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "1"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "1"
+- name: quirky
+  url: http://www.last.fm/tag/quirky
+  count: "1"
+- name: dance-pop
+  url: http://www.last.fm/tag/dance-pop
+  count: "1"
+- name: avantgarde
+  url: http://www.last.fm/tag/avantgarde
+  count: "1"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "1"
+- name: well-dressed degenerates
+  url: http://www.last.fm/tag/well-dressed%20degenerates
+  count: "1"
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "1"
+- name: 1980s
+  url: http://www.last.fm/tag/1980s
+  count: "1"
+- name: hedonistic
+  url: http://www.last.fm/tag/hedonistic
+  count: "1"
+- name: musos who be sex
+  url: http://www.last.fm/tag/musos%20who%20be%20sex
+  count: "1"
+- name: Soft Cell
+  url: http://www.last.fm/tag/soft%20cell
+  count: "1"
+- name: Romo
+  url: http://www.last.fm/tag/romo
+  count: "1"
+- name: little funny dildo
+  url: http://www.last.fm/tag/little%20funny%20dildo
+  count: "1"
+- name: art faggotry
+  url: http://www.last.fm/tag/art%20faggotry
+  count: "1"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "1"
+- name: My Favorites
+  url: http://www.last.fm/tag/my%20favorites
+  count: "1"
+- name: Ballad
+  url: http://www.last.fm/tag/ballad
+  count: "1"
+- name: sophisticated
+  url: http://www.last.fm/tag/sophisticated
+  count: "1"
+- name: 1990s
+  url: http://www.last.fm/tag/1990s
+  count: "1"
+- name: sleazy pop
+  url: http://www.last.fm/tag/sleazy%20pop
+  count: "1"
+- name: torch singer
+  url: http://www.last.fm/tag/torch%20singer
+  count: "1"
+- name: glam rock
+  url: http://www.last.fm/tag/glam%20rock
+  count: "1"
+- name: some bizarre
+  url: http://www.last.fm/tag/some%20bizarre
+  count: "1"
+- name: 2000s
+  url: http://www.last.fm/tag/2000s
+  count: "1"
+- name: orchestrated pop
+  url: http://www.last.fm/tag/orchestrated%20pop
+  count: "1"
+- name: celtic
+  url: http://www.last.fm/tag/celtic
+  count: "1"
+- name: 70s
+  url: http://www.last.fm/tag/70s
+  count: "1"
+- name: timeless
+  url: http://www.last.fm/tag/timeless
+  count: "1"
+- name: jazz
+  url: http://www.last.fm/tag/jazz
+  count: "1"
+- name: Mark almond
+  url: http://www.last.fm/tag/mark%20almond
+  count: "1"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "1"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "1"
+- name: pra
+  url: http://www.last.fm/tag/pra
+  count: "0"
+- name: My favourite voices
+  url: http://www.last.fm/tag/my%20favourite%20voices
+  count: "0"
+- name: Fox
+  url: http://www.last.fm/tag/fox
+  count: "0"
+- name: niederrhein2-poprock
+  url: http://www.last.fm/tag/niederrhein2-poprock
+  count: "0"
+- name: i know its a sin to kiss and swallow
+  url: http://www.last.fm/tag/i%20know%20its%20a%20sin%20to%20kiss%20and%20swallow
+  count: "0"
+- name: Tomek Beksinski
+  url: http://www.last.fm/tag/tomek%20beksinski
+  count: "0"
+- name: XYZ
+  url: http://www.last.fm/tag/xyz
+  count: "0"
+- name: Jesters live list
+  url: http://www.last.fm/tag/jesters%20live%20list
+  count: "0"
+- name: tourch
+  url: http://www.last.fm/tag/tourch
+  count: "0"
+- name: Artists Tabs like
+  url: http://www.last.fm/tag/artists%20tabs%20like
+  count: "0"
+- name: My favorit Music
+  url: http://www.last.fm/tag/my%20favorit%20music
+  count: "0"
+- name: zadrotstvo
+  url: http://www.last.fm/tag/zadrotstvo
+  count: "0"
+- name: que bonito tu
+  url: http://www.last.fm/tag/que%20bonito%20tu
+  count: "0"
+- name: wielki glos
+  url: http://www.last.fm/tag/wielki%20glos
+  count: "0"
+- name: marc almond soft cell
+  url: http://www.last.fm/tag/marc%20almond%20soft%20cell
+  count: "0"
+- name: enchanted
+  url: http://www.last.fm/tag/enchanted
+  count: "0"
+- name: omg beautiful
+  url: http://www.last.fm/tag/omg%20beautiful
+  count: "0"
+- name: Seviyorum ulan
+  url: http://www.last.fm/tag/seviyorum%20ulan
+  count: "0"
+- name: merseyside
+  url: http://www.last.fm/tag/merseyside
+  count: "0"
+- name: aids
+  url: http://www.last.fm/tag/aids
+  count: "0"
+- name: Antony and the Johnsons
+  url: http://www.last.fm/tag/antony%20and%20the%20johnsons
+  count: "0"
+- name: Coil
+  url: http://www.last.fm/tag/coil
+  count: "0"
+- name: All time favourite
+  url: http://www.last.fm/tag/all%20time%20favourite
+  count: "0"
+- name: visit their page
+  url: http://www.last.fm/tag/visit%20their%20page
+  count: "0"
+- name: to check out
+  url: http://www.last.fm/tag/to%20check%20out
+  count: "0"
+- name: zajebisty pop
+  url: http://www.last.fm/tag/zajebisty%20pop
+  count: "0"
+- name: mello
+  url: http://www.last.fm/tag/mello
+  count: "0"
+- name: Great Lyricists
+  url: http://www.last.fm/tag/great%20lyricists
+  count: "0"
+- name: goth-pop
+  url: http://www.last.fm/tag/goth-pop
+  count: "0"
+- name: pure genius
+  url: http://www.last.fm/tag/pure%20genius
+  count: "0"
+- name: znoj
+  url: http://www.last.fm/tag/znoj
+  count: "0"
+- name: syntpop
+  url: http://www.last.fm/tag/syntpop
+  count: "0"
+- name: Goofy stuff that makes me think I am in a flamboyant disco but I still cannot help tapping my feet to it
+  url: http://www.last.fm/tag/goofy%20stuff%20that%20makes%20me%20think%20i%20am%20in%20a%20flamboyant%20disco%20but%20i%20still%20cannot%20help%20tapping%20my%20feet%20to%20it
+  count: "0"
+- name: dreamy synthpop
+  url: http://www.last.fm/tag/dreamy%20synthpop
+  count: "0"
+- name: to cry to
+  url: http://www.last.fm/tag/to%20cry%20to
+  count: "0"
+- name: west yorkshire
+  url: http://www.last.fm/tag/west%20yorkshire
+  count: "0"
+- name: torch song
+  url: http://www.last.fm/tag/torch%20song
+  count: "0"
+"@attr": 
+  artist: Marc Almond

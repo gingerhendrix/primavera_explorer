@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: idm
+  url: http://www.last.fm/tag/idm
+  count: "100"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "95"
+- name: techno
+  url: http://www.last.fm/tag/techno
+  count: "52"
+- name: glitch
+  url: http://www.last.fm/tag/glitch
+  count: "43"
+- name: BPitch Control
+  url: http://www.last.fm/tag/bpitch%20control
+  count: "29"
+- name: minimal
+  url: http://www.last.fm/tag/minimal
+  count: "17"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "15"
+- name: dubstep
+  url: http://www.last.fm/tag/dubstep
+  count: "10"
+- name: electro
+  url: http://www.last.fm/tag/electro
+  count: "10"
+- name: german
+  url: http://www.last.fm/tag/german
+  count: "8"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "5"
+- name: Berlin
+  url: http://www.last.fm/tag/berlin
+  count: "4"
+- name: ambient
+  url: http://www.last.fm/tag/ambient
+  count: "3"
+- name: House
+  url: http://www.last.fm/tag/house
+  count: "3"
+- name: modeselektor
+  url: http://www.last.fm/tag/modeselektor
+  count: "2"
+- name: Apparat
+  url: http://www.last.fm/tag/apparat
+  count: "2"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "1"
+- name: bpitch
+  url: http://www.last.fm/tag/bpitch
+  count: "1"
+- name: minimal techno
+  url: http://www.last.fm/tag/minimal%20techno
+  count: "1"
+- name: germany
+  url: http://www.last.fm/tag/germany
+  count: "1"
+- name: deutsch
+  url: http://www.last.fm/tag/deutsch
+  count: "1"
+- name: Masterminds
+  url: http://www.last.fm/tag/masterminds
+  count: "1"
+- name: melt 2009
+  url: http://www.last.fm/tag/melt%202009
+  count: "1"
+- name: Ambient Techno
+  url: http://www.last.fm/tag/ambient%20techno
+  count: "1"
+- name: everything
+  url: http://www.last.fm/tag/everything
+  count: "0"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "0"
+- name: 2step
+  url: http://www.last.fm/tag/2step
+  count: "0"
+- name: tech house
+  url: http://www.last.fm/tag/tech%20house
+  count: "0"
+- name: minimalist
+  url: http://www.last.fm/tag/minimalist
+  count: "0"
+- name: melodic idm
+  url: http://www.last.fm/tag/melodic%20idm
+  count: "0"
+- name: dark dubstep
+  url: http://www.last.fm/tag/dark%20dubstep
+  count: "0"
+- name: artists ive seen live
+  url: http://www.last.fm/tag/artists%20ive%20seen%20live
+  count: "0"
+- name: MEGA
+  url: http://www.last.fm/tag/mega
+  count: "0"
+- name: "EEAL: Season 1"
+  url: http://www.last.fm/tag/eeal%3A%20season%201
+  count: "0"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: must see again
+  url: http://www.last.fm/tag/must%20see%20again
+  count: "0"
+- name: progessive
+  url: http://www.last.fm/tag/progessive
+  count: "0"
+- name: seen live
+  url: http://www.last.fm/tag/seen%20live
+  count: "0"
+- name: heard live
+  url: http://www.last.fm/tag/heard%20live
+  count: "0"
+- name: DJ Artists
+  url: http://www.last.fm/tag/dj%20artists
+  count: "0"
+- name: weltuntergangsmusik
+  url: http://www.last.fm/tag/weltuntergangsmusik
+  count: "0"
+- name: schlau machen
+  url: http://www.last.fm/tag/schlau%20machen
+  count: "0"
+- name: dancable-idm
+  url: http://www.last.fm/tag/dancable-idm
+  count: "0"
+- name: unglaublich
+  url: http://www.last.fm/tag/unglaublich
+  count: "0"
+- name: seen live - festival
+  url: http://www.last.fm/tag/seen%20live%20-%20festival
+  count: "0"
+- name: immer wieder gern
+  url: http://www.last.fm/tag/immer%20wieder%20gern
+  count: "0"
+- name: DUB STEP
+  url: http://www.last.fm/tag/dub%20step
+  count: "0"
+- name: you are welcome in poland
+  url: http://www.last.fm/tag/you%20are%20welcome%20in%20poland
+  count: "0"
+- name: cos co niektorzy nazywaja nowymi brzmieniami czy cos
+  url: http://www.last.fm/tag/cos%20co%20niektorzy%20nazywaja%20nowymi%20brzmieniami%20czy%20cos
+  count: "0"
+- name: electric kisses
+  url: http://www.last.fm/tag/electric%20kisses
+  count: "0"
+- name: I have no idea why Im listening to this
+  url: http://www.last.fm/tag/i%20have%20no%20idea%20why%20im%20listening%20to%20this
+  count: "0"
+- name: fusion instrumental
+  url: http://www.last.fm/tag/fusion%20instrumental
+  count: "0"
+- name: ramon
+  url: http://www.last.fm/tag/ramon
+  count: "0"
+- name: PP09
+  url: http://www.last.fm/tag/pp09
+  count: "0"
+- name: koncertowo najlepsi
+  url: http://www.last.fm/tag/koncertowo%20najlepsi
+  count: "0"
+- name: "2009"
+  url: http://www.last.fm/tag/2009
+  count: "0"
+- name: too f-ing beautiful
+  url: http://www.last.fm/tag/too%20f-ing%20beautiful
+  count: "0"
+- name: audioriver
+  url: http://www.last.fm/tag/audioriver
+  count: "0"
+- name: zero inch
+  url: http://www.last.fm/tag/zero%20inch
+  count: "0"
+- name: potwierdzilem istnienie na wlasne oczy - really they exist
+  url: http://www.last.fm/tag/potwierdzilem%20istnienie%20na%20wlasne%20oczy%20-%20really%20they%20exist
+  count: "0"
+- name: Crap
+  url: http://www.last.fm/tag/crap
+  count: "0"
+- name: dub
+  url: http://www.last.fm/tag/dub
+  count: "0"
+- name: digital
+  url: http://www.last.fm/tag/digital
+  count: "0"
+- name: instrumental
+  url: http://www.last.fm/tag/instrumental
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: german techno
+  url: http://www.last.fm/tag/german%20techno
+  count: "0"
+- name: beats
+  url: http://www.last.fm/tag/beats
+  count: "0"
+- name: garage
+  url: http://www.last.fm/tag/garage
+  count: "0"
+- name: music
+  url: http://www.last.fm/tag/music
+  count: "0"
+- name: melodic
+  url: http://www.last.fm/tag/melodic
+  count: "0"
+- name: overrated
+  url: http://www.last.fm/tag/overrated
+  count: "0"
+- name: bass
+  url: http://www.last.fm/tag/bass
+  count: "0"
+- name: collaboration
+  url: http://www.last.fm/tag/collaboration
+  count: "0"
+- name: seen life
+  url: http://www.last.fm/tag/seen%20life
+  count: "0"
+- name: Minimal Electro
+  url: http://www.last.fm/tag/minimal%20electro
+  count: "0"
+- name: headphone music
+  url: http://www.last.fm/tag/headphone%20music
+  count: "0"
+- name: technopunk
+  url: http://www.last.fm/tag/technopunk
+  count: "0"
+- name: bpitchcontrol
+  url: http://www.last.fm/tag/bpitchcontrol
+  count: "0"
+- name: live gesehen
+  url: http://www.last.fm/tag/live%20gesehen
+  count: "0"
+- name: wspomnieniowo
+  url: http://www.last.fm/tag/wspomnieniowo
+  count: "0"
+- name: synthesiser
+  url: http://www.last.fm/tag/synthesiser
+  count: "0"
+- name: Lowlands 2009
+  url: http://www.last.fm/tag/lowlands%202009
+  count: "0"
+- name: experimental mutation
+  url: http://www.last.fm/tag/experimental%20mutation
+  count: "0"
+- name: keep smiling and dance
+  url: http://www.last.fm/tag/keep%20smiling%20and%20dance
+  count: "0"
+- name: tbd
+  url: http://www.last.fm/tag/tbd
+  count: "0"
+- name: note-to-self
+  url: http://www.last.fm/tag/note-to-self
+  count: "0"
+- name: "-"
+  url: http://www.last.fm/tag/-
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: indiewave
+  url: http://www.last.fm/tag/indiewave
+  count: "0"
+- name: lajfy
+  url: http://www.last.fm/tag/lajfy
+  count: "0"
+- name: glitch disco
+  url: http://www.last.fm/tag/glitch%20disco
+  count: "0"
+- name: sonar2009
+  url: http://www.last.fm/tag/sonar2009
+  count: "0"
+- name: ep09
+  url: http://www.last.fm/tag/ep09
+  count: "0"
+- name: electric picnic 2009
+  url: http://www.last.fm/tag/electric%20picnic%202009
+  count: "0"
+- name: icelandic
+  url: http://www.last.fm/tag/icelandic
+  count: "0"
+- name: checkout
+  url: http://www.last.fm/tag/checkout
+  count: "0"
+- name: thegoodstuff
+  url: http://www.last.fm/tag/thegoodstuff
+  count: "0"
+- name: shit
+  url: http://www.last.fm/tag/shit
+  count: "0"
+- name: Indietronic
+  url: http://www.last.fm/tag/indietronic
+  count: "0"
+"@attr": 
+  artist: Moderat

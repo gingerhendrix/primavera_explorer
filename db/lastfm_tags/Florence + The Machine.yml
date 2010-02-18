@@ -1,0 +1,304 @@
+--- 
+tag: 
+- name: indie
+  url: http://www.last.fm/tag/indie
+  count: "100"
+- name: female vocalists
+  url: http://www.last.fm/tag/female%20vocalists
+  count: "94"
+- name: british
+  url: http://www.last.fm/tag/british
+  count: "72"
+- name: alternative
+  url: http://www.last.fm/tag/alternative
+  count: "68"
+- name: indie pop
+  url: http://www.last.fm/tag/indie%20pop
+  count: "55"
+- name: singer-songwriter
+  url: http://www.last.fm/tag/singer-songwriter
+  count: "14"
+- name: pop
+  url: http://www.last.fm/tag/pop
+  count: "10"
+- name: alternative rock
+  url: http://www.last.fm/tag/alternative%20rock
+  count: "8"
+- name: indie rock
+  url: http://www.last.fm/tag/indie%20rock
+  count: "7"
+- name: soul
+  url: http://www.last.fm/tag/soul
+  count: "6"
+- name: folk
+  url: http://www.last.fm/tag/folk
+  count: "6"
+- name: female vocalist
+  url: http://www.last.fm/tag/female%20vocalist
+  count: "5"
+- name: Florence and The Machine
+  url: http://www.last.fm/tag/florence%20and%20the%20machine
+  count: "4"
+- name: UK
+  url: http://www.last.fm/tag/uk
+  count: "3"
+- name: rock
+  url: http://www.last.fm/tag/rock
+  count: "3"
+- name: powerful voice
+  url: http://www.last.fm/tag/powerful%20voice
+  count: "3"
+- name: United Kingdom
+  url: http://www.last.fm/tag/united%20kingdom
+  count: "2"
+- name: art rock
+  url: http://www.last.fm/tag/art%20rock
+  count: "2"
+- name: 00s
+  url: http://www.last.fm/tag/00s
+  count: "2"
+- name: love at first listen
+  url: http://www.last.fm/tag/love%20at%20first%20listen
+  count: "2"
+- name: indie folk
+  url: http://www.last.fm/tag/indie%20folk
+  count: "2"
+- name: little onion
+  url: http://www.last.fm/tag/little%20onion
+  count: "2"
+- name: london
+  url: http://www.last.fm/tag/london
+  count: "2"
+- name: electronic
+  url: http://www.last.fm/tag/electronic
+  count: "1"
+- name: want to see live
+  url: http://www.last.fm/tag/want%20to%20see%20live
+  count: "1"
+- name: english
+  url: http://www.last.fm/tag/english
+  count: "1"
+- name: baroque pop
+  url: http://www.last.fm/tag/baroque%20pop
+  count: "1"
+- name: Dark Days
+  url: http://www.last.fm/tag/dark%20days
+  count: "1"
+- name: blue eyed soul
+  url: http://www.last.fm/tag/blue%20eyed%20soul
+  count: "1"
+- name: transliteracy
+  url: http://www.last.fm/tag/transliteracy
+  count: "1"
+- name: <3
+  url: http://www.last.fm/tag/%3C3
+  count: "1"
+- name: florence
+  url: http://www.last.fm/tag/florence
+  count: "1"
+- name: genius
+  url: http://www.last.fm/tag/genius
+  count: "0"
+- name: Lowlands
+  url: http://www.last.fm/tag/lowlands
+  count: "0"
+- name: electronica
+  url: http://www.last.fm/tag/electronica
+  count: "0"
+- name: Awesome
+  url: http://www.last.fm/tag/awesome
+  count: "0"
+- name: experimental
+  url: http://www.last.fm/tag/experimental
+  count: "0"
+- name: stuff I should be able to inject directly into my blood
+  url: http://www.last.fm/tag/stuff%20i%20should%20be%20able%20to%20inject%20directly%20into%20my%20blood
+  count: "0"
+- name: england
+  url: http://www.last.fm/tag/england
+  count: "0"
+- name: "2009"
+  url: http://www.last.fm/tag/2009
+  count: "0"
+- name: Most beautiful voices in the world
+  url: http://www.last.fm/tag/most%20beautiful%20voices%20in%20the%20world
+  count: "0"
+- name: female
+  url: http://www.last.fm/tag/female
+  count: "0"
+- name: Sigh and swoon in equal measure
+  url: http://www.last.fm/tag/sigh%20and%20swoon%20in%20equal%20measure
+  count: "0"
+- name: so fucking good
+  url: http://www.last.fm/tag/so%20fucking%20good
+  count: "0"
+- name: Pop-Rock
+  url: http://www.last.fm/tag/pop-rock
+  count: "0"
+- name: Lowlands 2009
+  url: http://www.last.fm/tag/lowlands%202009
+  count: "0"
+- name: Love
+  url: http://www.last.fm/tag/love
+  count: "0"
+- name: pop rock
+  url: http://www.last.fm/tag/pop%20rock
+  count: "0"
+- name: Love her voice
+  url: http://www.last.fm/tag/love%20her%20voice
+  count: "0"
+- name: epic
+  url: http://www.last.fm/tag/epic
+  count: "0"
+- name: beautiful
+  url: http://www.last.fm/tag/beautiful
+  count: "0"
+- name: iguana brothers
+  url: http://www.last.fm/tag/iguana%20brothers
+  count: "0"
+- name: ginger
+  url: http://www.last.fm/tag/ginger
+  count: "0"
+- name: drive
+  url: http://www.last.fm/tag/drive
+  count: "0"
+- name: check out
+  url: http://www.last.fm/tag/check%20out
+  count: "0"
+- name: bursting out of yourself
+  url: http://www.last.fm/tag/bursting%20out%20of%20yourself
+  count: "0"
+- name: machine
+  url: http://www.last.fm/tag/machine
+  count: "0"
+- name: bands i've seen live
+  url: http://www.last.fm/tag/bands%20i%27ve%20seen%20live
+  count: "0"
+- name: pop is dead
+  url: http://www.last.fm/tag/pop%20is%20dead
+  count: "0"
+- name: memories of breaking up
+  url: http://www.last.fm/tag/memories%20of%20breaking%20up
+  count: "0"
+- name: naughties
+  url: http://www.last.fm/tag/naughties
+  count: "0"
+- name: folktronica
+  url: http://www.last.fm/tag/folktronica
+  count: "0"
+- name: wonky pop
+  url: http://www.last.fm/tag/wonky%20pop
+  count: "0"
+- name: fucking fantastic
+  url: http://www.last.fm/tag/fucking%20fantastic
+  count: "0"
+- name: Voice
+  url: http://www.last.fm/tag/voice
+  count: "0"
+- name: avant
+  url: http://www.last.fm/tag/avant
+  count: "0"
+- name: 2009 39
+  url: http://www.last.fm/tag/2009%2039
+  count: "0"
+- name: Noughties
+  url: http://www.last.fm/tag/noughties
+  count: "0"
+- name: post-rock
+  url: http://www.last.fm/tag/post-rock
+  count: "0"
+- name: female singer-songwriter
+  url: http://www.last.fm/tag/female%20singer-songwriter
+  count: "0"
+- name: neofolk
+  url: http://www.last.fm/tag/neofolk
+  count: "0"
+- name: alternative pop
+  url: http://www.last.fm/tag/alternative%20pop
+  count: "0"
+- name: harp
+  url: http://www.last.fm/tag/harp
+  count: "0"
+- name: female vocals
+  url: http://www.last.fm/tag/female%20vocals
+  count: "0"
+- name: indietronica
+  url: http://www.last.fm/tag/indietronica
+  count: "0"
+- name: acoustic
+  url: http://www.last.fm/tag/acoustic
+  count: "0"
+- name: blues
+  url: http://www.last.fm/tag/blues
+  count: "0"
+- name: best of 2009
+  url: http://www.last.fm/tag/best%20of%202009
+  count: "0"
+- name: chill
+  url: http://www.last.fm/tag/chill
+  count: "0"
+- name: favorites
+  url: http://www.last.fm/tag/favorites
+  count: "0"
+- name: Coachella 2010
+  url: http://www.last.fm/tag/coachella%202010
+  count: "0"
+- name: amor em seu mais puro estado
+  url: http://www.last.fm/tag/amor%20em%20seu%20mais%20puro%20estado
+  count: "0"
+- name: Decouverte
+  url: http://www.last.fm/tag/decouverte
+  count: "0"
+- name: british soul
+  url: http://www.last.fm/tag/british%20soul
+  count: "0"
+- name: leapsandRecommended
+  url: http://www.last.fm/tag/leapsandrecommended
+  count: "0"
+- name: epic live
+  url: http://www.last.fm/tag/epic%20live
+  count: "0"
+- name: li ho veduti
+  url: http://www.last.fm/tag/li%20ho%20veduti
+  count: "0"
+- name: albumnes nuevos
+  url: http://www.last.fm/tag/albumnes%20nuevos
+  count: "0"
+- name: "2008"
+  url: http://www.last.fm/tag/2008
+  count: "0"
+- name: new rave
+  url: http://www.last.fm/tag/new%20rave
+  count: "0"
+- name: drums that drive me crazy
+  url: http://www.last.fm/tag/drums%20that%20drive%20me%20crazy
+  count: "0"
+- name: crazy delicious
+  url: http://www.last.fm/tag/crazy%20delicious
+  count: "0"
+- name: mercury 2009
+  url: http://www.last.fm/tag/mercury%202009
+  count: "0"
+- name: cabaret de pandora
+  url: http://www.last.fm/tag/cabaret%20de%20pandora
+  count: "0"
+- name: indie treasures
+  url: http://www.last.fm/tag/indie%20treasures
+  count: "0"
+- name: train music
+  url: http://www.last.fm/tag/train%20music
+  count: "0"
+- name: nieslychany wykurw
+  url: http://www.last.fm/tag/nieslychany%20wykurw
+  count: "0"
+- name: london 2009
+  url: http://www.last.fm/tag/london%202009
+  count: "0"
+- name: indie alternative
+  url: http://www.last.fm/tag/indie%20alternative
+  count: "0"
+- name: female power voice
+  url: http://www.last.fm/tag/female%20power%20voice
+  count: "0"
+"@attr": 
+  artist: Florence + The Machine

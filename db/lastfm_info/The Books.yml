@@ -1,0 +1,106 @@
+--- 
+name: The Books
+stats: 
+  playcount: "5884655"
+  listeners: "238889"
+tags: 
+  tag: 
+  - name: experimental
+    url: http://www.last.fm/tag/experimental
+  - name: indie
+    url: http://www.last.fm/tag/indie
+  - name: electronic
+    url: http://www.last.fm/tag/electronic
+  - name: electronica
+    url: http://www.last.fm/tag/electronica
+  - name: indietronica
+    url: http://www.last.fm/tag/indietronica
+similar: 
+  artist: 
+  - name: Caribou
+    url: http://www.last.fm/music/Caribou
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/17001909.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/17001909.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/17001909.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/17001909.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/17001909/Caribou.jpg
+  - name: Dan Deacon
+    url: http://www.last.fm/music/Dan+Deacon
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/15096487.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/15096487.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/15096487.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/15096487.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/15096487/Dan+Deacon+dandeaconcoachella.jpg
+  - name: Animal Collective
+    url: http://www.last.fm/music/Animal+Collective
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/28703999.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/28703999.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/28703999.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/28703999.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/_/28703999/Animal+Collective.jpg
+  - name: Black Moth Super Rainbow
+    url: http://www.last.fm/music/Black+Moth+Super+Rainbow
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/40232.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/40232.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/40232.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/40232.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/40232/Black+Moth+Super+Rainbow.jpg
+  - name: The Octopus Project
+    url: http://www.last.fm/music/The+Octopus+Project
+    image: 
+    - size: small
+      "#text": http://userserve-ak.last.fm/serve/34/317426.jpg
+    - size: medium
+      "#text": http://userserve-ak.last.fm/serve/64/317426.jpg
+    - size: large
+      "#text": http://userserve-ak.last.fm/serve/126/317426.jpg
+    - size: extralarge
+      "#text": http://userserve-ak.last.fm/serve/252/317426.jpg
+    - size: mega
+      "#text": http://userserve-ak.last.fm/serve/500/317426/The+Octopus+Project.jpg
+url: http://www.last.fm/music/The+Books
+mbid: 1270af14-9c17-4400-8ebb-3f0ac40dcfb0
+bio: 
+  published: Wed, 5 Aug 2009 21:00:54 +0000
+  summary: The story of The Books began in 2000, when Nick Zammuto and Paul de Jong met through a friend in New York City. Sharing similar interests but different backgrounds in acoustic music and found sound, Zammuto and de Jong took their sonic experiments to the studio. Eventually, with some urging by Tom Steinle of Tomlab Records, they created what would become their debut record, Thought for Food, in 2002.
+  content: |-
+    The story of <strong>The Books</strong> began in 2000, when Nick Zammuto and Paul de Jong met through a friend in New York City. Sharing similar interests but different backgrounds in acoustic music and found sound, Zammuto and de Jong took their sonic experiments to the studio. Eventually, with some urging by Tom Steinle of Tomlab Records, they created what would become their debut record, Thought for Food, in 2002. Within a year, the Books relocated to Hot Springs, NC, and recorded and released The Lemon of Pink. With a lot of favorable word of mouth and critical buzz from the first two records, the Books relocated again in winter of 2004 and recorded in an old Victorian home in North Adams, MA. With the release of Lost and Safe in April of 2005, the Books prepared to tour with their unique blend of samples and acoustic music. All three Books albums were released on Tomlab Records. 
+     
+     For more information, music, etc. on The Books go to:
+     <a href="http://www.myspace.com/thebooksmusicpage" rel="nofollow">http://www.myspace.com/thebooksmusicpage</a>
+streamable: "1"
+image: 
+- size: small
+  "#text": http://userserve-ak.last.fm/serve/34/36990359.png
+- size: medium
+  "#text": http://userserve-ak.last.fm/serve/64/36990359.png
+- size: large
+  "#text": http://userserve-ak.last.fm/serve/126/36990359.png
+- size: extralarge
+  "#text": http://userserve-ak.last.fm/serve/252/36990359.png
+- size: mega
+  "#text": http://userserve-ak.last.fm/serve/500/36990359/The+Books+photo+by+gregory+comollo.png
